@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:58:24.252137+00:00",
+  "generated_at": "2026-09-04T23:04:00.252177+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
@@ -35,7 +35,7 @@
       "sections_info": {
         "path": "datasets/matte-black/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/sections.json",
-        "size_bytes": 934,
+        "size_bytes": 932,
         "sections": 1
       },
       "count": 250,
@@ -48,7 +48,7 @@
         ]
       ],
       "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-BZ-Belize-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-AT-Austria-preview.webp"
     },
     "nord": {
       "name": "nord",
@@ -75,7 +75,7 @@
       "sections_info": {
         "path": "datasets/nord/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/sections.json",
-        "size_bytes": 900,
+        "size_bytes": 898,
         "sections": 1
       },
       "count": 250,
@@ -88,7 +88,7 @@
         ]
       ],
       "description": "Theme built on the Nord palette by Arctic Ice Studio: an arctic, north-bluish scheme with Polar Night backgrounds, Snow Storm foregrounds, Frost accents, and Aurora highlights.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-FI-Finland-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-LK-Sri-Lanka-preview.webp"
     },
     "osaka-jade": {
       "name": "osaka-jade",
@@ -120,7 +120,7 @@
       "sections_info": {
         "path": "datasets/osaka-jade/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/sections.json",
-        "size_bytes": 931,
+        "size_bytes": 930,
         "sections": 1
       },
       "count": 250,
@@ -133,7 +133,7 @@
         ]
       ],
       "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-BE-Belgium-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-FM-Micronesia-preview.webp"
     },
     "tokyo-night": {
       "name": "tokyo-night",
@@ -165,7 +165,7 @@
       "sections_info": {
         "path": "datasets/tokyo-night/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/sections.json",
-        "size_bytes": 932,
+        "size_bytes": 934,
         "sections": 1
       },
       "count": 250,
@@ -178,7 +178,7 @@
         ]
       ],
       "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-NA-Namibia-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-KI-Kiribati-preview.webp"
     },
     "masters": {
       "name": "masters",

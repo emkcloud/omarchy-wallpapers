@@ -321,7 +321,18 @@ def build_sections(theme, kind, images_dir, entries, section_meta=None):
     }
 
 
-def collection_preview(theme, sections):
+def base_name_from_preview(url):
+    """Extract the wallpaper base name from a preview URL/filename
+    (e.g. '.../omarchy-country-IT-Italy-preview.webp' -> 'omarchy-country-IT-Italy')."""
+    filename = os.path.basename(url)
+    stem = os.path.splitext(filename)[0]
+    if stem.endswith("-preview"):
+        stem = stem[: -len("-preview")]
+    return stem
+
+
+def collection_preview(theme, sections, forbidden_bases=None):
+    forbidden = forbidden_bases or set()
     candidates = []
     for section in sections:
         preview_dir = os.path.join(ROOT, "previews", theme, section)
@@ -332,10 +343,14 @@ def collection_preview(theme, sections):
             for f in os.listdir(preview_dir)
             if f.endswith(".webp")
         )
-    return random.choice(sorted(candidates)) if candidates else None
+    if not candidates:
+        return None
+    free = [c for c in candidates if base_name_from_preview(c) not in forbidden]
+    pool = free if free else candidates
+    return random.choice(sorted(pool))
 
 
-def build_collection(name, kind, images_dir, entries, catalog_path, description=None):
+def build_collection(name, kind, images_dir, entries, catalog_path, description=None, forbidden_bases=None):
     opt_path = os.path.join(os.path.dirname(catalog_path), "optimization.json")
     opt_info = None
     if os.path.exists(opt_path):
@@ -377,7 +392,7 @@ def build_collection(name, kind, images_dir, entries, catalog_path, description=
     }
     if description:
         collection["description"] = description
-    preview = collection_preview(name, sections)
+    preview = collection_preview(name, sections, forbidden_bases)
     if preview:
         collection["preview"] = preview
     return collection
@@ -412,6 +427,7 @@ def main():
     collections = {}
     generated_themes = set()
     total = 0
+    used_bases = set()
     for theme in themes:
         entries = scan_theme(os.path.join(IMAGES_DIR, theme))
         if not entries:
@@ -438,14 +454,19 @@ def main():
             sections_path,
             build_sections(theme, "theme", f"images/{theme}", entries, section_meta),
         )
-        collections[theme] = build_collection(
+        collection = build_collection(
             name=theme,
             kind="theme",
             images_dir=f"images/{theme}",
             entries=entries,
             catalog_path=catalog_path,
             description=meta.get("description"),
+            forbidden_bases=used_bases,
         )
+        collections[theme] = collection
+        preview = collection.get("preview")
+        if preview:
+            used_bases.add(base_name_from_preview(preview))
 
     for name in os.listdir(DATASETS_DIR):
         if name == "masters" or name in generated_themes or name == "config.json":
