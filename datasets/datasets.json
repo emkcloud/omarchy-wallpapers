@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:54.021258+00:00",
+  "generated_at": "2026-09-04T22:58:24.252137+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
@@ -17,7 +17,7 @@
       "catalog": {
         "path": "datasets/matte-black/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/catalog.json",
-        "size_bytes": 232582,
+        "size_bytes": 232735,
         "entries": 250
       },
       "optimization": {
@@ -35,7 +35,7 @@
       "sections_info": {
         "path": "datasets/matte-black/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/sections.json",
-        "size_bytes": 816,
+        "size_bytes": 934,
         "sections": 1
       },
       "count": 250,
@@ -47,7 +47,8 @@
           1440
         ]
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-PS-Palestine-preview.webp"
+      "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-BZ-Belize-preview.webp"
     },
     "nord": {
       "name": "nord",
@@ -61,7 +62,7 @@
       "catalog": {
         "path": "datasets/nord/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/catalog.json",
-        "size_bytes": 223817,
+        "size_bytes": 224033,
         "entries": 250
       },
       "optimization": null,
@@ -74,7 +75,7 @@
       "sections_info": {
         "path": "datasets/nord/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/sections.json",
-        "size_bytes": 785,
+        "size_bytes": 900,
         "sections": 1
       },
       "count": 250,
@@ -86,7 +87,8 @@
           1440
         ]
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-RO-Romania-preview.webp"
+      "description": "Theme built on the Nord palette by Arctic Ice Studio: an arctic, north-bluish scheme with Polar Night backgrounds, Snow Storm foregrounds, Frost accents, and Aurora highlights.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-FI-Finland-preview.webp"
     },
     "osaka-jade": {
       "name": "osaka-jade",
@@ -100,7 +102,7 @@
       "catalog": {
         "path": "datasets/osaka-jade/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/catalog.json",
-        "size_bytes": 231328,
+        "size_bytes": 231505,
         "entries": 250
       },
       "optimization": {
@@ -118,7 +120,7 @@
       "sections_info": {
         "path": "datasets/osaka-jade/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/sections.json",
-        "size_bytes": 814,
+        "size_bytes": 931,
         "sections": 1
       },
       "count": 250,
@@ -130,7 +132,8 @@
           1440
         ]
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-GP-Guadeloupe-preview.webp"
+      "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-BE-Belgium-preview.webp"
     },
     "tokyo-night": {
       "name": "tokyo-night",
@@ -144,7 +147,7 @@
       "catalog": {
         "path": "datasets/tokyo-night/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/catalog.json",
-        "size_bytes": 232574,
+        "size_bytes": 232771,
         "entries": 250
       },
       "optimization": {
@@ -162,7 +165,7 @@
       "sections_info": {
         "path": "datasets/tokyo-night/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/sections.json",
-        "size_bytes": 816,
+        "size_bytes": 932,
         "sections": 1
       },
       "count": 250,
@@ -174,7 +177,8 @@
           1440
         ]
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-CL-Chile-preview.webp"
+      "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-NA-Namibia-preview.webp"
     },
     "masters": {
       "name": "masters",
@@ -201,7 +205,7 @@
       "sections_info": {
         "path": "datasets/masters/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/masters/sections.json",
-        "size_bytes": 634,
+        "size_bytes": 749,
         "sections": 1
       },
       "count": 250,

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:51.906049+00:00",
+  "generated_at": "2026-09-04T22:58:22.145402+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -21,7 +21,9 @@
           "height": 1440
         }
       },
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-AT-Austria-preview.webp"
+      "title": "Countries",
+      "description": "Panoramas and iconic scenery inspired by individual countries.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-BE-Belgium-preview.webp"
     }
   ]
 }

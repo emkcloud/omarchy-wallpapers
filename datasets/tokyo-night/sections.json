@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:52.453941+00:00",
+  "generated_at": "2026-09-04T22:58:22.680938+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -21,7 +21,9 @@
           "height": 1440
         }
       },
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-HU-Hungary-preview.webp"
+      "title": "Countries",
+      "description": "Panoramas and iconic scenery inspired by individual countries.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-SK-Slovakia-preview.webp"
     }
   ]
 }

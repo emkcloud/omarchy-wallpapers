@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:51.646008+00:00",
+  "generated_at": "2026-09-04T22:58:21.889348+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "matte-black",
@@ -5255,5 +5255,7 @@
       ],
       "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-ZW-Zimbabwe-preview.webp"
     }
-  ]
+  ],
+  "title": "Matte Black",
+  "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction."
 }

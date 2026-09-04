@@ -1,0 +1,34 @@
+{
+  "themes": {
+    "matte-black": {
+      "title": "Matte Black",
+      "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction."
+    },
+    "nord": {
+      "title": "Nord",
+      "description": "Theme built on the Nord palette by Arctic Ice Studio: an arctic, north-bluish scheme with Polar Night backgrounds, Snow Storm foregrounds, Frost accents, and Aurora highlights."
+    },
+    "osaka-jade": {
+      "title": "Osaka Jade",
+      "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights."
+    },
+    "tokyo-night": {
+      "title": "Tokyo Night",
+      "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark."
+    }
+  },
+  "sections": {
+    "countries": {
+      "title": "Countries",
+      "description": "Panoramas and iconic scenery inspired by individual countries."
+    },
+    "cities": {
+      "title": "Cities",
+      "description": "Wallpapers dedicated to specific cities and their landmarks."
+    },
+    "figures": {
+      "title": "Figures",
+      "description": "Wallpapers dedicated to great historical figures."
+    }
+  }
+}

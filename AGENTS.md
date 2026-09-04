@@ -24,6 +24,8 @@ Folders in alphabetical order, as seen in the repository root:
 
 Generated JSON indexes, one folder per theme (`datasets/<theme>/catalog.json`, e.g. `datasets/tokyo-night/catalog.json`); each folder also holds `optimization.json` (optimization cache), `previews.json` (previews cache, themes only) and `sections.json` (per-section stats: counts, sizes, resolutions, variants). `datasets/datasets.json` is the top-level index describing all collections (catalog/optimization/previews/sections URLs and stats). **Never edit by hand**: regenerate with `scripts/generate_dataset.py`.
 
+`datasets/config.json` is the **static** source of truth for human-readable metadata (theme `title`/`description` and section `title`/`description` in English). `generate_dataset.py` reads it and injects the descriptions into `datasets.json`, `catalog.json` and `sections.json`. **Whenever a new theme or section is added, update `datasets/config.json` first** (a missing entry just means no description); it is protected from the stale-folder cleanup.
+
 ## Folder `images`
 
 Wallpapers are organized **by theme** under `images/`, each theme containing per-content-type subfolders.

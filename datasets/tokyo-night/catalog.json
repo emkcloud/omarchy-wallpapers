@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:52.450209+00:00",
+  "generated_at": "2026-09-04T22:58:22.677232+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -5255,5 +5255,7 @@
       ],
       "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-ZW-Zimbabwe-preview.webp"
     }
-  ]
+  ],
+  "title": "Tokyo Night",
+  "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark."
 }

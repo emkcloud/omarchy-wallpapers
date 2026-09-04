@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:52.160044+00:00",
+  "generated_at": "2026-09-04T22:58:22.395401+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -5255,5 +5255,7 @@
       ],
       "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-ZW-Zimbabwe-preview.webp"
     }
-  ]
+  ],
+  "title": "Osaka Jade",
+  "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights."
 }

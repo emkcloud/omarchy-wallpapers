@@ -35,6 +35,20 @@ SECTIONS = ("countries", "cities", "figures")
 
 PREVIEW_BASE_RE = re.compile(r"^(.+)-(?:2K|4K|8K)\.webp$", re.IGNORECASE)
 
+CONFIG_PATH = os.path.join(DATASETS_DIR, "config.json")
+
+
+def load_config():
+    """Return the static datasets/config.json content (source of truth for
+    theme and section descriptions). Missing file or fields yield empty dicts."""
+    if not os.path.exists(CONFIG_PATH):
+        return {}
+    try:
+        with open(CONFIG_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, ValueError):
+        return {}
+
 
 def missing_previews():
     """Return the list of preview paths that should exist but are missing."""
@@ -260,7 +274,8 @@ def section_preview(theme, section):
     return f"{RAW_BASE}/previews/{theme}/{section}/{chosen}"
 
 
-def build_sections(theme, kind, images_dir, entries):
+def build_sections(theme, kind, images_dir, entries, section_meta=None):
+    section_meta = section_meta or {}
     by_section = {}
     for e in entries:
         by_section.setdefault(e["section"], []).append(e)
@@ -286,6 +301,11 @@ def build_sections(theme, kind, images_dir, entries):
             "url": f"{RAW_BASE}/{sec_dir}",
             "variants": variants,
         }
+        meta = section_meta.get(section, {})
+        if meta.get("title"):
+            entry["title"] = meta["title"]
+        if meta.get("description"):
+            entry["description"] = meta["description"]
         if preview:
             entry["preview"] = preview
         sections.append(entry)
@@ -315,7 +335,7 @@ def collection_preview(theme, sections):
     return random.choice(sorted(candidates)) if candidates else None
 
 
-def build_collection(name, kind, images_dir, entries, catalog_path):
+def build_collection(name, kind, images_dir, entries, catalog_path, description=None):
     opt_path = os.path.join(os.path.dirname(catalog_path), "optimization.json")
     opt_info = None
     if os.path.exists(opt_path):
@@ -355,6 +375,8 @@ def build_collection(name, kind, images_dir, entries, catalog_path):
         "total_size_bytes": sum(e["size_bytes"] for e in entries),
         "resolutions": resolutions,
     }
+    if description:
+        collection["description"] = description
     preview = collection_preview(name, sections)
     if preview:
         collection["preview"] = preview
@@ -375,6 +397,10 @@ def main():
     if not args.no_previews:
         ensure_previews()
 
+    config = load_config()
+    theme_meta = config.get("themes", {})
+    section_meta = config.get("sections", {})
+
     themes = sorted(
         d
         for d in os.listdir(IMAGES_DIR)
@@ -392,6 +418,7 @@ def main():
             continue
         total += len(entries)
         generated_themes.add(theme)
+        meta = theme_meta.get(theme, {})
         payload = {
             "generated_at": datetime.now(timezone.utc).isoformat(),
             "repo": REPO,
@@ -400,12 +427,16 @@ def main():
             "count": len(entries),
             "wallpapers": entries,
         }
+        if meta.get("title"):
+            payload["title"] = meta["title"]
+        if meta.get("description"):
+            payload["description"] = meta["description"]
         catalog_path = os.path.join(DATASETS_DIR, theme, "catalog.json")
         write_json(catalog_path, payload)
         sections_path = os.path.join(DATASETS_DIR, theme, "sections.json")
         write_json(
             sections_path,
-            build_sections(theme, "theme", f"images/{theme}", entries),
+            build_sections(theme, "theme", f"images/{theme}", entries, section_meta),
         )
         collections[theme] = build_collection(
             name=theme,
@@ -413,10 +444,11 @@ def main():
             images_dir=f"images/{theme}",
             entries=entries,
             catalog_path=catalog_path,
+            description=meta.get("description"),
         )
 
     for name in os.listdir(DATASETS_DIR):
-        if name == "masters" or name in generated_themes:
+        if name == "masters" or name in generated_themes or name == "config.json":
             continue
         path = os.path.join(DATASETS_DIR, name)
         if os.path.isdir(path):
@@ -436,7 +468,7 @@ def main():
     masters_catalog = os.path.join(DATASETS_DIR, "masters", "catalog.json")
     write_json(masters_catalog, masters_payload)
     masters_sections = os.path.join(DATASETS_DIR, "masters", "sections.json")
-    write_json(masters_sections, build_sections("masters", "masters", "masters", masters))
+    write_json(masters_sections, build_sections("masters", "masters", "masters", masters, section_meta))
     collections["masters"] = build_collection(
         name="masters",
         kind="masters",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:54.020600+00:00",
+  "generated_at": "2026-09-04T22:58:24.251456+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "masters",
@@ -20,7 +20,9 @@
           "width": 2560,
           "height": 1440
         }
-      }
+      },
+      "title": "Countries",
+      "description": "Panoramas and iconic scenery inspired by individual countries."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:04:51.902507+00:00",
+  "generated_at": "2026-09-04T22:58:22.141784+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -5255,5 +5255,7 @@
       ],
       "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-ZW-Zimbabwe-preview.webp"
     }
-  ]
+  ],
+  "title": "Nord",
+  "description": "Theme built on the Nord palette by Arctic Ice Studio: an arctic, north-bluish scheme with Polar Night backgrounds, Snow Storm foregrounds, Frost accents, and Aurora highlights."
 }
