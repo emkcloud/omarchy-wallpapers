@@ -1,0 +1,218 @@
+{
+  "generated_at": "2026-09-04T22:04:54.021258+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
+  "count": 5,
+  "collections": {
+    "matte-black": {
+      "name": "matte-black",
+      "title": "Matte Black",
+      "kind": "theme",
+      "images_dir": "images/matte-black",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/matte-black",
+      "sections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/matte-black/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/catalog.json",
+        "size_bytes": 232582,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/matte-black/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/optimization.json",
+        "size_bytes": 44935,
+        "entries": 250
+      },
+      "previews": {
+        "path": "datasets/matte-black/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/previews.json",
+        "size_bytes": 74184,
+        "entries": 250
+      },
+      "sections_info": {
+        "path": "datasets/matte-black/sections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/sections.json",
+        "size_bytes": 816,
+        "sections": 1
+      },
+      "count": 250,
+      "optimized": 250,
+      "total_size_bytes": 203155078,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-PS-Palestine-preview.webp"
+    },
+    "nord": {
+      "name": "nord",
+      "title": "Nord",
+      "kind": "theme",
+      "images_dir": "images/nord",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/nord",
+      "sections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/nord/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/catalog.json",
+        "size_bytes": 223817,
+        "entries": 250
+      },
+      "optimization": null,
+      "previews": {
+        "path": "datasets/nord/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/previews.json",
+        "size_bytes": 72417,
+        "entries": 250
+      },
+      "sections_info": {
+        "path": "datasets/nord/sections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/sections.json",
+        "size_bytes": 785,
+        "sections": 1
+      },
+      "count": 250,
+      "optimized": 0,
+      "total_size_bytes": 86089288,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-RO-Romania-preview.webp"
+    },
+    "osaka-jade": {
+      "name": "osaka-jade",
+      "title": "Osaka Jade",
+      "kind": "theme",
+      "images_dir": "images/osaka-jade",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade",
+      "sections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/osaka-jade/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/catalog.json",
+        "size_bytes": 231328,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/osaka-jade/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/optimization.json",
+        "size_bytes": 44682,
+        "entries": 250
+      },
+      "previews": {
+        "path": "datasets/osaka-jade/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/previews.json",
+        "size_bytes": 73932,
+        "entries": 250
+      },
+      "sections_info": {
+        "path": "datasets/osaka-jade/sections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/sections.json",
+        "size_bytes": 814,
+        "sections": 1
+      },
+      "count": 250,
+      "optimized": 250,
+      "total_size_bytes": 87243946,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-GP-Guadeloupe-preview.webp"
+    },
+    "tokyo-night": {
+      "name": "tokyo-night",
+      "title": "Tokyo Night",
+      "kind": "theme",
+      "images_dir": "images/tokyo-night",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/tokyo-night",
+      "sections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/tokyo-night/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/catalog.json",
+        "size_bytes": 232574,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/tokyo-night/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/optimization.json",
+        "size_bytes": 44927,
+        "entries": 250
+      },
+      "previews": {
+        "path": "datasets/tokyo-night/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/previews.json",
+        "size_bytes": 74177,
+        "entries": 250
+      },
+      "sections_info": {
+        "path": "datasets/tokyo-night/sections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/sections.json",
+        "size_bytes": 816,
+        "sections": 1
+      },
+      "count": 250,
+      "optimized": 250,
+      "total_size_bytes": 126258810,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-CL-Chile-preview.webp"
+    },
+    "masters": {
+      "name": "masters",
+      "title": "Masters",
+      "kind": "masters",
+      "images_dir": "masters",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters",
+      "sections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/masters/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/masters/catalog.json",
+        "size_bytes": 176947,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/masters/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/masters/optimization.json",
+        "size_bytes": 42427,
+        "entries": 250
+      },
+      "previews": null,
+      "sections_info": {
+        "path": "datasets/masters/sections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/masters/sections.json",
+        "size_bytes": 634,
+        "sections": 1
+      },
+      "count": 250,
+      "optimized": 250,
+      "total_size_bytes": 877297858,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ]
+    }
+  }
+}

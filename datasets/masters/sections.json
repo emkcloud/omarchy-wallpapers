@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-09-04T22:04:54.020600+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "theme": "masters",
+  "kind": "masters",
+  "count": 250,
+  "total_size_bytes": 877297858,
+  "sections": [
+    {
+      "section": "countries",
+      "count": 250,
+      "total_size_bytes": 877297858,
+      "directory": "masters/countries",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 877297858,
+          "width": 2560,
+          "height": 1440
+        }
+      }
+    }
+  ]
+}

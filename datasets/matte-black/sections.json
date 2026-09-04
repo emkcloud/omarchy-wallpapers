@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-04T22:04:51.653484+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "theme": "matte-black",
+  "kind": "theme",
+  "count": 250,
+  "total_size_bytes": 203155078,
+  "sections": [
+    {
+      "section": "countries",
+      "count": 250,
+      "total_size_bytes": 203155078,
+      "directory": "images/matte-black/countries",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/matte-black/countries",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 203155078,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-BM-Bermuda-preview.webp"
+    }
+  ]
+}

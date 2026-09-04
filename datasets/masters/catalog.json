@@ -1,0 +1,5008 @@
+{
+  "generated_at": "2026-09-04T22:04:54.010934+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "count": 250,
+  "masters": [
+    {
+      "id": "omarchy-country-AD-Andorra-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Andorra",
+      "code": "AD",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AD-Andorra-2K.webp",
+      "path": "masters/countries/omarchy-country-AD-Andorra-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AD-Andorra-2K.webp",
+      "size_bytes": 3417162,
+      "sha256": "42337085d7bb2b5a367e4f2e6ea6993ab336e6e8d2618a7a08f1fbf1e2229289",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "andorra"
+      ]
+    },
+    {
+      "id": "omarchy-country-AE-United-Arab-Emirates-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AE-United-Arab-Emirates-2K.webp",
+      "path": "masters/countries/omarchy-country-AE-United-Arab-Emirates-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AE-United-Arab-Emirates-2K.webp",
+      "size_bytes": 2896260,
+      "sha256": "6416144ce5e2f26a75e954282426c49330c0a709076942721e5a9e2fde84dfa0",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "united-arab-emirates"
+      ]
+    },
+    {
+      "id": "omarchy-country-AF-Afghanistan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Afghanistan",
+      "code": "AF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AF-Afghanistan-2K.webp",
+      "path": "masters/countries/omarchy-country-AF-Afghanistan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AF-Afghanistan-2K.webp",
+      "size_bytes": 3122996,
+      "sha256": "abe96dc7eff6f0615a4a8726b83a2029f1101c55917d2366e2bcffc4ca3d3d12",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "afghanistan"
+      ]
+    },
+    {
+      "id": "omarchy-country-AG-Antigua-and-Barbuda-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AG-Antigua-and-Barbuda-2K.webp",
+      "path": "masters/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp",
+      "size_bytes": 3493182,
+      "sha256": "6a6b214acb77ae875489bddcc17187792d5286c26d9d9574e578e3f598e7665b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "antigua-and-barbuda"
+      ]
+    },
+    {
+      "id": "omarchy-country-AI-Anguilla-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Anguilla",
+      "code": "AI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AI-Anguilla-2K.webp",
+      "path": "masters/countries/omarchy-country-AI-Anguilla-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AI-Anguilla-2K.webp",
+      "size_bytes": 3378430,
+      "sha256": "af184191e4506bbe520278793a17848cb32c0cba72e1eec8e90328c33cd2cfb2",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "anguilla"
+      ]
+    },
+    {
+      "id": "omarchy-country-AL-Albania-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Albania",
+      "code": "AL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AL-Albania-2K.webp",
+      "path": "masters/countries/omarchy-country-AL-Albania-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AL-Albania-2K.webp",
+      "size_bytes": 3596502,
+      "sha256": "298c4b685bb3632eb050dd25a7ddac2fa21d762371b292c70e7c23d1628cc23f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "albania"
+      ]
+    },
+    {
+      "id": "omarchy-country-AM-Armenia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Armenia",
+      "code": "AM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AM-Armenia-2K.webp",
+      "path": "masters/countries/omarchy-country-AM-Armenia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AM-Armenia-2K.webp",
+      "size_bytes": 3585216,
+      "sha256": "793439b57db4ed445b3ca8dcadeacc3ac07dfc7d79618c5edcdcb2351ba120ea",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "armenia"
+      ]
+    },
+    {
+      "id": "omarchy-country-AO-Angola-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Angola",
+      "code": "AO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AO-Angola-2K.webp",
+      "path": "masters/countries/omarchy-country-AO-Angola-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AO-Angola-2K.webp",
+      "size_bytes": 3241876,
+      "sha256": "03ede05f20db7eecfded2dadf3fd597a828f17a291f77a67817cb39b21e5eefc",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "angola"
+      ]
+    },
+    {
+      "id": "omarchy-country-AQ-Antarctica-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Antarctica",
+      "code": "AQ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AQ-Antarctica-2K.webp",
+      "path": "masters/countries/omarchy-country-AQ-Antarctica-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AQ-Antarctica-2K.webp",
+      "size_bytes": 3796322,
+      "sha256": "c258c9d3460bacf7151539d05226f1e3a841e9fe70e3b230849812099bdd0f2e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "antarctica"
+      ]
+    },
+    {
+      "id": "omarchy-country-AR-Argentina-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Argentina",
+      "code": "AR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AR-Argentina-2K.webp",
+      "path": "masters/countries/omarchy-country-AR-Argentina-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AR-Argentina-2K.webp",
+      "size_bytes": 3787986,
+      "sha256": "60acd5e5acb3a96c64387d12228c736376b960fcf8a5df5fbe8fcbd6b56c0cc8",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "argentina"
+      ]
+    },
+    {
+      "id": "omarchy-country-AS-American-Samoa-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "American Samoa",
+      "code": "AS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AS-American-Samoa-2K.webp",
+      "path": "masters/countries/omarchy-country-AS-American-Samoa-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AS-American-Samoa-2K.webp",
+      "size_bytes": 3585354,
+      "sha256": "7f349880527b8db2ac12e4c4c17c52893756d68b0a165ae01e9af131810a80d4",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "american-samoa"
+      ]
+    },
+    {
+      "id": "omarchy-country-AT-Austria-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Austria",
+      "code": "AT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AT-Austria-2K.webp",
+      "path": "masters/countries/omarchy-country-AT-Austria-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AT-Austria-2K.webp",
+      "size_bytes": 3533774,
+      "sha256": "8a53f9c64b4e1125ad4bd9137c9751f32a1c96e215c88696bc65dd8f6f9b69fa",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "austria"
+      ]
+    },
+    {
+      "id": "omarchy-country-AU-Australia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Australia",
+      "code": "AU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AU-Australia-2K.webp",
+      "path": "masters/countries/omarchy-country-AU-Australia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AU-Australia-2K.webp",
+      "size_bytes": 3444274,
+      "sha256": "4c3a072e4bfb64220b04fd036bdacd7ff945f2ea1c1c40c1c56762b5ec91afc2",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "australia"
+      ]
+    },
+    {
+      "id": "omarchy-country-AW-Aruba-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Aruba",
+      "code": "AW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AW-Aruba-2K.webp",
+      "path": "masters/countries/omarchy-country-AW-Aruba-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AW-Aruba-2K.webp",
+      "size_bytes": 3931404,
+      "sha256": "66e2abeb747df9e14f2850fcf2fc498612c6752021646d91a691e0e5e6c33ed8",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "aruba"
+      ]
+    },
+    {
+      "id": "omarchy-country-AX-Aland-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Aland Islands",
+      "code": "AX",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AX-Aland-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-AX-Aland-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AX-Aland-Islands-2K.webp",
+      "size_bytes": 3086776,
+      "sha256": "f5966645476f981e7c1206a1e05a9b013ff86bc400354c9f0ab273d9fc1a28e9",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "aland-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-AZ-Azerbaijan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-AZ-Azerbaijan-2K.webp",
+      "path": "masters/countries/omarchy-country-AZ-Azerbaijan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-AZ-Azerbaijan-2K.webp",
+      "size_bytes": 3521894,
+      "sha256": "e93bf1d5fc2faa793809145176d919e8cd80e31ca31e22caad67f43f6c63d7d6",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "azerbaijan"
+      ]
+    },
+    {
+      "id": "omarchy-country-BA-Bosnia-Herzegovina-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bosnia Herzegovina",
+      "code": "BA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BA-Bosnia-Herzegovina-2K.webp",
+      "path": "masters/countries/omarchy-country-BA-Bosnia-Herzegovina-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BA-Bosnia-Herzegovina-2K.webp",
+      "size_bytes": 3703042,
+      "sha256": "2691f2b0b19cd75eb4ddfdaad559e9e00b8262e10e0769849d42d50733166ceb",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bosnia-herzegovina"
+      ]
+    },
+    {
+      "id": "omarchy-country-BB-Barbados-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Barbados",
+      "code": "BB",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BB-Barbados-2K.webp",
+      "path": "masters/countries/omarchy-country-BB-Barbados-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BB-Barbados-2K.webp",
+      "size_bytes": 3658168,
+      "sha256": "78a4ef0a33212c9dbca26fde771d073ef0369e6eb861184e4c9c9c3edb577691",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "barbados"
+      ]
+    },
+    {
+      "id": "omarchy-country-BD-Bangladesh-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bangladesh",
+      "code": "BD",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BD-Bangladesh-2K.webp",
+      "path": "masters/countries/omarchy-country-BD-Bangladesh-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BD-Bangladesh-2K.webp",
+      "size_bytes": 3676532,
+      "sha256": "3024cfa2179a5e493b2c33d6f938f5bfc7ba1e2372f35335cc6cb8c367e9eb46",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bangladesh"
+      ]
+    },
+    {
+      "id": "omarchy-country-BE-Belgium-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Belgium",
+      "code": "BE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BE-Belgium-2K.webp",
+      "path": "masters/countries/omarchy-country-BE-Belgium-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BE-Belgium-2K.webp",
+      "size_bytes": 3544426,
+      "sha256": "88171841c816fdd87b6f6294351addae9eeef32cd9d504522d0a9dd0e396f401",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "belgium"
+      ]
+    },
+    {
+      "id": "omarchy-country-BF-Burkina-Faso-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Burkina Faso",
+      "code": "BF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BF-Burkina-Faso-2K.webp",
+      "path": "masters/countries/omarchy-country-BF-Burkina-Faso-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BF-Burkina-Faso-2K.webp",
+      "size_bytes": 3684866,
+      "sha256": "672d5ec10f50e799ad4935bc0bb63a0adf975ba2326d798e522767be272872c9",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "burkina-faso"
+      ]
+    },
+    {
+      "id": "omarchy-country-BG-Bulgaria-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bulgaria",
+      "code": "BG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BG-Bulgaria-2K.webp",
+      "path": "masters/countries/omarchy-country-BG-Bulgaria-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BG-Bulgaria-2K.webp",
+      "size_bytes": 3366660,
+      "sha256": "37ea20fb593ae09747c2192734e7c19dff462a4013fdaebb4fc6075e78ae3cc0",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bulgaria"
+      ]
+    },
+    {
+      "id": "omarchy-country-BH-Bahrain-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bahrain",
+      "code": "BH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BH-Bahrain-2K.webp",
+      "path": "masters/countries/omarchy-country-BH-Bahrain-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BH-Bahrain-2K.webp",
+      "size_bytes": 2790086,
+      "sha256": "cbf4daa1ebf7f0b7852e9f835fc77c8f6305124726559c20dec92c8819fd2061",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bahrain"
+      ]
+    },
+    {
+      "id": "omarchy-country-BI-Burundi-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Burundi",
+      "code": "BI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BI-Burundi-2K.webp",
+      "path": "masters/countries/omarchy-country-BI-Burundi-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BI-Burundi-2K.webp",
+      "size_bytes": 3429886,
+      "sha256": "4e914c159e14f6832c5eeb75bbdad7eb615ee4f7bd6138b870fb00c94bea9b22",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "burundi"
+      ]
+    },
+    {
+      "id": "omarchy-country-BJ-Benin-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Benin",
+      "code": "BJ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BJ-Benin-2K.webp",
+      "path": "masters/countries/omarchy-country-BJ-Benin-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BJ-Benin-2K.webp",
+      "size_bytes": 3712394,
+      "sha256": "b0a4e241b6685882980f6d33e7baf1f9fcdf14e88f2d72da24266f820493d630",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "benin"
+      ]
+    },
+    {
+      "id": "omarchy-country-BL-Saint-Barthelemy-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saint Barthelemy",
+      "code": "BL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BL-Saint-Barthelemy-2K.webp",
+      "path": "masters/countries/omarchy-country-BL-Saint-Barthelemy-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BL-Saint-Barthelemy-2K.webp",
+      "size_bytes": 3622570,
+      "sha256": "ccb14161ec3ea9bdad65101158c2aae469edc8770546ef4faa1e39acdcd0e689",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saint-barthelemy"
+      ]
+    },
+    {
+      "id": "omarchy-country-BM-Bermuda-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bermuda",
+      "code": "BM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BM-Bermuda-2K.webp",
+      "path": "masters/countries/omarchy-country-BM-Bermuda-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BM-Bermuda-2K.webp",
+      "size_bytes": 3393414,
+      "sha256": "89d32268a0953680017e8602b14dc575b41f7fd6e1d6539b608b08fe0468696e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bermuda"
+      ]
+    },
+    {
+      "id": "omarchy-country-BN-Brunei-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Brunei",
+      "code": "BN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BN-Brunei-2K.webp",
+      "path": "masters/countries/omarchy-country-BN-Brunei-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BN-Brunei-2K.webp",
+      "size_bytes": 3711704,
+      "sha256": "dd8644440c26777fdc6e7008a7e9cb90f9c62c2ee2b6c12865218e42ee993b48",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "brunei"
+      ]
+    },
+    {
+      "id": "omarchy-country-BO-Bolivia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bolivia",
+      "code": "BO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BO-Bolivia-2K.webp",
+      "path": "masters/countries/omarchy-country-BO-Bolivia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BO-Bolivia-2K.webp",
+      "size_bytes": 3045524,
+      "sha256": "7592df8a7664e2725cbaf25e612a95241fa4bd411b74c2ba8497b5df398d1898",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bolivia"
+      ]
+    },
+    {
+      "id": "omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bonaire Sint Eustatius and Saba",
+      "code": "BQ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K.webp",
+      "path": "masters/countries/omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K.webp",
+      "size_bytes": 3837000,
+      "sha256": "7df080cf9bdbd5fa24490103a670c07824de2ef74b45729f536f501f74bf6152",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bonaire-sint-eustatius-and-saba"
+      ]
+    },
+    {
+      "id": "omarchy-country-BR-Brazil-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Brazil",
+      "code": "BR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BR-Brazil-2K.webp",
+      "path": "masters/countries/omarchy-country-BR-Brazil-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BR-Brazil-2K.webp",
+      "size_bytes": 4410242,
+      "sha256": "07f7215c90b0547c3bbca5a62aadd76e04b808c03b0d959d55d00165f8123841",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "brazil"
+      ]
+    },
+    {
+      "id": "omarchy-country-BS-Bahamas-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bahamas",
+      "code": "BS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BS-Bahamas-2K.webp",
+      "path": "masters/countries/omarchy-country-BS-Bahamas-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BS-Bahamas-2K.webp",
+      "size_bytes": 2904262,
+      "sha256": "7d473b030553cea02b071193ece698029f71a52ada550ac036840d19978e97f4",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bahamas"
+      ]
+    },
+    {
+      "id": "omarchy-country-BT-Bhutan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bhutan",
+      "code": "BT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BT-Bhutan-2K.webp",
+      "path": "masters/countries/omarchy-country-BT-Bhutan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BT-Bhutan-2K.webp",
+      "size_bytes": 3260508,
+      "sha256": "e0cd3378bd84f5b33e79a0b005b77dd2d7ecc1a110c018383f9b1764626c51af",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bhutan"
+      ]
+    },
+    {
+      "id": "omarchy-country-BV-Bouvet-Island-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Bouvet Island",
+      "code": "BV",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BV-Bouvet-Island-2K.webp",
+      "path": "masters/countries/omarchy-country-BV-Bouvet-Island-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BV-Bouvet-Island-2K.webp",
+      "size_bytes": 3740962,
+      "sha256": "9fc6daaec71b0e0c57dcae1959320c5296c88e35810813dfa7cc97c03bc93853",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "bouvet-island"
+      ]
+    },
+    {
+      "id": "omarchy-country-BW-Botswana-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Botswana",
+      "code": "BW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BW-Botswana-2K.webp",
+      "path": "masters/countries/omarchy-country-BW-Botswana-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BW-Botswana-2K.webp",
+      "size_bytes": 3249840,
+      "sha256": "74065df1a955b0cb95375965b30dc347fdea341a8524706f4969210c2b7746ca",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "botswana"
+      ]
+    },
+    {
+      "id": "omarchy-country-BY-Belarus-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Belarus",
+      "code": "BY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BY-Belarus-2K.webp",
+      "path": "masters/countries/omarchy-country-BY-Belarus-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BY-Belarus-2K.webp",
+      "size_bytes": 3303010,
+      "sha256": "5f8561a5f8bdb890f01e9b2e336bb8d622a8dd4f9b904e4943e415696d9010bf",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "belarus"
+      ]
+    },
+    {
+      "id": "omarchy-country-BZ-Belize-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Belize",
+      "code": "BZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-BZ-Belize-2K.webp",
+      "path": "masters/countries/omarchy-country-BZ-Belize-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-BZ-Belize-2K.webp",
+      "size_bytes": 3892722,
+      "sha256": "5654a79eee6c286c6af1603884f3252d90df2334cc8f8354bc095c9c9e24743e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "belize"
+      ]
+    },
+    {
+      "id": "omarchy-country-CA-Canada-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Canada",
+      "code": "CA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CA-Canada-2K.webp",
+      "path": "masters/countries/omarchy-country-CA-Canada-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CA-Canada-2K.webp",
+      "size_bytes": 3611224,
+      "sha256": "238a34c3fc408f3e1e4326ba1d010ab690373ea5975ed75ef9efa99779dbd43b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "canada"
+      ]
+    },
+    {
+      "id": "omarchy-country-CC-Cocos-Keeling-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cocos Keeling Islands",
+      "code": "CC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CC-Cocos-Keeling-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-CC-Cocos-Keeling-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CC-Cocos-Keeling-Islands-2K.webp",
+      "size_bytes": 3517698,
+      "sha256": "26f0ebdabe0d607af5f3a2ed4b0b263499e0b8f6cc8f03009c3ecbc8fe209fab",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cocos-keeling-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-CD-Congo-Democratic-Republic-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Congo Democratic Republic",
+      "code": "CD",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CD-Congo-Democratic-Republic-2K.webp",
+      "path": "masters/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp",
+      "size_bytes": 3795258,
+      "sha256": "bf0fba81a3dd30afbfb1f2f507b6bf75fd50fbb415641108a1d1925a1679ce5e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "congo-democratic-republic"
+      ]
+    },
+    {
+      "id": "omarchy-country-CF-Central-African-Republic-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Central African Republic",
+      "code": "CF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CF-Central-African-Republic-2K.webp",
+      "path": "masters/countries/omarchy-country-CF-Central-African-Republic-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CF-Central-African-Republic-2K.webp",
+      "size_bytes": 3423360,
+      "sha256": "13634f05f9a445a902ecc4d4f45e6e8729c00b21ba2fbf77abc7d5f0ad681b28",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "central-african-republic"
+      ]
+    },
+    {
+      "id": "omarchy-country-CG-Congo-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Congo",
+      "code": "CG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CG-Congo-2K.webp",
+      "path": "masters/countries/omarchy-country-CG-Congo-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CG-Congo-2K.webp",
+      "size_bytes": 3386108,
+      "sha256": "ad3411e1c7548f940a52c742283a2dd50105b5a7f9e8a9af6d7902cf82f8cf9f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "congo"
+      ]
+    },
+    {
+      "id": "omarchy-country-CH-Switzerland-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Switzerland",
+      "code": "CH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CH-Switzerland-2K.webp",
+      "path": "masters/countries/omarchy-country-CH-Switzerland-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CH-Switzerland-2K.webp",
+      "size_bytes": 3606870,
+      "sha256": "1a23353a1a4fb56ce85d3af509728adc612ff1483671e9f933f53a3af9ae9b7a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "switzerland"
+      ]
+    },
+    {
+      "id": "omarchy-country-CI-Ivory-Coast-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Ivory Coast",
+      "code": "CI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CI-Ivory-Coast-2K.webp",
+      "path": "masters/countries/omarchy-country-CI-Ivory-Coast-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CI-Ivory-Coast-2K.webp",
+      "size_bytes": 3291420,
+      "sha256": "0fe7759b1f752d99bf120576741cd451ed6f8de2c9d1a8f151ed07acc41b59b5",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "ivory-coast"
+      ]
+    },
+    {
+      "id": "omarchy-country-CK-Cook-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cook Islands",
+      "code": "CK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CK-Cook-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-CK-Cook-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CK-Cook-Islands-2K.webp",
+      "size_bytes": 3930218,
+      "sha256": "61d13d320a8f85143a7b9516d1d81a20c0f1b73661874a4318e16c7a2bdb10f6",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cook-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-CL-Chile-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Chile",
+      "code": "CL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CL-Chile-2K.webp",
+      "path": "masters/countries/omarchy-country-CL-Chile-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CL-Chile-2K.webp",
+      "size_bytes": 3533868,
+      "sha256": "1ff6f12f9c37bf2dd114d0c1498a03bdfffef93d39cac9051be338633fb870c0",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "chile"
+      ]
+    },
+    {
+      "id": "omarchy-country-CM-Cameroon-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cameroon",
+      "code": "CM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CM-Cameroon-2K.webp",
+      "path": "masters/countries/omarchy-country-CM-Cameroon-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CM-Cameroon-2K.webp",
+      "size_bytes": 3506180,
+      "sha256": "76152e13ce7e909d2a427ea72088c9c084440be78d02090abec199cab82fb057",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cameroon"
+      ]
+    },
+    {
+      "id": "omarchy-country-CN-China-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "China",
+      "code": "CN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CN-China-2K.webp",
+      "path": "masters/countries/omarchy-country-CN-China-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CN-China-2K.webp",
+      "size_bytes": 3969536,
+      "sha256": "212fde425239994ff8e1b23d52c0141a4a15a27f596cfc6a3a5d77a7759425df",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "china"
+      ]
+    },
+    {
+      "id": "omarchy-country-CO-Colombia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Colombia",
+      "code": "CO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CO-Colombia-2K.webp",
+      "path": "masters/countries/omarchy-country-CO-Colombia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CO-Colombia-2K.webp",
+      "size_bytes": 3614074,
+      "sha256": "f6e8322496010bdf01c4dd52325af390fecc70dcc56d5d6ab8531289071ae87b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "colombia"
+      ]
+    },
+    {
+      "id": "omarchy-country-CR-Costa-Rica-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Costa Rica",
+      "code": "CR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CR-Costa-Rica-2K.webp",
+      "path": "masters/countries/omarchy-country-CR-Costa-Rica-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CR-Costa-Rica-2K.webp",
+      "size_bytes": 3728988,
+      "sha256": "814b8e9fdc269dd1040532e936df838d9da8c16b281f5d8b02710c894786810f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "costa-rica"
+      ]
+    },
+    {
+      "id": "omarchy-country-CU-Cuba-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cuba",
+      "code": "CU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CU-Cuba-2K.webp",
+      "path": "masters/countries/omarchy-country-CU-Cuba-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CU-Cuba-2K.webp",
+      "size_bytes": 3657384,
+      "sha256": "568755a5e1a581ff7262eb499430fb61eaf9604b8be035665066f7d9902340c7",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cuba"
+      ]
+    },
+    {
+      "id": "omarchy-country-CV-Cape-Verde-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cape Verde",
+      "code": "CV",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CV-Cape-Verde-2K.webp",
+      "path": "masters/countries/omarchy-country-CV-Cape-Verde-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CV-Cape-Verde-2K.webp",
+      "size_bytes": 3517368,
+      "sha256": "564376b56a2495317bc77b44aa6d1b91e5a68771e25eb668173f60a3b2ce75ee",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cape-verde"
+      ]
+    },
+    {
+      "id": "omarchy-country-CW-Curacao-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Curacao",
+      "code": "CW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CW-Curacao-2K.webp",
+      "path": "masters/countries/omarchy-country-CW-Curacao-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CW-Curacao-2K.webp",
+      "size_bytes": 3401742,
+      "sha256": "30189046743ae9a9f4aeb809377454ee4d7b35b4fb793ff9397d32cf3ef3ff32",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "curacao"
+      ]
+    },
+    {
+      "id": "omarchy-country-CX-Christmas-Island-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Christmas Island",
+      "code": "CX",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CX-Christmas-Island-2K.webp",
+      "path": "masters/countries/omarchy-country-CX-Christmas-Island-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CX-Christmas-Island-2K.webp",
+      "size_bytes": 3182470,
+      "sha256": "24e2d6beab8be4c556ea1a6018d491829b05d1edbf0f261d5ee9ee6eb7aae643",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "christmas-island"
+      ]
+    },
+    {
+      "id": "omarchy-country-CY-Cyprus-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cyprus",
+      "code": "CY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CY-Cyprus-2K.webp",
+      "path": "masters/countries/omarchy-country-CY-Cyprus-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CY-Cyprus-2K.webp",
+      "size_bytes": 3560546,
+      "sha256": "d49ae579cc68e8a35becdc3e99349b50ad3a68119a7e8a24bc595910ea3f2bc1",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cyprus"
+      ]
+    },
+    {
+      "id": "omarchy-country-CZ-Czech-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Czech",
+      "code": "CZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-CZ-Czech-2K.webp",
+      "path": "masters/countries/omarchy-country-CZ-Czech-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-CZ-Czech-2K.webp",
+      "size_bytes": 3243270,
+      "sha256": "cdb809c01c02b54470436e4b535523c1207c1d5d4bf3487cac4b4355a2b44993",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "czech"
+      ]
+    },
+    {
+      "id": "omarchy-country-DE-Germany-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Germany",
+      "code": "DE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-DE-Germany-2K.webp",
+      "path": "masters/countries/omarchy-country-DE-Germany-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-DE-Germany-2K.webp",
+      "size_bytes": 3389028,
+      "sha256": "25566fd3785644c4577c8eb15c51382a6996dac0e0bbbfd31d77a661fefadfa0",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "germany"
+      ]
+    },
+    {
+      "id": "omarchy-country-DJ-Djibouti-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Djibouti",
+      "code": "DJ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-DJ-Djibouti-2K.webp",
+      "path": "masters/countries/omarchy-country-DJ-Djibouti-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-DJ-Djibouti-2K.webp",
+      "size_bytes": 2996782,
+      "sha256": "72290e769e5c6d286516cefab27d1a5f2034140a0fae83170f47b18e30703942",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "djibouti"
+      ]
+    },
+    {
+      "id": "omarchy-country-DK-Denmark-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Denmark",
+      "code": "DK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-DK-Denmark-2K.webp",
+      "path": "masters/countries/omarchy-country-DK-Denmark-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-DK-Denmark-2K.webp",
+      "size_bytes": 3189996,
+      "sha256": "b5adb4437e97526d284b5be49a5874d0ecc4c1b5d718d03b48fd623ca1677e88",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "denmark"
+      ]
+    },
+    {
+      "id": "omarchy-country-DM-Dominica-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Dominica",
+      "code": "DM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-DM-Dominica-2K.webp",
+      "path": "masters/countries/omarchy-country-DM-Dominica-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-DM-Dominica-2K.webp",
+      "size_bytes": 4058158,
+      "sha256": "b3ad78f49b230777fd690a37b2311628d5454475ee72d4923e22756ed115b4cb",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "dominica"
+      ]
+    },
+    {
+      "id": "omarchy-country-DO-Dominican-Republic-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Dominican Republic",
+      "code": "DO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-DO-Dominican-Republic-2K.webp",
+      "path": "masters/countries/omarchy-country-DO-Dominican-Republic-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-DO-Dominican-Republic-2K.webp",
+      "size_bytes": 3455064,
+      "sha256": "d799a7722d4a1c79b2ba9dde36d7edff75ed19cb8e0cdc34ffd9c4ee31a84775",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "dominican-republic"
+      ]
+    },
+    {
+      "id": "omarchy-country-DZ-Algeria-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Algeria",
+      "code": "DZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-DZ-Algeria-2K.webp",
+      "path": "masters/countries/omarchy-country-DZ-Algeria-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-DZ-Algeria-2K.webp",
+      "size_bytes": 3506794,
+      "sha256": "35897d4f6f28ffc9c601eef487aa87697f3210a10a44915f4908a1e1d1a93547",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "algeria"
+      ]
+    },
+    {
+      "id": "omarchy-country-EC-Ecuador-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Ecuador",
+      "code": "EC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-EC-Ecuador-2K.webp",
+      "path": "masters/countries/omarchy-country-EC-Ecuador-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-EC-Ecuador-2K.webp",
+      "size_bytes": 3581966,
+      "sha256": "6c36f2943e98c8d3f8fba0a3bc4dd921f67db5c0a3c5ca2820a341ac0166bd72",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "ecuador"
+      ]
+    },
+    {
+      "id": "omarchy-country-EE-Estonia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Estonia",
+      "code": "EE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-EE-Estonia-2K.webp",
+      "path": "masters/countries/omarchy-country-EE-Estonia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-EE-Estonia-2K.webp",
+      "size_bytes": 3322198,
+      "sha256": "954c78d46aaa85ebdb002e295846288128296ed96e4b9f28c0eb1f888178647f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "estonia"
+      ]
+    },
+    {
+      "id": "omarchy-country-EG-Egypt-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Egypt",
+      "code": "EG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-EG-Egypt-2K.webp",
+      "path": "masters/countries/omarchy-country-EG-Egypt-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-EG-Egypt-2K.webp",
+      "size_bytes": 2990498,
+      "sha256": "e8d362d70d22b86923f219d1ab2414d66a8a9a53f2d85fc22746ba85db4c3c4d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "egypt"
+      ]
+    },
+    {
+      "id": "omarchy-country-EH-Western-Sahara-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Western Sahara",
+      "code": "EH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-EH-Western-Sahara-2K.webp",
+      "path": "masters/countries/omarchy-country-EH-Western-Sahara-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-EH-Western-Sahara-2K.webp",
+      "size_bytes": 2649472,
+      "sha256": "86325ba0fd897fd401f7977055e4a0cbf387efabb70ab4a9addd7ac2d5ae0dab",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "western-sahara"
+      ]
+    },
+    {
+      "id": "omarchy-country-ER-Eritrea-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Eritrea",
+      "code": "ER",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ER-Eritrea-2K.webp",
+      "path": "masters/countries/omarchy-country-ER-Eritrea-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ER-Eritrea-2K.webp",
+      "size_bytes": 3496704,
+      "sha256": "bdfac71fc203701a6f0794c068001cceb8ef34a7cc775403e9dcc1eb7d9cb9ff",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "eritrea"
+      ]
+    },
+    {
+      "id": "omarchy-country-ES-Spain-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Spain",
+      "code": "ES",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ES-Spain-2K.webp",
+      "path": "masters/countries/omarchy-country-ES-Spain-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ES-Spain-2K.webp",
+      "size_bytes": 3420232,
+      "sha256": "5d9679e623b656afb82376bb60974b449786c441aa131c34187c8ff5ee074c53",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "spain"
+      ]
+    },
+    {
+      "id": "omarchy-country-ET-Ethiopia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Ethiopia",
+      "code": "ET",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ET-Ethiopia-2K.webp",
+      "path": "masters/countries/omarchy-country-ET-Ethiopia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ET-Ethiopia-2K.webp",
+      "size_bytes": 3581346,
+      "sha256": "bb643e00b15c29e79c8789489c5eeaa5efaf5343e403d1ffcc71dafe901b2199",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "ethiopia"
+      ]
+    },
+    {
+      "id": "omarchy-country-FI-Finland-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Finland",
+      "code": "FI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-FI-Finland-2K.webp",
+      "path": "masters/countries/omarchy-country-FI-Finland-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-FI-Finland-2K.webp",
+      "size_bytes": 3429370,
+      "sha256": "0693afbac6846af1667310b194dc96caff8a9ad150089003efe910f8e9e481a1",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "finland"
+      ]
+    },
+    {
+      "id": "omarchy-country-FJ-Fiji-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Fiji",
+      "code": "FJ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-FJ-Fiji-2K.webp",
+      "path": "masters/countries/omarchy-country-FJ-Fiji-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-FJ-Fiji-2K.webp",
+      "size_bytes": 3782420,
+      "sha256": "1879d9e8ada02b2ec80b621466e09a2540b78929b7356abdfe470a7c2fb8ea35",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "fiji"
+      ]
+    },
+    {
+      "id": "omarchy-country-FK-Falkland-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Falkland Islands",
+      "code": "FK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-FK-Falkland-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-FK-Falkland-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-FK-Falkland-Islands-2K.webp",
+      "size_bytes": 3691340,
+      "sha256": "803cd4bc71179bdae17eaeff4250016be8faae33d650e72505358fd46ad35bb6",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "falkland-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-FM-Micronesia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Micronesia",
+      "code": "FM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-FM-Micronesia-2K.webp",
+      "path": "masters/countries/omarchy-country-FM-Micronesia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-FM-Micronesia-2K.webp",
+      "size_bytes": 3481324,
+      "sha256": "4fb80e9df2e663ee0fedf958df516ae67e747f07e87c394084be598caf94d9f3",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "micronesia"
+      ]
+    },
+    {
+      "id": "omarchy-country-FO-Faroe-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Faroe Islands",
+      "code": "FO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-FO-Faroe-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-FO-Faroe-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-FO-Faroe-Islands-2K.webp",
+      "size_bytes": 3540934,
+      "sha256": "f71f423813c8118f2ce05d9b4c83d8ef1d581eda3d2964d74e69186aa08c4a7e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "faroe-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-FR-France-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "France",
+      "code": "FR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-FR-France-2K.webp",
+      "path": "masters/countries/omarchy-country-FR-France-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-FR-France-2K.webp",
+      "size_bytes": 3858372,
+      "sha256": "c34471e167d0bd1d285cace88711fa76cd54a6bb417d01cf66424fcac7eadb94",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "france"
+      ]
+    },
+    {
+      "id": "omarchy-country-GA-Gabon-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Gabon",
+      "code": "GA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GA-Gabon-2K.webp",
+      "path": "masters/countries/omarchy-country-GA-Gabon-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GA-Gabon-2K.webp",
+      "size_bytes": 3687752,
+      "sha256": "f2968bc94a6e474c3301ad96a73b1beb88d7f9690d438c0be43b0841eab7a968",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "gabon"
+      ]
+    },
+    {
+      "id": "omarchy-country-GB-UK-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "UK",
+      "code": "GB",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GB-UK-2K.webp",
+      "path": "masters/countries/omarchy-country-GB-UK-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GB-UK-2K.webp",
+      "size_bytes": 3082844,
+      "sha256": "48f48b54ca7515d4646117378209e528c58a90bc457d9a0019c7e1e32c79ea15",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "uk"
+      ]
+    },
+    {
+      "id": "omarchy-country-GD-Grenada-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Grenada",
+      "code": "GD",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GD-Grenada-2K.webp",
+      "path": "masters/countries/omarchy-country-GD-Grenada-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GD-Grenada-2K.webp",
+      "size_bytes": 4056466,
+      "sha256": "4c716c98dd5662d0aaa4ac5c186e1add0eaba072e78e7e3aaca51e04f5e11292",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "grenada"
+      ]
+    },
+    {
+      "id": "omarchy-country-GE-Georgia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Georgia",
+      "code": "GE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GE-Georgia-2K.webp",
+      "path": "masters/countries/omarchy-country-GE-Georgia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GE-Georgia-2K.webp",
+      "size_bytes": 3232332,
+      "sha256": "50b33a67ac940a2c62c4308a6312cb4cfee028a4e482a2e69f5bdbed32441cb1",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "georgia"
+      ]
+    },
+    {
+      "id": "omarchy-country-GF-French-Guiana-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "French Guiana",
+      "code": "GF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GF-French-Guiana-2K.webp",
+      "path": "masters/countries/omarchy-country-GF-French-Guiana-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GF-French-Guiana-2K.webp",
+      "size_bytes": 3718008,
+      "sha256": "396be6d46f799f8b24b022b931635edbe1349caeae15b1900b4dae2a71049dc6",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "french-guiana"
+      ]
+    },
+    {
+      "id": "omarchy-country-GG-Guernsey-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Guernsey",
+      "code": "GG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GG-Guernsey-2K.webp",
+      "path": "masters/countries/omarchy-country-GG-Guernsey-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GG-Guernsey-2K.webp",
+      "size_bytes": 3504564,
+      "sha256": "048fa6283f0a63ab64b82e0991d17fb36dd9bf0eb2c88fce6fdc0d72fc4734ff",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "guernsey"
+      ]
+    },
+    {
+      "id": "omarchy-country-GH-Ghana-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Ghana",
+      "code": "GH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GH-Ghana-2K.webp",
+      "path": "masters/countries/omarchy-country-GH-Ghana-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GH-Ghana-2K.webp",
+      "size_bytes": 3532056,
+      "sha256": "c8abf2a24fb65fee55462fdc5c0e04a250b64ce3ae34b426f0dff101d3c74a41",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "ghana"
+      ]
+    },
+    {
+      "id": "omarchy-country-GI-Gibraltar-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Gibraltar",
+      "code": "GI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GI-Gibraltar-2K.webp",
+      "path": "masters/countries/omarchy-country-GI-Gibraltar-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GI-Gibraltar-2K.webp",
+      "size_bytes": 3224118,
+      "sha256": "277d3b2292a057c1dc23b53d47b93ccb7c14da20ba5413da62b4d245db78dc0f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "gibraltar"
+      ]
+    },
+    {
+      "id": "omarchy-country-GL-Greenland-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Greenland",
+      "code": "GL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GL-Greenland-2K.webp",
+      "path": "masters/countries/omarchy-country-GL-Greenland-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GL-Greenland-2K.webp",
+      "size_bytes": 3632544,
+      "sha256": "45efeace354fb7e456e693c9f3399f966b5bb6ac8ad5c0f5abb2ae4f2eb73b53",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "greenland"
+      ]
+    },
+    {
+      "id": "omarchy-country-GM-Gambia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Gambia",
+      "code": "GM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GM-Gambia-2K.webp",
+      "path": "masters/countries/omarchy-country-GM-Gambia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GM-Gambia-2K.webp",
+      "size_bytes": 3357276,
+      "sha256": "f33af2b87a55b96a224b2f16a59c9a1613400c0935b6db89fd17b3f495be52f8",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "gambia"
+      ]
+    },
+    {
+      "id": "omarchy-country-GN-Guinea-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Guinea",
+      "code": "GN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GN-Guinea-2K.webp",
+      "path": "masters/countries/omarchy-country-GN-Guinea-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GN-Guinea-2K.webp",
+      "size_bytes": 3363748,
+      "sha256": "a444b5f8bea5883e8880388ab10f96ad982d0a8173119520cee695f6dd08f17c",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "guinea"
+      ]
+    },
+    {
+      "id": "omarchy-country-GP-Guadeloupe-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Guadeloupe",
+      "code": "GP",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GP-Guadeloupe-2K.webp",
+      "path": "masters/countries/omarchy-country-GP-Guadeloupe-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GP-Guadeloupe-2K.webp",
+      "size_bytes": 3611748,
+      "sha256": "f04ff9b1c6bbbb6bfdf7f7adcd028cb0f0bf6e2687b377e284795affc30fec04",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "guadeloupe"
+      ]
+    },
+    {
+      "id": "omarchy-country-GQ-Equatorial-Guinea-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GQ-Equatorial-Guinea-2K.webp",
+      "path": "masters/countries/omarchy-country-GQ-Equatorial-Guinea-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GQ-Equatorial-Guinea-2K.webp",
+      "size_bytes": 3698546,
+      "sha256": "07fd035179820b36905e38fa49589ea9f416b508b52493e88e779bdc5e04cd66",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "equatorial-guinea"
+      ]
+    },
+    {
+      "id": "omarchy-country-GR-Greece-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Greece",
+      "code": "GR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GR-Greece-2K.webp",
+      "path": "masters/countries/omarchy-country-GR-Greece-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GR-Greece-2K.webp",
+      "size_bytes": 3423358,
+      "sha256": "ac4f5e95371db143422541084d2594009235ce5b1248ddf3a84fce29b480bb3f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "greece"
+      ]
+    },
+    {
+      "id": "omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "South Georgia and the South Sandwich Islands",
+      "code": "GS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp",
+      "size_bytes": 3593538,
+      "sha256": "c61119986589d78efee82aa61ba81e79e1a44a376f3dcf3a57600c88ef3aeb55",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "south-georgia-and-the-south-sandwich-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-GT-Guatemala-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Guatemala",
+      "code": "GT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GT-Guatemala-2K.webp",
+      "path": "masters/countries/omarchy-country-GT-Guatemala-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GT-Guatemala-2K.webp",
+      "size_bytes": 3704626,
+      "sha256": "a818d9a7c04dbc4963de46b584deb2f200cc5c0c2dc3c06c9456c3cb7be384c2",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "guatemala"
+      ]
+    },
+    {
+      "id": "omarchy-country-GU-Guam-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Guam",
+      "code": "GU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GU-Guam-2K.webp",
+      "path": "masters/countries/omarchy-country-GU-Guam-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GU-Guam-2K.webp",
+      "size_bytes": 3388862,
+      "sha256": "c766290057a8f6586b8b7ed6ea20ba496da9cc792e513e7d420e0b567146a4f1",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "guam"
+      ]
+    },
+    {
+      "id": "omarchy-country-GW-Guinea-Bissau-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Guinea Bissau",
+      "code": "GW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GW-Guinea-Bissau-2K.webp",
+      "path": "masters/countries/omarchy-country-GW-Guinea-Bissau-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GW-Guinea-Bissau-2K.webp",
+      "size_bytes": 3598602,
+      "sha256": "ae5709455a7d3210a812c3e16af055ac559b1cd8bee214064c12ca65f6b1a06c",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "guinea-bissau"
+      ]
+    },
+    {
+      "id": "omarchy-country-GY-Guyana-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Guyana",
+      "code": "GY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-GY-Guyana-2K.webp",
+      "path": "masters/countries/omarchy-country-GY-Guyana-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-GY-Guyana-2K.webp",
+      "size_bytes": 3591926,
+      "sha256": "7a4a915f757009e10a66e300b02e890949675ceaef36ec2d98eda3bf17c1fbba",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "guyana"
+      ]
+    },
+    {
+      "id": "omarchy-country-HK-Hong-Kong-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Hong Kong",
+      "code": "HK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-HK-Hong-Kong-2K.webp",
+      "path": "masters/countries/omarchy-country-HK-Hong-Kong-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-HK-Hong-Kong-2K.webp",
+      "size_bytes": 3605878,
+      "sha256": "8bd8c34c0cb019872442df852b78ea7dea5d7f55e8dbd3b9dbef9ea5d0b88fad",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "hong-kong"
+      ]
+    },
+    {
+      "id": "omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Heard Island and McDonald Islands",
+      "code": "HM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K.webp",
+      "size_bytes": 3517870,
+      "sha256": "909fd70154651c79a421e58183c22a9a84eb7151cb4ea289574bea03a277b77b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "heard-island-and-mcdonald-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-HN-Honduras-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Honduras",
+      "code": "HN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-HN-Honduras-2K.webp",
+      "path": "masters/countries/omarchy-country-HN-Honduras-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-HN-Honduras-2K.webp",
+      "size_bytes": 3848482,
+      "sha256": "ce734638fa376dc1e9265169cde0f771ac6082d3a523bb9e94a5d71eabf1b569",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "honduras"
+      ]
+    },
+    {
+      "id": "omarchy-country-HR-Croatia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Croatia",
+      "code": "HR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-HR-Croatia-2K.webp",
+      "path": "masters/countries/omarchy-country-HR-Croatia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-HR-Croatia-2K.webp",
+      "size_bytes": 3317172,
+      "sha256": "0687189c67ca84b5d8dd0f5c766560252abb540db9000e46173ef5ded7cbe78b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "croatia"
+      ]
+    },
+    {
+      "id": "omarchy-country-HT-Haiti-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Haiti",
+      "code": "HT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-HT-Haiti-2K.webp",
+      "path": "masters/countries/omarchy-country-HT-Haiti-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-HT-Haiti-2K.webp",
+      "size_bytes": 4058558,
+      "sha256": "18fedb3299b4635372747fc1696dd2eabfdd4910b9ff1b0891d747335c49fb54",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "haiti"
+      ]
+    },
+    {
+      "id": "omarchy-country-HU-Hungary-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Hungary",
+      "code": "HU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-HU-Hungary-2K.webp",
+      "path": "masters/countries/omarchy-country-HU-Hungary-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-HU-Hungary-2K.webp",
+      "size_bytes": 3410596,
+      "sha256": "7e7e3793dc3839fd7f2519558b0c831d2b3402a4801f5c3cd49583e9af088286",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "hungary"
+      ]
+    },
+    {
+      "id": "omarchy-country-ID-Indonesia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Indonesia",
+      "code": "ID",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ID-Indonesia-2K.webp",
+      "path": "masters/countries/omarchy-country-ID-Indonesia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ID-Indonesia-2K.webp",
+      "size_bytes": 3934196,
+      "sha256": "47b74eb4403a4d4b59ca6d5b6e2a004b39446c7dce7bff103a49da67c4386f60",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "indonesia"
+      ]
+    },
+    {
+      "id": "omarchy-country-IE-Ireland-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Ireland",
+      "code": "IE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IE-Ireland-2K.webp",
+      "path": "masters/countries/omarchy-country-IE-Ireland-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IE-Ireland-2K.webp",
+      "size_bytes": 3577352,
+      "sha256": "6bf2a7275fd9600af160089ed083f98dfce6e97198c0eb1499977e9a0b7d5f8d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "ireland"
+      ]
+    },
+    {
+      "id": "omarchy-country-IL-Israel-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Israel",
+      "code": "IL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IL-Israel-2K.webp",
+      "path": "masters/countries/omarchy-country-IL-Israel-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IL-Israel-2K.webp",
+      "size_bytes": 3698876,
+      "sha256": "e411fa9d7470c01a8a6f1801e7960f0801eab07dc5a072b4f1cfe101bd03fbbe",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "israel"
+      ]
+    },
+    {
+      "id": "omarchy-country-IM-Isle-of-Man-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Isle of Man",
+      "code": "IM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IM-Isle-of-Man-2K.webp",
+      "path": "masters/countries/omarchy-country-IM-Isle-of-Man-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IM-Isle-of-Man-2K.webp",
+      "size_bytes": 3422082,
+      "sha256": "98234cd594ceb04ccc4fe80441a9421beefb20baabe2d8dc0283ef01188a37b6",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "isle-of-man"
+      ]
+    },
+    {
+      "id": "omarchy-country-IN-India-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "India",
+      "code": "IN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IN-India-2K.webp",
+      "path": "masters/countries/omarchy-country-IN-India-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IN-India-2K.webp",
+      "size_bytes": 3746728,
+      "sha256": "e945eee59935f7abeabc2f9e9025740796e042721057ab0122262b1f70b7867a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "india"
+      ]
+    },
+    {
+      "id": "omarchy-country-IO-British-Indian-Ocean-Territory-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "British Indian Ocean Territory",
+      "code": "IO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp",
+      "path": "masters/countries/omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp",
+      "size_bytes": 4030426,
+      "sha256": "d3d713d4b289a78acd0997a185671e4517c14d61c65e30c0b563d1c72bfe20b7",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "british-indian-ocean-territory"
+      ]
+    },
+    {
+      "id": "omarchy-country-IQ-Iraq-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Iraq",
+      "code": "IQ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IQ-Iraq-2K.webp",
+      "path": "masters/countries/omarchy-country-IQ-Iraq-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IQ-Iraq-2K.webp",
+      "size_bytes": 3664692,
+      "sha256": "82d09320b53b86e449f3d5e7286ce62230466ce5c36fbed8c4962c8d40d8c749",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "iraq"
+      ]
+    },
+    {
+      "id": "omarchy-country-IR-Iran-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Iran",
+      "code": "IR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IR-Iran-2K.webp",
+      "path": "masters/countries/omarchy-country-IR-Iran-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IR-Iran-2K.webp",
+      "size_bytes": 3268034,
+      "sha256": "1a9eb4289669985f09bcde396a32741c72fd69fb12c5ad53a60589ff54e1ac80",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "iran"
+      ]
+    },
+    {
+      "id": "omarchy-country-IS-Iceland-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Iceland",
+      "code": "IS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IS-Iceland-2K.webp",
+      "path": "masters/countries/omarchy-country-IS-Iceland-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IS-Iceland-2K.webp",
+      "size_bytes": 3399158,
+      "sha256": "f62af97fe3dfb4ab674317625a648b623d40285474fd1cca54e4bbba4769ab60",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "iceland"
+      ]
+    },
+    {
+      "id": "omarchy-country-IT-Italy-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Italy",
+      "code": "IT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-IT-Italy-2K.webp",
+      "path": "masters/countries/omarchy-country-IT-Italy-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-IT-Italy-2K.webp",
+      "size_bytes": 3795052,
+      "sha256": "c0e29402559337eedfb0c3b39a67ec5bb720a26cf5ee035d31a556d96040393c",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "italy"
+      ]
+    },
+    {
+      "id": "omarchy-country-JE-Jersey-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Jersey",
+      "code": "JE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-JE-Jersey-2K.webp",
+      "path": "masters/countries/omarchy-country-JE-Jersey-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-JE-Jersey-2K.webp",
+      "size_bytes": 3718522,
+      "sha256": "cad50fe85757d0f7c79a1d713094a520675e0adb4fac5c4f4f488a7748388948",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "jersey"
+      ]
+    },
+    {
+      "id": "omarchy-country-JM-Jamaica-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Jamaica",
+      "code": "JM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-JM-Jamaica-2K.webp",
+      "path": "masters/countries/omarchy-country-JM-Jamaica-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-JM-Jamaica-2K.webp",
+      "size_bytes": 3908080,
+      "sha256": "b2d804332f45dc842f41f4e7e04979b38e19c594e617dfda99d4d3a41e218492",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "jamaica"
+      ]
+    },
+    {
+      "id": "omarchy-country-JO-Jordan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Jordan",
+      "code": "JO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-JO-Jordan-2K.webp",
+      "path": "masters/countries/omarchy-country-JO-Jordan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-JO-Jordan-2K.webp",
+      "size_bytes": 3413852,
+      "sha256": "c9c3e09df42f74876cc9cf6b0fbe5e28263513eea57d64d2bcb0631b1a4b712d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "jordan"
+      ]
+    },
+    {
+      "id": "omarchy-country-JP-Japan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Japan",
+      "code": "JP",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-JP-Japan-2K.webp",
+      "path": "masters/countries/omarchy-country-JP-Japan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-JP-Japan-2K.webp",
+      "size_bytes": 3255458,
+      "sha256": "429660a34a1b5cc31064b6a281a0bf7d29535b4c1931dd5c8cf82a04eadcd25d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "japan"
+      ]
+    },
+    {
+      "id": "omarchy-country-KE-Kenya-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Kenya",
+      "code": "KE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KE-Kenya-2K.webp",
+      "path": "masters/countries/omarchy-country-KE-Kenya-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KE-Kenya-2K.webp",
+      "size_bytes": 3520026,
+      "sha256": "1c5eb4089dc3483ab1e8ea934fbaac15b4e3b2fb652f2df8e45c28ebe6127b23",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "kenya"
+      ]
+    },
+    {
+      "id": "omarchy-country-KG-Kyrgyzstan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KG-Kyrgyzstan-2K.webp",
+      "path": "masters/countries/omarchy-country-KG-Kyrgyzstan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KG-Kyrgyzstan-2K.webp",
+      "size_bytes": 3670734,
+      "sha256": "54be0c8cd715f39288b63edc3b249db06e2727854412b569c96f994ba51cb4f7",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "kyrgyzstan"
+      ]
+    },
+    {
+      "id": "omarchy-country-KH-Cambodia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cambodia",
+      "code": "KH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KH-Cambodia-2K.webp",
+      "path": "masters/countries/omarchy-country-KH-Cambodia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KH-Cambodia-2K.webp",
+      "size_bytes": 3675938,
+      "sha256": "51c9fb86a3042ed3b786391c78008265e500c896b6af9942a7a3029a22b48aa2",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cambodia"
+      ]
+    },
+    {
+      "id": "omarchy-country-KI-Kiribati-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Kiribati",
+      "code": "KI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KI-Kiribati-2K.webp",
+      "path": "masters/countries/omarchy-country-KI-Kiribati-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KI-Kiribati-2K.webp",
+      "size_bytes": 4004036,
+      "sha256": "8740719b102f35ec239b92ade694074709522dcee17f2d055bb3605ebcd4ae1d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "kiribati"
+      ]
+    },
+    {
+      "id": "omarchy-country-KM-Comoros-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Comoros",
+      "code": "KM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KM-Comoros-2K.webp",
+      "path": "masters/countries/omarchy-country-KM-Comoros-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KM-Comoros-2K.webp",
+      "size_bytes": 3891004,
+      "sha256": "7fcfa95aa551d29c3556502b62f7dbabe4e625c3f976c4088948808b112a717d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "comoros"
+      ]
+    },
+    {
+      "id": "omarchy-country-KN-Saint-Kitts-and-Nevis-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KN-Saint-Kitts-and-Nevis-2K.webp",
+      "path": "masters/countries/omarchy-country-KN-Saint-Kitts-and-Nevis-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KN-Saint-Kitts-and-Nevis-2K.webp",
+      "size_bytes": 3434398,
+      "sha256": "ad6c1ac35e747bff3dfde2602a676c481fadbef2e2940233410d1863a3aa6524",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saint-kitts-and-nevis"
+      ]
+    },
+    {
+      "id": "omarchy-country-KP-North-Korea-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "North Korea",
+      "code": "KP",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KP-North-Korea-2K.webp",
+      "path": "masters/countries/omarchy-country-KP-North-Korea-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KP-North-Korea-2K.webp",
+      "size_bytes": 3667790,
+      "sha256": "4e4b618812813c8b946e01f5555fe691de343511b9e2845cf17ad5d9fe5bab4e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "north-korea"
+      ]
+    },
+    {
+      "id": "omarchy-country-KR-South-Korea-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "South Korea",
+      "code": "KR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KR-South-Korea-2K.webp",
+      "path": "masters/countries/omarchy-country-KR-South-Korea-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KR-South-Korea-2K.webp",
+      "size_bytes": 3269472,
+      "sha256": "79ce9e5f3d1d147981809709f4cebbdc365a0ff734512d47297dcf57349bb12b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "south-korea"
+      ]
+    },
+    {
+      "id": "omarchy-country-KW-Kuwait-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Kuwait",
+      "code": "KW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KW-Kuwait-2K.webp",
+      "path": "masters/countries/omarchy-country-KW-Kuwait-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KW-Kuwait-2K.webp",
+      "size_bytes": 2809094,
+      "sha256": "bf831c528c1382e432807b64b3332d35d24b25bcb4a1da2b7fcc557c81d994d4",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "kuwait"
+      ]
+    },
+    {
+      "id": "omarchy-country-KY-Cayman-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Cayman Islands",
+      "code": "KY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KY-Cayman-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-KY-Cayman-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KY-Cayman-Islands-2K.webp",
+      "size_bytes": 3908952,
+      "sha256": "5e1c9cf10f44175d1ab328adff30850ddba49aacc002e764492b640b3cb2c5c3",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "cayman-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-KZ-Kazakhstan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-KZ-Kazakhstan-2K.webp",
+      "path": "masters/countries/omarchy-country-KZ-Kazakhstan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-KZ-Kazakhstan-2K.webp",
+      "size_bytes": 3553878,
+      "sha256": "7c79a0dea097dd19233772a6ca8267bcaa0ed0af671aed754bd21e74e540f953",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "kazakhstan"
+      ]
+    },
+    {
+      "id": "omarchy-country-LA-Laos-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Laos",
+      "code": "LA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LA-Laos-2K.webp",
+      "path": "masters/countries/omarchy-country-LA-Laos-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LA-Laos-2K.webp",
+      "size_bytes": 4017606,
+      "sha256": "22f6c11f7a8b7458a606da1deb1b176c6d753908eb2054806f6d89052249a35f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "laos"
+      ]
+    },
+    {
+      "id": "omarchy-country-LB-Lebanon-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Lebanon",
+      "code": "LB",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LB-Lebanon-2K.webp",
+      "path": "masters/countries/omarchy-country-LB-Lebanon-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LB-Lebanon-2K.webp",
+      "size_bytes": 3598900,
+      "sha256": "b5dd48cb0ab2254e3e0103320e9dcfb9cb4c2ba3e031bcbf0c26ec5d594cbd59",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "lebanon"
+      ]
+    },
+    {
+      "id": "omarchy-country-LC-Saint-Lucia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saint Lucia",
+      "code": "LC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LC-Saint-Lucia-2K.webp",
+      "path": "masters/countries/omarchy-country-LC-Saint-Lucia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LC-Saint-Lucia-2K.webp",
+      "size_bytes": 3771968,
+      "sha256": "0026b0e9ea177d7da6fddf9045c9f5a2557ba63df4b79d89d1e45d1848cb12d9",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saint-lucia"
+      ]
+    },
+    {
+      "id": "omarchy-country-LI-Liechtenstein-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Liechtenstein",
+      "code": "LI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LI-Liechtenstein-2K.webp",
+      "path": "masters/countries/omarchy-country-LI-Liechtenstein-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LI-Liechtenstein-2K.webp",
+      "size_bytes": 3067728,
+      "sha256": "d563d08a0f20c91e88009dbe65b122caa15ab5adaf91db23130fe9f2b47a17b9",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "liechtenstein"
+      ]
+    },
+    {
+      "id": "omarchy-country-LK-Sri-Lanka-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Sri Lanka",
+      "code": "LK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LK-Sri-Lanka-2K.webp",
+      "path": "masters/countries/omarchy-country-LK-Sri-Lanka-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LK-Sri-Lanka-2K.webp",
+      "size_bytes": 3813000,
+      "sha256": "75656965d51722b076c57a10e5d2fc6fd0c3ca3928cb06ed8d7b02445ec1b960",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "sri-lanka"
+      ]
+    },
+    {
+      "id": "omarchy-country-LR-Liberia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Liberia",
+      "code": "LR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LR-Liberia-2K.webp",
+      "path": "masters/countries/omarchy-country-LR-Liberia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LR-Liberia-2K.webp",
+      "size_bytes": 3552322,
+      "sha256": "3ed6b6d6b45ad6be8439caa7a80eb5e7d364236b21a433b8f7631cadfae12b49",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "liberia"
+      ]
+    },
+    {
+      "id": "omarchy-country-LS-Lesotho-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Lesotho",
+      "code": "LS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LS-Lesotho-2K.webp",
+      "path": "masters/countries/omarchy-country-LS-Lesotho-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LS-Lesotho-2K.webp",
+      "size_bytes": 3499062,
+      "sha256": "5f5951d215c4cbc7e15dd7a6e1a4ec58f48cf81a2877e2b9cb68a2993622d25b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "lesotho"
+      ]
+    },
+    {
+      "id": "omarchy-country-LT-Lithuania-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Lithuania",
+      "code": "LT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LT-Lithuania-2K.webp",
+      "path": "masters/countries/omarchy-country-LT-Lithuania-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LT-Lithuania-2K.webp",
+      "size_bytes": 3466888,
+      "sha256": "715ce8ecdcbf47af3c66f66735d451a0bdcf3b9b1a7ab651a645bd42cbe3141a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "lithuania"
+      ]
+    },
+    {
+      "id": "omarchy-country-LU-Luxembourg-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Luxembourg",
+      "code": "LU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LU-Luxembourg-2K.webp",
+      "path": "masters/countries/omarchy-country-LU-Luxembourg-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LU-Luxembourg-2K.webp",
+      "size_bytes": 3864360,
+      "sha256": "2047017c045786ea75491db015e86d7039a8c2316f22d246abb62a7914941281",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "luxembourg"
+      ]
+    },
+    {
+      "id": "omarchy-country-LV-Latvia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Latvia",
+      "code": "LV",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LV-Latvia-2K.webp",
+      "path": "masters/countries/omarchy-country-LV-Latvia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LV-Latvia-2K.webp",
+      "size_bytes": 3524354,
+      "sha256": "898be56ce1f8eb823936b3c7ee10ef3e5fd5a6792c4a55073ff2dd00d280b89d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "latvia"
+      ]
+    },
+    {
+      "id": "omarchy-country-LY-Libya-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Libya",
+      "code": "LY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-LY-Libya-2K.webp",
+      "path": "masters/countries/omarchy-country-LY-Libya-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-LY-Libya-2K.webp",
+      "size_bytes": 3024134,
+      "sha256": "f8fa07225ae127dd1f2da8031096a5ab7723ce0ba1c140ce962ff09d4eae1e47",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "libya"
+      ]
+    },
+    {
+      "id": "omarchy-country-MA-Morocco-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Morocco",
+      "code": "MA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MA-Morocco-2K.webp",
+      "path": "masters/countries/omarchy-country-MA-Morocco-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MA-Morocco-2K.webp",
+      "size_bytes": 3528502,
+      "sha256": "84a79f1a391627e5c33328be982a944cf3fc23759baf7f9516a322d981b77840",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "morocco"
+      ]
+    },
+    {
+      "id": "omarchy-country-MC-Monaco-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Monaco",
+      "code": "MC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MC-Monaco-2K.webp",
+      "path": "masters/countries/omarchy-country-MC-Monaco-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MC-Monaco-2K.webp",
+      "size_bytes": 3587244,
+      "sha256": "888e0da7d2e194937e3fb81b87ac4817ab905a3589be2e6fc969f705bf75058f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "monaco"
+      ]
+    },
+    {
+      "id": "omarchy-country-MD-Moldova-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Moldova",
+      "code": "MD",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MD-Moldova-2K.webp",
+      "path": "masters/countries/omarchy-country-MD-Moldova-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MD-Moldova-2K.webp",
+      "size_bytes": 3659648,
+      "sha256": "464d4ebb3f7f2710b52a3b17293175e34622a686f53220e5c09f163684258ad7",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "moldova"
+      ]
+    },
+    {
+      "id": "omarchy-country-ME-Montenegro-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Montenegro",
+      "code": "ME",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ME-Montenegro-2K.webp",
+      "path": "masters/countries/omarchy-country-ME-Montenegro-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ME-Montenegro-2K.webp",
+      "size_bytes": 3745550,
+      "sha256": "78851cf9f9fb082de3ecd4f6492afa654959e2cf6842212bbf6980fa8af6c96e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "montenegro"
+      ]
+    },
+    {
+      "id": "omarchy-country-MF-Saint-Martin-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saint Martin",
+      "code": "MF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MF-Saint-Martin-2K.webp",
+      "path": "masters/countries/omarchy-country-MF-Saint-Martin-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MF-Saint-Martin-2K.webp",
+      "size_bytes": 3357724,
+      "sha256": "33289f1ca0ee577c3f3c10409bc2eb8b72b1de7eff8f099d9f3e72ad905299af",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saint-martin"
+      ]
+    },
+    {
+      "id": "omarchy-country-MG-Madagascar-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Madagascar",
+      "code": "MG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MG-Madagascar-2K.webp",
+      "path": "masters/countries/omarchy-country-MG-Madagascar-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MG-Madagascar-2K.webp",
+      "size_bytes": 3852156,
+      "sha256": "7325cdf720b295ba4c6d060f5f0b928b95164494b411af77b94a14caed2b43bf",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "madagascar"
+      ]
+    },
+    {
+      "id": "omarchy-country-MH-Marshall-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Marshall Islands",
+      "code": "MH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MH-Marshall-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-MH-Marshall-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MH-Marshall-Islands-2K.webp",
+      "size_bytes": 3823952,
+      "sha256": "fbd0dfb59f0d02ff3e92b9c4faa4f90d5661d7516513b160b10eb286d1ec8d36",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "marshall-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-MK-North-Macedonia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "North Macedonia",
+      "code": "MK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MK-North-Macedonia-2K.webp",
+      "path": "masters/countries/omarchy-country-MK-North-Macedonia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MK-North-Macedonia-2K.webp",
+      "size_bytes": 3530190,
+      "sha256": "9609119e929c4a5056c940430d57cc463992679c332577124dc0d8734dc0e69e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "north-macedonia"
+      ]
+    },
+    {
+      "id": "omarchy-country-ML-Mali-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Mali",
+      "code": "ML",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ML-Mali-2K.webp",
+      "path": "masters/countries/omarchy-country-ML-Mali-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ML-Mali-2K.webp",
+      "size_bytes": 3578060,
+      "sha256": "67d00d341025ec6f7323b479f0c10366ac03474ac738d4a9cd93e8048a7909d5",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "mali"
+      ]
+    },
+    {
+      "id": "omarchy-country-MM-Myanmar-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Myanmar",
+      "code": "MM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MM-Myanmar-2K.webp",
+      "path": "masters/countries/omarchy-country-MM-Myanmar-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MM-Myanmar-2K.webp",
+      "size_bytes": 3685330,
+      "sha256": "d1910457ea47c47b690a8633c50e4e68c2eb136c2a58253caa24091f6096873f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "myanmar"
+      ]
+    },
+    {
+      "id": "omarchy-country-MN-Mongolia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Mongolia",
+      "code": "MN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MN-Mongolia-2K.webp",
+      "path": "masters/countries/omarchy-country-MN-Mongolia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MN-Mongolia-2K.webp",
+      "size_bytes": 3480016,
+      "sha256": "529f4540441e5e3dd0fac7435c11de2a7060bcdb38e33531b2be067fb88622e9",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "mongolia"
+      ]
+    },
+    {
+      "id": "omarchy-country-MO-Macau-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Macau",
+      "code": "MO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MO-Macau-2K.webp",
+      "path": "masters/countries/omarchy-country-MO-Macau-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MO-Macau-2K.webp",
+      "size_bytes": 3677932,
+      "sha256": "24b4f5692909de1a54e874ebac595a604c6eb750638417d37bffece3f2080b4d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "macau"
+      ]
+    },
+    {
+      "id": "omarchy-country-MP-Northern-Mariana-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MP-Northern-Mariana-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-MP-Northern-Mariana-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MP-Northern-Mariana-Islands-2K.webp",
+      "size_bytes": 3226652,
+      "sha256": "f20f5385412c06b59eb7af49ccee7c6d12c669506cb18d5bca800e261dfec997",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "northern-mariana-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-MQ-Martinique-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Martinique",
+      "code": "MQ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MQ-Martinique-2K.webp",
+      "path": "masters/countries/omarchy-country-MQ-Martinique-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MQ-Martinique-2K.webp",
+      "size_bytes": 3409268,
+      "sha256": "3c519553254568bd2054fc04f3ec9c986c15420e5efb53a23fd2d247129a1311",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "martinique"
+      ]
+    },
+    {
+      "id": "omarchy-country-MR-Mauritania-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Mauritania",
+      "code": "MR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MR-Mauritania-2K.webp",
+      "path": "masters/countries/omarchy-country-MR-Mauritania-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MR-Mauritania-2K.webp",
+      "size_bytes": 2529630,
+      "sha256": "404a16401434f32cbd36edd3a65860deb6c45c6ca0e2bc6e22f2c968d39d5ed5",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "mauritania"
+      ]
+    },
+    {
+      "id": "omarchy-country-MS-Montserrat-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Montserrat",
+      "code": "MS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MS-Montserrat-2K.webp",
+      "path": "masters/countries/omarchy-country-MS-Montserrat-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MS-Montserrat-2K.webp",
+      "size_bytes": 3494992,
+      "sha256": "3f0f348450e4a390bab3314cff8852f1ccf222d1d6f58be7efab0e350b1348db",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "montserrat"
+      ]
+    },
+    {
+      "id": "omarchy-country-MT-Malta-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Malta",
+      "code": "MT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MT-Malta-2K.webp",
+      "path": "masters/countries/omarchy-country-MT-Malta-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MT-Malta-2K.webp",
+      "size_bytes": 3310048,
+      "sha256": "fa9482d2848c5fe4bdd26061d0695e25a6cf9bde5ffe293a8322e8e12158a3ea",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "malta"
+      ]
+    },
+    {
+      "id": "omarchy-country-MU-Mauritius-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Mauritius",
+      "code": "MU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MU-Mauritius-2K.webp",
+      "path": "masters/countries/omarchy-country-MU-Mauritius-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MU-Mauritius-2K.webp",
+      "size_bytes": 3879830,
+      "sha256": "b8ad0925fc80abe7a796e6c62b1eb86da9b8ffbdf3ebcb4dbd3099f4189b1712",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "mauritius"
+      ]
+    },
+    {
+      "id": "omarchy-country-MV-Maldives-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Maldives",
+      "code": "MV",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MV-Maldives-2K.webp",
+      "path": "masters/countries/omarchy-country-MV-Maldives-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MV-Maldives-2K.webp",
+      "size_bytes": 2931802,
+      "sha256": "c0ab08d373f020000c8928dd456590c4718c4e03dd1534b957dd992238f14877",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "maldives"
+      ]
+    },
+    {
+      "id": "omarchy-country-MW-Malawi-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Malawi",
+      "code": "MW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MW-Malawi-2K.webp",
+      "path": "masters/countries/omarchy-country-MW-Malawi-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MW-Malawi-2K.webp",
+      "size_bytes": 3491510,
+      "sha256": "af3a092aafe8aac7e8ee2148694fd441c62911c3ef08f1c7690f99fce02bdab2",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "malawi"
+      ]
+    },
+    {
+      "id": "omarchy-country-MX-Mexico-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Mexico",
+      "code": "MX",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MX-Mexico-2K.webp",
+      "path": "masters/countries/omarchy-country-MX-Mexico-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MX-Mexico-2K.webp",
+      "size_bytes": 3435724,
+      "sha256": "e349931a8c85371771618821acf77fff852145e7843d67c11ea3ad7676e1e7e7",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "mexico"
+      ]
+    },
+    {
+      "id": "omarchy-country-MY-Malaysia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Malaysia",
+      "code": "MY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MY-Malaysia-2K.webp",
+      "path": "masters/countries/omarchy-country-MY-Malaysia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MY-Malaysia-2K.webp",
+      "size_bytes": 3894628,
+      "sha256": "8895b50ca789da62c1056ee7f3e9d92dde7eed8af02b186ee8677c7a518d7cb6",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "malaysia"
+      ]
+    },
+    {
+      "id": "omarchy-country-MZ-Mozambique-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Mozambique",
+      "code": "MZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-MZ-Mozambique-2K.webp",
+      "path": "masters/countries/omarchy-country-MZ-Mozambique-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-MZ-Mozambique-2K.webp",
+      "size_bytes": 3577128,
+      "sha256": "4f4bbf37759a52c99bacf16fe35da1897f560f84d5723fdc62e0bc71cdadf310",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "mozambique"
+      ]
+    },
+    {
+      "id": "omarchy-country-NA-Namibia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Namibia",
+      "code": "NA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NA-Namibia-2K.webp",
+      "path": "masters/countries/omarchy-country-NA-Namibia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NA-Namibia-2K.webp",
+      "size_bytes": 3091532,
+      "sha256": "5077916d5a24c828e8afd21331fdd184e721c641034867f3d359700bf629494d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "namibia"
+      ]
+    },
+    {
+      "id": "omarchy-country-NC-New-Caledonia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "New Caledonia",
+      "code": "NC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NC-New-Caledonia-2K.webp",
+      "path": "masters/countries/omarchy-country-NC-New-Caledonia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NC-New-Caledonia-2K.webp",
+      "size_bytes": 3901974,
+      "sha256": "e751de22524ccb213037706d8bacad1a4e99281bdcd51ce9f94870b583b2db59",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "new-caledonia"
+      ]
+    },
+    {
+      "id": "omarchy-country-NE-Niger-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Niger",
+      "code": "NE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NE-Niger-2K.webp",
+      "path": "masters/countries/omarchy-country-NE-Niger-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NE-Niger-2K.webp",
+      "size_bytes": 3358426,
+      "sha256": "a2c788c4bdda922a76c5abdfe88636c1c3111c451e42e9ccd66b3658932c2e77",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "niger"
+      ]
+    },
+    {
+      "id": "omarchy-country-NF-Norfolk-Island-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Norfolk Island",
+      "code": "NF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NF-Norfolk-Island-2K.webp",
+      "path": "masters/countries/omarchy-country-NF-Norfolk-Island-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NF-Norfolk-Island-2K.webp",
+      "size_bytes": 4071776,
+      "sha256": "91bde000076604a5d4a6856254cd1c1195b2e3b0194075e596bf2cfc1ce1a862",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "norfolk-island"
+      ]
+    },
+    {
+      "id": "omarchy-country-NG-Nigeria-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Nigeria",
+      "code": "NG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NG-Nigeria-2K.webp",
+      "path": "masters/countries/omarchy-country-NG-Nigeria-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NG-Nigeria-2K.webp",
+      "size_bytes": 3742696,
+      "sha256": "fb933961950a9d95b543f0a962970425a70d17e6506c983ea0520a964cff489d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "nigeria"
+      ]
+    },
+    {
+      "id": "omarchy-country-NI-Nicaragua-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Nicaragua",
+      "code": "NI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NI-Nicaragua-2K.webp",
+      "path": "masters/countries/omarchy-country-NI-Nicaragua-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NI-Nicaragua-2K.webp",
+      "size_bytes": 3938152,
+      "sha256": "b6fadfb041cd93fb0241833402a647dd52566940bc5094a1fdae0a9d8b4b4125",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "nicaragua"
+      ]
+    },
+    {
+      "id": "omarchy-country-NL-Netherlands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Netherlands",
+      "code": "NL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NL-Netherlands-2K.webp",
+      "path": "masters/countries/omarchy-country-NL-Netherlands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NL-Netherlands-2K.webp",
+      "size_bytes": 3295718,
+      "sha256": "a464faa57f1d3aa6f235a4c0ad6fdea74953853c20a2a446aca788a52900c312",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "netherlands"
+      ]
+    },
+    {
+      "id": "omarchy-country-NO-Norway-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Norway",
+      "code": "NO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NO-Norway-2K.webp",
+      "path": "masters/countries/omarchy-country-NO-Norway-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NO-Norway-2K.webp",
+      "size_bytes": 3397828,
+      "sha256": "aa4f078ac40d22cc04dabdca3de91ce71496038d187a492f091ade047ef19c5f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "norway"
+      ]
+    },
+    {
+      "id": "omarchy-country-NP-Nepal-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Nepal",
+      "code": "NP",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NP-Nepal-2K.webp",
+      "path": "masters/countries/omarchy-country-NP-Nepal-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NP-Nepal-2K.webp",
+      "size_bytes": 3408060,
+      "sha256": "462ddb8600d00040f4acac1c01ff0cdb917ea61abcd83588b042888b3d2b32a1",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "nepal"
+      ]
+    },
+    {
+      "id": "omarchy-country-NR-Nauru-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Nauru",
+      "code": "NR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NR-Nauru-2K.webp",
+      "path": "masters/countries/omarchy-country-NR-Nauru-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NR-Nauru-2K.webp",
+      "size_bytes": 3669452,
+      "sha256": "19efebbc736f04df4d56d558c562cb6b02467247936a063f088c0184e3034c93",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "nauru"
+      ]
+    },
+    {
+      "id": "omarchy-country-NU-Niue-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Niue",
+      "code": "NU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NU-Niue-2K.webp",
+      "path": "masters/countries/omarchy-country-NU-Niue-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NU-Niue-2K.webp",
+      "size_bytes": 3634208,
+      "sha256": "18e1cf91a11dd7c76a8b1932e429b5361245e8f54aded658d536c7962e29dd4e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "niue"
+      ]
+    },
+    {
+      "id": "omarchy-country-NZ-New-Zealand-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "New Zealand",
+      "code": "NZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-NZ-New-Zealand-2K.webp",
+      "path": "masters/countries/omarchy-country-NZ-New-Zealand-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-NZ-New-Zealand-2K.webp",
+      "size_bytes": 3672116,
+      "sha256": "d4ab9f322324223f4effcab7b2aed083f7be449367c59a9d72c37ed286c93a7d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "new-zealand"
+      ]
+    },
+    {
+      "id": "omarchy-country-OM-Oman-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Oman",
+      "code": "OM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-OM-Oman-2K.webp",
+      "path": "masters/countries/omarchy-country-OM-Oman-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-OM-Oman-2K.webp",
+      "size_bytes": 2574690,
+      "sha256": "8c85fe90b9efd6cd88b4c4b003738719e335c6616eba6ac1d6f8b9d980083ab8",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "oman"
+      ]
+    },
+    {
+      "id": "omarchy-country-PA-Panama-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Panama",
+      "code": "PA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PA-Panama-2K.webp",
+      "path": "masters/countries/omarchy-country-PA-Panama-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PA-Panama-2K.webp",
+      "size_bytes": 4098644,
+      "sha256": "82ca6c4783af1df5ad64f28012bf0aaac6a5123fc0c858975d4d94ac38041b67",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "panama"
+      ]
+    },
+    {
+      "id": "omarchy-country-PE-Peru-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Peru",
+      "code": "PE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PE-Peru-2K.webp",
+      "path": "masters/countries/omarchy-country-PE-Peru-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PE-Peru-2K.webp",
+      "size_bytes": 3849868,
+      "sha256": "e5017b1536b12a4109fe60a9d5daee3f44a1fc3d40005bfe1b14b037664f1d61",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "peru"
+      ]
+    },
+    {
+      "id": "omarchy-country-PF-French-Polynesia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "French Polynesia",
+      "code": "PF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PF-French-Polynesia-2K.webp",
+      "path": "masters/countries/omarchy-country-PF-French-Polynesia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PF-French-Polynesia-2K.webp",
+      "size_bytes": 3794294,
+      "sha256": "24fc848370c711f4c94d1c78211e962bfdf7afaf2ee6cf94bf076d7e8d370921",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "french-polynesia"
+      ]
+    },
+    {
+      "id": "omarchy-country-PG-Papua-New-Guinea-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PG-Papua-New-Guinea-2K.webp",
+      "path": "masters/countries/omarchy-country-PG-Papua-New-Guinea-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PG-Papua-New-Guinea-2K.webp",
+      "size_bytes": 4115552,
+      "sha256": "5eda2af7eccf90d82a2c9fedeb520c73e6148455eee3511c42e7d9fcad0c2f8d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "papua-new-guinea"
+      ]
+    },
+    {
+      "id": "omarchy-country-PH-Philippines-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Philippines",
+      "code": "PH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PH-Philippines-2K.webp",
+      "path": "masters/countries/omarchy-country-PH-Philippines-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PH-Philippines-2K.webp",
+      "size_bytes": 3930300,
+      "sha256": "66438f8b7e656f2293135ebb5fa4fb98fa4b5592cb0dc72fdc875577a54cebe2",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "philippines"
+      ]
+    },
+    {
+      "id": "omarchy-country-PK-Pakistan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Pakistan",
+      "code": "PK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PK-Pakistan-2K.webp",
+      "path": "masters/countries/omarchy-country-PK-Pakistan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PK-Pakistan-2K.webp",
+      "size_bytes": 3753344,
+      "sha256": "10c8cb0b65ce2464d73ca0a97b06b344231c9fcdc20276204835acfa687fd219",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "pakistan"
+      ]
+    },
+    {
+      "id": "omarchy-country-PL-Poland-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Poland",
+      "code": "PL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PL-Poland-2K.webp",
+      "path": "masters/countries/omarchy-country-PL-Poland-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PL-Poland-2K.webp",
+      "size_bytes": 3415334,
+      "sha256": "d311d56082bbaf6ea4684b85759b14c63b20c40b5470fc8e4c8d5a7c6ce86a02",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "poland"
+      ]
+    },
+    {
+      "id": "omarchy-country-PM-Saint-Pierre-and-Miquelon-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saint Pierre and Miquelon",
+      "code": "PM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PM-Saint-Pierre-and-Miquelon-2K.webp",
+      "path": "masters/countries/omarchy-country-PM-Saint-Pierre-and-Miquelon-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PM-Saint-Pierre-and-Miquelon-2K.webp",
+      "size_bytes": 3313688,
+      "sha256": "2d33a83281635b1be014bbff76eb1dfafb119fc613e1c3d87a1d6487249dca15",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saint-pierre-and-miquelon"
+      ]
+    },
+    {
+      "id": "omarchy-country-PN-Pitcairn-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Pitcairn",
+      "code": "PN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PN-Pitcairn-2K.webp",
+      "path": "masters/countries/omarchy-country-PN-Pitcairn-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PN-Pitcairn-2K.webp",
+      "size_bytes": 3718052,
+      "sha256": "9caa3c71f29d091bf57697b1e07a03c62b87b47880b46331f687b3430ea5e021",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "pitcairn"
+      ]
+    },
+    {
+      "id": "omarchy-country-PR-Puerto-Rico-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Puerto Rico",
+      "code": "PR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PR-Puerto-Rico-2K.webp",
+      "path": "masters/countries/omarchy-country-PR-Puerto-Rico-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PR-Puerto-Rico-2K.webp",
+      "size_bytes": 3684510,
+      "sha256": "cd48ddad76a1ff9125ef0bb1086db7f92d7d559b8c8a7dff4e569638b685ca0d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "puerto-rico"
+      ]
+    },
+    {
+      "id": "omarchy-country-PS-Palestine-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Palestine",
+      "code": "PS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PS-Palestine-2K.webp",
+      "path": "masters/countries/omarchy-country-PS-Palestine-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PS-Palestine-2K.webp",
+      "size_bytes": 3531830,
+      "sha256": "bc95e505adad36f542e74ba045af3ea1b37acf7390201059a76bb87c04db3c3f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "palestine"
+      ]
+    },
+    {
+      "id": "omarchy-country-PT-Portugal-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Portugal",
+      "code": "PT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PT-Portugal-2K.webp",
+      "path": "masters/countries/omarchy-country-PT-Portugal-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PT-Portugal-2K.webp",
+      "size_bytes": 3791474,
+      "sha256": "02d81cd8a67472b88601c33fdae3b2060a5ce7434c2a30ee4bbef4abc6237d92",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "portugal"
+      ]
+    },
+    {
+      "id": "omarchy-country-PW-Palau-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Palau",
+      "code": "PW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PW-Palau-2K.webp",
+      "path": "masters/countries/omarchy-country-PW-Palau-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PW-Palau-2K.webp",
+      "size_bytes": 3722320,
+      "sha256": "8fffa23058cc4ab0813114c6e6bd7e780a5712277dbd45dfb84aecfa109f458b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "palau"
+      ]
+    },
+    {
+      "id": "omarchy-country-PY-Paraguay-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Paraguay",
+      "code": "PY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-PY-Paraguay-2K.webp",
+      "path": "masters/countries/omarchy-country-PY-Paraguay-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-PY-Paraguay-2K.webp",
+      "size_bytes": 3509054,
+      "sha256": "61ef933fff39ec0533e46f89ad624f16cc210ef9038b2de08cb5956468328976",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "paraguay"
+      ]
+    },
+    {
+      "id": "omarchy-country-QA-Qatar-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Qatar",
+      "code": "QA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-QA-Qatar-2K.webp",
+      "path": "masters/countries/omarchy-country-QA-Qatar-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-QA-Qatar-2K.webp",
+      "size_bytes": 2993630,
+      "sha256": "925b997d152275a7e969c79f86b26c3cb93c3fbc00b46d9814ebe8f410ad95c4",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "qatar"
+      ]
+    },
+    {
+      "id": "omarchy-country-RE-Reunion-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Reunion",
+      "code": "RE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-RE-Reunion-2K.webp",
+      "path": "masters/countries/omarchy-country-RE-Reunion-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-RE-Reunion-2K.webp",
+      "size_bytes": 3764916,
+      "sha256": "62aaf218af3becea61dc07a33d8185abfa2c1069c2aba54f5fbff9d4cf586ae9",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "reunion"
+      ]
+    },
+    {
+      "id": "omarchy-country-RO-Romania-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Romania",
+      "code": "RO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-RO-Romania-2K.webp",
+      "path": "masters/countries/omarchy-country-RO-Romania-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-RO-Romania-2K.webp",
+      "size_bytes": 3336318,
+      "sha256": "155638a692b992ecf6ad9c059a3f09906904b66486ac64f1082c35f88fd56127",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "romania"
+      ]
+    },
+    {
+      "id": "omarchy-country-RS-Serbia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Serbia",
+      "code": "RS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-RS-Serbia-2K.webp",
+      "path": "masters/countries/omarchy-country-RS-Serbia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-RS-Serbia-2K.webp",
+      "size_bytes": 3415268,
+      "sha256": "e168ea9165465eab5524a15f657c44c96046af9aabcf1799bab66864ebea670f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "serbia"
+      ]
+    },
+    {
+      "id": "omarchy-country-RU-Russia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Russia",
+      "code": "RU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-RU-Russia-2K.webp",
+      "path": "masters/countries/omarchy-country-RU-Russia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-RU-Russia-2K.webp",
+      "size_bytes": 3488658,
+      "sha256": "b2940abaf896e095b37bb3279d09dcb27dc9eab3010919f9db5f0338af05a246",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "russia"
+      ]
+    },
+    {
+      "id": "omarchy-country-RW-Rwanda-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Rwanda",
+      "code": "RW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-RW-Rwanda-2K.webp",
+      "path": "masters/countries/omarchy-country-RW-Rwanda-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-RW-Rwanda-2K.webp",
+      "size_bytes": 3596394,
+      "sha256": "c3ebd80842624ed48f5b1753fbb3d75d85600296c38727ba0ba768b8bdeff25a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "rwanda"
+      ]
+    },
+    {
+      "id": "omarchy-country-SA-Saudi-Arabia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SA-Saudi-Arabia-2K.webp",
+      "path": "masters/countries/omarchy-country-SA-Saudi-Arabia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SA-Saudi-Arabia-2K.webp",
+      "size_bytes": 3358826,
+      "sha256": "98a3bce6e8f6824e5da896474c69f5f9cc9c0f0ccb0ac42d5ebb50a0da379de5",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saudi-arabia"
+      ]
+    },
+    {
+      "id": "omarchy-country-SB-Solomon-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Solomon Islands",
+      "code": "SB",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SB-Solomon-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-SB-Solomon-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SB-Solomon-Islands-2K.webp",
+      "size_bytes": 3227984,
+      "sha256": "287eb056fba7f8a5d1ff1e25e4e24c941841edc99e217c38d787d5838c70fa4c",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "solomon-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-SC-Seychelles-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Seychelles",
+      "code": "SC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SC-Seychelles-2K.webp",
+      "path": "masters/countries/omarchy-country-SC-Seychelles-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SC-Seychelles-2K.webp",
+      "size_bytes": 3447524,
+      "sha256": "feafb8f21be7f3e08cd38a807d1abee02b7920a4626d53a59056ba87fdc983a8",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "seychelles"
+      ]
+    },
+    {
+      "id": "omarchy-country-SD-Sudan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Sudan",
+      "code": "SD",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SD-Sudan-2K.webp",
+      "path": "masters/countries/omarchy-country-SD-Sudan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SD-Sudan-2K.webp",
+      "size_bytes": 3086148,
+      "sha256": "b871eeccd3009e573bff9780966e2bbccbc0c84f245fdd39b946fcae01ebdeb0",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "sudan"
+      ]
+    },
+    {
+      "id": "omarchy-country-SE-Sweden-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Sweden",
+      "code": "SE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SE-Sweden-2K.webp",
+      "path": "masters/countries/omarchy-country-SE-Sweden-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SE-Sweden-2K.webp",
+      "size_bytes": 3872246,
+      "sha256": "d953c67348a6ab3eb91e048d183ff4a58e5f2c5365fd9c6ddbf8ad62e49db9c0",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "sweden"
+      ]
+    },
+    {
+      "id": "omarchy-country-SG-Singapore-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Singapore",
+      "code": "SG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SG-Singapore-2K.webp",
+      "path": "masters/countries/omarchy-country-SG-Singapore-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SG-Singapore-2K.webp",
+      "size_bytes": 2954710,
+      "sha256": "b98e12834449eef2516a7bbe840bb8dc00bc806bcad26b7b4994ad455ccd9f20",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "singapore"
+      ]
+    },
+    {
+      "id": "omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saint Helena Ascension and Tristan da Cunha",
+      "code": "SH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K.webp",
+      "path": "masters/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K.webp",
+      "size_bytes": 3591240,
+      "sha256": "edec01318eda67715012aeef9b84a0122fc884e1d13408bb61f5b3c344fa635e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saint-helena-ascension-and-tristan-da-cunha"
+      ]
+    },
+    {
+      "id": "omarchy-country-SI-Slovenia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Slovenia",
+      "code": "SI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SI-Slovenia-2K.webp",
+      "path": "masters/countries/omarchy-country-SI-Slovenia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SI-Slovenia-2K.webp",
+      "size_bytes": 3418928,
+      "sha256": "186b795698d11fca8c65474ed0f33b70f1138f1fbf5b5f11f761c6fa2629324a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "slovenia"
+      ]
+    },
+    {
+      "id": "omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Svalbard and Jan Mayen",
+      "code": "SJ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp",
+      "path": "masters/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp",
+      "size_bytes": 3546252,
+      "sha256": "3501bb3e08f18fe65f5f85f02c4c14b986e11818fb32b9ad70c9b197d0335f03",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "svalbard-and-jan-mayen"
+      ]
+    },
+    {
+      "id": "omarchy-country-SK-Slovakia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Slovakia",
+      "code": "SK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SK-Slovakia-2K.webp",
+      "path": "masters/countries/omarchy-country-SK-Slovakia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SK-Slovakia-2K.webp",
+      "size_bytes": 3472752,
+      "sha256": "240e33d61b01cfa6f3a647713645553cc22bd7c605d12d64bab0f1b8133c32e4",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "slovakia"
+      ]
+    },
+    {
+      "id": "omarchy-country-SL-Sierra-Leone-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Sierra Leone",
+      "code": "SL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SL-Sierra-Leone-2K.webp",
+      "path": "masters/countries/omarchy-country-SL-Sierra-Leone-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SL-Sierra-Leone-2K.webp",
+      "size_bytes": 3747596,
+      "sha256": "44e7fae38f8e5b550c47e6791bbedcaacec61aed1a01e174c0c5a6447c8b4fa7",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "sierra-leone"
+      ]
+    },
+    {
+      "id": "omarchy-country-SM-San-Marino-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "San Marino",
+      "code": "SM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SM-San-Marino-2K.webp",
+      "path": "masters/countries/omarchy-country-SM-San-Marino-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SM-San-Marino-2K.webp",
+      "size_bytes": 3262500,
+      "sha256": "c3030961a639718fa78aa7b47912f57d7fdeafb19d5645c714be64e3c3649aff",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "san-marino"
+      ]
+    },
+    {
+      "id": "omarchy-country-SN-Senegal-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Senegal",
+      "code": "SN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SN-Senegal-2K.webp",
+      "path": "masters/countries/omarchy-country-SN-Senegal-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SN-Senegal-2K.webp",
+      "size_bytes": 3211872,
+      "sha256": "2bf4156cd0890e9cf462c6511b685aa616743e8cccdf83a3891269827615fb23",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "senegal"
+      ]
+    },
+    {
+      "id": "omarchy-country-SO-Somalia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Somalia",
+      "code": "SO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SO-Somalia-2K.webp",
+      "path": "masters/countries/omarchy-country-SO-Somalia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SO-Somalia-2K.webp",
+      "size_bytes": 3089148,
+      "sha256": "de8ef860ab810dc6cf2e8c4db65c801ee4aaadf1538c127a5adff7fc531c19d3",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "somalia"
+      ]
+    },
+    {
+      "id": "omarchy-country-SR-Suriname-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Suriname",
+      "code": "SR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SR-Suriname-2K.webp",
+      "path": "masters/countries/omarchy-country-SR-Suriname-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SR-Suriname-2K.webp",
+      "size_bytes": 3523976,
+      "sha256": "877a350c565c12c1d7d6674caf4aaf228ad14f99f15a5fbe5021fb3a8bf99b91",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "suriname"
+      ]
+    },
+    {
+      "id": "omarchy-country-SS-South-Sudan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "South Sudan",
+      "code": "SS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SS-South-Sudan-2K.webp",
+      "path": "masters/countries/omarchy-country-SS-South-Sudan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SS-South-Sudan-2K.webp",
+      "size_bytes": 3395950,
+      "sha256": "7d947b89a765c7d3e2bcf6d95831d9ed1af53bbe0670947bde81bcbd724f0dcb",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "south-sudan"
+      ]
+    },
+    {
+      "id": "omarchy-country-ST-Sao-Tome-and-Principe-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ST-Sao-Tome-and-Principe-2K.webp",
+      "path": "masters/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp",
+      "size_bytes": 3953796,
+      "sha256": "132ca63bff2ea9c3fe1d5cfb8d4fb90665e9f8bf968243767f34c9742cced203",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "sao-tome-and-principe"
+      ]
+    },
+    {
+      "id": "omarchy-country-SV-El-Salvador-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "El Salvador",
+      "code": "SV",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SV-El-Salvador-2K.webp",
+      "path": "masters/countries/omarchy-country-SV-El-Salvador-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SV-El-Salvador-2K.webp",
+      "size_bytes": 3216844,
+      "sha256": "b3aade2816051ae9aa41c3c7259c062cd64da0aeee10ce74ffd22bccf60a81d4",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "el-salvador"
+      ]
+    },
+    {
+      "id": "omarchy-country-SX-Sint-Maarten-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Sint Maarten",
+      "code": "SX",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SX-Sint-Maarten-2K.webp",
+      "path": "masters/countries/omarchy-country-SX-Sint-Maarten-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SX-Sint-Maarten-2K.webp",
+      "size_bytes": 3803268,
+      "sha256": "96418617cd4c2d801fe9e549ae12a3cd5d79e8e3a92f17af4faf1b510df0e98c",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "sint-maarten"
+      ]
+    },
+    {
+      "id": "omarchy-country-SY-Syria-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Syria",
+      "code": "SY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SY-Syria-2K.webp",
+      "path": "masters/countries/omarchy-country-SY-Syria-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SY-Syria-2K.webp",
+      "size_bytes": 3355976,
+      "sha256": "df0fc9cdc7e90f59409d3d807673c15a426a0a8d012bcb0c2195edcd9a012b8f",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "syria"
+      ]
+    },
+    {
+      "id": "omarchy-country-SZ-Eswatini-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Eswatini",
+      "code": "SZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-SZ-Eswatini-2K.webp",
+      "path": "masters/countries/omarchy-country-SZ-Eswatini-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-SZ-Eswatini-2K.webp",
+      "size_bytes": 3413968,
+      "sha256": "defd5b2d54edff80b1e8affe7d1fdcb8336258cf928bc617d0ebe44f364deb74",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "eswatini"
+      ]
+    },
+    {
+      "id": "omarchy-country-TC-Turks-and-Caicos-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Turks and Caicos Islands",
+      "code": "TC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TC-Turks-and-Caicos-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-TC-Turks-and-Caicos-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TC-Turks-and-Caicos-Islands-2K.webp",
+      "size_bytes": 3443402,
+      "sha256": "d283a81939e8d73796c92cee1e25932054ef92c0f576787414b8ac265a2e3748",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "turks-and-caicos-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-TD-Chad-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Chad",
+      "code": "TD",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TD-Chad-2K.webp",
+      "path": "masters/countries/omarchy-country-TD-Chad-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TD-Chad-2K.webp",
+      "size_bytes": 3552500,
+      "sha256": "bc1fc93285b8b87cb9f4f385527521aee2fdae532286134fd3824e3c84ef116a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "chad"
+      ]
+    },
+    {
+      "id": "omarchy-country-TF-French-Southern-Territories-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "French Southern Territories",
+      "code": "TF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TF-French-Southern-Territories-2K.webp",
+      "path": "masters/countries/omarchy-country-TF-French-Southern-Territories-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TF-French-Southern-Territories-2K.webp",
+      "size_bytes": 3071836,
+      "sha256": "e55a4bc00b781ad9873c7ccf3455c490e5817817571aed173f37cf881ca3a7f6",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "french-southern-territories"
+      ]
+    },
+    {
+      "id": "omarchy-country-TG-Togo-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Togo",
+      "code": "TG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TG-Togo-2K.webp",
+      "path": "masters/countries/omarchy-country-TG-Togo-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TG-Togo-2K.webp",
+      "size_bytes": 3507688,
+      "sha256": "c89e3c03bb151ddc31d0aceeae850b3cf07b223357a4c794e274546bc7c2ae8a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "togo"
+      ]
+    },
+    {
+      "id": "omarchy-country-TH-Thailand-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Thailand",
+      "code": "TH",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TH-Thailand-2K.webp",
+      "path": "masters/countries/omarchy-country-TH-Thailand-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TH-Thailand-2K.webp",
+      "size_bytes": 3503846,
+      "sha256": "d8753a1b6e8705cd97f57e128690630c95aae96f40249f8ec5fef2eff0b08e92",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "thailand"
+      ]
+    },
+    {
+      "id": "omarchy-country-TJ-Tajikistan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Tajikistan",
+      "code": "TJ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TJ-Tajikistan-2K.webp",
+      "path": "masters/countries/omarchy-country-TJ-Tajikistan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TJ-Tajikistan-2K.webp",
+      "size_bytes": 3717788,
+      "sha256": "1fb037e08367bdd41613fa75ed9d047e83a94fc801e702f6f4a57e693114ea2a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "tajikistan"
+      ]
+    },
+    {
+      "id": "omarchy-country-TK-Tokelau-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Tokelau",
+      "code": "TK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TK-Tokelau-2K.webp",
+      "path": "masters/countries/omarchy-country-TK-Tokelau-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TK-Tokelau-2K.webp",
+      "size_bytes": 3534832,
+      "sha256": "1a5e47b4842b55d6cb6765e3612805948fa3c02e764f8f90cf750cf3731d1f18",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "tokelau"
+      ]
+    },
+    {
+      "id": "omarchy-country-TL-Timor-Leste-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Timor Leste",
+      "code": "TL",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TL-Timor-Leste-2K.webp",
+      "path": "masters/countries/omarchy-country-TL-Timor-Leste-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TL-Timor-Leste-2K.webp",
+      "size_bytes": 3533372,
+      "sha256": "8a43b25f0ac4322b5d5fec464e787813123c9fee1dd579e49fcbba88f1099c19",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "timor-leste"
+      ]
+    },
+    {
+      "id": "omarchy-country-TM-Turkmenistan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Turkmenistan",
+      "code": "TM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TM-Turkmenistan-2K.webp",
+      "path": "masters/countries/omarchy-country-TM-Turkmenistan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TM-Turkmenistan-2K.webp",
+      "size_bytes": 3228172,
+      "sha256": "dede3b28b154e86c11c96245d1ef8cdae996e35d07d0217a03396a1b3f73ce96",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "turkmenistan"
+      ]
+    },
+    {
+      "id": "omarchy-country-TN-Tunisia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Tunisia",
+      "code": "TN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TN-Tunisia-2K.webp",
+      "path": "masters/countries/omarchy-country-TN-Tunisia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TN-Tunisia-2K.webp",
+      "size_bytes": 3291416,
+      "sha256": "7ef424c2bd660700a8130642b0b0da749a3b95b2a6bb566221c622ffb4adb289",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "tunisia"
+      ]
+    },
+    {
+      "id": "omarchy-country-TO-Tonga-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Tonga",
+      "code": "TO",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TO-Tonga-2K.webp",
+      "path": "masters/countries/omarchy-country-TO-Tonga-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TO-Tonga-2K.webp",
+      "size_bytes": 2887138,
+      "sha256": "ac45754bc7f33139193dd1baf8cf5fee63d5b3cc46937a82d899ef7c6130cf20",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "tonga"
+      ]
+    },
+    {
+      "id": "omarchy-country-TR-Turkey-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Turkey",
+      "code": "TR",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TR-Turkey-2K.webp",
+      "path": "masters/countries/omarchy-country-TR-Turkey-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TR-Turkey-2K.webp",
+      "size_bytes": 3266144,
+      "sha256": "59b49151204a1949fad801686d10537c751a9df6b43ca1aa4065fbe9f3759092",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "turkey"
+      ]
+    },
+    {
+      "id": "omarchy-country-TT-Trinidad-and-Tobago-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TT-Trinidad-and-Tobago-2K.webp",
+      "path": "masters/countries/omarchy-country-TT-Trinidad-and-Tobago-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TT-Trinidad-and-Tobago-2K.webp",
+      "size_bytes": 3462262,
+      "sha256": "e9ccffc1517cd02535025da345507dc3660a645d6533a0ef449ea65fa9e1f20a",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "trinidad-and-tobago"
+      ]
+    },
+    {
+      "id": "omarchy-country-TV-Tuvalu-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Tuvalu",
+      "code": "TV",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TV-Tuvalu-2K.webp",
+      "path": "masters/countries/omarchy-country-TV-Tuvalu-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TV-Tuvalu-2K.webp",
+      "size_bytes": 2988262,
+      "sha256": "4864683ea3a3f3e071bbd1043aa0570e96172cf58788e00fdd0067edd22764f5",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "tuvalu"
+      ]
+    },
+    {
+      "id": "omarchy-country-TW-Taiwan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Taiwan",
+      "code": "TW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TW-Taiwan-2K.webp",
+      "path": "masters/countries/omarchy-country-TW-Taiwan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TW-Taiwan-2K.webp",
+      "size_bytes": 3567334,
+      "sha256": "f5a1d4175199012206abb6a0886ad66275acab75639314846a11ce180e0679db",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "taiwan"
+      ]
+    },
+    {
+      "id": "omarchy-country-TZ-Tanzania-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Tanzania",
+      "code": "TZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-TZ-Tanzania-2K.webp",
+      "path": "masters/countries/omarchy-country-TZ-Tanzania-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-TZ-Tanzania-2K.webp",
+      "size_bytes": 2940974,
+      "sha256": "efff063bda3816f2ff1387f5b7b29769091d0c4e517df2604bc371e68fed3036",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "tanzania"
+      ]
+    },
+    {
+      "id": "omarchy-country-UA-Ukraine-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Ukraine",
+      "code": "UA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-UA-Ukraine-2K.webp",
+      "path": "masters/countries/omarchy-country-UA-Ukraine-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-UA-Ukraine-2K.webp",
+      "size_bytes": 3097550,
+      "sha256": "f255cb1196dece311d4094dcc886254711089ef90ab6a175f8607c5002ce612b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "ukraine"
+      ]
+    },
+    {
+      "id": "omarchy-country-UG-Uganda-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Uganda",
+      "code": "UG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-UG-Uganda-2K.webp",
+      "path": "masters/countries/omarchy-country-UG-Uganda-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-UG-Uganda-2K.webp",
+      "size_bytes": 3251752,
+      "sha256": "a34fab5e4dae3e370e8c8ce02c426dd1d10e80c4d44dc1074ad5b2efc1ff23bf",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "uganda"
+      ]
+    },
+    {
+      "id": "omarchy-country-UM-US-Minor-Outlying-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "US Minor Outlying Islands",
+      "code": "UM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp",
+      "size_bytes": 3119184,
+      "sha256": "bbc9883c39cf98c018147eb279422888f4ab470b30bc2377931bb2eb44bc456c",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "us-minor-outlying-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-US-USA-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "USA",
+      "code": "US",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-US-USA-2K.webp",
+      "path": "masters/countries/omarchy-country-US-USA-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-US-USA-2K.webp",
+      "size_bytes": 3401398,
+      "sha256": "9d216092f70e4979768193788ca0255226f0a5b51734a541cf0d74ca1376cb3b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "usa"
+      ]
+    },
+    {
+      "id": "omarchy-country-UY-Uruguay-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Uruguay",
+      "code": "UY",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-UY-Uruguay-2K.webp",
+      "path": "masters/countries/omarchy-country-UY-Uruguay-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-UY-Uruguay-2K.webp",
+      "size_bytes": 2681222,
+      "sha256": "a0b612d40bf09843c8deea8cbf4fa83e0c74277c298a10e08ca710e5a9ade6dc",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "uruguay"
+      ]
+    },
+    {
+      "id": "omarchy-country-UZ-Uzbekistan-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-UZ-Uzbekistan-2K.webp",
+      "path": "masters/countries/omarchy-country-UZ-Uzbekistan-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-UZ-Uzbekistan-2K.webp",
+      "size_bytes": 3126068,
+      "sha256": "7890ae1612cd77fa38261fb57d36e033dccc4e2563021051087bce99beda82c0",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "uzbekistan"
+      ]
+    },
+    {
+      "id": "omarchy-country-VA-Vatican-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Vatican",
+      "code": "VA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-VA-Vatican-2K.webp",
+      "path": "masters/countries/omarchy-country-VA-Vatican-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-VA-Vatican-2K.webp",
+      "size_bytes": 3001880,
+      "sha256": "d18256998ae674f01748aa76561add150d2192210b8f49b47e50f2b27d8b88ff",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "vatican"
+      ]
+    },
+    {
+      "id": "omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp",
+      "path": "masters/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp",
+      "size_bytes": 3248232,
+      "sha256": "4f277ced63b216800e8c17ea4a03614e69c4a8f37066d70be24b77ebe409c928",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "saint-vincent-and-the-grenadines"
+      ]
+    },
+    {
+      "id": "omarchy-country-VE-Venezuela-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Venezuela",
+      "code": "VE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-VE-Venezuela-2K.webp",
+      "path": "masters/countries/omarchy-country-VE-Venezuela-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-VE-Venezuela-2K.webp",
+      "size_bytes": 3767312,
+      "sha256": "bb2246e7422e5ee911b68ffe64e904ed73e22187bb66b7b9b57a0769db76f0e7",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "venezuela"
+      ]
+    },
+    {
+      "id": "omarchy-country-VG-British-Virgin-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "British Virgin Islands",
+      "code": "VG",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-VG-British-Virgin-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-VG-British-Virgin-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-VG-British-Virgin-Islands-2K.webp",
+      "size_bytes": 3787404,
+      "sha256": "73715c37f7e86751890884af97ef9c6ff2d1c931d55ced050ccbf792d0ce5e7e",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "british-virgin-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-VI-US-Virgin-Islands-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "US Virgin Islands",
+      "code": "VI",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-VI-US-Virgin-Islands-2K.webp",
+      "path": "masters/countries/omarchy-country-VI-US-Virgin-Islands-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-VI-US-Virgin-Islands-2K.webp",
+      "size_bytes": 3328894,
+      "sha256": "78095e522f71d0e778b5a55e57552a67830d79237bf9196d545bdf90e7332a0c",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "us-virgin-islands"
+      ]
+    },
+    {
+      "id": "omarchy-country-VN-Vietnam-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Vietnam",
+      "code": "VN",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-VN-Vietnam-2K.webp",
+      "path": "masters/countries/omarchy-country-VN-Vietnam-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-VN-Vietnam-2K.webp",
+      "size_bytes": 3293072,
+      "sha256": "7b66cf5548d2881cd52e47d0c96d76af3e429206636acda4b7d3087e6560d209",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "vietnam"
+      ]
+    },
+    {
+      "id": "omarchy-country-VU-Vanuatu-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Vanuatu",
+      "code": "VU",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-VU-Vanuatu-2K.webp",
+      "path": "masters/countries/omarchy-country-VU-Vanuatu-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-VU-Vanuatu-2K.webp",
+      "size_bytes": 3755724,
+      "sha256": "861b4a951e9cbec49b576a93453a3b6a08c2e4601d1be34acbcdca920512ee43",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "vanuatu"
+      ]
+    },
+    {
+      "id": "omarchy-country-WF-Wallis-and-Futuna-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Wallis and Futuna",
+      "code": "WF",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-WF-Wallis-and-Futuna-2K.webp",
+      "path": "masters/countries/omarchy-country-WF-Wallis-and-Futuna-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-WF-Wallis-and-Futuna-2K.webp",
+      "size_bytes": 4080416,
+      "sha256": "88742d3900ed22f32a632d46aab4a2336fd15a76eb789502989c1c424c2e8f98",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "wallis-and-futuna"
+      ]
+    },
+    {
+      "id": "omarchy-country-WS-Samoa-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Samoa",
+      "code": "WS",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-WS-Samoa-2K.webp",
+      "path": "masters/countries/omarchy-country-WS-Samoa-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-WS-Samoa-2K.webp",
+      "size_bytes": 3622206,
+      "sha256": "4413377fcb9a6e0caa041b4315ab9d6165dab796b0bc613550c630a325115a4d",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "samoa"
+      ]
+    },
+    {
+      "id": "omarchy-country-XK-Kosovo-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Kosovo",
+      "code": "XK",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-XK-Kosovo-2K.webp",
+      "path": "masters/countries/omarchy-country-XK-Kosovo-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-XK-Kosovo-2K.webp",
+      "size_bytes": 3305050,
+      "sha256": "7157f47f16221d7afe984f02ea3c68e22154d9fcd88c4097e57a21b713460754",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "kosovo"
+      ]
+    },
+    {
+      "id": "omarchy-country-YE-Yemen-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Yemen",
+      "code": "YE",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-YE-Yemen-2K.webp",
+      "path": "masters/countries/omarchy-country-YE-Yemen-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-YE-Yemen-2K.webp",
+      "size_bytes": 3638392,
+      "sha256": "b8905a29daa8b503d9f3c018ffacb29fd744392202aafaef967ced8e81c3b82b",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "yemen"
+      ]
+    },
+    {
+      "id": "omarchy-country-YT-Mayotte-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Mayotte",
+      "code": "YT",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-YT-Mayotte-2K.webp",
+      "path": "masters/countries/omarchy-country-YT-Mayotte-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-YT-Mayotte-2K.webp",
+      "size_bytes": 3919138,
+      "sha256": "d5c78f31e2bf91c4a6e568d5508f5d714e9a3927a0f5c93a700dc1d7b31f52a9",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "mayotte"
+      ]
+    },
+    {
+      "id": "omarchy-country-ZA-South-Africa-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "South Africa",
+      "code": "ZA",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ZA-South-Africa-2K.webp",
+      "path": "masters/countries/omarchy-country-ZA-South-Africa-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ZA-South-Africa-2K.webp",
+      "size_bytes": 3362676,
+      "sha256": "dcf27988c1f6b59fb269b1c1427ab85c07c93137117b2093b86ea156ff98ba54",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "south-africa"
+      ]
+    },
+    {
+      "id": "omarchy-country-ZM-Zambia-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Zambia",
+      "code": "ZM",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ZM-Zambia-2K.webp",
+      "path": "masters/countries/omarchy-country-ZM-Zambia-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ZM-Zambia-2K.webp",
+      "size_bytes": 3509728,
+      "sha256": "9453e94207a86e0b8b5692542093cb9fcd7deb532b825be64c48bd3d47c39448",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "zambia"
+      ]
+    },
+    {
+      "id": "omarchy-country-ZW-Zimbabwe-2K",
+      "type": "country",
+      "section": "countries",
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "variant": "2k",
+      "resolution": "2K",
+      "filename": "omarchy-country-ZW-Zimbabwe-2K.webp",
+      "path": "masters/countries/omarchy-country-ZW-Zimbabwe-2K.webp",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/countries/omarchy-country-ZW-Zimbabwe-2K.webp",
+      "size_bytes": 3828070,
+      "sha256": "45967296357fe2282ae9ba1ea789e70f28319634471b5558af1dcc36a6e6a532",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "tags": [
+        "zimbabwe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1502 @@
+{
+  "images/nord/countries/omarchy-country-AI-Anguilla-2K.webp": {
+    "sha256": "578ae2653469b0f5d2e6991ae25b25cb5e4a5f881cad6bf4ec7997436f95ad64",
+    "size": 213954,
+    "preview_sha256": "84dfeeea0d3515016c7737bbc57cddd3a1afb6631d92a4bc2d2eed1f914846d4",
+    "preview_size": 11086
+  },
+  "images/nord/countries/omarchy-country-AE-United-Arab-Emirates-2K.webp": {
+    "sha256": "5a6115104021f4ea86e4277deb66ca4e055d0a1c1f7f2b343b86c6d4f851d5b2",
+    "size": 351458,
+    "preview_sha256": "be95cc39bcfdd8f084567da023d6ab57484a8c25bc164326a3517423754428fe",
+    "preview_size": 12428
+  },
+  "images/nord/countries/omarchy-country-AO-Angola-2K.webp": {
+    "sha256": "3e6ae4d217866265633c4bdce1eccbe287d35a6560848c766db375ab5d993f9a",
+    "size": 339326,
+    "preview_sha256": "0fb8729981bbad05b0dea99724c5131160c5ca2a90c7165c51ccd897759011b1",
+    "preview_size": 12786
+  },
+  "images/nord/countries/omarchy-country-AF-Afghanistan-2K.webp": {
+    "sha256": "958625765c314162670ec392bdf029a67e24b9f72997515ba38d9bd23f9389ad",
+    "size": 390904,
+    "preview_sha256": "d4beba1b7e48ae6793dad37ec342d81ce3c4914d90d14581a2b2c88ca71f68de",
+    "preview_size": 19452
+  },
+  "images/nord/countries/omarchy-country-AM-Armenia-2K.webp": {
+    "sha256": "1e36907a8b49a7f4eb530090d48ce9e3c6742b601f5083d2a38f0923c0013418",
+    "size": 516104,
+    "preview_sha256": "018201d4d4ff01a7fdd7451372841ad034acd08c2f401ccba69548f2fe6d3ca1",
+    "preview_size": 17228
+  },
+  "images/nord/countries/omarchy-country-AD-Andorra-2K.webp": {
+    "sha256": "e4555a720c2decdd74e7e7b1abff6831b315876bb74d02f7048dd9f1d26bcd6d",
+    "size": 634066,
+    "preview_sha256": "315c49791e55399bc1abe6f5c1ce45037723acb53727944e5340da81ab77be2c",
+    "preview_size": 26070
+  },
+  "images/nord/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp": {
+    "sha256": "74738acdb83d1b5dc9919833c527bac9c9a90671a5dbe71ff80cb2acbb07df8c",
+    "size": 302006,
+    "preview_sha256": "27bbe40124c63892fe76ec14b48eddbd085dcfb2c35580122a93e21bedf84559",
+    "preview_size": 14344
+  },
+  "images/nord/countries/omarchy-country-AL-Albania-2K.webp": {
+    "sha256": "a639eef7dcc9fec5c8961e02e5ca5c19cd363a453afa3389ec2de3e083f90a1b",
+    "size": 695184,
+    "preview_sha256": "86e2fbb33d0aa1dcf3521fce7caa5f51a0a0c124dbfa58e9d347eae421e0bc5b",
+    "preview_size": 26536
+  },
+  "images/nord/countries/omarchy-country-AQ-Antarctica-2K.webp": {
+    "sha256": "a47c574acab42d07d1f6c97a757fbdf5055b8fe908d5ad82955f23caf8372218",
+    "size": 445458,
+    "preview_sha256": "5a54b54620ee0415e09efd9f89575f213e1a5e2063571f30ff9e66a126f936c7",
+    "preview_size": 17348
+  },
+  "images/nord/countries/omarchy-country-AS-American-Samoa-2K.webp": {
+    "sha256": "92bea0dda33d95bd9d6e20973b31751ce11efeb02c6efb817c55ba0895ade89b",
+    "size": 265716,
+    "preview_sha256": "6274111539e9938cdbdee20ce5a6e1302cbd6470f09735609c7bc5c25e39fd64",
+    "preview_size": 16544
+  },
+  "images/nord/countries/omarchy-country-AT-Austria-2K.webp": {
+    "sha256": "47e5c6d1fa5f92149d568d52ceebdeee4490870d2d15e6e11053ff8d9ac21ff1",
+    "size": 260076,
+    "preview_sha256": "9f3687037c0a203dadafc2c508b46e14483ba81a851fceda0f0d441483347f14",
+    "preview_size": 13108
+  },
+  "images/nord/countries/omarchy-country-AR-Argentina-2K.webp": {
+    "sha256": "de9dcc6ef03fd721e91187aeba0cea885d687c0fa2827a8f2d4384318b2c4b61",
+    "size": 452448,
+    "preview_sha256": "6ed2e62a07e274ab804ae2ad44631a69a64ea9a745e73818efea281c7c962860",
+    "preview_size": 17576
+  },
+  "images/nord/countries/omarchy-country-AU-Australia-2K.webp": {
+    "sha256": "060151efffbdfe7c7e75292f389ccecd37620345dc965959acfd3b7481fc911d",
+    "size": 264546,
+    "preview_sha256": "f8b039722ceb6c9f40dd2ec1a28415b23de121d4145c8e92d1dcd7818611fa29",
+    "preview_size": 19090
+  },
+  "images/nord/countries/omarchy-country-AX-Aland-Islands-2K.webp": {
+    "sha256": "2c7f2b31059bfecaaa7afd33d52890d53fe5a4947f5b78da67e30a19bcc8b5a5",
+    "size": 274406,
+    "preview_sha256": "66e1a634af27958df049c5c68512ad19bfa8f575d2c4a2e9a47a2806dcd43844",
+    "preview_size": 20628
+  },
+  "images/nord/countries/omarchy-country-AW-Aruba-2K.webp": {
+    "sha256": "8b7cfabcb703d90b9a6b22fe74acb04803344b08757c91e95c0bb3d0f7c00411",
+    "size": 313818,
+    "preview_sha256": "17547a5a8bb1bdb81b6fb572e51031db535fe0e245b58fd97660a5cdf1f03e9c",
+    "preview_size": 31118
+  },
+  "images/nord/countries/omarchy-country-AZ-Azerbaijan-2K.webp": {
+    "sha256": "dfe5a708b0dda1e4038f24d39366050e6e0d72b5879b0b26e611c8b1a1131ec7",
+    "size": 409008,
+    "preview_sha256": "5f39576d2a7b4d4a4a18731a97b8e63a73844d77d740c94a0c28689847fc42b9",
+    "preview_size": 16150
+  },
+  "images/nord/countries/omarchy-country-BA-Bosnia-Herzegovina-2K.webp": {
+    "sha256": "35711134acc696af9eea82befaa860f5cf2ad7b2c94025e51c48bcf05e3b8183",
+    "size": 320292,
+    "preview_sha256": "45d158ec20f17e3f99a0a23b116415da42535c97aef300c4f0b6498a90b5a54d",
+    "preview_size": 14172
+  },
+  "images/nord/countries/omarchy-country-BB-Barbados-2K.webp": {
+    "sha256": "116111675263a1bc71e11af7c3015c3a1f92b0b5fe3d2caa6a60c6ef1eec1081",
+    "size": 379008,
+    "preview_sha256": "fffd7bf1955ff01d51ada0cff048a2258fe74c1aefa4b865c12fc8fa5b60fbbb",
+    "preview_size": 18736
+  },
+  "images/nord/countries/omarchy-country-BD-Bangladesh-2K.webp": {
+    "sha256": "10f3e1396f6f500893b36d9fcf20bf763d4215ad9e704fae77ff9e27edd013dc",
+    "size": 219496,
+    "preview_sha256": "309ca997b560fba54b703350f99a791ae40773021d74e39835043f2520bfb9c0",
+    "preview_size": 19568
+  },
+  "images/nord/countries/omarchy-country-BF-Burkina-Faso-2K.webp": {
+    "sha256": "032819bd196e558b94e61757bb2f6592d04bd822ab66b5f6c0f94e7263ebcedd",
+    "size": 324676,
+    "preview_sha256": "5309c2cedddfe191cbad6b97a044680ff29ac97891c87b95dc9b028fa9995cf2",
+    "preview_size": 22832
+  },
+  "images/nord/countries/omarchy-country-BG-Bulgaria-2K.webp": {
+    "sha256": "8bd66a37a2f6dec0ce5a3976ecaaddc8f4a7122fd701ec61c9cd74c4084faede",
+    "size": 348818,
+    "preview_sha256": "44a1a1c8d2fa5caadc330737e4ba3598f6b4b6ab3bde1a8ef8dfd0e97cadbd82",
+    "preview_size": 13950
+  },
+  "images/nord/countries/omarchy-country-BE-Belgium-2K.webp": {
+    "sha256": "0135d89bc7b4d4cef124bbd895b2a8e12bf7d952095fd5e55f3d14d99dd31da0",
+    "size": 573554,
+    "preview_sha256": "e381138708d1b981952c0b63143b8f4c9a8289af3574a4c0f67b2d36b7dc5004",
+    "preview_size": 27904
+  },
+  "images/nord/countries/omarchy-country-BI-Burundi-2K.webp": {
+    "sha256": "33d45199e6803217ac2153c0477aba5e27c662617933344b484ca001cea8fa96",
+    "size": 158374,
+    "preview_sha256": "a71f27281b89b694db969532416b29549474519ceb6ed5346e1221a466f9736b",
+    "preview_size": 14052
+  },
+  "images/nord/countries/omarchy-country-BH-Bahrain-2K.webp": {
+    "sha256": "678b3b4499887175dbb1a8c6727c331559db40bc232cbc32ee9d7666f7b8011e",
+    "size": 393124,
+    "preview_sha256": "6269b94ca32c07f93dd1b881eb658d9f9c20dc1b4731ee9ab842e7b36c9cdd7b",
+    "preview_size": 15696
+  },
+  "images/nord/countries/omarchy-country-BJ-Benin-2K.webp": {
+    "sha256": "23421b0c9010be3e3767fb20fe66b066c0a6842278caa8ab155d2ebc587134ab",
+    "size": 348816,
+    "preview_sha256": "e454d345e1b5a7692e55d6c4dcf72b215403a5f367b92583ad73f59778eaf945",
+    "preview_size": 13500
+  },
+  "images/nord/countries/omarchy-country-BM-Bermuda-2K.webp": {
+    "sha256": "198a02db5c7edf49c260196bc43aaa897ba08466096ac7d4feffbd7da73aeaee",
+    "size": 287132,
+    "preview_sha256": "f32a672af2c88f21831f8516d726fb0e421e3f439a0d1a0a9b0cc3c4dce7126b",
+    "preview_size": 16268
+  },
+  "images/nord/countries/omarchy-country-BL-Saint-Barthelemy-2K.webp": {
+    "sha256": "2db7e39b176058e4ba799a63a9ea034cc28e7374f7b67eb36a8ae924413c8d38",
+    "size": 368462,
+    "preview_sha256": "98a98f767908f3a546aa00f66d6205d79eef1102f2a6e8411289338acee506bd",
+    "preview_size": 24646
+  },
+  "images/nord/countries/omarchy-country-BO-Bolivia-2K.webp": {
+    "sha256": "e3e9fdb960d2eb6525ce52e432d85711aa1bd5b717715f7bd39841947bd70cea",
+    "size": 311964,
+    "preview_sha256": "8ed6de684bf92a86b6d8350776f3107a96a2ad22945a0598faa8fae77b1eb1d8",
+    "preview_size": 13076
+  },
+  "images/nord/countries/omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K.webp": {
+    "sha256": "bdaf104359650628c09738d3a29d1dc60f102b91e22bf2c19e3ae6db48c2aae9",
+    "size": 229260,
+    "preview_sha256": "4b7f2a28bc8b2aee7fa5703f6292233830e07e99d967207f1a220df2554c9e68",
+    "preview_size": 16638
+  },
+  "images/nord/countries/omarchy-country-BS-Bahamas-2K.webp": {
+    "sha256": "312f081fe8b16b85d8ed083a380bf1c642ecb408ab091db340650f7e727bcd45",
+    "size": 353554,
+    "preview_sha256": "a30f7099b1fde028164c933606d48cc317055298d50fb93f957c6196a7cb3a68",
+    "preview_size": 9710
+  },
+  "images/nord/countries/omarchy-country-BN-Brunei-2K.webp": {
+    "sha256": "79585b7683a57524d0923f6bf41a5b49ee85fd755a3bac84ef31a9a58f9e77e3",
+    "size": 639960,
+    "preview_sha256": "f0792c1e920f0466e63dc5d64423fe8513bb4a8ea70590f40c356e31e2868649",
+    "preview_size": 18524
+  },
+  "images/nord/countries/omarchy-country-BR-Brazil-2K.webp": {
+    "sha256": "3fbd96c6e4c302600de6c20cce7e479b03018070fe58a7d8da33e1f63b4776f2",
+    "size": 323314,
+    "preview_sha256": "fcf38520bb2d6060268088a526b6c90aef62719475d7ad1119c5114951dd135a",
+    "preview_size": 28630
+  },
+  "images/nord/countries/omarchy-country-BT-Bhutan-2K.webp": {
+    "sha256": "10b58f395617753b72b7980b166c1919bd63bd616fd998e111d7add2aaff9191",
+    "size": 235814,
+    "preview_sha256": "85fdc47e0f88016c0f8c6f33b9fd8805cdedb254771ceb83b58d957493021bdb",
+    "preview_size": 18376
+  },
+  "images/nord/countries/omarchy-country-BW-Botswana-2K.webp": {
+    "sha256": "f7465f6f8a775695ec2f2bafe5a189f498a4d5a186a5037e66334dcd7a33c34a",
+    "size": 269566,
+    "preview_sha256": "ee8954c4079a8a8883dd01cbe87a95085d41b17c3d9b21ee77c1d6d3b2cc0bae",
+    "preview_size": 22758
+  },
+  "images/nord/countries/omarchy-country-BV-Bouvet-Island-2K.webp": {
+    "sha256": "1c614d43985a7cb1baeb31c693d7f0b3999c799e8f2062bd5f36b929bd83bf39",
+    "size": 480220,
+    "preview_sha256": "b3aae119ce0692108091be929ff3656289ebc72077956728dbe49c116db31a27",
+    "preview_size": 25620
+  },
+  "images/nord/countries/omarchy-country-BY-Belarus-2K.webp": {
+    "sha256": "13070009b65a4b3e45ffb95eb1a1dd67fc41e843fa22806ea7a9e6ddd5ccec09",
+    "size": 226130,
+    "preview_sha256": "c41b21f84fbc27d5f2413cb08beff6122f59603aad7f3e33bb4e28739d67aa93",
+    "preview_size": 18966
+  },
+  "images/nord/countries/omarchy-country-BZ-Belize-2K.webp": {
+    "sha256": "bfb2d89f45a16e89fcda65ac565f80570bf905e779bce392f08714fd21b72183",
+    "size": 374398,
+    "preview_sha256": "d90e42fad5f24d0634694bbc5b097d0365170e2ac7146a9036cd161e685d0601",
+    "preview_size": 22130
+  },
+  "images/nord/countries/omarchy-country-CA-Canada-2K.webp": {
+    "sha256": "cd633074c67f7c8cc2bd5c2fe1deb43cfb0b1088d1274f76a5bdaec15877260a",
+    "size": 189676,
+    "preview_sha256": "d62826d00e19db817fe1738d443feebac4cc32237c993d6c2fd0ad6845ddbbed",
+    "preview_size": 18306
+  },
+  "images/nord/countries/omarchy-country-CC-Cocos-Keeling-Islands-2K.webp": {
+    "sha256": "c3dc1f1d8c432ac5b250f31f2712f640abcfa6debbb9e1611c161ba2096e6899",
+    "size": 237800,
+    "preview_sha256": "4c87054362b89b1daec38807b32b35ba87f16f854bfd22a4276dd5d5d3f187a5",
+    "preview_size": 17888
+  },
+  "images/nord/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp": {
+    "sha256": "7de502f6c8f0ab3382235d71b14cc38b2c745d7f892056d668189aa4c214babb",
+    "size": 303672,
+    "preview_sha256": "841eb36787c7c54f1314d1c1f942acba8364d20928f8e47f8bd633fc1db13c32",
+    "preview_size": 17756
+  },
+  "images/nord/countries/omarchy-country-CF-Central-African-Republic-2K.webp": {
+    "sha256": "16c16cad991bafc3ee1fa4945c0ee72f8d3bc04d6fdeb527c875d99cb0844eaf",
+    "size": 506866,
+    "preview_sha256": "7ecc78f0a8b06a4f629f747043c0b67e8f5fd50f67ba1668be419b2f62f2c6a3",
+    "preview_size": 17948
+  },
+  "images/nord/countries/omarchy-country-CG-Congo-2K.webp": {
+    "sha256": "ebb5e34569e05b92fd246ac207833717421b5a1c4ed59250f3f5925dec54c3f1",
+    "size": 496026,
+    "preview_sha256": "c8e9f37959f642598b0d2a06a2480c9b09b11e153e2ca35396c28f278d8b1b87",
+    "preview_size": 17918
+  },
+  "images/nord/countries/omarchy-country-CH-Switzerland-2K.webp": {
+    "sha256": "fe9a194d869fd2b9fceff55a06595935bf88d0d37bae0bd0dda2723806680d61",
+    "size": 319082,
+    "preview_sha256": "25ad6534d153ef1d9a5f4b1ee141bfeea2c61ed57f08d41dd6bad71bd652d999",
+    "preview_size": 14942
+  },
+  "images/nord/countries/omarchy-country-CI-Ivory-Coast-2K.webp": {
+    "sha256": "3097abf84acfaae5c1f39e35f08c3f8f5cb49b45a2f05c3d142afd41f5a1388c",
+    "size": 309038,
+    "preview_sha256": "bbbefa53834c9a31e7530499aa1d8ef190133df6022d34a5622edb16e22d59c6",
+    "preview_size": 12860
+  },
+  "images/nord/countries/omarchy-country-CK-Cook-Islands-2K.webp": {
+    "sha256": "680dbb89ff6ac48de4e520b93b4fca42fc6f78ea698b26d4df1d7e338cfc106c",
+    "size": 289244,
+    "preview_sha256": "37d6c329977db1928caae4ff8648092a8ba95609d529138255b3992111ed7515",
+    "preview_size": 17820
+  },
+  "images/nord/countries/omarchy-country-CL-Chile-2K.webp": {
+    "sha256": "2b48a59f644e3f39250cf9c2e0a80476b6f528cb4fcd0c0ded3b9ffc66eeca9b",
+    "size": 358294,
+    "preview_sha256": "ec55fa1a3baf9438d6c2eab6bc0056587beda073709b6325c073a6b83267681c",
+    "preview_size": 14810
+  },
+  "images/nord/countries/omarchy-country-CM-Cameroon-2K.webp": {
+    "sha256": "f59b9536c4c685f092b55cbebcc0480ef894db978f53179812b749711dfc80fc",
+    "size": 412586,
+    "preview_sha256": "6a19f9c4c82278c08266d98817d3f5efc9b0228b0afd9ce759dd1aa0c4916894",
+    "preview_size": 14786
+  },
+  "images/nord/countries/omarchy-country-CO-Colombia-2K.webp": {
+    "sha256": "f22bd9f792902af1113d57c803154338a14db9feff4702d7e97a3e9b2ca1d702",
+    "size": 342682,
+    "preview_sha256": "a7bbcf6d6b44e5e67d9239306a1d24dbfbce44dbe1ee9b96527685f0d541c66f",
+    "preview_size": 19986
+  },
+  "images/nord/countries/omarchy-country-CN-China-2K.webp": {
+    "sha256": "f9b2eed0ceb4c9e5dee69f5d545bbde0807f8aac79bd6b1d8b4abaf17f90a2ea",
+    "size": 402386,
+    "preview_sha256": "6fa141d94702d9e95e4efb37081fd282ab3bc3147c8d423cb3630cd877ff73e2",
+    "preview_size": 25016
+  },
+  "images/nord/countries/omarchy-country-CV-Cape-Verde-2K.webp": {
+    "sha256": "5377d61bd8d512ea970ac89c6b506a851ea5c93c202fb46858ef30328a466902",
+    "size": 185916,
+    "preview_sha256": "dcebf9a7189ea402086b098eefc5d110da47d2e93e0932c616fbe5e76b143372",
+    "preview_size": 12008
+  },
+  "images/nord/countries/omarchy-country-CU-Cuba-2K.webp": {
+    "sha256": "cc4df8d835c1a6f4ea8f980ceed6a37c98d335186abd5e45f36c7edc67b7899e",
+    "size": 311556,
+    "preview_sha256": "b79af82b0a4de3381a42ede8221170c0dc7fbb14719a87bdf5399e0cf2b17c13",
+    "preview_size": 17484
+  },
+  "images/nord/countries/omarchy-country-CR-Costa-Rica-2K.webp": {
+    "sha256": "3f32269c5a853504655586ae2a273fb96e0ac12b980f0f2dcc48a8fca146b799",
+    "size": 362946,
+    "preview_sha256": "a49e753d2da8df831861a99a558b026b2d8516008538e7d135dd09e55fe8f279",
+    "preview_size": 17488
+  },
+  "images/nord/countries/omarchy-country-CX-Christmas-Island-2K.webp": {
+    "sha256": "1bd972f66d30357be3a2c98cc9e163c346e4ce4d1c0a05dcb4887b1af77ac9e5",
+    "size": 292146,
+    "preview_sha256": "39c7822107263a4e4942366cbc9cba8d0ed9139efe5e3e6d436b5cad50ebafdd",
+    "preview_size": 23548
+  },
+  "images/nord/countries/omarchy-country-CW-Curacao-2K.webp": {
+    "sha256": "9dfc5e327a2d9c41ee0b6657c41d31ed97d1177037b66705626e87bbec3d710f",
+    "size": 518572,
+    "preview_sha256": "ab703f469d3a863079cf0c360a230916ee3fea61c00449b47216b6c349cfa245",
+    "preview_size": 25612
+  },
+  "images/nord/countries/omarchy-country-CY-Cyprus-2K.webp": {
+    "sha256": "5b48a4ead65fdc7d5aa1ab7c2cdde9d766791843ff6e06359d3dcfe2608152a3",
+    "size": 302868,
+    "preview_sha256": "0d710d9949af2aea879bb1baecc1dac3f42876bb46cb1a5a0f2178158768c2c0",
+    "preview_size": 20662
+  },
+  "images/nord/countries/omarchy-country-DE-Germany-2K.webp": {
+    "sha256": "4292ac4acb9af3013f856bae4946f3aa94d14522ef21c0dc5917521c54b4b646",
+    "size": 311336,
+    "preview_sha256": "23b3725b3286e4a770a57ed950029ac262113a57e1bb7adccdde84c6c7cd57a9",
+    "preview_size": 15336
+  },
+  "images/nord/countries/omarchy-country-CZ-Czech-2K.webp": {
+    "sha256": "1baf8e8431f4193bf0e08fcfa447ce3fff8be364f1a17d9946e5285a6dd1b002",
+    "size": 533042,
+    "preview_sha256": "d46f7d3079be6e6afe3bfe223e7871a6e50f9282970e944fde5cc8e5c146541b",
+    "preview_size": 18798
+  },
+  "images/nord/countries/omarchy-country-DJ-Djibouti-2K.webp": {
+    "sha256": "cc6eb5dccf34964d92b4a7fb7a62f99ccaf3bb8a6e2f2315c9521d773df6e536",
+    "size": 451068,
+    "preview_sha256": "a719c4c334dbeab8390473ce85e09d87c1980052cc10e9fb60a5a801f365741c",
+    "preview_size": 14980
+  },
+  "images/nord/countries/omarchy-country-DM-Dominica-2K.webp": {
+    "sha256": "f77f9741bd55650521d512ab9671109e0ffbfa63bcac6db5899f6d6203e0eaf5",
+    "size": 235144,
+    "preview_sha256": "cfab3e6c481d82ae54937a009c3216fd03f7694ee1e52535da0d91dca0bf69aa",
+    "preview_size": 16608
+  },
+  "images/nord/countries/omarchy-country-DK-Denmark-2K.webp": {
+    "sha256": "7e429f902cc07b31cf2d5d879d3e70ba75e066fc966d39da6772cd4c719969da",
+    "size": 509706,
+    "preview_sha256": "7c078e8eb35f6c36950c403f22647e7c63bd9b924534aadda381ca285e609a66",
+    "preview_size": 14312
+  },
+  "images/nord/countries/omarchy-country-DO-Dominican-Republic-2K.webp": {
+    "sha256": "7f9bb3497d45222a73ed0e349cb21b842894b419f94ea4070395bce2f1bc8e19",
+    "size": 153322,
+    "preview_sha256": "397456aedc382a8acb0e43e4b171c3a45a39e39bfcd8fa73476d24043bf19b78",
+    "preview_size": 13184
+  },
+  "images/nord/countries/omarchy-country-DZ-Algeria-2K.webp": {
+    "sha256": "7967bf7bea33db39638a6f113ef75a978aed4649e00d4ec2de414d8152f4d4ba",
+    "size": 425846,
+    "preview_sha256": "d4a13e0f848ee3ddff1c0283b09756662f7aede29e9b8cbfcce4cf5b75ddc1fe",
+    "preview_size": 12426
+  },
+  "images/nord/countries/omarchy-country-EC-Ecuador-2K.webp": {
+    "sha256": "5060a8d93e994b92662eeccb852731008460b3948d90e773ac1ba2f9db98c3b4",
+    "size": 498036,
+    "preview_sha256": "13d161506390a4b553c12f5971a5f6c7f635e3cce33f9c6fbea9cbdcfbc4a7b8",
+    "preview_size": 16484
+  },
+  "images/nord/countries/omarchy-country-EE-Estonia-2K.webp": {
+    "sha256": "a8c019e595a759cbb3e555204ffd206d3a8f0e0f7178d3440e91a47e280b3550",
+    "size": 148492,
+    "preview_sha256": "d8c83fdf5e919c6463404157e5ae43b36f18811c1c4b062f337eae6ce704379a",
+    "preview_size": 14850
+  },
+  "images/nord/countries/omarchy-country-EG-Egypt-2K.webp": {
+    "sha256": "34e30f714f86eac9eeaf0f3f39c6333690d6bf4347ef7224cc94279aff886425",
+    "size": 222336,
+    "preview_sha256": "e482942ddf87bcbf3f31696832b0dfda4038858c1057b4e4b1d67f5fd5080045",
+    "preview_size": 10042
+  },
+  "images/nord/countries/omarchy-country-EH-Western-Sahara-2K.webp": {
+    "sha256": "6e4182a251d143d8adb1a984930403736d052f0ed2e14fb0b79c214499a392b9",
+    "size": 208458,
+    "preview_sha256": "5a2d9d57596a9803903e95b5082174f8d17f7e3b9d3e0091c5bc370a9104f56f",
+    "preview_size": 9926
+  },
+  "images/nord/countries/omarchy-country-ER-Eritrea-2K.webp": {
+    "sha256": "34ed82586ac9253b4411759907f82019e8cb649825e0f5e222bab22c32d94e29",
+    "size": 348054,
+    "preview_sha256": "e50ec7505a0bc471c1e65895e1a9c20af58a5a06016a7bb34c9da8acf31317bc",
+    "preview_size": 11900
+  },
+  "images/nord/countries/omarchy-country-ES-Spain-2K.webp": {
+    "sha256": "d4e00ca59abc4efc783c292a31986ec985cf98b3a34e3ee32d5f434632d26aaa",
+    "size": 292968,
+    "preview_sha256": "7ddd5fca4b8d734abdc7a3127a86b6c8fb214ddf01312d63f00db677bada8ad4",
+    "preview_size": 21992
+  },
+  "images/nord/countries/omarchy-country-ET-Ethiopia-2K.webp": {
+    "sha256": "433196c3ac87d3be86c92c635ce8b409835c02bf0fa2aa823e76dea8e5a4a09d",
+    "size": 530298,
+    "preview_sha256": "623cc8117136d0019ac468a29e6f3f15ef035ee5993fa5d7bf1d8239a7be974e",
+    "preview_size": 24150
+  },
+  "images/nord/countries/omarchy-country-FI-Finland-2K.webp": {
+    "sha256": "9ce1f9118232b0e0442d1ec0ad18eb0af9a37e869d4cbaa5890e72bd7ca26e47",
+    "size": 347802,
+    "preview_sha256": "c5b82ad55e045e96f26e6a2d846b1218c67f6f77d2a0e548402edb3f331c9685",
+    "preview_size": 19046
+  },
+  "images/nord/countries/omarchy-country-FJ-Fiji-2K.webp": {
+    "sha256": "d7aa9f45c362c45541cf83d075915c7cb581e64dc3087d25d5c2d6f3e33cd662",
+    "size": 329622,
+    "preview_sha256": "18162f6e1288900419c325e0f6940eb15128e8f488aaebed6a9db2d6b4b974df",
+    "preview_size": 17798
+  },
+  "images/nord/countries/omarchy-country-FK-Falkland-Islands-2K.webp": {
+    "sha256": "c08ede6a64bd90c3b54bef06db4a832020cfdabe26e8b599e4b93a2eb2d0cb78",
+    "size": 294896,
+    "preview_sha256": "3206b5fd042a70acfb4937336c6219f30e91a8251b07ed6087d068cc19846084",
+    "preview_size": 16754
+  },
+  "images/nord/countries/omarchy-country-FM-Micronesia-2K.webp": {
+    "sha256": "2465a5838ebd10a6d1b9ddc166d8d09a0761556989e108f272ddef73cc414c1a",
+    "size": 391298,
+    "preview_sha256": "e43faf5dd54126b492f3ad04c6f3ee15c919106d37a782116e39a376f1be8c9a",
+    "preview_size": 17170
+  },
+  "images/nord/countries/omarchy-country-FO-Faroe-Islands-2K.webp": {
+    "sha256": "81692fd274a2454c07000a8039e7c4f19c042e60dd066206614c3b06be5d867c",
+    "size": 283598,
+    "preview_sha256": "b60c9f1dc0629991f18ac3fe9c729ccb732b90213ffb48e5bde48055a376e772",
+    "preview_size": 8910
+  },
+  "images/nord/countries/omarchy-country-GA-Gabon-2K.webp": {
+    "sha256": "38c571ebc741d5d9bbbfbcfc1292f01b281252c2f975ebcbad893aa8a2dd5db2",
+    "size": 319858,
+    "preview_sha256": "f7a934e3a207ad3eaa15abf58dbab84aaa5d9d195cebf0595094b2be5c8af1a8",
+    "preview_size": 10836
+  },
+  "images/nord/countries/omarchy-country-FR-France-2K.webp": {
+    "sha256": "c557a56490862402aa33224e50e5cc8ff14ab30b94bc4c5878d4a1e615eb5e1e",
+    "size": 317562,
+    "preview_sha256": "3ce53f2110a57295c138f11e64c62ca86a2fbae4e49b98266cd7ba82f394c24b",
+    "preview_size": 18956
+  },
+  "images/nord/countries/omarchy-country-GB-UK-2K.webp": {
+    "sha256": "c077ad8aacbec6dad449593fb1d8c51d37130c5b6a7795c6d4c52aaffbddac8d",
+    "size": 307966,
+    "preview_sha256": "0c9684ff49d7a38ba34d49355825798ecfa19a06d0eaa3a57bad5fa1bc352968",
+    "preview_size": 18500
+  },
+  "images/nord/countries/omarchy-country-GE-Georgia-2K.webp": {
+    "sha256": "0f010d3aadb0c2e583ec6b07aeb5e1e69624be05f3b889344949c58daef69c19",
+    "size": 239218,
+    "preview_sha256": "25a80ee4d386490bad80051b52939b798f23e1ff404631e7bc8be61f986b3c5a",
+    "preview_size": 10946
+  },
+  "images/nord/countries/omarchy-country-GD-Grenada-2K.webp": {
+    "sha256": "4d29328aca296652257112bba00e047170318d17b56f5f8bce26e14decff1008",
+    "size": 444422,
+    "preview_sha256": "95bcff838b49e55ae47b34595341aa8020006159341cc9ab64eec2dd3d1448f1",
+    "preview_size": 21986
+  },
+  "images/nord/countries/omarchy-country-GG-Guernsey-2K.webp": {
+    "sha256": "91bf518da625f2fad1d6e8e545b78c6e323196fe84ce0f67de8d593f4e46ece6",
+    "size": 253842,
+    "preview_sha256": "1bb2fff7f6461f89a560c68ff44e4183a8e24521ecce9a25d7ee15cc2eeef269",
+    "preview_size": 14386
+  },
+  "images/nord/countries/omarchy-country-GF-French-Guiana-2K.webp": {
+    "sha256": "8c54428896827a6193d3081c466be31f349f90ffa818af480debeba8b1c44229",
+    "size": 379326,
+    "preview_sha256": "2aea6a0dd77afc24911e11d4c8637e4e38bb39020682c35c1b4981616d82ae29",
+    "preview_size": 22884
+  },
+  "images/nord/countries/omarchy-country-GH-Ghana-2K.webp": {
+    "sha256": "de92fdb6df037441b1610c55e85a67349bada89715e54a6774796b9f3ab89c69",
+    "size": 331240,
+    "preview_sha256": "85654e0d62c590c25ebdc7b8cd68db577d1647d9848efa4203af72de9f78ec8a",
+    "preview_size": 24022
+  },
+  "images/nord/countries/omarchy-country-GL-Greenland-2K.webp": {
+    "sha256": "cf96a126fddd6facf0f79b2175a6d73c10454520a801f011556aacb28ab6a52d",
+    "size": 281962,
+    "preview_sha256": "7ae2d7d47b1411905cdf8a32f5f0fe08c5bfbe179574268bfee04f7cb8d47ae1",
+    "preview_size": 19758
+  },
+  "images/nord/countries/omarchy-country-GI-Gibraltar-2K.webp": {
+    "sha256": "3c542dc5110eedbc6d766a617b2bb41fa926eb9f53b367f68a0dc59f44d9a38c",
+    "size": 386850,
+    "preview_sha256": "12d58caf069ef28eea1272ea458bbaba4d10fb957d3b7fca104f5bd1c732a2d0",
+    "preview_size": 15950
+  },
+  "images/nord/countries/omarchy-country-GM-Gambia-2K.webp": {
+    "sha256": "cbc37f00e6ae0ca3260ebb034e1d6a591515791c4d90c031acd23a5cf685aed0",
+    "size": 256088,
+    "preview_sha256": "ffc37714b1f454f1f2ec74afa9121ed55e15a4b2b53c043ec05d346654870510",
+    "preview_size": 21054
+  },
+  "images/nord/countries/omarchy-country-GN-Guinea-2K.webp": {
+    "sha256": "03b97de9277ae261e118d7d59c8e4c244c51ce66f411c45de6a3a74aeadfa582",
+    "size": 324056,
+    "preview_sha256": "520145e14d91c97179f4ff9df636e6894dab8da24ce37dcce57041a909a18ac6",
+    "preview_size": 14018
+  },
+  "images/nord/countries/omarchy-country-GP-Guadeloupe-2K.webp": {
+    "sha256": "c118228a21fc2ccf8e3b37a980118c1bbe6a18adfc932f7076899c8cd8ea41ce",
+    "size": 354520,
+    "preview_sha256": "28f61f025094b44f1b325fb8f9e0e3515670fba605c987d20fe5a3c2249287e5",
+    "preview_size": 18808
+  },
+  "images/nord/countries/omarchy-country-GQ-Equatorial-Guinea-2K.webp": {
+    "sha256": "1819701bd550f283c32afad4635d33263d2245ddb5ad107b8768d17731a3e7e3",
+    "size": 288612,
+    "preview_sha256": "2294dffa1f183d7d8e4f1389ff4ea280e41152d2806f7c142d65d2235814b1cd",
+    "preview_size": 17312
+  },
+  "images/nord/countries/omarchy-country-GR-Greece-2K.webp": {
+    "sha256": "f1811d855b2afbc702c97e0cfbf3651aad2d7a08118bc2f839f26e8b3ae00d1a",
+    "size": 188524,
+    "preview_sha256": "d9d260ef0ec8fd5da1236f1ebf1087dd271d1a15a4187601af923efcafcaa5a4",
+    "preview_size": 15806
+  },
+  "images/nord/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp": {
+    "sha256": "4fa5ed4ea94d098579adfd6d4dd5a1c9fa10bc1c4d34c8cfc9a7157760784347",
+    "size": 237730,
+    "preview_sha256": "fae86a200faf495cde7bad01be8025e5800ebf7ac85c6fb646aa0a7c1d5495c9",
+    "preview_size": 13528
+  },
+  "images/nord/countries/omarchy-country-GU-Guam-2K.webp": {
+    "sha256": "822b7ee09d520246e655e0178fcaf191e322cdb6ce69c3f256fb3fff6fd459da",
+    "size": 270670,
+    "preview_sha256": "ae73db49f829af8f2dab6f30b2db1c875b7ecb2d84e92332fa3ae84cadda24fd",
+    "preview_size": 14296
+  },
+  "images/nord/countries/omarchy-country-GT-Guatemala-2K.webp": {
+    "sha256": "dfc7e8f0df7027067f567a5a4f9a0b55a78c7ac0d90aae6b8a20d07592f9f99f",
+    "size": 345414,
+    "preview_sha256": "f8cc141176b7aed05e1dca6771b24507e22ccb6e96922debcce28bb9295a4569",
+    "preview_size": 19382
+  },
+  "images/nord/countries/omarchy-country-GY-Guyana-2K.webp": {
+    "sha256": "3463258de7b30bc8d4991793c3076fc890e6476e4287908b001670de14a674c0",
+    "size": 178770,
+    "preview_sha256": "a77ce945bd99975cb081318ebfad754a504e02897a383e855dc79c6b43b7542a",
+    "preview_size": 13936
+  },
+  "images/nord/countries/omarchy-country-GW-Guinea-Bissau-2K.webp": {
+    "sha256": "cc65129585bd8363be8323973561a44d4c9f51ed0778c07d995c8d26212b7105",
+    "size": 380890,
+    "preview_sha256": "f07f275a4f66d42fe93b75d855a6a128f133911925ce1a556e391c664a57e322",
+    "preview_size": 23380
+  },
+  "images/nord/countries/omarchy-country-HK-Hong-Kong-2K.webp": {
+    "sha256": "b7669591a06484d3ccdbbeb4ea9044003a03821f1667e9ea17030627705080c6",
+    "size": 363026,
+    "preview_sha256": "0e30b71dbbb00960cf4be8e123722482e3f7775b1271bea4378e1a5a510690d7",
+    "preview_size": 22132
+  },
+  "images/nord/countries/omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K.webp": {
+    "sha256": "c18b07dfb3b0e501472b6e66bc9f53ae495f4caff6f83b40da167c2c41d7c6d3",
+    "size": 369250,
+    "preview_sha256": "10daa714f3082da55236a1655b1d59375a15d00e2d536e89d8db4c2960b96bef",
+    "preview_size": 16086
+  },
+  "images/nord/countries/omarchy-country-HR-Croatia-2K.webp": {
+    "sha256": "60adbb6f802ded9e4f83ce8d95db5ccc8a1c26ba9a372bb8ab20f0713461b9d3",
+    "size": 293892,
+    "preview_sha256": "9ad710051c10fdd576b6f0ca444eea96ca1408e528be1dd558be7995c89c10bd",
+    "preview_size": 14128
+  },
+  "images/nord/countries/omarchy-country-HN-Honduras-2K.webp": {
+    "sha256": "c6d2fc94423219f392a9a8b39535019e356554f6518a6f45c4e2a6b40c60ea4d",
+    "size": 337198,
+    "preview_sha256": "3925f950a718be259be19ecd360c8242343d737a59723d7482354e1ea5d74cbe",
+    "preview_size": 20776
+  },
+  "images/nord/countries/omarchy-country-HT-Haiti-2K.webp": {
+    "sha256": "86f6c2d21a994c83ee9d01e872e084621eaf8bdff74a6c55c039b1d89a0685c3",
+    "size": 321458,
+    "preview_sha256": "bff2a72e80889fd67fda89eeb46960195736b25e250f3e75e6bfc8b99b97fdd5",
+    "preview_size": 22746
+  },
+  "images/nord/countries/omarchy-country-HU-Hungary-2K.webp": {
+    "sha256": "1270e21fced74680803acc40157a4572fcab4eeaf66203a926761ed8790bd848",
+    "size": 387240,
+    "preview_sha256": "655bc115c6216377da2b86e16af0b9de87debe79559b8ac1626a00639876c78d",
+    "preview_size": 19708
+  },
+  "images/nord/countries/omarchy-country-IE-Ireland-2K.webp": {
+    "sha256": "6101ab206f0b47059bd60f48ee3b5884dcc9571a9c33f1ef36f00d5ffb7bbe21",
+    "size": 259408,
+    "preview_sha256": "14a6a4955abd2246f3c40a6d586ab12e73346545a6ff1b0e6024c836ec778278",
+    "preview_size": 12092
+  },
+  "images/nord/countries/omarchy-country-ID-Indonesia-2K.webp": {
+    "sha256": "5da2e88c609571c17e6f19ed7b5a416c662bc1d8288eae6392aab4b395f7c425",
+    "size": 397656,
+    "preview_sha256": "dfb28ac25c22e40d2ccafc59c6e8ecb379e1989c3228ed6a6019963eb7fd21ce",
+    "preview_size": 21298
+  },
+  "images/nord/countries/omarchy-country-IN-India-2K.webp": {
+    "sha256": "ee679b582653c6ed674a72c9c3fe7f2b3cf2a5f06393c2a591909529dca016a8",
+    "size": 149078,
+    "preview_sha256": "c8c511ac03fcce03291b6be6c07ec57f75940519d6ad3926d5ba496887aa278e",
+    "preview_size": 14724
+  },
+  "images/nord/countries/omarchy-country-IL-Israel-2K.webp": {
+    "sha256": "f64492d56f11569d2f321164e113effb15b067f022bc405b9d5729bb017cd95a",
+    "size": 325992,
+    "preview_sha256": "cbee8c2002c798cb4df0ef0b3b7097e3229b6dbef754a3893fe96c06eaf97aab",
+    "preview_size": 26146
+  },
+  "images/nord/countries/omarchy-country-IM-Isle-of-Man-2K.webp": {
+    "sha256": "028b65dc893dda065976cca821cbd36f6a10ec9d003a66ac488c0033f8ba0e75",
+    "size": 258406,
+    "preview_sha256": "d3f9a07383a633b90d80e00fe41c6b162c9708528b995b7c6169f6cb50b77d6f",
+    "preview_size": 15764
+  },
+  "images/nord/countries/omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp": {
+    "sha256": "18610fb7572ebf6ba59e848014b3ebd50f7873a3d8783e117da21d504276e302",
+    "size": 340110,
+    "preview_sha256": "a8c98e682dde0c2c5c11bb9518d0e40dab5ee973afe8b0b43382667ed4e5ede8",
+    "preview_size": 17788
+  },
+  "images/nord/countries/omarchy-country-IQ-Iraq-2K.webp": {
+    "sha256": "aa1b636159e171fd25fc2794055d512db8c0f57810b860f27d3a5d9a212bfd7c",
+    "size": 279752,
+    "preview_sha256": "3342eb1662ae2806a2a4f318dcfc9321bd495df699c014a71869c621cc6117ac",
+    "preview_size": 12090
+  },
+  "images/nord/countries/omarchy-country-IR-Iran-2K.webp": {
+    "sha256": "ca706fa626a8df15b6b277a1014aed10e936c2f6895fcb6b460d48e1b7e6b7ee",
+    "size": 190156,
+    "preview_sha256": "838fc6937f68ed58f304eb96822044908848e702874c99febcd048be6404bbf4",
+    "preview_size": 8402
+  },
+  "images/nord/countries/omarchy-country-IT-Italy-2K.webp": {
+    "sha256": "488c92a31d7e2c294529b2369cf9979fe08f658fdfae4db2ab7162adf4ba9b58",
+    "size": 141118,
+    "preview_sha256": "66979faf50a66e8237d2f1910c557443c4f938575d5ce96e5e5fa52eb258d10f",
+    "preview_size": 11942
+  },
+  "images/nord/countries/omarchy-country-IS-Iceland-2K.webp": {
+    "sha256": "07c8ae656286a939e86d8f44d9b51aa6f96fc7409bcf3a15b9e70b7f5db765aa",
+    "size": 282828,
+    "preview_sha256": "2a8b15307d19fe041bc45e7ddaf7dfc2f29140578730e1ad9da254a357f71db1",
+    "preview_size": 11194
+  },
+  "images/nord/countries/omarchy-country-JE-Jersey-2K.webp": {
+    "sha256": "11b6b3dd6dc3238d564630cd906885fc659d6e505dca3aa3028d340541c7afd2",
+    "size": 209924,
+    "preview_sha256": "e806669d3b33b8b72417ce1adc984ab693748d1d46e349ee4aec5ad7840f3596",
+    "preview_size": 15164
+  },
+  "images/nord/countries/omarchy-country-JM-Jamaica-2K.webp": {
+    "sha256": "96c9e869c1d814b07b3fc08f83f8acffd57430085d0a6499d91dea43be3cc27b",
+    "size": 493294,
+    "preview_sha256": "2f276c3bcc3248124487311e05e94154d0413afe6c2112c8442dae4b33e48877",
+    "preview_size": 16802
+  },
+  "images/nord/countries/omarchy-country-JO-Jordan-2K.webp": {
+    "sha256": "0a20fd125eccf207905749d566ee53615f66735575078290db2175a5eb7d99a2",
+    "size": 414946,
+    "preview_sha256": "5f0e8a7b4a838efc1aba43e76f6e32664d01242eeeea7d4fbed8f65bef60f0fc",
+    "preview_size": 13564
+  },
+  "images/nord/countries/omarchy-country-JP-Japan-2K.webp": {
+    "sha256": "6467fcceea7ad583f40e6d087b8408657b2c4c02323db0207ff70b5c1c93e9e9",
+    "size": 573572,
+    "preview_sha256": "d1dc0f0cbfd9803556583d8af9178d314c3a8f27d49d0a4c9343d30e9243e4db",
+    "preview_size": 18318
+  },
+  "images/nord/countries/omarchy-country-KE-Kenya-2K.webp": {
+    "sha256": "780d74d8fcd1f897aa6335682424dd07afa19a5c9e7e1b464dcbc16395b12b56",
+    "size": 220030,
+    "preview_sha256": "12eaa76f396952867f842e6625ab11fc012355000f39972b3a7fa6348ee81447",
+    "preview_size": 17906
+  },
+  "images/nord/countries/omarchy-country-KG-Kyrgyzstan-2K.webp": {
+    "sha256": "003a9ed609a527984a73bb6b67ed1d5490cfb156341db246043075af81d606ad",
+    "size": 447464,
+    "preview_sha256": "3708d383b932ee0860c813f852c0e2c1dc3604eaa7ce99d4c0617785238437fd",
+    "preview_size": 17208
+  },
+  "images/nord/countries/omarchy-country-KH-Cambodia-2K.webp": {
+    "sha256": "7fdba1efc341088008fef8167106097022f51679847fe7f11a1306b4df9dd447",
+    "size": 497330,
+    "preview_sha256": "0e48d376a7e9d8193aafdcc9203fa85b2a664efef4af9f22f95dff13864b5172",
+    "preview_size": 18128
+  },
+  "images/nord/countries/omarchy-country-KI-Kiribati-2K.webp": {
+    "sha256": "12706c6c150e7558a3372b10730c2b15ef7d922a727bd693035cae17277d0da4",
+    "size": 333440,
+    "preview_sha256": "d2d9e833ec1e8701b79c6d343a272a908e4db16f6556e4a908f03ac527bb3b21",
+    "preview_size": 24388
+  },
+  "images/nord/countries/omarchy-country-KM-Comoros-2K.webp": {
+    "sha256": "185bdf93fecff83f35454b2ab4c4ff764bf5d555b1f67935117b926f6cc6d86a",
+    "size": 421860,
+    "preview_sha256": "52f9d7c92fa802bb591c5962f06f5826b4e7d9fafafa3020900ff2184cdf44bc",
+    "preview_size": 14578
+  },
+  "images/nord/countries/omarchy-country-KN-Saint-Kitts-and-Nevis-2K.webp": {
+    "sha256": "6cbe079d6a181789d90732bcd050070f7876db18444e45d12c879e0947340545",
+    "size": 237816,
+    "preview_sha256": "2d49607ca782113ad92a1b83b840bdc4286b88b6e46a2c7c476aa8eec3ea2d55",
+    "preview_size": 18228
+  },
+  "images/nord/countries/omarchy-country-KW-Kuwait-2K.webp": {
+    "sha256": "f2347bc9f467a72a2bd8c1c085a35a977953056bc8b1a882c47c72963bd5e9d8",
+    "size": 276592,
+    "preview_sha256": "38bfe719932f841860f2f09f87887e2628dfee2738faff3c70d143a5207bd5b0",
+    "preview_size": 9846
+  },
+  "images/nord/countries/omarchy-country-KR-South-Korea-2K.webp": {
+    "sha256": "5322ba100f63e46d538c22ae5d2f3f921192dfa29068a28c335b7fbdaf555fd6",
+    "size": 327420,
+    "preview_sha256": "a4bb34b972735c7232dc7f66e7a62c72852be86a612424573d776f8166d87a56",
+    "preview_size": 11052
+  },
+  "images/nord/countries/omarchy-country-KP-North-Korea-2K.webp": {
+    "sha256": "0334d196eb01133df75c610dd2d5487f83199cb3e38f2cb844bb78c383408cac",
+    "size": 829778,
+    "preview_sha256": "de2543990aecf61ccd7e61376e2081c230332ec5d247bda014aed5379feefe13",
+    "preview_size": 21772
+  },
+  "images/nord/countries/omarchy-country-KY-Cayman-Islands-2K.webp": {
+    "sha256": "9b0f9075a12b918de1ab84844e0ca842ee2228400b4ce5762501639a80559e86",
+    "size": 387460,
+    "preview_sha256": "9d10d9a8f1a455123e2517baf8ffbf67f2fb5affcab4a940730a98fca12e3d2e",
+    "preview_size": 20208
+  },
+  "images/nord/countries/omarchy-country-KZ-Kazakhstan-2K.webp": {
+    "sha256": "fbc8503f8e0827ac2b7ed9e356a9f0ec80669ea0960d6273ab1b5777d4d7e0fb",
+    "size": 214958,
+    "preview_sha256": "4af9ac1766546af23ac54b66a339c77bc8b8f6c9296efd6332974d0388cf9562",
+    "preview_size": 14070
+  },
+  "images/nord/countries/omarchy-country-LB-Lebanon-2K.webp": {
+    "sha256": "d98fcf0e507c8d38d166b264c2a01863960ae4fb870b1f779da651dba1fd0c4f",
+    "size": 194258,
+    "preview_sha256": "2350de2e88820666d12cf9f319d6196be85049fe6d9a2bae5805828c025773f8",
+    "preview_size": 18504
+  },
+  "images/nord/countries/omarchy-country-LC-Saint-Lucia-2K.webp": {
+    "sha256": "efc046a0b15d7c02e1a8326f359eaf36d19db8f72b9bf6b052932256b63b09fe",
+    "size": 243230,
+    "preview_sha256": "e312716afddee20f6e5e5ec397f4e60643ed80bd8dcd61bab6277dd1708dee1b",
+    "preview_size": 11900
+  },
+  "images/nord/countries/omarchy-country-LA-Laos-2K.webp": {
+    "sha256": "c56e3b8618c0bc16f34738c2e9b94ea0861bed20bdb1a3345b3a751fdb41acb1",
+    "size": 740784,
+    "preview_sha256": "a03a98275477fe52eb99714941774a85d6d7f459a6061da56e76c26ad0585b3b",
+    "preview_size": 25798
+  },
+  "images/nord/countries/omarchy-country-LI-Liechtenstein-2K.webp": {
+    "sha256": "52e8a431cf0de3bf080b8d5bedd6b4d73ad510d0724e321f4ebc6c942e518782",
+    "size": 324284,
+    "preview_sha256": "1fcc156d8f9d3c00ebee038b258caada492bcbbc11ef7c6f73c120956cfade14",
+    "preview_size": 13460
+  },
+  "images/nord/countries/omarchy-country-LK-Sri-Lanka-2K.webp": {
+    "sha256": "a3759bac5861a78e25c2e0b112d534bed8e4d25152c081e264a74f7bde183d4c",
+    "size": 346714,
+    "preview_sha256": "978d2eb378bd24e2e68995c5cd026e4c4536d9d909103f3c2f46185038374a8e",
+    "preview_size": 21028
+  },
+  "images/nord/countries/omarchy-country-LS-Lesotho-2K.webp": {
+    "sha256": "a3f2073bca398402294be4dd073ddd210457a81330b2b54f0db94fcdcb00b6c0",
+    "size": 402606,
+    "preview_sha256": "191959f4330d6674c404432d74e9adbc1fe3117050313487d11091c05cde23d7",
+    "preview_size": 13552
+  },
+  "images/nord/countries/omarchy-country-LT-Lithuania-2K.webp": {
+    "sha256": "728a97f557b115bf8560077032d02013f06a284de8eea157dd2e9153cf44a07b",
+    "size": 230606,
+    "preview_sha256": "a60bc8a40848fb83e5f322de8f87cc3c6909da14259b784278aeea608d5b18cb",
+    "preview_size": 22680
+  },
+  "images/nord/countries/omarchy-country-LR-Liberia-2K.webp": {
+    "sha256": "7000d86fccc65d274511324f699798b772563e786ccbff80b8109619b8ea68fb",
+    "size": 695338,
+    "preview_sha256": "89490f2768ca3d0d2dc3873008a7daed1c814b3d2fd0c40adb1a63513f5cb01f",
+    "preview_size": 18292
+  },
+  "images/nord/countries/omarchy-country-LY-Libya-2K.webp": {
+    "sha256": "06e6b1c65c567993149e5500de5c9623abe29ea834be7759dda93a9d986881bd",
+    "size": 189198,
+    "preview_sha256": "20b8cb7ba5027f59b77de593eb102e74b74688a288c069fdc282a205e09c20d8",
+    "preview_size": 13544
+  },
+  "images/nord/countries/omarchy-country-LV-Latvia-2K.webp": {
+    "sha256": "e5a138fc80c098a6786c27e1bc08eed5e9a9a79f32447d2acee6a3459a3cfc4e",
+    "size": 388808,
+    "preview_sha256": "170211d838d17df105b3c6e4bc6638454e9835f904a7dfb8268efe88e8248313",
+    "preview_size": 15680
+  },
+  "images/nord/countries/omarchy-country-LU-Luxembourg-2K.webp": {
+    "sha256": "34cf58d1ae2dd02568bafb33b2bdc6a9316e75053ddbc1e718d69197ee44fdb7",
+    "size": 475054,
+    "preview_sha256": "f89920afa75b4a3352af0d2ed7c201f24c0911a190153c4e14c0551512165854",
+    "preview_size": 20690
+  },
+  "images/nord/countries/omarchy-country-MA-Morocco-2K.webp": {
+    "sha256": "cb6eca67268ff2b7c44a79445c3b2cb61380ea79d9208a0da50e45ce5b9fe395",
+    "size": 595422,
+    "preview_sha256": "45901f9f464bc02e408e6c17873d1ee585f22aa4107ce12f5d9b2b29b2112238",
+    "preview_size": 17236
+  },
+  "images/nord/countries/omarchy-country-MC-Monaco-2K.webp": {
+    "sha256": "dece25d4cb50e94d8ce8ce4cb077eda2572d26cc58c6bb4663c805bf95ec5200",
+    "size": 327488,
+    "preview_sha256": "777c4081539c62e4e030222b45cfc68ce8bd9022dc84033bf24770d5ffae585c",
+    "preview_size": 19922
+  },
+  "images/nord/countries/omarchy-country-ME-Montenegro-2K.webp": {
+    "sha256": "931f877270411d610e24bb0c90fc72aac82ea94fedf88c421fd8cf93a5ed4178",
+    "size": 277314,
+    "preview_sha256": "de69f7c2bf2a29f00be7f456d45334ccdba663ecb71087b6034fa000a7540f52",
+    "preview_size": 13316
+  },
+  "images/nord/countries/omarchy-country-MD-Moldova-2K.webp": {
+    "sha256": "4d3ecc1ab8fb138c1771503a86c23063fb5b68c5a88afc193994eab0819fc1b1",
+    "size": 252866,
+    "preview_sha256": "280233caf27d48f9c8f191c04b78bac099f4a6ff8ac6cd6d6c5b34670c1e4330",
+    "preview_size": 16294
+  },
+  "images/nord/countries/omarchy-country-MF-Saint-Martin-2K.webp": {
+    "sha256": "bd58f467a2fad4d470904b2405e39c50daf1961cd921a9c3f7536156bdc20a24",
+    "size": 488604,
+    "preview_sha256": "2d5f6739126dc0a22bb0023e5b405d0a0875943d1e4c6e8769b86d17ee573d91",
+    "preview_size": 17058
+  },
+  "images/nord/countries/omarchy-country-MG-Madagascar-2K.webp": {
+    "sha256": "c8926a26d1d88b70883717fd5142e6b9d5c1f64dd89d122212ef10516205c8a3",
+    "size": 175610,
+    "preview_sha256": "0e869b3e2f39f2d625aa704130356df831a1f9d20adecf40a7604c5e2ca073e8",
+    "preview_size": 15132
+  },
+  "images/nord/countries/omarchy-country-MH-Marshall-Islands-2K.webp": {
+    "sha256": "9872cea84f26f878be66af10712f3d429ccce9404774d00f1531e382fc6a454e",
+    "size": 414366,
+    "preview_sha256": "7f527c7a6a05745382f285e2c0ede712f370f43904e6fabd2b245f98b979b366",
+    "preview_size": 28632
+  },
+  "images/nord/countries/omarchy-country-MK-North-Macedonia-2K.webp": {
+    "sha256": "7505e96d1b38442dd48b3f60e79e885efaf0e0a28d204de36bfb1ebd7cfb6241",
+    "size": 475846,
+    "preview_sha256": "d341beda247f0436136d3e9c71ff29cd815632dd81ed75a4aab9578378b19826",
+    "preview_size": 14378
+  },
+  "images/nord/countries/omarchy-country-MM-Myanmar-2K.webp": {
+    "sha256": "8fd528094ff9044a064da7e2340deb10cee8a0603f165810ffa5f929d169db77",
+    "size": 212264,
+    "preview_sha256": "52d0d60bc71dc74307a5f68564fb8f84fc11cd321e6c342fb2ae5f9d36627036",
+    "preview_size": 19148
+  },
+  "images/nord/countries/omarchy-country-ML-Mali-2K.webp": {
+    "sha256": "2f8e9b5ded496d0750f00c469115c0c4317adc16f481ab39195a32906d50e57f",
+    "size": 298608,
+    "preview_sha256": "085878a3f66e50c281fe4ba15f0d1a0ff719618562f2b8e6722db571c19bd307",
+    "preview_size": 26650
+  },
+  "images/nord/countries/omarchy-country-MN-Mongolia-2K.webp": {
+    "sha256": "b5a7a1312c02145ad9939b846820fdb2588d73228df96d24f1cad5e1bc551cea",
+    "size": 233036,
+    "preview_sha256": "c630233d6848d3753c74eba32d093c99dda875f7ade7ccdd45828e4f321f946c",
+    "preview_size": 24014
+  },
+  "images/nord/countries/omarchy-country-MO-Macau-2K.webp": {
+    "sha256": "ee2a977f0ddddd1c19c9bd03502e547cb72edf0350cb00beb91b857c02fcf53d",
+    "size": 375434,
+    "preview_sha256": "8ae2c862543a40f82e0d90b677ff12d90a75959757dd04e35cde23998a7ba232",
+    "preview_size": 19386
+  },
+  "images/nord/countries/omarchy-country-MQ-Martinique-2K.webp": {
+    "sha256": "d17d0fe9ffe78dffc0f6aba775399db386583c6fedb3eb5c39029bf26b39d477",
+    "size": 189842,
+    "preview_sha256": "87a5a6c119b90602d4f3b50f99837a1e0f1347720bed35f8cbaf50ce7bb9d5f2",
+    "preview_size": 18238
+  },
+  "images/nord/countries/omarchy-country-MP-Northern-Mariana-Islands-2K.webp": {
+    "sha256": "3d512873dcf16c278101002033a58a214ead58bafa29e4f6007f7596bc8dc6e7",
+    "size": 305582,
+    "preview_sha256": "5e383394d71cd46233d83c939bc44fbaa28beb84e7e0d755213d93a1e007842b",
+    "preview_size": 14886
+  },
+  "images/nord/countries/omarchy-country-MR-Mauritania-2K.webp": {
+    "sha256": "6edc1e5edbe769d57d90b0e16a6ec4c334822db4343c8edc82036dbde9e4d5de",
+    "size": 422744,
+    "preview_sha256": "21d2f67108c282985d8c793983466a00df24c706bf4074a137fc1df2473517f1",
+    "preview_size": 15444
+  },
+  "images/nord/countries/omarchy-country-MS-Montserrat-2K.webp": {
+    "sha256": "a44db54905d32cb57e97134c4cd5551b5fd2b647dfd6d21a1770d7891070ed8f",
+    "size": 391396,
+    "preview_sha256": "deda54aa84ff606ffe3f9155797e5b615abd1b5dfab5339de0a0339485ef8d90",
+    "preview_size": 19720
+  },
+  "images/nord/countries/omarchy-country-MU-Mauritius-2K.webp": {
+    "sha256": "ed77c26281f8fd5657f23aa4cb428d049607d1e52a7e7c0bb608bb4f77dcf076",
+    "size": 245426,
+    "preview_sha256": "c21d0a0a433eba84099f5469928c75f580a27192e4ddbb22e8d63500b28c3d1c",
+    "preview_size": 14254
+  },
+  "images/nord/countries/omarchy-country-MT-Malta-2K.webp": {
+    "sha256": "6dae891ab23386c03631b0e55ce620fa9c2b29be225148191a4490a3bb2a9b84",
+    "size": 229234,
+    "preview_sha256": "70ce1bb51299b6b161c9d2a0584521217ae08c64d70d26719345f0aa3c66f8a0",
+    "preview_size": 15322
+  },
+  "images/nord/countries/omarchy-country-MV-Maldives-2K.webp": {
+    "sha256": "1d9d348e02dc0d1a1f7413ad026aad07c151ea489597dff4ab851664255779de",
+    "size": 339884,
+    "preview_sha256": "3c8fb51016c38093423cc1b9e0aacd58dbea0740ce43f6bb39154528e4a9150e",
+    "preview_size": 19570
+  },
+  "images/nord/countries/omarchy-country-MW-Malawi-2K.webp": {
+    "sha256": "09cc95fcd1e6f3af213664b7986b9b148038ae4062936fc54e6f3c0feb7721c8",
+    "size": 310306,
+    "preview_sha256": "f5a844345e5ab097b742b539bf9c6df846669a52a8bd31e0c24535aaedd568c8",
+    "preview_size": 15752
+  },
+  "images/nord/countries/omarchy-country-MX-Mexico-2K.webp": {
+    "sha256": "040d239926ce6ced7eeaa1850ac4991751f13b708dcd14776e2dd6fd5d11d8d1",
+    "size": 513334,
+    "preview_sha256": "7b30acf492defa88024a7d81bdfdbf80919aa275cbe576029bbf5d4769fedb26",
+    "preview_size": 17528
+  },
+  "images/nord/countries/omarchy-country-MY-Malaysia-2K.webp": {
+    "sha256": "dac1069680ab56910e4619bd547b59206b8ff8a393c4c21379cc90e66e512b71",
+    "size": 402368,
+    "preview_sha256": "0629abe9a388c1649031d8c8acfb34b4fc791eccd78671faee8d81676e4add1c",
+    "preview_size": 18510
+  },
+  "images/nord/countries/omarchy-country-NA-Namibia-2K.webp": {
+    "sha256": "7630fe49a02767317f89c14036ca6e8ebd90c95d8ac072c25f0bccc7b8a18fe8",
+    "size": 509328,
+    "preview_sha256": "43f4a83e5b3b7c40ba3b024d48e58ba628788c7c284d302d7dbb675865179716",
+    "preview_size": 14028
+  },
+  "images/nord/countries/omarchy-country-MZ-Mozambique-2K.webp": {
+    "sha256": "d4e5f4c1167b7e7e740ce4ed3121c5ff6a0a9c39433e022aff7b8fd156ff490f",
+    "size": 606510,
+    "preview_sha256": "0f22f6f3be2c223adfc6331ff8e8a54129305ea99c932da97ae5eb9dc31431a6",
+    "preview_size": 17848
+  },
+  "images/nord/countries/omarchy-country-NC-New-Caledonia-2K.webp": {
+    "sha256": "53de40f4a628fed6670eb274a813a5f87e3408db1cc89ec6d4c91b643286d037",
+    "size": 327514,
+    "preview_sha256": "50b7b7d8d5440e0ebd662cdd4704d8385db7f417a60e1369b69378cd1b946df9",
+    "preview_size": 21724
+  },
+  "images/nord/countries/omarchy-country-NE-Niger-2K.webp": {
+    "sha256": "84befe184010dc484db6c1f1707102710436924a29a1cc63bf73c88898bd5367",
+    "size": 341306,
+    "preview_sha256": "d329cd16b6c7fdbc73abfe94d1e9f9d5a56b2f0dd60ff70213d65d02daf8048f",
+    "preview_size": 18274
+  },
+  "images/nord/countries/omarchy-country-NG-Nigeria-2K.webp": {
+    "sha256": "5233b9c3f3d928f25d037a69de8521dd61f45462016c59ef7d149d7df6909fe1",
+    "size": 230668,
+    "preview_sha256": "0610d5a09237e9e84bc3b242579d78950aedf21a6d1e47240f5aa33c83f8233b",
+    "preview_size": 18184
+  },
+  "images/nord/countries/omarchy-country-NF-Norfolk-Island-2K.webp": {
+    "sha256": "f3c74aabf999b334244c1fd066151f422658e7ac9a5a0f12128f00530747663d",
+    "size": 385712,
+    "preview_sha256": "c8548fe19615700ec02c8e41f79c6de973befe08db58300a8449b90e55c1f29b",
+    "preview_size": 26706
+  },
+  "images/nord/countries/omarchy-country-NL-Netherlands-2K.webp": {
+    "sha256": "6202f9c5a8a01aa6892f925dd54265df497b80b46595ffc3e04cd332ac429552",
+    "size": 455552,
+    "preview_sha256": "ac3df83b1453a1acfb0365a33e865c1d41854e992aca9f9bd1e0b07cb674c02c",
+    "preview_size": 13802
+  },
+  "images/nord/countries/omarchy-country-NI-Nicaragua-2K.webp": {
+    "sha256": "47a4a0e432c70d6b1b8fe01714ce330a9648aa548f43d4fddb7b3159f44f0baa",
+    "size": 341566,
+    "preview_sha256": "282fb51947a62c6f81e8395b75f335228d0369154af5be44dedc36d192057875",
+    "preview_size": 21932
+  },
+  "images/nord/countries/omarchy-country-NO-Norway-2K.webp": {
+    "sha256": "a9c679354cb021c6c97f7f3589d8de3831835b0c14170fba8c1ce07281704661",
+    "size": 563118,
+    "preview_sha256": "a3d0df73bc93867820803344e039f5bebe3886804dc027ab86a71c6e66895fcc",
+    "preview_size": 8678
+  },
+  "images/nord/countries/omarchy-country-NP-Nepal-2K.webp": {
+    "sha256": "2000162bae837ae4dfc584097ce0db04c79dead58b88a94b120fa0c357a841e4",
+    "size": 363396,
+    "preview_sha256": "ff1de72c9fdcb8f17110995ea3ede4bb501f47209c4e4272d84eda5d6af7552f",
+    "preview_size": 20320
+  },
+  "images/nord/countries/omarchy-country-NU-Niue-2K.webp": {
+    "sha256": "73149ee0f06c7f8f0c37e58477093bf0fb427796d12553e7be2e20d817ea2dec",
+    "size": 302044,
+    "preview_sha256": "e22250aed2ce5005c093fd8b3891a5e57811d13536b97dca2a4daad0e2efa31d",
+    "preview_size": 11476
+  },
+  "images/nord/countries/omarchy-country-NR-Nauru-2K.webp": {
+    "sha256": "75fd88cdac65dee7b8a375b3d650770161ad628dd76b06fc7105d71a46d18a3a",
+    "size": 272238,
+    "preview_sha256": "645289a0cf6ca746d17ef9f14bcb04e5a319d8cb5bc40981c009c32f778bbef7",
+    "preview_size": 16668
+  },
+  "images/nord/countries/omarchy-country-NZ-New-Zealand-2K.webp": {
+    "sha256": "941bbfad00a9f3079c5c909351d081350781f98522ab16a5710dca3256f9586e",
+    "size": 308504,
+    "preview_sha256": "60386ccc8225d6ad8c6e20889eed4f94f9c36ffa35dc633ddd2aa044da6af493",
+    "preview_size": 16508
+  },
+  "images/nord/countries/omarchy-country-OM-Oman-2K.webp": {
+    "sha256": "47f40d9fb1df21ab6945f2bd9da641c4cdfa6c1c72ae184cc49aa4f1766fa803",
+    "size": 528922,
+    "preview_sha256": "45604134e64c521c6ee9ad372c9d1ce7fbc916431c7aca6a31c00d8fd0e4a1fb",
+    "preview_size": 10618
+  },
+  "images/nord/countries/omarchy-country-PA-Panama-2K.webp": {
+    "sha256": "2b2e96f5086fda8de39a5e54dbbcc4110336ef79ddc1ac0da0a9e377d3d2000c",
+    "size": 464866,
+    "preview_sha256": "ed09e80c5aef084aa88933ad1e02dc168ad32c1350f167efab46e63a40d96ae6",
+    "preview_size": 18724
+  },
+  "images/nord/countries/omarchy-country-PE-Peru-2K.webp": {
+    "sha256": "0839049cfb05a92cab83491107804c0cf3b2ade0a5e80a30ff5e72486e7ee38c",
+    "size": 421454,
+    "preview_sha256": "672a60510ca927dbe2620990de36d725495f0b2ca922ed2fc9a6feed196fd5d9",
+    "preview_size": 22930
+  },
+  "images/nord/countries/omarchy-country-PF-French-Polynesia-2K.webp": {
+    "sha256": "b5a6b358a3451bde0fb63f3be22bf356552fb034d79981469dbd787bac08ee39",
+    "size": 406648,
+    "preview_sha256": "b86793f86fbcb2c316e146bfe82ea6ffd9fd6f137f47376fbc1256c3bab50e48",
+    "preview_size": 20020
+  },
+  "images/nord/countries/omarchy-country-PH-Philippines-2K.webp": {
+    "sha256": "220daba85384069d6edba2aae9074d5386a35fd5bea5a438c5386162fbf5f285",
+    "size": 284678,
+    "preview_sha256": "a51428b1887a470aa38ba1571943feef47cb02a6c76eb729f37417ed69288aaf",
+    "preview_size": 13100
+  },
+  "images/nord/countries/omarchy-country-PK-Pakistan-2K.webp": {
+    "sha256": "96ecd62bf59294daa7090db01ce9b2e5f2d29c2d8ff22bf085e9915bda7122ce",
+    "size": 263066,
+    "preview_sha256": "0b559fca00cf6cd1d036bb0ba68903ced9933fa4f196180edfd5fae427641d18",
+    "preview_size": 15758
+  },
+  "images/nord/countries/omarchy-country-PG-Papua-New-Guinea-2K.webp": {
+    "sha256": "be8acc639e8683dc56c0347cb0054694a69b3735b937cc5c5bbf1473e44fef6f",
+    "size": 489558,
+    "preview_sha256": "df38e5d34340485d217b4d8547db6dcb0f67b17f99bbee3c03bd15466749764d",
+    "preview_size": 20656
+  },
+  "images/nord/countries/omarchy-country-PL-Poland-2K.webp": {
+    "sha256": "3a7613ac331b3ef6b291b1f8c3b091e0ae0e8d237612a0b55cae50e3cbc0b0e7",
+    "size": 460528,
+    "preview_sha256": "0431a83e27418377e2abdb6d52359f6af223337ace044604eae7c96671329374",
+    "preview_size": 13454
+  },
+  "images/nord/countries/omarchy-country-PM-Saint-Pierre-and-Miquelon-2K.webp": {
+    "sha256": "eacd9a43b31967ed082531fbaf5aa8b0e4df3f94c05b99915753d8e4fb918319",
+    "size": 196414,
+    "preview_sha256": "e6a473fe24c3af9d6050d7e97dc6988c2424926fc2ab1b441cd631da12608da3",
+    "preview_size": 16918
+  },
+  "images/nord/countries/omarchy-country-PN-Pitcairn-2K.webp": {
+    "sha256": "b8fd0477ba9465b121d8c0147567d6d189f52ba45e42e262e38b686d50816bd8",
+    "size": 203864,
+    "preview_sha256": "ebe20c04b888bc347dc8b46e9c01c29d17d10e68a13ee5514f3d407c7e694a30",
+    "preview_size": 13930
+  },
+  "images/nord/countries/omarchy-country-PR-Puerto-Rico-2K.webp": {
+    "sha256": "632c1a00c8fc620f1c23c8503a37fdb19843d1b3a6e24a7d8232e4519abe3fd4",
+    "size": 289798,
+    "preview_sha256": "608ed46a0540056f3b234c9d877fc35c3003ff8e175167f9b69003fbe888db4f",
+    "preview_size": 21920
+  },
+  "images/nord/countries/omarchy-country-PS-Palestine-2K.webp": {
+    "sha256": "6f1d77ddd90908daecd087a1a15d6abd1d3a6058a85481b68d19a86bbd958c2d",
+    "size": 405236,
+    "preview_sha256": "f1aceece322b38e9ec8dac6b7e00c32ac6568d80f470eb79a445fd8fc719c6de",
+    "preview_size": 12452
+  },
+  "images/nord/countries/omarchy-country-PW-Palau-2K.webp": {
+    "sha256": "a704271d7fa3e6f0cb47a6a403390ab87e14f1883191d7a71f34f98a2be1eb19",
+    "size": 276876,
+    "preview_sha256": "bd91126a2fe5e809ced35638caad7112aedfae722258b4878f30cc85eef686a2",
+    "preview_size": 14632
+  },
+  "images/nord/countries/omarchy-country-PY-Paraguay-2K.webp": {
+    "sha256": "2a8a9451359bc137a4e6b7dbb052fae3b75170c85658c3a0618a644ed764e9dd",
+    "size": 305950,
+    "preview_sha256": "24adf8da1a06768489825a83e56c5a65bbe83c2500cf367bd4b9a48a9718d5dc",
+    "preview_size": 18878
+  },
+  "images/nord/countries/omarchy-country-PT-Portugal-2K.webp": {
+    "sha256": "5fa8496cc64eb1494820a583e8cd2110b76c6f38ca6a67c38f5073119447a690",
+    "size": 511800,
+    "preview_sha256": "776a496ff2692f870d74c4dd5112cde93a470175021e83aa17c18c4f7faf3dd2",
+    "preview_size": 16564
+  },
+  "images/nord/countries/omarchy-country-QA-Qatar-2K.webp": {
+    "sha256": "49984f2093beffa8710e054d5de465f2b2a3ce4aa4ee746230cf4d44ad8c9ad4",
+    "size": 587424,
+    "preview_sha256": "08d5f99b584326bf922eb03b0e0c8e1101ad1230642ed9d54a59ca38cc83cfd6",
+    "preview_size": 10264
+  },
+  "images/nord/countries/omarchy-country-RE-Reunion-2K.webp": {
+    "sha256": "5d6f8c44a76b17483c91d3cd929caf2d6ee6bca3c2440f85a25e1cc75a1d38fe",
+    "size": 315586,
+    "preview_sha256": "cc39df131d74c6caaa4d931ee961f3cee7736acbf1e1e35b4d5eeb173b219f12",
+    "preview_size": 16726
+  },
+  "images/nord/countries/omarchy-country-RO-Romania-2K.webp": {
+    "sha256": "cdc417d2d8214f1f9c805045fd102796ed40a4ffdf271dcde29b64b5f848c450",
+    "size": 228526,
+    "preview_sha256": "00e26a4ad38d77ec59e5f84d7083b9aadf794a9fe556c73e55ad66744622b549",
+    "preview_size": 17068
+  },
+  "images/nord/countries/omarchy-country-RS-Serbia-2K.webp": {
+    "sha256": "5be6c83acf72578d263dc0f3abc831c1fedd391ff492068d37927a2213999b9d",
+    "size": 341660,
+    "preview_sha256": "9eb26326f2ae329b2d3cd7abe15ffd983bde16d4edc0875d73c28059f3e8ea91",
+    "preview_size": 12656
+  },
+  "images/nord/countries/omarchy-country-RU-Russia-2K.webp": {
+    "sha256": "a21019e153dba0479dd816cd044945db693b46405632b04cbe34c94bb6142bfe",
+    "size": 255704,
+    "preview_sha256": "34d65bb7d6877aa98032100b8d8e3a176e6a4878c678c5fefde74e9fd323899e",
+    "preview_size": 12190
+  },
+  "images/nord/countries/omarchy-country-RW-Rwanda-2K.webp": {
+    "sha256": "7449c62bc452bd2f932749d011eff9ffb71748def2c285ae7c60369fa60221ec",
+    "size": 347074,
+    "preview_sha256": "bea65a1cb89350140cbe310b3ee118962d0620b6929380140ae3acca553092f2",
+    "preview_size": 12986
+  },
+  "images/nord/countries/omarchy-country-SA-Saudi-Arabia-2K.webp": {
+    "sha256": "922d1bb70105f5a04e0b372d3242f9bfc0f958f06b0aa55eb5f8e9336a3145c3",
+    "size": 258258,
+    "preview_sha256": "2569fd039dd43a12b16d65502630feedd7a7a779b776c2359d50967ac88a0beb",
+    "preview_size": 14302
+  },
+  "images/nord/countries/omarchy-country-SB-Solomon-Islands-2K.webp": {
+    "sha256": "502ed4d6ebb8199e56e051c9269240cbd97855da193ed64d28b52d5ceebaf7d3",
+    "size": 605540,
+    "preview_sha256": "077b5bb5da2c0ee8c592cab55822796db684c567bf68fed58dfc1492c379f702",
+    "preview_size": 9548
+  },
+  "images/nord/countries/omarchy-country-SD-Sudan-2K.webp": {
+    "sha256": "6e852616c6ba004db021c56f424d51dd66ebd2785ef995bc35d59af40f7ade77",
+    "size": 141902,
+    "preview_sha256": "25826550b43f902611b59cf0e80808f59c0c5345a953ed69b0b21da66116a4a2",
+    "preview_size": 14260
+  },
+  "images/nord/countries/omarchy-country-SC-Seychelles-2K.webp": {
+    "sha256": "5e4f247e89bdc38b8bf558a0a5aceefb6315d096dbe93bbad7a95f429f1ef06b",
+    "size": 357560,
+    "preview_sha256": "5531ef5855c2c1103564b6f2b373254e816c300761c402ef24bbcef4df62e522",
+    "preview_size": 18142
+  },
+  "images/nord/countries/omarchy-country-SE-Sweden-2K.webp": {
+    "sha256": "0a3d01a102fb93cc736020cc3ae86485894c0da92c23beb7862a80c301f8fa11",
+    "size": 248606,
+    "preview_sha256": "ead0114bacc7d7246e3a4a3c3db0f0b35954734d4dd4c83abfc348608afaa299",
+    "preview_size": 21036
+  },
+  "images/nord/countries/omarchy-country-SG-Singapore-2K.webp": {
+    "sha256": "550aabdd3465943c3c58eedb981aba0af14858567c1ab6ef053a1ce679ffeff9",
+    "size": 277014,
+    "preview_sha256": "1ee6ebb852ac4fd91922c543f9183db427b0f1272edadabc88ca5a3b73d6ca45",
+    "preview_size": 17076
+  },
+  "images/nord/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K.webp": {
+    "sha256": "2c527472c34c9433ba9aaaf3b6ae485fe097d3915537839d1402c833cefe263d",
+    "size": 419868,
+    "preview_sha256": "8685fae9df873c85ac404e46a018476df2474788e6fa035d91d02d23027a177f",
+    "preview_size": 10748
+  },
+  "images/nord/countries/omarchy-country-SI-Slovenia-2K.webp": {
+    "sha256": "5897ecacf7d4f2b67d35282f2f9100a5d3841bcbdaa44f646fd362b68d70a8df",
+    "size": 333158,
+    "preview_sha256": "31dd75baa157727faf926b1ef5c4a131c08847284c6e1dac9ec1f39d0f960949",
+    "preview_size": 12714
+  },
+  "images/nord/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp": {
+    "sha256": "1b1ed93b4ed1d01c7ad870842c086077538d9fee63061e5a77b41eb11da638bb",
+    "size": 368974,
+    "preview_sha256": "602b0844fecca7bae1519468691119aeb804c992ac70cbe37aa4dfb36e98c5fa",
+    "preview_size": 20214
+  },
+  "images/nord/countries/omarchy-country-SK-Slovakia-2K.webp": {
+    "sha256": "73613d04d1c66ed40afdd06b6a2bf21fcd176575ec3446582b599b1f949be449",
+    "size": 213796,
+    "preview_sha256": "6e1f7ffcdd7d51ffcfe358e77f5bbd35a0558821766a2d669586c6c91b4ed3a7",
+    "preview_size": 18522
+  },
+  "images/nord/countries/omarchy-country-SL-Sierra-Leone-2K.webp": {
+    "sha256": "97d869d453ede320e02e1195a906c4bf808dbc4445acfe7c9dc9a5bb0202de57",
+    "size": 336486,
+    "preview_sha256": "c3c65470ebfa3d5ee010d223dcbfccdd888ff06e3db496881a2c914304c7ab60",
+    "preview_size": 18472
+  },
+  "images/nord/countries/omarchy-country-SM-San-Marino-2K.webp": {
+    "sha256": "321d071b0adfcd3f59e23177bf1638936ef3636e63504ea3dad773e1f993f076",
+    "size": 389168,
+    "preview_sha256": "1510554bd20dca212cbe4b40adfab245ad40230ab3fe122cfc30eb1f5e40613a",
+    "preview_size": 15066
+  },
+  "images/nord/countries/omarchy-country-SO-Somalia-2K.webp": {
+    "sha256": "81a54e6dfb488c99f29d2ee7b96b0dddbffa8eb4faafcd097f66507ec3f0ad07",
+    "size": 327234,
+    "preview_sha256": "834a698663a683dff523cf5531cdc52d71cecfabf75a07defddfd31988f4973c",
+    "preview_size": 15152
+  },
+  "images/nord/countries/omarchy-country-SN-Senegal-2K.webp": {
+    "sha256": "420da20aa1bd6d508099c8a73fd83b0891c25990b06b4d39133508e486cb1170",
+    "size": 468276,
+    "preview_sha256": "1d2eafabcf9766c92f34e2d43b3a52046f52e5688fd1fd0e894c2a655b5c46f4",
+    "preview_size": 22904
+  },
+  "images/nord/countries/omarchy-country-SR-Suriname-2K.webp": {
+    "sha256": "2f95bb459f2318d2550f1a14e48dfa2dde133b05ca4861c89f35834b2e0d1ad6",
+    "size": 353806,
+    "preview_sha256": "dd40d92f130444e33a0b6e31a58ff87b9ad3368d43b53dbf71c662602c0ce0d7",
+    "preview_size": 12448
+  },
+  "images/nord/countries/omarchy-country-SS-South-Sudan-2K.webp": {
+    "sha256": "cc151a31bbc1897e0968dde081acf18b3ffc7e7c16a28f0e3846804ff67e025a",
+    "size": 331626,
+    "preview_sha256": "b567a0be86ae64eb786d71972bb13f7b71d747e622d7917857443716a5efe880",
+    "preview_size": 9044
+  },
+  "images/nord/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp": {
+    "sha256": "2269ee8cc9a80af5415ad5ab1cb2ce2559228843cdef7f41efe47c96e4276c93",
+    "size": 360802,
+    "preview_sha256": "4a309ce8e503b84dd99247429e38ea3cc824d4156df45bd6e7411f43b273c345",
+    "preview_size": 25962
+  },
+  "images/nord/countries/omarchy-country-SV-El-Salvador-2K.webp": {
+    "sha256": "f85eab2ee94eb85d6ba805eb9df2cd95e993e25823feeb9f4fb1859aa48223a5",
+    "size": 266856,
+    "preview_sha256": "7a21f4a582c1dc98fbd28bd9446cc0b12ceb9384b2e4dd5bdd15c2c65b38064e",
+    "preview_size": 16974
+  },
+  "images/nord/countries/omarchy-country-SX-Sint-Maarten-2K.webp": {
+    "sha256": "16fd90e250a5b2e4c5050a5ef284a4f67fe7121d1b244acbcc4f98dc0082dc7c",
+    "size": 179442,
+    "preview_sha256": "39bf9de7bd31771489ba06563cdff2797eb0ab82ef3983958499bfe15fb7c028",
+    "preview_size": 14504
+  },
+  "images/nord/countries/omarchy-country-SY-Syria-2K.webp": {
+    "sha256": "f428c4e695af90b737058ec911733d6591993b2c14f8990a35c5d306cec9d5f6",
+    "size": 278762,
+    "preview_sha256": "06358c868dac7317805660ce09aee0a6d042bf6af281d8c0c629c3d75056b601",
+    "preview_size": 15544
+  },
+  "images/nord/countries/omarchy-country-SZ-Eswatini-2K.webp": {
+    "sha256": "2396b5792d3664e1598f060e804ab8c9121272652e737a5fa4fad99bdd1b6e8b",
+    "size": 426156,
+    "preview_sha256": "ba49007b9ebf999c0df52459e3bc7c033a2f4657103e19fff00239aed996011e",
+    "preview_size": 14382
+  },
+  "images/nord/countries/omarchy-country-TC-Turks-and-Caicos-Islands-2K.webp": {
+    "sha256": "9534854425f80a470c027f4eb07555cd05c99d5f6bf14aca7088b140b53175a5",
+    "size": 358364,
+    "preview_sha256": "b030fbd4e0ea7d07c70e88833867f38a44da180779d77a97e55b655569e11dc1",
+    "preview_size": 20038
+  },
+  "images/nord/countries/omarchy-country-TD-Chad-2K.webp": {
+    "sha256": "08395ae3f5fe4c6123866df646392483e5ab2280fc9672dcf6a92d29e0b2a83c",
+    "size": 259552,
+    "preview_sha256": "6e30539bcc884b496068d811055760a91c14f1ca573572a452624b240a82b7a0",
+    "preview_size": 16658
+  },
+  "images/nord/countries/omarchy-country-TF-French-Southern-Territories-2K.webp": {
+    "sha256": "a9e451ec956ff9ed97f1b519b7fefea88d8d2bc12c63e5a8532da49694874cfd",
+    "size": 197960,
+    "preview_sha256": "2781e2728c5a16f1cc5915052dae5d3e5938bf4c0644567bb09350ab93388767",
+    "preview_size": 21244
+  },
+  "images/nord/countries/omarchy-country-TH-Thailand-2K.webp": {
+    "sha256": "c9ef1a7b5b2000ee4d67b8460a3b8266bafa4ea44284111c6bd2776dcc9fe793",
+    "size": 262376,
+    "preview_sha256": "3128763677a863f95a89a8c6c994c1cea6b88693d69a6a421e49b56fb680ae2d",
+    "preview_size": 14240
+  },
+  "images/nord/countries/omarchy-country-TG-Togo-2K.webp": {
+    "sha256": "3517c1a336376bbe01b86be3fd4358f368dcafd10c21ff0867da94556b264063",
+    "size": 265002,
+    "preview_sha256": "532280e2ce783a3c0d34751024f82f9ea14e2797933c2fbc713aa691966362d5",
+    "preview_size": 19164
+  },
+  "images/nord/countries/omarchy-country-TJ-Tajikistan-2K.webp": {
+    "sha256": "62f0066366d0799571ec322f67a3d02b0a0abfd17292d03bc04178e0785af781",
+    "size": 303836,
+    "preview_sha256": "abc9694ce5f44ba98289702a45125ecf09d23d4494e6f187714dc49a3ab008ad",
+    "preview_size": 25870
+  },
+  "images/nord/countries/omarchy-country-TK-Tokelau-2K.webp": {
+    "sha256": "c12848351cc8c6c1c9a5ac7b45b6fe3748a586ca5d85273bce5c570cf22448c4",
+    "size": 472896,
+    "preview_sha256": "d501bbc474f42a802aa8a53c4eb75d7a6cdb12f95cd772bdb86ec30743002a98",
+    "preview_size": 24106
+  },
+  "images/nord/countries/omarchy-country-TL-Timor-Leste-2K.webp": {
+    "sha256": "0334a42fae72d05e88bf3638aaddc7fa504e51490272de1318a5629d8fce6345",
+    "size": 279482,
+    "preview_sha256": "dc187dd1612c25c9a8e9f2c3583dd0dac34b6519a463b39c3dc48ccf9a2b0cfa",
+    "preview_size": 16352
+  },
+  "images/nord/countries/omarchy-country-TO-Tonga-2K.webp": {
+    "sha256": "0977c4f4a64a5ced55f947b59c6d8de265d72584de22c5e1a8f17c2aac7ac842",
+    "size": 157058,
+    "preview_sha256": "7e5b2d3a57b407bebffe0ec0a11f1fdd1aa5a6ec05346ce5a2fb79ac6729e500",
+    "preview_size": 13044
+  },
+  "images/nord/countries/omarchy-country-TM-Turkmenistan-2K.webp": {
+    "sha256": "067ba8b7e34d13ee9ea706e9672f48361e49c54d66f21db8b4439cccdca80f0f",
+    "size": 314820,
+    "preview_sha256": "c77c12f1d0cfa7ecc5101408719f7b2b7ec98ed1ba3330c5da646924e59c35b6",
+    "preview_size": 18008
+  },
+  "images/nord/countries/omarchy-country-TN-Tunisia-2K.webp": {
+    "sha256": "c89b9f6b1dd3d396e820d56e463fdeaa71453facd5e467d5c2a443560c006bb4",
+    "size": 486150,
+    "preview_sha256": "7ae0c78d1f4d2f8e1b722332002f539dcee7265bbc06c901f48fddd063837122",
+    "preview_size": 16020
+  },
+  "images/nord/countries/omarchy-country-TT-Trinidad-and-Tobago-2K.webp": {
+    "sha256": "bd3c6d37927686214da2f85860f45474dcab94d83a01ffe74d35212172216ea8",
+    "size": 184632,
+    "preview_sha256": "0c28604d2d8d779c182b105f709ec03b9d6adc912e98c4b7a6e75972a3932b69",
+    "preview_size": 13466
+  },
+  "images/nord/countries/omarchy-country-TR-Turkey-2K.webp": {
+    "sha256": "5cbdcf4c437f3c87a3041128feb97bf153637dfd0838f6a788fae64d9c775368",
+    "size": 284838,
+    "preview_sha256": "77c942c92b6fd89b6d58d4b645f563aa8921aca2a4f51b226933323eb5381496",
+    "preview_size": 11344
+  },
+  "images/nord/countries/omarchy-country-TV-Tuvalu-2K.webp": {
+    "sha256": "c68b5af6577f8b9fb8254ac63b62766c2abd6b28c7b8605af5620514eaad54ac",
+    "size": 187574,
+    "preview_sha256": "96a47b2936692777c0e5ff9313e865b9a285936b2f7604cc61c5b8d763a3114f",
+    "preview_size": 15768
+  },
+  "images/nord/countries/omarchy-country-TW-Taiwan-2K.webp": {
+    "sha256": "96b40a2d4dbca8450c981b22928499587f86f46d7be1bff8666828374adc78fe",
+    "size": 293364,
+    "preview_sha256": "91b4f468cbec4071de4c27581529ecfd297a312f7903dd9b0ff84ed3d6e2a67f",
+    "preview_size": 18098
+  },
+  "images/nord/countries/omarchy-country-TZ-Tanzania-2K.webp": {
+    "sha256": "6c66c3fe75e64a6af6384a572f1a56aba3794ad62065253040add5f7c3ad2be5",
+    "size": 346918,
+    "preview_sha256": "6d2394ef345420a88053af8685ab0b56f2980a40e24e57d47ccf00d9505db37d",
+    "preview_size": 15094
+  },
+  "images/nord/countries/omarchy-country-UA-Ukraine-2K.webp": {
+    "sha256": "520b424fc074b8417c9a3c83d11390fd2405230b409ab5513ebdd254b7afe5f4",
+    "size": 428792,
+    "preview_sha256": "5d71696bca472556950a1060385c185feff952fba1b0c01a6585e1c3ecf288aa",
+    "preview_size": 10412
+  },
+  "images/nord/countries/omarchy-country-UG-Uganda-2K.webp": {
+    "sha256": "746031960ffa1df32f385c47e515fa1be5ef7931b690f4430dcbc63cd589e518",
+    "size": 281634,
+    "preview_sha256": "47bd3ec58065fd9c722580a40f06dcca041d98e57bcfaaff9be05cb77555da44",
+    "preview_size": 16536
+  },
+  "images/nord/countries/omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp": {
+    "sha256": "cf1b40fb72e8e2f013afeaeca40bf02f91ca9613174960675414483335a5b352",
+    "size": 266252,
+    "preview_sha256": "945d1b44af246cd504df6df1932acf14ca2375192b1c15215f6ea5cc6bb62063",
+    "preview_size": 13162
+  },
+  "images/nord/countries/omarchy-country-US-USA-2K.webp": {
+    "sha256": "56c719f26f72240d97bf328d96b008625166962e7e768d43d1f96cd5a7ffd53d",
+    "size": 314110,
+    "preview_sha256": "9da5de3b6f625b8e3aaacb465d28c39b67913696e6f9e0b75ccea21b33db71f8",
+    "preview_size": 16914
+  },
+  "images/nord/countries/omarchy-country-UY-Uruguay-2K.webp": {
+    "sha256": "4c093621b89bdcfe6dd91eb3e5acc58ab201736cfee8d42712ef507a1091cd11",
+    "size": 552060,
+    "preview_sha256": "e3f8d3e27b21b56b2435aff6c3bfc2c229ceb3847006a38f18b888360f62b15a",
+    "preview_size": 15500
+  },
+  "images/nord/countries/omarchy-country-VA-Vatican-2K.webp": {
+    "sha256": "075c54e7518e1ad85af8479549c5dc484c353d955707e018e04e9457bce18472",
+    "size": 271532,
+    "preview_sha256": "d9ee30be66e50b10469214c88982ca46bc97bb0b8405d1a03627793089373173",
+    "preview_size": 9308
+  },
+  "images/nord/countries/omarchy-country-UZ-Uzbekistan-2K.webp": {
+    "sha256": "d04bce72f7ae0368988309b5c8ed48c8b580634c09cb998b61996aefbdf1a7c6",
+    "size": 493764,
+    "preview_sha256": "4a9bfb6d0ebc8f3cfcb7e72b6ea2fd2829923f1fdf0a7a58816044f5ad031460",
+    "preview_size": 24700
+  },
+  "images/nord/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp": {
+    "sha256": "c89aacd768a93b049b2baae9bcb2a2388da10ae8084bec0ea306539ea0ac3367",
+    "size": 612272,
+    "preview_sha256": "e522ad0b13ab1a625b563c20c7a5502050fd0b3f37e7a8b5a46a60d7afdfa65a",
+    "preview_size": 20892
+  },
+  "images/nord/countries/omarchy-country-VI-US-Virgin-Islands-2K.webp": {
+    "sha256": "ba3db1f4f0da361eb46b09603a02a1c46b894b60c0680bc5e5238a6bc0d0b201",
+    "size": 329662,
+    "preview_sha256": "fc6763717d2b296fe6214f33592520aa65aef438f2c8f23bbdd8817ff6ffcc1b",
+    "preview_size": 9380
+  },
+  "images/nord/countries/omarchy-country-VE-Venezuela-2K.webp": {
+    "sha256": "97256ca01cf3d52068067224e4c645361e92e4cd759aafb3303ce28f62d36872",
+    "size": 370968,
+    "preview_sha256": "6d45ce5ab520071683d011899640a1d793fddbe16ed189acb964fc4690883022",
+    "preview_size": 16696
+  },
+  "images/nord/countries/omarchy-country-VG-British-Virgin-Islands-2K.webp": {
+    "sha256": "ab9e17a35e6111ee4ed42197ab96604509d7a285f4f32158d55a35e8db7d395e",
+    "size": 355534,
+    "preview_sha256": "505ebbda352841f0ba1fbde4b8f3547ff2c2850142a88ff53e995f95afea705b",
+    "preview_size": 16852
+  },
+  "images/nord/countries/omarchy-country-VN-Vietnam-2K.webp": {
+    "sha256": "693171a3ab256cae6b56483d7235a8fb20ea0c4bc4e07361820c687010272534",
+    "size": 402870,
+    "preview_sha256": "e18bbc83de55e2b7b09fcdb2b78d03c33cfe0431df13b4d29d09ef9a4436dcce",
+    "preview_size": 23698
+  },
+  "images/nord/countries/omarchy-country-VU-Vanuatu-2K.webp": {
+    "sha256": "2219454a093e09c7efefde178ac3a28fff6dfdfcac37c648aac4efcabbe074d7",
+    "size": 419970,
+    "preview_sha256": "d08fa81566acba1aaa91e2d5b33ab2bfbccfe6089b956ffc11cc871852c5a13d",
+    "preview_size": 17100
+  },
+  "images/nord/countries/omarchy-country-WF-Wallis-and-Futuna-2K.webp": {
+    "sha256": "3ea58bef40cb48ebfbcf9e86b677ee2ed309dcee5ff7f5fb1bb053920138bbdc",
+    "size": 199348,
+    "preview_sha256": "fa8160dfa68beb438c3fb4e7fa48baafcf65f82931d2c3e7e7bd314cacc88fbf",
+    "preview_size": 14234
+  },
+  "images/nord/countries/omarchy-country-WS-Samoa-2K.webp": {
+    "sha256": "820b0de601e674e77557d776d6bb451069d3c029c446beabab9205b120ebdce4",
+    "size": 308394,
+    "preview_sha256": "453e7ecf005f4d6077a05fad81ce3660151f21bcce1a80cc73d32e189a5aa15c",
+    "preview_size": 18588
+  },
+  "images/nord/countries/omarchy-country-XK-Kosovo-2K.webp": {
+    "sha256": "b5d5d4f78a29e567e29a091b59a429acff79a73f06796a8019e2a1ab5435e39d",
+    "size": 235090,
+    "preview_sha256": "0f4e676a55fdd9a48f2219542efe401372e49fa7e2e6f04f0c21037c52a8ba7d",
+    "preview_size": 14452
+  },
+  "images/nord/countries/omarchy-country-YE-Yemen-2K.webp": {
+    "sha256": "7a64b8eaa7f2bc26f78669adb30cf2b275c48ceb17b0040578ec45be8db19a05",
+    "size": 288248,
+    "preview_sha256": "60c1305ecabe17a306abac90ad3117ae7455e0d7e6999e25f9ecd53a0416abf1",
+    "preview_size": 13680
+  },
+  "images/nord/countries/omarchy-country-YT-Mayotte-2K.webp": {
+    "sha256": "290bb0ec2903825d8aec85431f05156e95a4d3ceb82821b66fe36771112f0b23",
+    "size": 369502,
+    "preview_sha256": "8826862bf8a7cee308db4651f3deb2fbe3ba049d1196d4613abefb52c10dcd57",
+    "preview_size": 20762
+  },
+  "images/nord/countries/omarchy-country-ZA-South-Africa-2K.webp": {
+    "sha256": "dbff56167a874c9e49d509ed5cbd5a1bbf3a08f9500f4508780db0510e228c6a",
+    "size": 379552,
+    "preview_sha256": "913f9db30e8665c13ca179a62275342c5618f55eebeaa5ffa47fc9094f2b98e8",
+    "preview_size": 19500
+  },
+  "images/nord/countries/omarchy-country-ZM-Zambia-2K.webp": {
+    "sha256": "51dda23529b8dae08331bb7919d8cd3367a98f7be5731f2b0dbb52bc6107e848",
+    "size": 363890,
+    "preview_sha256": "db154394efb53e9fc08102a31c22c94224f51d01f572a9bd432a9a78f68132af",
+    "preview_size": 16258
+  },
+  "images/nord/countries/omarchy-country-ZW-Zimbabwe-2K.webp": {
+    "sha256": "1bd418a1a4437e70a2da81c884e59ef1ba638a47db8c1e8f7992ef60b76c80b2",
+    "size": 325730,
+    "preview_sha256": "6ee011ddd0b0cc679380bf08d2fcf551d9dca26d51358cb3c084f7688fd4e99b",
+    "preview_size": 22730
+  }
+}

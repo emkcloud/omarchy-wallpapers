@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-04T22:04:52.166889+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "theme": "osaka-jade",
+  "kind": "theme",
+  "count": 250,
+  "total_size_bytes": 87243946,
+  "sections": [
+    {
+      "section": "countries",
+      "count": 250,
+      "total_size_bytes": 87243946,
+      "directory": "images/osaka-jade/countries",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade/countries",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 87243946,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-BF-Burkina-Faso-preview.webp"
+    }
+  ]
+}
