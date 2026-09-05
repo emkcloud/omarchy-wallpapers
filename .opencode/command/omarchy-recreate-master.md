@@ -6,8 +6,8 @@ agent: build
 Ricrea un'immagine master da un prompt salvato, utile quando un master deve essere rigenerato o quando se ne crea uno nuovo:
 
 1. Identifica la master da creare/ricreare (es. `masters/countries/country-IT-Italy-full.webp`).
-2. Cerca il prompt corrispondente in `prompts/` per contenuto: `prompts/countries/<nome>.md`, `prompts/cities/<nome>.md`, `prompts/figures/<nome>.md`. Il nome del file del prompt deve coincidere con la master che produce (es. `prompts/countries/IT-Italy.md`).
-   - Se il prompt **non esiste**, prima di generare la master scrivi il prompt (Markdown, in inglese, con tutti i dettagli: soggetto, stile, composizione, identità/colori del paese) e salvane una copia in `prompts/<sezione>/`.
+2. Cerca il prompt corrispondente in `prompts/` per contenuto: `prompts/countries/<nome>.txt`, `prompts/cities/<nome>.txt`, `prompts/figures/<nome>.txt`. Il nome del file del prompt deve coincidere con la master che produce (es. `prompts/countries/IT-Italy.txt`).
+   - Se il prompt **non esiste**, prima di generare la master scrivi il prompt (testo puro, in inglese, con tutti i dettagli: soggetto, stile, composizione, identità/colori del paese) e salvane una copia in `prompts/<sezione>/`.
    - Se il prompt **esiste**, seguilo fedelmente.
 3. Genera l'immagine seguendo il prompt e salvane il risultato come **WebP lossless** in `masters/<sezione>/` (es. `masters/countries/country-IT-Italy-full.webp`), pixel-exact (source of truth). Se serve convertire da PNG, usa `python3 scripts/convert_to_webp.py`.
 4. Verifica la risoluzione (2560x1440 per il master `-full` 2K, o 4K/8K se richiesto).

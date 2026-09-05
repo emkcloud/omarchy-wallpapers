@@ -38,7 +38,7 @@ Wallpapers are organized **by theme** under `images/`, each theme containing per
 
 ## Folder `prompts`
 
-Source prompts used to generate the masters, organized **by content type**: `prompts/countries/`, `prompts/cities/`, `prompts/figures/`. Each prompt is a Markdown file whose name matches the master it produced (e.g. `prompts/countries/IT-Italy.md` for `masters/countries/country-IT-Italy-full.webp`). **Always write the prompt for a new master** so the image can be recreated later if needed.
+Source prompts used to generate the masters, organized **by content type**: `prompts/countries/`, `prompts/cities/`, `prompts/figures/`. Each prompt is a plain-text file (`.txt`) whose name matches the master it produced (e.g. `prompts/countries/IT-Italy.txt` for `masters/countries/country-IT-Italy-full.webp`). **Always write the prompt for a new master** so the image can be recreated later if needed.
 
 ## File conventions
 
