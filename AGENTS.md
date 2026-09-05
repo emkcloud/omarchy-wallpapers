@@ -15,6 +15,7 @@ Folders in alphabetical order, as seen in the repository root:
 - `images/` — themed wallpapers, organized by theme.
 - `masters/` — original full-color source images.
 - `previews/` — small WebP previews of the themed wallpapers.
+- `prompts/` — source prompts used to generate the masters, organized by content type.
 - `readme/` — images and secondary pages for the README.
 - `scripts/` — tooling.
 - `working/` — local scratch space, not committed.
@@ -34,6 +35,10 @@ Wallpapers are organized **by theme** under `images/`, each theme containing per
   - `images/<theme>/countries/` — wallpapers by country.
   - `images/<theme>/cities/` — wallpapers for cities (e.g. `oslo/`).
   - `images/<theme>/figures/` — wallpapers of great historical figures.
+
+## Folder `prompts`
+
+Source prompts used to generate the masters, organized **by content type**: `prompts/countries/`, `prompts/cities/`, `prompts/figures/`. Each prompt is a Markdown file whose name matches the master it produced (e.g. `prompts/countries/IT-Italy.md` for `masters/countries/country-IT-Italy-full.webp`). **Always write the prompt for a new master** so the image can be recreated later if needed.
 
 ## File conventions
 
