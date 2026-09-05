@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T23:04:00.252177+00:00",
+  "generated_at": "2026-09-05T04:56:21.476711+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
-  "count": 5,
+  "count": 6,
   "collections": {
     "matte-black": {
       "name": "matte-black",
@@ -35,7 +35,7 @@
       "sections_info": {
         "path": "datasets/matte-black/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/sections.json",
-        "size_bytes": 932,
+        "size_bytes": 928,
         "sections": 1
       },
       "count": 250,
@@ -48,7 +48,7 @@
         ]
       ],
       "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-AT-Austria-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-NO-Norway-preview.webp"
     },
     "nord": {
       "name": "nord",
@@ -65,7 +65,12 @@
         "size_bytes": 224033,
         "entries": 250
       },
-      "optimization": null,
+      "optimization": {
+        "path": "datasets/nord/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/optimization.json",
+        "size_bytes": 43177,
+        "entries": 250
+      },
       "previews": {
         "path": "datasets/nord/previews.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/previews.json",
@@ -75,11 +80,11 @@
       "sections_info": {
         "path": "datasets/nord/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/sections.json",
-        "size_bytes": 898,
+        "size_bytes": 899,
         "sections": 1
       },
       "count": 250,
-      "optimized": 0,
+      "optimized": 250,
       "total_size_bytes": 86089288,
       "resolutions": [
         [
@@ -88,7 +93,7 @@
         ]
       ],
       "description": "Theme built on the Nord palette by Arctic Ice Studio: an arctic, north-bluish scheme with Polar Night backgrounds, Snow Storm foregrounds, Frost accents, and Aurora highlights.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-LK-Sri-Lanka-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-preview.webp"
     },
     "osaka-jade": {
       "name": "osaka-jade",
@@ -120,7 +125,7 @@
       "sections_info": {
         "path": "datasets/osaka-jade/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/sections.json",
-        "size_bytes": 930,
+        "size_bytes": 925,
         "sections": 1
       },
       "count": 250,
@@ -133,7 +138,52 @@
         ]
       ],
       "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-FM-Micronesia-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-IQ-Iraq-preview.webp"
+    },
+    "solitude": {
+      "name": "solitude",
+      "title": "Solitude",
+      "kind": "theme",
+      "images_dir": "images/solitude",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/solitude",
+      "sections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/solitude/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/catalog.json",
+        "size_bytes": 229209,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/solitude/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/optimization.json",
+        "size_bytes": 44427,
+        "entries": 250
+      },
+      "previews": {
+        "path": "datasets/solitude/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/previews.json",
+        "size_bytes": 73677,
+        "entries": 250
+      },
+      "sections_info": {
+        "path": "datasets/solitude/sections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/sections.json",
+        "size_bytes": 923,
+        "sections": 1
+      },
+      "count": 250,
+      "optimized": 250,
+      "total_size_bytes": 333375068,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme with a near-black, desaturated slate palette. A quiet, minimal, low-contrast dark theme.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/solitude/countries/omarchy-country-EC-Ecuador-preview.webp"
     },
     "tokyo-night": {
       "name": "tokyo-night",
@@ -165,7 +215,7 @@
       "sections_info": {
         "path": "datasets/tokyo-night/sections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/sections.json",
-        "size_bytes": 934,
+        "size_bytes": 939,
         "sections": 1
       },
       "count": 250,
@@ -178,7 +228,7 @@
         ]
       ],
       "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-KI-Kiribati-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-CY-Cyprus-preview.webp"
     },
     "masters": {
       "name": "masters",

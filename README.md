@@ -101,6 +101,7 @@ datasets/
 - **Matte Black** — matte black backgrounds with a strong orange accent.
 - **Nord** — cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast.
 - **Osaka Jade** — a fresh jade green palette with warm highlights.
+- **Solitude** — a near-black, desaturated slate palette for a quiet, minimal dark look.
 - **Tokyo Night** — deep blue backgrounds with cyan and purple neon accents.
 
 ## Listing wallpapers
