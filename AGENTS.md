@@ -15,7 +15,7 @@ Folders in alphabetical order, as seen in the repository root:
 - `images/` — themed wallpapers, organized by theme.
 - `masters/` — original full-color source images.
 - `previews/` — small WebP previews of the themed wallpapers.
-- `prompts/` — source prompts used to generate the masters, organized by content type.
+- `prompts/` — source prompts used to generate the masters.
 - `readme/` — images and secondary pages for the README.
 - `scripts/` — tooling.
 - `working/` — local scratch space, not committed.
