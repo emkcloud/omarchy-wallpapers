@@ -25,6 +25,10 @@ Subcommands:
                                   that wallpaper within that collection.
     remove --all                  Remove every theme's installed wallpapers.
 
+Any remove that deletes the currently active background switches to the first
+available background of the theme (`omarchy theme bg next`), so the desktop
+never stays on a wallpaper whose file was removed.
+
 Checks are done before any download: the theme must exist both in this
 repository (via datasets/datasets.json) and in Omarchy (stock or user theme).
 Downloads happen only when both checks pass; files already up to date
@@ -55,6 +59,16 @@ import urllib.request
 
 DATASETS_URL = "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/datasets.json"
 DEST_BASE = os.path.expanduser("~/.config/omarchy/backgrounds")
+STATE_BASE = os.path.expanduser("~/.local/state/omarchy")
+CONFIG_BASE = os.path.expanduser("~/.config/omarchy")
+CURRENT_BG_LINKS = (
+    os.path.join(STATE_BASE, "current", "background"),
+    os.path.join(CONFIG_BASE, "current", "background"),
+)
+BACKGROUND_EXTS = {
+    ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp",
+    ".mp4", ".m4v", ".mov", ".webm", ".mkv", ".avi",
+}
 
 USER_AGENT = "omarchy-wallpapers-installer"
 
@@ -139,6 +153,64 @@ def refresh_bg_cache():
         print("Background cache refreshed.")
     except subprocess.CalledProcessError as exc:
         print(f"Could not refresh the background cache: {exc}", file=sys.stderr)
+
+
+def current_background_link():
+    for path in CURRENT_BG_LINKS:
+        if os.path.islink(path):
+            return path
+    return None
+
+
+def active_theme_name():
+    for base in (STATE_BASE, CONFIG_BASE):
+        name_file = os.path.join(base, "current", "theme.name")
+        if os.path.isfile(name_file):
+            with open(name_file) as f:
+                name = f.read().strip()
+            if name:
+                return name
+    return None
+
+
+def first_available_background():
+    theme = active_theme_name()
+    directories = [
+        os.path.join(STATE_BASE, "current", "theme", "backgrounds"),
+        os.path.join(CONFIG_BASE, "current", "theme", "backgrounds"),
+    ]
+    if theme:
+        directories.append(os.path.join(DEST_BASE, theme))
+
+    candidates = []
+    for directory in directories:
+        if not os.path.isdir(directory):
+            continue
+        for name in os.listdir(directory):
+            if os.path.splitext(name)[1].lower() in BACKGROUND_EXTS:
+                candidates.append(os.path.join(directory, name))
+    return sorted(candidates)[0] if candidates else None
+
+
+def reset_dangling_background():
+    link = current_background_link()
+    if link is None or os.path.exists(os.path.realpath(link)):
+        return
+
+    if shutil.which("omarchy"):
+        subprocess.run(["omarchy", "theme", "bg", "next"], check=False)
+        if os.path.exists(os.path.realpath(link)):
+            print("Current background was removed: switched to the default.")
+            return
+
+    fallback = first_available_background()
+    if not fallback:
+        return
+    os.makedirs(os.path.dirname(link), exist_ok=True)
+    if os.path.lexists(link):
+        os.remove(link)
+    os.symlink(fallback, link)
+    print("Current background was removed: switched to the default.")
 
 
 def cmd_install(theme, collection=None, wallpaper=None):
@@ -318,6 +390,7 @@ def cmd_remove(theme, collection=None, wallpaper=None):
     else:
         to_remove = set(repo)
         remove_from_dir(dest, to_remove, f"for theme '{theme}'")
+    reset_dangling_background()
     refresh_bg_cache()
 
 
@@ -348,6 +421,7 @@ def cmd_remove_all():
         print("No repository theme folders found under " + DEST_BASE + ".")
         return
     print(f"Removed {total} wallpapers in total.")
+    reset_dangling_background()
     refresh_bg_cache()
 
 

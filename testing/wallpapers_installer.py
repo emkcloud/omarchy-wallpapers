@@ -35,6 +35,50 @@ SANDBOX = os.path.join(REPO, "working", "generate-temp", "testing")
 OMARCHY_ROOT = os.path.join(SANDBOX, ".config", "omarchy")
 BACKGROUNDS = os.path.join(OMARCHY_ROOT, "backgrounds")
 RESULTS_FILE = os.path.join(SANDBOX, "results.json")
+FAKE_BIN = os.path.join(SANDBOX, ".local", "bin")
+FAKE_OMARCHY = os.path.join(FAKE_BIN, "omarchy")
+STATE_DIR = os.path.join(SANDBOX, ".local", "state", "omarchy", "current")
+CURRENT_BG_LINK = os.path.join(STATE_DIR, "background")
+OMARCHY_CALLS = os.path.join(STATE_DIR, ".omarchy-calls.log")
+
+FAKE_OMARCHY_SRC = """#!/usr/bin/env python3
+import os
+import sys
+
+HOME = os.path.expanduser("~")
+STATE = os.path.join(HOME, ".local", "state", "omarchy", "current")
+LINK = os.path.join(STATE, "background")
+LOG = os.path.join(STATE, ".omarchy-calls.log")
+EXTS = {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp",
+        ".mp4", ".m4v", ".mov", ".webm", ".mkv", ".avi"}
+
+args = sys.argv[1:]
+os.makedirs(STATE, exist_ok=True)
+with open(LOG, "a") as f:
+    f.write(" ".join(args) + "\\n")
+
+if args[:3] == ["theme", "bg", "next"]:
+    theme = ""
+    name_file = os.path.join(STATE, "theme.name")
+    if os.path.isfile(name_file):
+        theme = open(name_file).read().strip()
+    directories = [
+        os.path.join(STATE, "theme", "backgrounds"),
+        os.path.join(HOME, ".config", "omarchy", "backgrounds", theme),
+    ]
+    files = []
+    for directory in directories:
+        if os.path.isdir(directory):
+            for name in os.listdir(directory):
+                if os.path.splitext(name)[1].lower() in EXTS:
+                    files.append(os.path.join(directory, name))
+    files.sort()
+    if files:
+        if os.path.lexists(LINK):
+            os.remove(LINK)
+        os.symlink(files[0], LINK)
+sys.exit(0)
+"""
 
 STEPS = ["setup", "install", "verify", "update", "list", "remove", "summary"]
 
@@ -52,8 +96,10 @@ def themes():
     )
 
 
-def run(*args):
+def run(*args, with_omarchy=False):
     env = dict(os.environ, HOME=SANDBOX)
+    if with_omarchy:
+        env["PATH"] = FAKE_BIN + os.pathsep + env.get("PATH", "")
     proc = subprocess.run(
         [sys.executable, SCRIPT, *args],
         cwd=REPO,
@@ -157,6 +203,10 @@ def step_setup(results):
     theme_list = themes()
     for t in theme_list:
         os.makedirs(os.path.join(OMARCHY_ROOT, "themes", t), exist_ok=True)
+    os.makedirs(FAKE_BIN, exist_ok=True)
+    with open(FAKE_OMARCHY, "w") as f:
+        f.write(FAKE_OMARCHY_SRC)
+    os.chmod(FAKE_OMARCHY, 0o755)
     check(results, "setup sandbox", f"{len(theme_list)} theme dirs",
           f"{len(theme_list)} theme dirs", True)
     return results
@@ -266,10 +316,41 @@ def step_list(results):
     return results
 
 
+def write_active_background(theme, filename):
+    os.makedirs(STATE_DIR, exist_ok=True)
+    with open(os.path.join(STATE_DIR, "theme.name"), "w") as f:
+        f.write(theme)
+    shipped = os.path.join(STATE_DIR, "theme", "backgrounds")
+    os.makedirs(shipped, exist_ok=True)
+    source = os.path.join(BACKGROUNDS, theme, filename)
+    if not os.path.isfile(source):
+        return
+    default = os.path.join(shipped, "omarchy-theme-default.webp")
+    if not os.path.isfile(default):
+        shutil.copyfile(source, default)
+    if os.path.lexists(CURRENT_BG_LINK):
+        os.remove(CURRENT_BG_LINK)
+    os.symlink(source, CURRENT_BG_LINK)
+
+
+def background_ok():
+    if not os.path.islink(CURRENT_BG_LINK):
+        return False
+    return os.path.exists(os.path.realpath(CURRENT_BG_LINK))
+
+
+def omarchy_calls():
+    if not os.path.isfile(OMARCHY_CALLS):
+        return ""
+    with open(OMARCHY_CALLS) as f:
+        return f.read()
+
+
 def step_remove(results):
     require_sandbox()
     sel = next(w for w in catalog("tokyo-night") if w.get("code"))
     col = sel["collection"]
+    write_active_background("tokyo-night", sel["filename"])
     code, out, err = run("remove", "tokyo-night", col, sel["code"])
     count = count_webp("tokyo-night")
     check(
@@ -279,10 +360,18 @@ def step_remove(results):
         f"{count} files",
         code == 0 and count == 249,
     )
+    check(
+        results,
+        "reset background after remove (manual fallback)",
+        "valid background",
+        "valid" if background_ok() else "dangling",
+        code == 0 and background_ok(),
+    )
     sel2 = next(
         w for w in catalog("tokyo-night") if w.get("code") and w["id"] != sel["id"]
     )
-    code, out, err = run("remove", "tokyo-night", sel2["code"])
+    write_active_background("tokyo-night", sel2["filename"])
+    code, out, err = run("remove", "tokyo-night", sel2["code"], with_omarchy=True)
     count = count_webp("tokyo-night")
     check(
         results,
@@ -290,6 +379,13 @@ def step_remove(results):
         "248 files",
         f"{count} files",
         code == 0 and count == 248,
+    )
+    check(
+        results,
+        "reset background after remove (omarchy theme bg next)",
+        "valid background",
+        "valid" if background_ok() else "dangling",
+        code == 0 and background_ok() and "theme bg next" in omarchy_calls(),
     )
     sel3 = next(w for w in catalog("osaka-jade") if w.get("code"))
     code, out, err = run("remove", "osaka-jade", sel3["code"])
@@ -310,6 +406,11 @@ def step_remove(results):
         else "folder present",
         code == 0 and not os.path.isdir(os.path.join(BACKGROUNDS, "gruvbox")),
     )
+    sel_all = next(
+        w for w in catalog("tokyo-night")
+        if w.get("code") and w["id"] not in {sel["id"], sel2["id"]}
+    )
+    write_active_background("tokyo-night", sel_all["filename"])
     code, out, err = run("remove", "--all")
     remaining = [
         d for d in os.listdir(BACKGROUNDS) if os.path.isdir(os.path.join(BACKGROUNDS, d))
@@ -320,6 +421,13 @@ def step_remove(results):
         "backgrounds empty",
         f"{len(remaining)} dir(s)",
         code == 0 and not remaining,
+    )
+    check(
+        results,
+        "reset background after remove --all",
+        "valid background",
+        "valid" if background_ok() else "dangling",
+        code == 0 and background_ok(),
     )
     return results
 
