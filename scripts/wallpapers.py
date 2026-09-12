@@ -475,7 +475,7 @@ def main():
     parser = argparse.ArgumentParser(
         description="Manage Omarchy wallpapers from this repository"
     )
-    sub = parser.add_subparsers(dest="command", required=True, metavar="<command>")
+    sub = parser.add_subparsers(dest="command", metavar="<command>")
 
     p_install = sub.add_parser("install", help="install a theme's wallpapers into Omarchy")
     p_install.add_argument("theme", help='theme folder name, e.g. "osaka-jade"')
@@ -535,7 +535,34 @@ def main():
         func=lambda a: cmd_remove_all() if a.all else cmd_remove(a.theme, a.collection, a.wallpaper)
     )
 
+    parsers = {
+        "install": p_install,
+        "update": p_update,
+        "list": p_list,
+        "remove": p_remove,
+    }
+
+    def show_help(topic):
+        if topic is None:
+            parser.print_help()
+            return
+        target = parsers.get(topic)
+        if target is None:
+            parser.error(f"unknown command '{topic}'")
+        target.print_help()
+
+    p_help = sub.add_parser("help", help="show help for this tool or a command")
+    p_help.add_argument(
+        "topic",
+        nargs="?",
+        help='command to show help for, e.g. "install"',
+    )
+    p_help.set_defaults(func=lambda a: show_help(a.topic))
+
     args = parser.parse_args()
+    if not args.command:
+        parser.print_help()
+        return
     args.func(args)
 
 

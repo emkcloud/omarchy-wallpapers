@@ -16,17 +16,19 @@ The steps and the command for each:
 
 1. `setup` — clean sandbox:
    `python3 testing/wallpapers_installer.py --step setup`
-2. `install` — all install types:
+2. `help` — CLI help / no-args behavior:
+   `python3 testing/wallpapers_installer.py --step help`
+3. `install` — all install types:
    `python3 testing/wallpapers_installer.py --step install`
-3. `verify` — check files and sha256:
+4. `verify` — check files and sha256:
    `python3 testing/wallpapers_installer.py --step verify`
-4. `update` — all update types:
+5. `update` — all update types:
    `python3 testing/wallpapers_installer.py --step update`
-5. `list` — all listing operations:
+6. `list` — all listing operations:
    `python3 testing/wallpapers_installer.py --step list`
-6. `remove` — all remove types:
+7. `remove` — all remove types:
    `python3 testing/wallpapers_installer.py --step remove`
-7. `summary` — final results:
+8. `summary` — final results:
    `python3 testing/wallpapers_installer.py --step summary`
 
 Each step prints its own result rows and exits non-zero if that step fails. The `summary` step prints the complete table; present it to the user. To see the available steps: `python3 testing/wallpapers_installer.py --list-steps`.
@@ -39,7 +41,7 @@ The whole flow can also be automated in one command (quick runs / CI):
 python3 testing/wallpapers_installer.py
 ```
 
-It sets up the sandbox, installs **every theme** fully (catching missing/corrupt files for all of them), verifies the exact file set and sha256 per theme against the local `datasets/<theme>/catalog.json`, then tests update, list, collections (list/install/remove by collection), remove-by-code, reinstall-by-code (selector), install-by-collection+wallpaper, remove-by-collection+wallpaper, remove-full-theme and remove --all. It prints a `Phase | Expected | Actual | Status` table and exits 0 only if every phase passes; it wipes the sandbox at the end.
+It sets up the sandbox, checks the CLI help / no-args behavior, installs **every theme** fully (catching missing/corrupt files for all of them), verifies the exact file set and sha256 per theme against the local `datasets/<theme>/catalog.json`, then tests update, list, collections (list/install/remove by collection), remove-by-code, reinstall-by-code (selector), install-by-collection+wallpaper, remove-by-collection+wallpaper, remove-full-theme and remove --all. It prints a `Phase | Expected | Actual | Status` table and exits 0 only if every phase passes; it wipes the sandbox at the end.
 
 Useful flags:
 - `--step <name>` — run a single step.

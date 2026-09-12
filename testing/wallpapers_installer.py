@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """End-to-end deterministic test for scripts/wallpapers.py.
 
-Runs install / update / list / remove inside an isolated sandbox under
+Runs help / install / update / list / remove inside an isolated sandbox under
 working/generate-temp/testing (HOME redirected there), verifies every phase
 against the local datasets catalogs, prints a markdown summary table and exits
 non-zero if any phase fails.
@@ -84,7 +84,9 @@ if args[:3] == ["theme", "bg", "cache"]:
 sys.exit(0)
 """
 
-STEPS = ["setup", "install", "verify", "update", "list", "remove", "summary"]
+STEPS = ["setup", "help", "install", "verify", "update", "list", "remove", "summary"]
+
+COMMANDS = ["install", "update", "list", "remove", "help"]
 
 
 def catalog(theme):
@@ -213,6 +215,54 @@ def step_setup(results):
     os.chmod(FAKE_OMARCHY, 0o755)
     check(results, "setup sandbox", f"{len(theme_list)} theme dirs",
           f"{len(theme_list)} theme dirs", True)
+    return results
+
+
+def lists_commands(out):
+    return all(command in out for command in COMMANDS)
+
+
+def step_help(results):
+    code, out, err = run()
+    check(
+        results,
+        "no arguments lists commands",
+        "exit 0, all commands listed",
+        f"exit {code}",
+        code == 0 and lists_commands(out),
+    )
+    code, out, err = run("help")
+    check(
+        results,
+        "help lists commands",
+        "exit 0, all commands listed",
+        f"exit {code}",
+        code == 0 and lists_commands(out),
+    )
+    code, out, err = run("help", "install")
+    check(
+        results,
+        "help install shows install usage",
+        "exit 0, install usage",
+        f"exit {code}",
+        code == 0 and "wallpapers.py install" in out,
+    )
+    code, out, err = run("help", "bogus")
+    check(
+        results,
+        "help bogus rejected",
+        "exit 2, unknown command",
+        f"exit {code}",
+        code == 2 and "unknown command" in err,
+    )
+    code, out, err = run("--help")
+    check(
+        results,
+        "-h/--help lists commands",
+        "exit 0, all commands listed",
+        f"exit {code}",
+        code == 0 and lists_commands(out),
+    )
     return results
 
 
@@ -503,6 +553,7 @@ def main():
 
     step_funcs = {
         "setup": step_setup,
+        "help": step_help,
         "install": step_install,
         "verify": step_verify,
         "update": step_update,
