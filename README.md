@@ -62,12 +62,6 @@ Wallpapers are grouped into **collections** (content types, e.g. `countries`, `c
 python3 wallpapers.py install tokyo-night countries
 ```
 
-The singular form works too:
-
-```bash
-python3 wallpapers.py install tokyo-night country
-```
-
 ### Installing a single wallpaper
 
 To install only one wallpaper of a theme, add its name (country name or code) as an extra argument:
@@ -158,22 +152,10 @@ List the available themes:
 python3 wallpapers.py list
 ```
 
-```text
-osaka-jade
-tokyo-night
-```
-
 List all the wallpapers of a theme:
 
 ```bash
 python3 wallpapers.py list tokyo-night
-```
-
-```text
-omarchy-country-AD-Andorra-2K.webp
-omarchy-country-AE-United-Arab-Emirates-2K.webp
-omarchy-country-AF-Afghanistan-2K.webp
-...
 ```
 
 List only the wallpapers of a collection (e.g. `countries`):
