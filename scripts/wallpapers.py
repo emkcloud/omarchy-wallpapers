@@ -74,6 +74,8 @@ BACKGROUND_EXTS = {
 
 USER_AGENT = "omarchy-wallpapers-installer"
 
+__version__ = "0.1.1"
+
 
 def fetch_json(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -474,6 +476,11 @@ def cmd_remove_all():
 def main():
     parser = argparse.ArgumentParser(
         description="Manage Omarchy wallpapers from this repository"
+    )
+    parser.add_argument(
+        "--version",
+        action="version",
+        version=f"%(prog)s {__version__}",
     )
     sub = parser.add_subparsers(dest="command", metavar="<command>")
 

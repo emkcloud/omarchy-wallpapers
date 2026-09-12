@@ -76,6 +76,14 @@ To pick the wallpaper from a specific collection, pass the collection name befor
 python3 wallpapers.py install tokyo-night countries Italy
 ```
 
+## Version
+
+The script embeds its version. Print it with:
+
+```bash
+python3 wallpapers.py --version
+```
+
 ## Masters (for contributors)
 
 The `masters/` folder holds the base images in full color, one folder per content type under `masters/colors/` (e.g. `masters/colors/countries/`). Every themed wallpaper is derived from a master by applying the theme's color scheme on top of it, so a single master can produce several wallpapers that adapt to different colors.
