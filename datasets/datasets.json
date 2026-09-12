@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:37.403088+00:00",
+  "generated_at": "2026-09-12T22:43:26.131759+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
@@ -17,7 +17,7 @@
       "catalog": {
         "path": "datasets/gruvbox/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/catalog.json",
-        "size_bytes": 228705,
+        "size_bytes": 228799,
         "entries": 250
       },
       "optimization": {
@@ -35,7 +35,7 @@
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/collections.json",
-        "size_bytes": 922,
+        "size_bytes": 1162,
         "collections": 1
       },
       "count": 250,
@@ -48,7 +48,15 @@
         ]
       ],
       "description": "Theme based on the retro groove color scheme (gruvbox), with warm earthy browns and muted greens.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-GU-Guam-preview.webp"
+      "palette": [
+        "#1e1e1e",
+        "#282828",
+        "#665c54",
+        "#d4be98",
+        "#7daea3"
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-TH-Thailand-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries/omarchy-country-TH-Thailand-2K.webp"
     },
     "matte-black": {
       "name": "matte-black",
@@ -62,7 +70,7 @@
       "catalog": {
         "path": "datasets/matte-black/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/catalog.json",
-        "size_bytes": 233484,
+        "size_bytes": 233578,
         "entries": 250
       },
       "optimization": {
@@ -80,7 +88,7 @@
       "collections_info": {
         "path": "datasets/matte-black/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/collections.json",
-        "size_bytes": 934,
+        "size_bytes": 1178,
         "collections": 1
       },
       "count": 250,
@@ -93,7 +101,15 @@
         ]
       ],
       "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-IN-India-preview.webp"
+      "palette": [
+        "#0d0d0d",
+        "#121212",
+        "#333333",
+        "#bebebe",
+        "#e68e0d"
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-RW-Rwanda-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/matte-black/countries/omarchy-country-RW-Rwanda-2K.webp"
     },
     "nord": {
       "name": "nord",
@@ -107,7 +123,7 @@
       "catalog": {
         "path": "datasets/nord/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/catalog.json",
-        "size_bytes": 224701,
+        "size_bytes": 224795,
         "entries": 250
       },
       "optimization": {
@@ -125,7 +141,7 @@
       "collections_info": {
         "path": "datasets/nord/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/collections.json",
-        "size_bytes": 906,
+        "size_bytes": 1146,
         "collections": 1
       },
       "count": 250,
@@ -138,7 +154,15 @@
         ]
       ],
       "description": "Theme with cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-VA-Vatican-preview.webp"
+      "palette": [
+        "#222730",
+        "#2e3440",
+        "#4c566a",
+        "#d8dee9",
+        "#81a1c1"
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-CD-Congo-Democratic-Republic-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/nord/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp"
     },
     "osaka-jade": {
       "name": "osaka-jade",
@@ -152,7 +176,7 @@
       "catalog": {
         "path": "datasets/osaka-jade/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/catalog.json",
-        "size_bytes": 232250,
+        "size_bytes": 232344,
         "entries": 250
       },
       "optimization": {
@@ -170,7 +194,7 @@
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/collections.json",
-        "size_bytes": 945,
+        "size_bytes": 1169,
         "collections": 1
       },
       "count": 250,
@@ -183,7 +207,15 @@
         ]
       ],
       "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-UM-US-Minor-Outlying-Islands-preview.webp"
+      "palette": [
+        "#0c1512",
+        "#111c18",
+        "#53685b",
+        "#c1c497",
+        "#509475"
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-VE-Venezuela-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade/countries/omarchy-country-VE-Venezuela-2K.webp"
     },
     "tokyo-night": {
       "name": "tokyo-night",
@@ -197,7 +229,7 @@
       "catalog": {
         "path": "datasets/tokyo-night/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/catalog.json",
-        "size_bytes": 233521,
+        "size_bytes": 233615,
         "entries": 250
       },
       "optimization": {
@@ -215,7 +247,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/collections.json",
-        "size_bytes": 946,
+        "size_bytes": 1192,
         "collections": 1
       },
       "count": 250,
@@ -228,7 +260,15 @@
         ]
       ],
       "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-NE-Niger-preview.webp"
+      "palette": [
+        "#13141c",
+        "#1a1b26",
+        "#414868",
+        "#a9b1d6",
+        "#7aa2f7"
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-JO-Jordan-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/tokyo-night/countries/omarchy-country-JO-Jordan-2K.webp"
     }
   },
   "masters": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:28.066746+00:00",
+  "generated_at": "2026-09-12T22:43:24.423645+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -23,7 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-TT-Trinidad-and-Tobago-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-TG-Togo-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade/countries/omarchy-country-TG-Togo-2K.webp"
     }
+  ],
+  "palette": [
+    "#0c1512",
+    "#111c18",
+    "#53685b",
+    "#c1c497",
+    "#509475"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:29.679415+00:00",
+  "generated_at": "2026-09-12T22:43:24.695484+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -23,7 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-PG-Papua-New-Guinea-preview.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-LI-Liechtenstein-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/tokyo-night/countries/omarchy-country-LI-Liechtenstein-2K.webp"
     }
+  ],
+  "palette": [
+    "#13141c",
+    "#1a1b26",
+    "#414868",
+    "#a9b1d6",
+    "#7aa2f7"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:28.058043+00:00",
+  "generated_at": "2026-09-12T22:43:24.418325+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -5257,5 +5257,12 @@
     }
   ],
   "title": "Osaka Jade",
-  "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights."
+  "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
+  "palette": [
+    "#0c1512",
+    "#111c18",
+    "#53685b",
+    "#c1c497",
+    "#509475"
+  ]
 }

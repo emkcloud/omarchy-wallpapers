@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:28.467882+00:00",
+  "generated_at": "2026-09-12T22:43:24.258734+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "matte-black",
@@ -5257,5 +5257,12 @@
     }
   ],
   "title": "Matte Black",
-  "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction."
+  "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
+  "palette": [
+    "#0d0d0d",
+    "#121212",
+    "#333333",
+    "#bebebe",
+    "#e68e0d"
+  ]
 }

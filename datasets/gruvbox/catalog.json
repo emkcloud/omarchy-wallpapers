@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:28.050315+00:00",
+  "generated_at": "2026-09-12T22:43:24.522584+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
@@ -5257,5 +5257,12 @@
     }
   ],
   "title": "Gruvbox",
-  "description": "Theme based on the retro groove color scheme (gruvbox), with warm earthy browns and muted greens."
+  "description": "Theme based on the retro groove color scheme (gruvbox), with warm earthy browns and muted greens.",
+  "palette": [
+    "#1e1e1e",
+    "#282828",
+    "#665c54",
+    "#d4be98",
+    "#7daea3"
+  ]
 }

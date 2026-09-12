@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:29.668142+00:00",
+  "generated_at": "2026-09-12T22:43:24.691112+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -5257,5 +5257,12 @@
     }
   ],
   "title": "Tokyo Night",
-  "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark."
+  "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
+  "palette": [
+    "#13141c",
+    "#1a1b26",
+    "#414868",
+    "#a9b1d6",
+    "#7aa2f7"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:33:28.159311+00:00",
+  "generated_at": "2026-09-12T22:43:23.994252+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -5257,5 +5257,12 @@
     }
   ],
   "title": "Nord",
-  "description": "Theme with cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast."
+  "description": "Theme with cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast.",
+  "palette": [
+    "#222730",
+    "#2e3440",
+    "#4c566a",
+    "#d8dee9",
+    "#81a1c1"
+  ]
 }

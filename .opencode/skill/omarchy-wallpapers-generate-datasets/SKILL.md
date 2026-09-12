@@ -105,6 +105,7 @@ Use `--concurrency N` to parallelize the group workers in a single process; the 
 - **Dispatcher output:** starts with the group analysis table, then per-group worker completion (`[done] <group> (rc=...)`), then the aggregation line (`datasets.json: N`) and the final `Final summary` table. Masters is always first in the group list.
 - **Per-group result files:** each worker writes `working/generate-temp/dataset/dataset-<group>.result.json` (group + item count) and, in parallel mode, `dataset-<group>.log`. The dispatcher aggregates the final table from these.
 - **Previews safety net:** the dispatcher checks for missing previews and generates them first (via `generate_previews.py`) so the datasets always reference existing preview URLs. This is a convenience; the previews themselves are managed by the dedicated previews skill.
+- **`preview` + `image`:** theme-level entries (`datasets.json`) and per-collection entries (`collections.json`) expose a random `preview` (640x360) together with `image`, the URL of the full 2K image corresponding to the same wallpaper (lowest available resolution if 2K is missing). Masters have neither, since they have no previews.
 - **Stale folders:** the aggregation removes any `datasets/<folder>` that is not a currently generated theme, not `masters`, and not `config.json`.
 
 ## Workflow (full pipeline)
@@ -119,6 +120,6 @@ This skill is the entry point for "regenerate everything". The full sequence is:
 ## Rules
 
 - Only regenerate via the scripts, never edit JSON by hand.
-- If a new theme or collection was added, update `datasets/config.json` first (title/description) — it is the static source of truth and protected from stale-folder cleanup.
+- If a new theme or collection was added, update `datasets/config.json` first (title/description and, for themes, the 5-color `palette`) — it is the static source of truth and protected from stale-folder cleanup.
 - Report discrepancies (non-standard files, missing paths) and do not force a commit if the scripts fail.
 - Do **not** commit unless the user explicitly asks.

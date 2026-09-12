@@ -278,22 +278,39 @@ def file_info(path, extra=None):
     return info
 
 
+def full_image_url(theme, collection, preview_filename):
+    """Return the URL of the full-resolution image matching a preview filename.
+    Prefers 2K, falling back to the lowest available resolution."""
+    stem = preview_filename
+    if stem.endswith("-preview.webp"):
+        stem = stem[: -len("-preview.webp")]
+    else:
+        stem = os.path.splitext(stem)[0]
+    image_dir = os.path.join(IMAGES_DIR, theme, collection)
+    for res in ("2K", "4K", "8K"):
+        candidate = f"{stem}-{res}.webp"
+        if os.path.exists(os.path.join(image_dir, candidate)):
+            return f"{RAW_BASE}/images/{theme}/{collection}/{candidate}"
+    return None
+
+
 def collection_preview(theme, collection):
     preview_dir = os.path.join(ROOT, "previews", theme, collection)
     if not os.path.isdir(preview_dir):
-        return None
+        return None, None
     files = [
         f
         for f in os.listdir(preview_dir)
         if f.endswith(".webp")
     ]
     if not files:
-        return None
+        return None, None
     chosen = random.choice(sorted(files))
-    return f"{RAW_BASE}/previews/{theme}/{collection}/{chosen}"
+    preview = f"{RAW_BASE}/previews/{theme}/{collection}/{chosen}"
+    return preview, full_image_url(theme, collection, chosen)
 
 
-def build_collections(theme, kind, images_dir, entries, collection_meta=None):
+def build_collections(theme, kind, images_dir, entries, collection_meta=None, palette=None):
     collection_meta = collection_meta or {}
     by_collection = {}
     for e in entries:
@@ -311,7 +328,7 @@ def build_collections(theme, kind, images_dir, entries, collection_meta=None):
             variant["count"] += 1
             variant["size_bytes"] += e["size_bytes"]
         col_dir = os.path.join(images_dir, collection)
-        preview = collection_preview(theme, collection)
+        preview, image = collection_preview(theme, collection)
         entry = {
             "collection": collection,
             "count": len(col_entries),
@@ -327,8 +344,10 @@ def build_collections(theme, kind, images_dir, entries, collection_meta=None):
             entry["description"] = meta["description"]
         if preview:
             entry["preview"] = preview
+        if image:
+            entry["image"] = image
         collections.append(entry)
-    return {
+    payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "repo": REPO,
         "branch": BRANCH,
@@ -338,6 +357,9 @@ def build_collections(theme, kind, images_dir, entries, collection_meta=None):
         "total_size_bytes": sum(e["size_bytes"] for e in entries),
         "collections": collections,
     }
+    if palette:
+        payload["palette"] = palette
+    return payload
 
 
 def base_name_from_preview(url):
@@ -358,18 +380,19 @@ def theme_preview(theme, collections, forbidden_bases=None):
         if not os.path.isdir(preview_dir):
             continue
         candidates.extend(
-            f"{RAW_BASE}/previews/{theme}/{collection}/{f}"
+            (f"{RAW_BASE}/previews/{theme}/{collection}/{f}", collection, f)
             for f in os.listdir(preview_dir)
             if f.endswith(".webp")
         )
     if not candidates:
-        return None
-    free = [c for c in candidates if base_name_from_preview(c) not in forbidden]
+        return None, None
+    free = [c for c in candidates if base_name_from_preview(c[0]) not in forbidden]
     pool = free if free else candidates
-    return random.choice(sorted(pool))
+    preview, collection, filename = random.choice(sorted(pool))
+    return preview, full_image_url(theme, collection, filename)
 
 
-def build_collection(name, kind, images_dir, entries, catalog_path, description=None, forbidden_bases=None):
+def build_collection(name, kind, images_dir, entries, catalog_path, description=None, forbidden_bases=None, palette=None):
     opt_path = os.path.join(os.path.dirname(catalog_path), "optimization.json")
     opt_info = None
     if os.path.exists(opt_path):
@@ -411,9 +434,13 @@ def build_collection(name, kind, images_dir, entries, catalog_path, description=
     }
     if description:
         collection["description"] = description
-    preview = theme_preview(name, collections, forbidden_bases)
+    if palette:
+        collection["palette"] = palette
+    preview, image = theme_preview(name, collections, forbidden_bases)
     if preview:
         collection["preview"] = preview
+    if image:
+        collection["image"] = image
     return collection
 
 
@@ -528,10 +555,19 @@ def run_group(args):
         payload["title"] = meta["title"]
     if meta.get("description"):
         payload["description"] = meta["description"]
+    if meta.get("palette"):
+        payload["palette"] = meta["palette"]
     write_json(os.path.join(DATASETS_DIR, group, "catalog.json"), payload)
     write_json(
         os.path.join(DATASETS_DIR, group, "collections.json"),
-        build_collections(group, "theme", f"images/{group}", entries, collection_meta),
+        build_collections(
+            group,
+            "theme",
+            f"images/{group}",
+            entries,
+            collection_meta,
+            palette=meta.get("palette"),
+        ),
     )
     write_result(group, {"group": group, "count": len(entries)})
     print(f"[{group}] {len(entries)} wallpapers | catalog.json + collections.json written", flush=True)
@@ -572,6 +608,7 @@ def aggregate():
             catalog_path=catalog_path,
             description=meta.get("description"),
             forbidden_bases=used_bases,
+            palette=meta.get("palette"),
         )
         theme_index[theme] = collection
         preview = collection.get("preview")
