@@ -25,9 +25,11 @@ Subcommands:
                                   that wallpaper within that collection.
     remove --all                  Remove every theme's installed wallpapers.
 
-Any remove that deletes the currently active background switches to the first
-available background of the theme (`omarchy theme bg next`), so the desktop
-never stays on a wallpaper whose file was removed.
+Any remove that deletes the currently active background switches to the theme's
+own default background (the first one shipped with the theme), so an installed
+wallpaper never becomes the default and the desktop never stays on a wallpaper
+whose file was removed. install and update never change the active background:
+the cache refresh preserves whatever background is currently set.
 
 Checks are done before any download: the theme must exist both in this
 repository (via datasets/datasets.json) and in Omarchy (stock or user theme).
@@ -148,11 +150,13 @@ def select_collection(wallpapers, theme, term):
 def refresh_bg_cache():
     if shutil.which("omarchy") is None:
         return
+    before = current_background_target()
     try:
         subprocess.run(["omarchy", "theme", "bg", "cache"], check=True)
         print("Background cache refreshed.")
     except subprocess.CalledProcessError as exc:
         print(f"Could not refresh the background cache: {exc}", file=sys.stderr)
+    restore_background(before)
 
 
 def current_background_link():
@@ -173,23 +177,74 @@ def active_theme_name():
     return None
 
 
-def first_available_background():
-    theme = active_theme_name()
-    directories = [
-        os.path.join(STATE_BASE, "current", "theme", "backgrounds"),
-        os.path.join(CONFIG_BASE, "current", "theme", "backgrounds"),
-    ]
-    if theme:
-        directories.append(os.path.join(DEST_BASE, theme))
+def backgrounds_in(directory):
+    if not os.path.isdir(directory):
+        return []
+    return sorted(
+        os.path.join(directory, name)
+        for name in os.listdir(directory)
+        if os.path.splitext(name)[1].lower() in BACKGROUND_EXTS
+    )
 
+
+def theme_default_background():
+    for base in (STATE_BASE, CONFIG_BASE):
+        candidates = backgrounds_in(
+            os.path.join(base, "current", "theme", "backgrounds")
+        )
+        if candidates:
+            return candidates[0]
+    return None
+
+
+def first_available_background():
+    default = theme_default_background()
+    if default:
+        return default
+
+    theme = active_theme_name()
     candidates = []
-    for directory in directories:
-        if not os.path.isdir(directory):
-            continue
-        for name in os.listdir(directory):
-            if os.path.splitext(name)[1].lower() in BACKGROUND_EXTS:
-                candidates.append(os.path.join(directory, name))
+    for base in (STATE_BASE, CONFIG_BASE):
+        candidates += backgrounds_in(
+            os.path.join(base, "current", "theme", "backgrounds")
+        )
+    if theme:
+        candidates += backgrounds_in(os.path.join(DEST_BASE, theme))
     return sorted(candidates)[0] if candidates else None
+
+
+def apply_background(path):
+    if shutil.which("omarchy"):
+        subprocess.run(["omarchy", "theme", "bg", "set", path], check=False)
+        link = current_background_link()
+        if link is not None and os.path.exists(os.path.realpath(link)):
+            return True
+
+    link = current_background_link()
+    if link is None:
+        return False
+    os.makedirs(os.path.dirname(link), exist_ok=True)
+    if os.path.lexists(link):
+        os.remove(link)
+    os.symlink(path, link)
+    return os.path.exists(os.path.realpath(link))
+
+
+def current_background_target():
+    link = current_background_link()
+    if link is None:
+        return None
+    target = os.path.realpath(link)
+    return target if os.path.exists(target) else None
+
+
+def restore_background(target):
+    if not target or not os.path.exists(target):
+        return
+    link = current_background_link()
+    if link is None or os.path.realpath(link) == target:
+        return
+    apply_background(target)
 
 
 def reset_dangling_background():
@@ -197,20 +252,11 @@ def reset_dangling_background():
     if link is None or os.path.exists(os.path.realpath(link)):
         return
 
-    if shutil.which("omarchy"):
-        subprocess.run(["omarchy", "theme", "bg", "next"], check=False)
-        if os.path.exists(os.path.realpath(link)):
-            print("Current background was removed: switched to the default.")
-            return
-
     fallback = first_available_background()
     if not fallback:
         return
-    os.makedirs(os.path.dirname(link), exist_ok=True)
-    if os.path.lexists(link):
-        os.remove(link)
-    os.symlink(fallback, link)
-    print("Current background was removed: switched to the default.")
+    if apply_background(fallback):
+        print("Current background was removed: switched to the default.")
 
 
 def cmd_install(theme, collection=None, wallpaper=None):

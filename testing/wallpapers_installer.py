@@ -57,22 +57,26 @@ os.makedirs(STATE, exist_ok=True)
 with open(LOG, "a") as f:
     f.write(" ".join(args) + "\\n")
 
-if args[:3] == ["theme", "bg", "next"]:
+if args[:3] == ["theme", "bg", "set"] and len(args) > 3:
+    target = args[3]
+    if os.path.isfile(target):
+        if os.path.lexists(LINK):
+            os.remove(LINK)
+        os.symlink(target, LINK)
+
+# Emulate a cache command that has the unwanted side effect of switching the
+# background to the first installed wallpaper, to prove install preserves it.
+if args[:3] == ["theme", "bg", "cache"]:
     theme = ""
     name_file = os.path.join(STATE, "theme.name")
     if os.path.isfile(name_file):
         theme = open(name_file).read().strip()
-    directories = [
-        os.path.join(STATE, "theme", "backgrounds"),
-        os.path.join(HOME, ".config", "omarchy", "backgrounds", theme),
-    ]
+    user_dir = os.path.join(HOME, ".config", "omarchy", "backgrounds", theme)
     files = []
-    for directory in directories:
-        if os.path.isdir(directory):
-            for name in os.listdir(directory):
-                if os.path.splitext(name)[1].lower() in EXTS:
-                    files.append(os.path.join(directory, name))
-    files.sort()
+    if os.path.isdir(user_dir):
+        for name in sorted(os.listdir(user_dir)):
+            if os.path.splitext(name)[1].lower() in EXTS:
+                files.append(os.path.join(user_dir, name))
     if files:
         if os.path.lexists(LINK):
             os.remove(LINK)
@@ -254,6 +258,18 @@ def step_install(results):
         f"{count} files, exit {code}",
         code == 0 and "Installed 1 wallpapers" in out and count == 250,
     )
+    last = sorted(catalog("tokyo-night"), key=lambda w: w["filename"])[-1]
+    write_active_background("tokyo-night", last["filename"])
+    before = os.path.realpath(CURRENT_BG_LINK)
+    code, out, err = run("install", "tokyo-night", sel["code"], with_omarchy=True)
+    after = os.path.realpath(CURRENT_BG_LINK)
+    check(
+        results,
+        "install preserves active background",
+        os.path.basename(before),
+        os.path.basename(after),
+        code == 0 and before == after,
+    )
     return results
 
 
@@ -339,6 +355,14 @@ def background_ok():
     return os.path.exists(os.path.realpath(CURRENT_BG_LINK))
 
 
+def theme_default_path():
+    return os.path.join(STATE_DIR, "theme", "backgrounds", "omarchy-theme-default.webp")
+
+
+def background_is_default():
+    return os.path.realpath(CURRENT_BG_LINK) == theme_default_path()
+
+
 def omarchy_calls():
     if not os.path.isfile(OMARCHY_CALLS):
         return ""
@@ -363,9 +387,9 @@ def step_remove(results):
     check(
         results,
         "reset background after remove (manual fallback)",
-        "valid background",
-        "valid" if background_ok() else "dangling",
-        code == 0 and background_ok(),
+        "theme default",
+        "theme default" if background_is_default() else "not default",
+        code == 0 and background_is_default(),
     )
     sel2 = next(
         w for w in catalog("tokyo-night") if w.get("code") and w["id"] != sel["id"]
@@ -382,10 +406,12 @@ def step_remove(results):
     )
     check(
         results,
-        "reset background after remove (omarchy theme bg next)",
-        "valid background",
-        "valid" if background_ok() else "dangling",
-        code == 0 and background_ok() and "theme bg next" in omarchy_calls(),
+        "reset background after remove (omarchy theme bg set)",
+        "theme default",
+        "theme default" if background_is_default() else "not default",
+        code == 0
+        and background_is_default()
+        and "theme bg set" in omarchy_calls(),
     )
     sel3 = next(w for w in catalog("osaka-jade") if w.get("code"))
     code, out, err = run("remove", "osaka-jade", sel3["code"])
@@ -425,9 +451,9 @@ def step_remove(results):
     check(
         results,
         "reset background after remove --all",
-        "valid background",
-        "valid" if background_ok() else "dangling",
-        code == 0 and background_ok(),
+        "theme default",
+        "theme default" if background_is_default() else "not default",
+        code == 0 and background_is_default(),
     )
     return results
 
