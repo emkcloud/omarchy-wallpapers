@@ -8,8 +8,6 @@ Personalized wallpapers inspired by the official **Omarchy Linux** ones. They ke
 
 This project is developed in the spare time and passion that all open-source developers share freely. But the hours of work are only half the story: every wallpaper here is generated with AI, and producing them consumes **millions of AI tokens**. Passion covers the time, but it cannot cover the tokens.
 
-If you enjoy these wallpapers and want to see more of them, a small donation helps keep the generation going — the more support, the more wallpapers we can publish.
-
 [Sponsor on GitHub](https://github.com/sponsors/emkcloud)
 
 ## Installing Plugin
@@ -39,12 +37,16 @@ To install a different theme, replace `tokyo-night` with its folder name under `
 
 ### Installing from the command line
 
-Since there can be many wallpapers, it is convenient to download only the ones from the themes you need. Download the install script and run it: it downloads only the wallpapers of the requested theme, e.g. the `osaka-jade` ones (parallel downloads from `catalog.json`, files already up to date are skipped):
+Since there can be many wallpapers, it is convenient to download only the ones from the themes you need. First download the install script:
 
 ```bash
 curl -fsSL -o wallpapers.py \
     https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/scripts/wallpapers.py
+```
 
+Then run it: it downloads only the wallpapers of the requested theme, e.g. the `osaka-jade` ones (parallel downloads from `catalog.json`, files already up to date are skipped):
+
+```bash
 python3 wallpapers.py install osaka-jade
 ```
 
@@ -58,6 +60,11 @@ Wallpapers are grouped into **collections** (content types, e.g. `countries`, `c
 
 ```bash
 python3 wallpapers.py install tokyo-night countries
+```
+
+The singular form works too:
+
+```bash
 python3 wallpapers.py install tokyo-night country
 ```
 
@@ -147,16 +154,22 @@ curl -fsSL -o wallpapers.py \
 
 List the available themes:
 
+```bash
+python3 wallpapers.py list
+```
+
 ```text
-$ python3 wallpapers.py list
 osaka-jade
 tokyo-night
 ```
 
 List all the wallpapers of a theme:
 
+```bash
+python3 wallpapers.py list tokyo-night
+```
+
 ```text
-$ python3 wallpapers.py list tokyo-night
 omarchy-country-AD-Andorra-2K.webp
 omarchy-country-AE-United-Arab-Emirates-2K.webp
 omarchy-country-AF-Afghanistan-2K.webp
@@ -165,8 +178,8 @@ omarchy-country-AF-Afghanistan-2K.webp
 
 List only the wallpapers of a collection (e.g. `countries`):
 
-```text
-$ python3 wallpapers.py list tokyo-night countries
+```bash
+python3 wallpapers.py list tokyo-night countries
 ```
 
 ## Remove wallpapers
@@ -193,6 +206,12 @@ To remove a wallpaper from a specific collection, pass the collection name befor
 
 ```bash
 python3 wallpapers.py remove tokyo-night countries Italy
+```
+
+To remove every theme's installed wallpapers in one go, use `--all`:
+
+```bash
+python3 wallpapers.py remove --all
 ```
 
 The background cache is refreshed automatically.
