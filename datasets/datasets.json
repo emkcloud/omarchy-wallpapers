@@ -1,0 +1,272 @@
+{
+  "generated_at": "2026-09-12T07:33:37.403088+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
+  "count": 6,
+  "themes": {
+    "gruvbox": {
+      "name": "gruvbox",
+      "title": "Gruvbox",
+      "kind": "theme",
+      "images_dir": "images/gruvbox",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/gruvbox/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/catalog.json",
+        "size_bytes": 228705,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/gruvbox/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/optimization.json",
+        "size_bytes": 89596,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/gruvbox/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/previews.json",
+        "size_bytes": 73422,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/gruvbox/collections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/collections.json",
+        "size_bytes": 922,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 309886810,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme based on the retro groove color scheme (gruvbox), with warm earthy browns and muted greens.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-GU-Guam-preview.webp"
+    },
+    "matte-black": {
+      "name": "matte-black",
+      "title": "Matte Black",
+      "kind": "theme",
+      "images_dir": "images/matte-black",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/matte-black",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/matte-black/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/catalog.json",
+        "size_bytes": 233484,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/matte-black/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/optimization.json",
+        "size_bytes": 91358,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/matte-black/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/previews.json",
+        "size_bytes": 74184,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/matte-black/collections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/collections.json",
+        "size_bytes": 934,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 206951684,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-IN-India-preview.webp"
+    },
+    "nord": {
+      "name": "nord",
+      "title": "Nord",
+      "kind": "theme",
+      "images_dir": "images/nord",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/nord",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/nord/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/catalog.json",
+        "size_bytes": 224701,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/nord/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/optimization.json",
+        "size_bytes": 87846,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/nord/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/previews.json",
+        "size_bytes": 72422,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/nord/collections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/collections.json",
+        "size_bytes": 906,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 40864066,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme with cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-VA-Vatican-preview.webp"
+    },
+    "osaka-jade": {
+      "name": "osaka-jade",
+      "title": "Osaka Jade",
+      "kind": "theme",
+      "images_dir": "images/osaka-jade",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/osaka-jade/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/catalog.json",
+        "size_bytes": 232250,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/osaka-jade/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/optimization.json",
+        "size_bytes": 90851,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/osaka-jade/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/previews.json",
+        "size_bytes": 73927,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/osaka-jade/collections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/collections.json",
+        "size_bytes": 945,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 105369484,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-UM-US-Minor-Outlying-Islands-preview.webp"
+    },
+    "tokyo-night": {
+      "name": "tokyo-night",
+      "title": "Tokyo Night",
+      "kind": "theme",
+      "images_dir": "images/tokyo-night",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/tokyo-night",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/tokyo-night/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/catalog.json",
+        "size_bytes": 233521,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/tokyo-night/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/optimization.json",
+        "size_bytes": 91351,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/tokyo-night/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/previews.json",
+        "size_bytes": 74177,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/tokyo-night/collections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/collections.json",
+        "size_bytes": 946,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 111492424,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-NE-Niger-preview.webp"
+    }
+  },
+  "masters": {
+    "name": "masters",
+    "title": "Masters",
+    "kind": "masters",
+    "images_dir": "masters/colors",
+    "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/masters/colors",
+    "collections": [
+      "countries"
+    ],
+    "catalog": {
+      "path": "datasets/masters/catalog.json",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/masters/catalog.json",
+      "size_bytes": 181191,
+      "entries": 250
+    },
+    "optimization": {
+      "path": "datasets/masters/optimization.json",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/masters/optimization.json",
+      "size_bytes": 89095,
+      "entries": 500
+    },
+    "previews": null,
+    "collections_info": {
+      "path": "datasets/masters/collections.json",
+      "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/masters/collections.json",
+      "size_bytes": 769,
+      "collections": 1
+    },
+    "count": 250,
+    "optimized": 500,
+    "total_size_bytes": 871522590,
+    "resolutions": [
+      [
+        2560,
+        1440
+      ]
+    ]
+  }
+}

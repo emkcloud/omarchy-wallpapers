@@ -1,0 +1,1502 @@
+{
+  "images/tokyo-night/countries/omarchy-country-CO-Colombia-2K.webp": {
+    "sha256": "896f6b118383292ff44c9fed0d9a3865237df7ddf9cce222309588993da30270",
+    "size": 509724,
+    "preview_sha256": "66f1f5f5551b04f632d6c92861426a1b6b95340548800c9617ae629b6b20e51d",
+    "preview_size": 28912
+  },
+  "images/tokyo-night/countries/omarchy-country-HU-Hungary-2K.webp": {
+    "sha256": "370e10f4a60f5f2b1f0309b9a6608f2142cdee9e11ba3498b08dd831f640f7db",
+    "size": 303548,
+    "preview_sha256": "408b8c6e9bba5b7764faf3c352f25e6a8c4fb4ec2688e613cc8e033e737bb905",
+    "preview_size": 22548
+  },
+  "images/tokyo-night/countries/omarchy-country-MP-Northern-Mariana-Islands-2K.webp": {
+    "sha256": "5e2f5199d67e0ae1902ba4d9445c20013e09cfc80e494839d5a32c88dd5d761b",
+    "size": 414710,
+    "preview_sha256": "dce96a79857f61ba8459ff26ecc373e05eee9057ad6cae439cfb81c64f2845b0",
+    "preview_size": 26882
+  },
+  "images/tokyo-night/countries/omarchy-country-SK-Slovakia-2K.webp": {
+    "sha256": "901b219ca393aa040850c9222a5e16c4b4936b54d803ec51b2f0539e46e47368",
+    "size": 398042,
+    "preview_sha256": "8ed46cac75433ee7313568fc31f8f46a40ab4724a7805ff009f8fff728e0f35a",
+    "preview_size": 22928
+  },
+  "images/tokyo-night/countries/omarchy-country-ZW-Zimbabwe-2K.webp": {
+    "sha256": "31e5aff5787954b39e4c813dda30c39b647765356b14d8f63d1fcdab939cd9ef",
+    "size": 497060,
+    "preview_sha256": "7767aec3c1633ec0c325e679664d2bce2def4394be7c16be106fe77baef73a57",
+    "preview_size": 27614
+  },
+  "images/tokyo-night/countries/omarchy-country-AE-United-Arab-Emirates-2K.webp": {
+    "sha256": "3069db3cb1c214d5f507e9cdba46fc5eee7b4b8705cd123c8263218fd64eb5f5",
+    "size": 286194,
+    "preview_sha256": "d191cd3ab21c7adef88c5cade081dce8938bd5f0823a6e30ec1fe7728c9a106c",
+    "preview_size": 24896
+  },
+  "images/tokyo-night/countries/omarchy-country-AL-Albania-2K.webp": {
+    "sha256": "54f10b8c97f26602b732e09a29bb889d28b464b126b80fede6214a6423e5ea21",
+    "size": 390022,
+    "preview_sha256": "7f8215232bbcf367198316f2983cdfdb48093fd922f6c472699a9f31534a470f",
+    "preview_size": 23812
+  },
+  "images/tokyo-night/countries/omarchy-country-AF-Afghanistan-2K.webp": {
+    "sha256": "c6f1924fc8f85eddc6affb8aa0aef7844a3aa582f71cd17606a0029eadd3bc02",
+    "size": 314052,
+    "preview_sha256": "4d5f44dba03064c5dd0fe341225bbb041a0a4c1ea072f1260f8f037e29a01e21",
+    "preview_size": 25804
+  },
+  "images/tokyo-night/countries/omarchy-country-AO-Angola-2K.webp": {
+    "sha256": "bbf7a247d298a99cc450b725b0b8d058b784ad160c4e4796f6a56b3d18dcee96",
+    "size": 399838,
+    "preview_sha256": "d128a00d1feb0b945be61fa94f2321afffcdac4167952d5becc8ee5504315d7f",
+    "preview_size": 23304
+  },
+  "images/tokyo-night/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp": {
+    "sha256": "34d603d87c2827a4d3ce34d18922d393efa234c5474d7447049f700e633e1c33",
+    "size": 375532,
+    "preview_sha256": "108d9b4951d473701701f0e435f96a2c8115eb03e474bcaccb0304f97222edd1",
+    "preview_size": 26726
+  },
+  "images/tokyo-night/countries/omarchy-country-AI-Anguilla-2K.webp": {
+    "sha256": "9e1185e2afa085a676f108826efc7f4397840779885480083a0289580a4f0564",
+    "size": 573042,
+    "preview_sha256": "a88feb63965c05d4f77bf94b5d7257353a295b4ca65bf1870fc492dcb6ee950a",
+    "preview_size": 30332
+  },
+  "images/tokyo-night/countries/omarchy-country-AQ-Antarctica-2K.webp": {
+    "sha256": "ebd391af8991012783fa437ce16de6f348c2ee4a91a7c6147227f3c6fe9d9d68",
+    "size": 391348,
+    "preview_sha256": "72d1ed969fb771cb8f60668b0e4c4154f4a9c2098db3b9b3ea41a5dd64b1eca8",
+    "preview_size": 30882
+  },
+  "images/tokyo-night/countries/omarchy-country-AR-Argentina-2K.webp": {
+    "sha256": "91e4fdbc0d57cd1f848753002b7a37117844db5f4e8bdd63b617b06b59358340",
+    "size": 426056,
+    "preview_sha256": "98d5b78ecae7484cadd243e73cb81caa5bc2cf964d7b2b9505260f4509a3af1d",
+    "preview_size": 30910
+  },
+  "images/tokyo-night/countries/omarchy-country-AD-Andorra-2K.webp": {
+    "sha256": "42d375d3ed3978374caea888265b12307fd4f920ac7f16ddaeb910fe6c6e6aa0",
+    "size": 335540,
+    "preview_sha256": "939dc8a8826dec408029bd42497c7129ff907dbdb35a0a1876f7496711e093f1",
+    "preview_size": 22522
+  },
+  "images/tokyo-night/countries/omarchy-country-AM-Armenia-2K.webp": {
+    "sha256": "c1041fbc08ecaeb0e442a30f3e66feeb89186fc3d158e876c0bffb1d9b6ef0a1",
+    "size": 509282,
+    "preview_sha256": "2445f1648a2f1a222adc13badbcbd956a866ba3396eae0815f5ca2c94fd2e8ec",
+    "preview_size": 27876
+  },
+  "images/tokyo-night/countries/omarchy-country-AX-Aland-Islands-2K.webp": {
+    "sha256": "5683f31d0a27bb9f11a6637d2fa5828c1fc1b1a586974b4f89a7236baf4f1c6f",
+    "size": 512020,
+    "preview_sha256": "8cec9cfec2915e80ab8338460b00cf3d43f29a8066fb4903205f324f32d60c9f",
+    "preview_size": 28280
+  },
+  "images/tokyo-night/countries/omarchy-country-AW-Aruba-2K.webp": {
+    "sha256": "700937b1eb6052216c096b5a6cd4cc9388ecc82dcc22a69f0024f71aab7b19b2",
+    "size": 453550,
+    "preview_sha256": "5200f897cb83c81fa08ce9d806e9ebc2aba6df08ed93e7f750ec1f8435b9f16a",
+    "preview_size": 33310
+  },
+  "images/tokyo-night/countries/omarchy-country-AU-Australia-2K.webp": {
+    "sha256": "85af1b76cd55cdfaf49e6194bfb97da44e03509f579f311336dae4a802d15711",
+    "size": 365730,
+    "preview_sha256": "33061a82c64e4228ee8c2efd6f55413d5d270b53af6ab893074a9f4113fe132b",
+    "preview_size": 27414
+  },
+  "images/tokyo-night/countries/omarchy-country-AT-Austria-2K.webp": {
+    "sha256": "6f781ba25392aa3690c19c82119ead8869ae97306d9aa1610def7f7a426a0b28",
+    "size": 440814,
+    "preview_sha256": "37c51eda2bf4eaffba70673e9d3e8d845bb01bc780f19e765cb5b027120e45d4",
+    "preview_size": 23548
+  },
+  "images/tokyo-night/countries/omarchy-country-AS-American-Samoa-2K.webp": {
+    "sha256": "5471b10a414523fe13762ba0999cf8fa8581a73115ae78e554c4435e4b9cb6b2",
+    "size": 296878,
+    "preview_sha256": "9c7761fcaab15ce3b0fb35928cfb8bfcebed1223ad73a1036cc96894f8d610e6",
+    "preview_size": 25384
+  },
+  "images/tokyo-night/countries/omarchy-country-AZ-Azerbaijan-2K.webp": {
+    "sha256": "e872323908fb88e392a753c3857cb6732c4b94fa178d0367725041b0d120f6fe",
+    "size": 402400,
+    "preview_sha256": "5cc2830b4a7a6be02d598f336aecc292bd05a4e00f9afa727f9247c980880966",
+    "preview_size": 23468
+  },
+  "images/tokyo-night/countries/omarchy-country-BD-Bangladesh-2K.webp": {
+    "sha256": "331e2fd68a5d3ea710daa944cf612d6e82d9050de49c70f5935c400223e9dc21",
+    "size": 389580,
+    "preview_sha256": "a1096ab1fcb43c12da94891344b8315904d2ded86515709249d2bcb8a46e6275",
+    "preview_size": 26242
+  },
+  "images/tokyo-night/countries/omarchy-country-BA-Bosnia-Herzegovina-2K.webp": {
+    "sha256": "9ff5fca121046508e4d769deb80f423f6c3bb7abaa573caeb1e3852665a50c9b",
+    "size": 414662,
+    "preview_sha256": "d3f8502c4c3994c53cb5ec0e90965b59d2864a47750132475d3348658a9aec39",
+    "preview_size": 24740
+  },
+  "images/tokyo-night/countries/omarchy-country-BF-Burkina-Faso-2K.webp": {
+    "sha256": "88f5fc79df04f61aacb0984e497a05b8ae81c7c2fa92943bac7e7574fb1537ed",
+    "size": 403648,
+    "preview_sha256": "e5cb8307fb3c5395ee6f52705e43e4ec9b9017a2dca21b43cd1c7be3efabe038",
+    "preview_size": 27412
+  },
+  "images/tokyo-night/countries/omarchy-country-BH-Bahrain-2K.webp": {
+    "sha256": "0c7c3e3b9fee571a68bc1caf808ad3dda26562967b54820afcfcb0c9064d0820",
+    "size": 294142,
+    "preview_sha256": "a2fec6a5834e27a8ed5dd504ae8f85271da7137ea41041204603ae7cc814a9b7",
+    "preview_size": 21630
+  },
+  "images/tokyo-night/countries/omarchy-country-BG-Bulgaria-2K.webp": {
+    "sha256": "464016dbf9e572fa18be15b9630d5bab058c51ca85448e8e4dd6ee0b15656562",
+    "size": 355932,
+    "preview_sha256": "2f06484b53563c37fa92933481c16ad78d86ee64e2e00c8c28da626e0a3baa29",
+    "preview_size": 25378
+  },
+  "images/tokyo-night/countries/omarchy-country-BJ-Benin-2K.webp": {
+    "sha256": "7cef6afbf71aab0f2113f5e026a477f29c74a8054ecff64c3e8fac7589eeff62",
+    "size": 509662,
+    "preview_sha256": "6631d365056c22400b64df7a0b976f6a12a3af5c0da44894b67496a8562e8ab0",
+    "preview_size": 28292
+  },
+  "images/tokyo-night/countries/omarchy-country-BM-Bermuda-2K.webp": {
+    "sha256": "ff00c21e8e4eae105abfe1a08d5681eca04379836b48eeef6a8bdce01a28cc11",
+    "size": 336432,
+    "preview_sha256": "f0cbce19dcdb67d9ba3bb8ce5fe3850471271b0e1ffd4c965781c2385809805e",
+    "preview_size": 25762
+  },
+  "images/tokyo-night/countries/omarchy-country-BI-Burundi-2K.webp": {
+    "sha256": "da82ecd28e480b1e046e3e82f6e9c4aba2b70dc9fbe593f50c4098247ff1822d",
+    "size": 479816,
+    "preview_sha256": "5ab7fd337687e1426cacd3cbc1f5a8792f4653fdb2cc4b73063784d420f7bba4",
+    "preview_size": 26460
+  },
+  "images/tokyo-night/countries/omarchy-country-BB-Barbados-2K.webp": {
+    "sha256": "6c6f8d8d3170d42b35f4d17938f69b2a289007fc63bd054c31459a5c146c5d0f",
+    "size": 438992,
+    "preview_sha256": "6299d5025dc6559f28c8c7c8d6839067ba0564a4b2677b5882fd9a48cddbb46d",
+    "preview_size": 34772
+  },
+  "images/tokyo-night/countries/omarchy-country-BE-Belgium-2K.webp": {
+    "sha256": "ad80523fe86c4cbdcb65fc02ce75b9db8a25a4ecd9d337fcc8a482e762658097",
+    "size": 504538,
+    "preview_sha256": "0e0d74432b4e8aa1a3dc87f11e47c857164bc7e60a12fc594545ac8fc05ff9cd",
+    "preview_size": 26428
+  },
+  "images/tokyo-night/countries/omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K.webp": {
+    "sha256": "1e92efba8700a9cb2ecc5492a0249bb1f0895f06ee438753063ce8b77973fdff",
+    "size": 393826,
+    "preview_sha256": "f298c8ad3704d7472842546ca91672f719508289e6d8bf4564d6b512d5906a86",
+    "preview_size": 30884
+  },
+  "images/tokyo-night/countries/omarchy-country-BN-Brunei-2K.webp": {
+    "sha256": "6cb636266ace3219fa542b6048b7bbe9f4cdd21da19a3694e72f4fa0015e58c0",
+    "size": 534576,
+    "preview_sha256": "103c8fe04845baf6562a340ad0df60e1e4df6fe99422009f58c196fcf34bba1a",
+    "preview_size": 31456
+  },
+  "images/tokyo-night/countries/omarchy-country-BR-Brazil-2K.webp": {
+    "sha256": "8ff9577d54d22b02405d6c3170c2e7adb39f5533830da060a535cf38235a8387",
+    "size": 522250,
+    "preview_sha256": "690891b820fe6c0627abd3ff6ab3fad323794e5034a1cae0e812537722e621a1",
+    "preview_size": 36440
+  },
+  "images/tokyo-night/countries/omarchy-country-BL-Saint-Barthelemy-2K.webp": {
+    "sha256": "c9d42c5166593b328540eac944c898b98652363ccb6523109f05d167a87735ff",
+    "size": 488290,
+    "preview_sha256": "b0640fd4d744ddfb5192c4750a8ac68e3eada3a1269bfade6e39e7f763c31d5c",
+    "preview_size": 33832
+  },
+  "images/tokyo-night/countries/omarchy-country-BW-Botswana-2K.webp": {
+    "sha256": "7d9f6b53ed4a2c3fc07f81c1ec51de554e59c686ff9433a6b03646fa6d4bb487",
+    "size": 465866,
+    "preview_sha256": "21bcdddb52b4aea18c3a7787c3dbff795aff852b6e64783eb2ab8c577f153181",
+    "preview_size": 24524
+  },
+  "images/tokyo-night/countries/omarchy-country-BO-Bolivia-2K.webp": {
+    "sha256": "75a3ce2d5baf85af1027168086dcc35766c36bdb3d20ac3307c9243214732ea6",
+    "size": 367588,
+    "preview_sha256": "aa10f3398501a0a3e7d7f357f656be0a890bbbcb6329278abc25c7da7acc7b5d",
+    "preview_size": 22364
+  },
+  "images/tokyo-night/countries/omarchy-country-BY-Belarus-2K.webp": {
+    "sha256": "a767f90e06b3aa0cb21e8cbdb00451003c16c2d416ea42e882007ad808b95c09",
+    "size": 305586,
+    "preview_sha256": "fbe745b0f615bbdb7695cd4de940dffb18a70927ef4723fc7ed26a7f222a806d",
+    "preview_size": 22174
+  },
+  "images/tokyo-night/countries/omarchy-country-BS-Bahamas-2K.webp": {
+    "sha256": "5cd738d9ce2e8d58b226d21561c42a61ea3825f8fdd56dbe148b8a4104fb1ab1",
+    "size": 799986,
+    "preview_sha256": "5174ebb8f523cc1566cde00e468a8d39115f22ba6571ea40ee8356bec2d0a238",
+    "preview_size": 28438
+  },
+  "images/tokyo-night/countries/omarchy-country-CA-Canada-2K.webp": {
+    "sha256": "2db3920a1ee4147d781d6b67092c67175f1da196157cd81cb411bc6094ecb94d",
+    "size": 323070,
+    "preview_sha256": "dd9eb4df2085d18d679a716fbf18f282b86d4e72cd7cf0d6e59291ec64f7c164",
+    "preview_size": 25910
+  },
+  "images/tokyo-night/countries/omarchy-country-BV-Bouvet-Island-2K.webp": {
+    "sha256": "b6735c515e9d8aac5e2e632325d57a1236d7caddd9b4900d7f6dc2b5d78f286a",
+    "size": 463674,
+    "preview_sha256": "2a4120815739d9bfe1b196fc7b18034dc6257d12b466ff1ce382d3603f507974",
+    "preview_size": 31790
+  },
+  "images/tokyo-night/countries/omarchy-country-BZ-Belize-2K.webp": {
+    "sha256": "26827ffea064e745467f874d71e5899e6e2eea904ebe8284ea275f0795112eda",
+    "size": 425078,
+    "preview_sha256": "f443efbbc4cec8cb68207f63b03881a25857d504b40ded2ad12c479d56d566f4",
+    "preview_size": 30902
+  },
+  "images/tokyo-night/countries/omarchy-country-CF-Central-African-Republic-2K.webp": {
+    "sha256": "52b2d21b71b5e3f1bcb425168420cfbd167cc23e7c9c81099ba5d16a431af9f5",
+    "size": 362150,
+    "preview_sha256": "77d8d68f1bf2aeca39c6fc3d5caaefe9c54d88783d141d7cf3bb43b77d077584",
+    "preview_size": 25782
+  },
+  "images/tokyo-night/countries/omarchy-country-CC-Cocos-Keeling-Islands-2K.webp": {
+    "sha256": "a64bed8d85786c396e41b16bc43eba7d6293788d486d72724124d99ea061d763",
+    "size": 390154,
+    "preview_sha256": "66d15bde4cd30e3a86705ae282cc04b9ffb9f7dcca7fb5aeedb8b07960959dfd",
+    "preview_size": 32262
+  },
+  "images/tokyo-night/countries/omarchy-country-BT-Bhutan-2K.webp": {
+    "sha256": "be3cd121482e4a60461c75d88ea2e76173a643ac537f1e5441941feeba3d699b",
+    "size": 405144,
+    "preview_sha256": "31a082e5abe453d58777caf1ea4850b0a3a9e06203643560f08e72902b1c263e",
+    "preview_size": 26576
+  },
+  "images/tokyo-night/countries/omarchy-country-CK-Cook-Islands-2K.webp": {
+    "sha256": "6b7c33c1e13a29cdac459d844ec9eadccbe59c0e89ad4c52131db3be55fb54cb",
+    "size": 456558,
+    "preview_sha256": "dd99061b117c0928cd71e5fed6f4346a97ce0d5cf017d14ad0d21aff67442372",
+    "preview_size": 32434
+  },
+  "images/tokyo-night/countries/omarchy-country-CH-Switzerland-2K.webp": {
+    "sha256": "1ca9322266524aa1bd7ccb240c959781b6aa06d76e563ea72cfb9f1ee050df92",
+    "size": 413514,
+    "preview_sha256": "e04ea3093a18e44e3843d80d227a98c12645e9e5c0f4c7f606c2064d5510b5ef",
+    "preview_size": 23790
+  },
+  "images/tokyo-night/countries/omarchy-country-CG-Congo-2K.webp": {
+    "sha256": "aec883c8effa50c115c47b4a696e7d894d5ea20c828e0d40ccce7a444ff008c3",
+    "size": 351764,
+    "preview_sha256": "38197d69da7fe43fa07fef051b4ab102c002b9c368ceaba41d4fcf59d90dcda7",
+    "preview_size": 24400
+  },
+  "images/tokyo-night/countries/omarchy-country-CM-Cameroon-2K.webp": {
+    "sha256": "1d1f8b93adfc78b32c04fdc5801b773afa7be608c540e676ef8d6c9d0fd84ee1",
+    "size": 415490,
+    "preview_sha256": "309952e75371754ed7ecdb5e09596e2ed22d6fbf4a04d7f2df9083134498edcf",
+    "preview_size": 22810
+  },
+  "images/tokyo-night/countries/omarchy-country-CL-Chile-2K.webp": {
+    "sha256": "bff18c7816c177c73804794b07c43e6ea3ee1abff52fd2a197b0aabd902ad146",
+    "size": 540644,
+    "preview_sha256": "d11c3f546ce7b6e2d3d07c848d2c0765f74293d343122330d0b53cae6bb53a09",
+    "preview_size": 32540
+  },
+  "images/tokyo-night/countries/omarchy-country-CI-Ivory-Coast-2K.webp": {
+    "sha256": "54fa74b65d4e138560ded3e4bd2c1483e402245bf8c05961a8cc5a65e584de60",
+    "size": 352706,
+    "preview_sha256": "710ee62dd3746f5d1ff1a1a8e183f61a02342a98649259856755e19cb12d48f4",
+    "preview_size": 22658
+  },
+  "images/tokyo-night/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp": {
+    "sha256": "0093a1c4a28950b394012e04dcbf15911f7dfc5bdc41f477c21cee27697aec40",
+    "size": 397766,
+    "preview_sha256": "8114a9ff67c65754cb5c73667f0064596d1e613bd33b5343b31464a99ab9c667",
+    "preview_size": 23660
+  },
+  "images/tokyo-night/countries/omarchy-country-CR-Costa-Rica-2K.webp": {
+    "sha256": "69a030d105c6078019b887cad7a05e54ddb1610d37339beb9e6a7d750a77607d",
+    "size": 341458,
+    "preview_sha256": "80fd53d9b8152e94f605d3d9abaa7e133ce8447f21e87d43a094b24d0cb1c9f2",
+    "preview_size": 24212
+  },
+  "images/tokyo-night/countries/omarchy-country-CU-Cuba-2K.webp": {
+    "sha256": "bd776decba277ead885560302cfab15695dc81837d347a01760e191468bd6c11",
+    "size": 486840,
+    "preview_sha256": "14de4300ce929ed8a9c63fd9c32bcbdfa774c7fb8fc829dc0e99532c9a188a28",
+    "preview_size": 28350
+  },
+  "images/tokyo-night/countries/omarchy-country-CW-Curacao-2K.webp": {
+    "sha256": "4e431d80fe5603979c79cefc025ee86355f5f4784b046273d068bd1970ce2af3",
+    "size": 409618,
+    "preview_sha256": "0a60c764f5361886e19b697b1b1d7cc01261c327de5bd569de344d9f3f48d7cd",
+    "preview_size": 28068
+  },
+  "images/tokyo-night/countries/omarchy-country-CN-China-2K.webp": {
+    "sha256": "876cb680d0a6de3aa0472622cdc04d2d06c334c137f802833130e65054870115",
+    "size": 430868,
+    "preview_sha256": "24e360c4841205b06f0529d5110d0b6766cfebb3c5baed9cb1230b56461a4e90",
+    "preview_size": 28252
+  },
+  "images/tokyo-night/countries/omarchy-country-CV-Cape-Verde-2K.webp": {
+    "sha256": "970be23b9673f1dfcc8a81ee808ef1a0feaaec995205c0d1e6f6acc121f9ecf7",
+    "size": 642218,
+    "preview_sha256": "92817b21436a390ff5182d0353a609d9d67fda6a784286e2c3b2cf4e8d1e75dd",
+    "preview_size": 30550
+  },
+  "images/tokyo-night/countries/omarchy-country-CZ-Czech-2K.webp": {
+    "sha256": "623a6520fa367355c665dc0c7c4fd745547588f7a25719c27dd0ef5b8b900b0e",
+    "size": 344100,
+    "preview_sha256": "329f31f3610bb091541904086a30c10fcc41d17794967d2803e6b06e5ebc3751",
+    "preview_size": 23744
+  },
+  "images/tokyo-night/countries/omarchy-country-CY-Cyprus-2K.webp": {
+    "sha256": "e3131e1afe09011536d80e10ff8a7a2aa0c0fc146754480786f1469308ba67e4",
+    "size": 515086,
+    "preview_sha256": "b05816f4237c4172f624db24b850ac9bf194f9411ac777d437acb6c1270a58a1",
+    "preview_size": 29568
+  },
+  "images/tokyo-night/countries/omarchy-country-DE-Germany-2K.webp": {
+    "sha256": "63e49e3b3684597d44037f7ee1a3e606395bd538e056ed09b03353392b96c8f4",
+    "size": 414838,
+    "preview_sha256": "d4b8e3cec1085057c9cca2833f80b89bb8275fe00d28bfa5f7d64c87406aa2e8",
+    "preview_size": 25164
+  },
+  "images/tokyo-night/countries/omarchy-country-CX-Christmas-Island-2K.webp": {
+    "sha256": "37a238ea8ee872443a1be7d9815b69b07a089581db89bbae0af44352b55b42ae",
+    "size": 485540,
+    "preview_sha256": "0233a1677c1978cc9a9c232a45a9c05f81efe964335029dd9817166a41478101",
+    "preview_size": 28628
+  },
+  "images/tokyo-night/countries/omarchy-country-DK-Denmark-2K.webp": {
+    "sha256": "40a95fa57329afdc9cd62ebb5d4181cd45a870dafb2b30867d657207a86a4c49",
+    "size": 501456,
+    "preview_sha256": "1fb44b6fc8127c330d23e954d82309ef991f59ce207e3b2ec4591fd40970c1b4",
+    "preview_size": 24110
+  },
+  "images/tokyo-night/countries/omarchy-country-DJ-Djibouti-2K.webp": {
+    "sha256": "2941dfeedf9b089b48b0cd448e0c3831a27a789960c03ee9ed05eafa5983d309",
+    "size": 413414,
+    "preview_sha256": "f26ef32a98a10df7a2061804602e7397dd0ec12bf216cfbf2f9e478864af975e",
+    "preview_size": 20620
+  },
+  "images/tokyo-night/countries/omarchy-country-DZ-Algeria-2K.webp": {
+    "sha256": "312f5cb794ccd385280abde551d8d48c7cb56048410244deae630d9a32ba1d83",
+    "size": 374296,
+    "preview_sha256": "bcb2e6af405ae98524f2fcff737f1a20924de781c6ce506423098a1ed7f47078",
+    "preview_size": 26820
+  },
+  "images/tokyo-night/countries/omarchy-country-DO-Dominican-Republic-2K.webp": {
+    "sha256": "f1c563b996eb60c9b182bd9d7ba3970fc3dabfbef0a324ee6e8379683c227133",
+    "size": 639272,
+    "preview_sha256": "944149500eab65b67d9b55837ee8d9557159b6e0665e2f914942e19822d917ac",
+    "preview_size": 31032
+  },
+  "images/tokyo-night/countries/omarchy-country-EG-Egypt-2K.webp": {
+    "sha256": "2a613e9706ddf4efb4f36065cc8a23de2998c361828a8969dd322a2022b822a3",
+    "size": 232934,
+    "preview_sha256": "09867625c4fa17659235bdd399f1b5c2413744b562c0361caa23527f0c7088e6",
+    "preview_size": 18056
+  },
+  "images/tokyo-night/countries/omarchy-country-EH-Western-Sahara-2K.webp": {
+    "sha256": "bfe729c18df750fe8e90a4679360c0296f09c5c96a8949e00517ca0a5bfd6499",
+    "size": 306242,
+    "preview_sha256": "858485780bb5bffe494f28d7884bba073afbf7c241641918cb39ab419f3babee",
+    "preview_size": 20798
+  },
+  "images/tokyo-night/countries/omarchy-country-ER-Eritrea-2K.webp": {
+    "sha256": "935b8675ee53d39609bfb25e2b2bbe02a50fb8817c909b2a01470fa275eb564b",
+    "size": 558548,
+    "preview_sha256": "3bf841dc8fef6fc6b689bffd203742ded142f9cbc3b93d6b09883ff0a230b1d7",
+    "preview_size": 27620
+  },
+  "images/tokyo-night/countries/omarchy-country-EC-Ecuador-2K.webp": {
+    "sha256": "135825bdb729d86bff8b38629455cee7b78a122de7bb1bf8647c72b641151d93",
+    "size": 308908,
+    "preview_sha256": "363a323679f9d968434ecaf27bc4027f10bd9b9ecd32b32d92bdb6d1483c2491",
+    "preview_size": 26752
+  },
+  "images/tokyo-night/countries/omarchy-country-DM-Dominica-2K.webp": {
+    "sha256": "1eb6313f6fd8aada33db4289eae5111a0b5951f1475b6d9e98150bd7290e9c51",
+    "size": 477620,
+    "preview_sha256": "04962507c72a6f8151b26df1e00af8cf03aeb89fcbfe9b85d783590ace09fb02",
+    "preview_size": 28044
+  },
+  "images/tokyo-night/countries/omarchy-country-EE-Estonia-2K.webp": {
+    "sha256": "3d6b3554006c6cc70caeb3d54d4a89bbeff4722d6c63246771b9b915ac3d1895",
+    "size": 332384,
+    "preview_sha256": "860059ca79ecb873fdeecad5b298d312cc6a846609c9379d6a4554a7f5da29bc",
+    "preview_size": 25574
+  },
+  "images/tokyo-night/countries/omarchy-country-FI-Finland-2K.webp": {
+    "sha256": "0496e1af879fb186c4e6466d1c47480e5a59de138c80d5b5e857236644f1607b",
+    "size": 299726,
+    "preview_sha256": "67b3834319160c0473932616c762ee385659e29561c5fcf9fe4c7b4b50ade218",
+    "preview_size": 23456
+  },
+  "images/tokyo-night/countries/omarchy-country-ET-Ethiopia-2K.webp": {
+    "sha256": "a39b7998605f360268b98abbe7658d9871458d5974093a44cbf32fa1abd27013",
+    "size": 402956,
+    "preview_sha256": "abbb85b5a9a105c020162941588c0088fed7f7413416f54eada730a9211497e0",
+    "preview_size": 25170
+  },
+  "images/tokyo-night/countries/omarchy-country-ES-Spain-2K.webp": {
+    "sha256": "019d41d32f9293d38d7c5c93c9aff442f50bf35b010ec0fd290c8613a0e012c7",
+    "size": 379660,
+    "preview_sha256": "de4904f25ff9f6516fe010a3fc3cd8c68ccfae0bd24c4f3689e7570ca3d37056",
+    "preview_size": 25294
+  },
+  "images/tokyo-night/countries/omarchy-country-FJ-Fiji-2K.webp": {
+    "sha256": "ec3d8340936b6ebc6cc93e550f48a3040e0ec9a6c81ad9d250c22b291cf1a4dc",
+    "size": 501598,
+    "preview_sha256": "a402a5e4c2667446ea4475e955d83639ad6e055e9cd6fd8c85cb6201c489becb",
+    "preview_size": 27708
+  },
+  "images/tokyo-night/countries/omarchy-country-FO-Faroe-Islands-2K.webp": {
+    "sha256": "5de365b47460524ff7d5dcf31990c9dcf6d08e37032fdf541ed0f6254c1ed10f",
+    "size": 387168,
+    "preview_sha256": "b1e6328ab49d8363c741d273910f48d034853fd2ea290b14d583f2b33d9dfcf6",
+    "preview_size": 21874
+  },
+  "images/tokyo-night/countries/omarchy-country-FK-Falkland-Islands-2K.webp": {
+    "sha256": "af7d9d6c22021e3a68991fdd22ae100f72877c71a6f1d6ec935918c06d3ff3d3",
+    "size": 487620,
+    "preview_sha256": "8cbbd95ca896453fed534dd7428c3fa4d0c5ff9c0811bff6e39c74f9cd2118b5",
+    "preview_size": 23344
+  },
+  "images/tokyo-night/countries/omarchy-country-FR-France-2K.webp": {
+    "sha256": "e355a46e19208e9184f601247e6b9e8d6e6e3dcb70e586d0df4445df24e36510",
+    "size": 465962,
+    "preview_sha256": "197fb101f3f8a7c7b277af9a0d2eb495a3630a1408ae03a8accd71efc8844145",
+    "preview_size": 25722
+  },
+  "images/tokyo-night/countries/omarchy-country-FM-Micronesia-2K.webp": {
+    "sha256": "1baab9d739e7cedec4f3899c65ad1e2f2ad8ab8bcad94bef827e01a96cf43710",
+    "size": 490546,
+    "preview_sha256": "3f909558777bb66550b4e8d27e252a20c238628dae463d3fdf17b561aea260e8",
+    "preview_size": 31376
+  },
+  "images/tokyo-night/countries/omarchy-country-GB-UK-2K.webp": {
+    "sha256": "8ea5b4eb12238535c7b78739ece17c41393feba8ff224ef37f578c7e2f563021",
+    "size": 361466,
+    "preview_sha256": "67ef3ae95c51ee36ecf5d65261ac35f69321ba5af71b30bf71d10cf4778fe189",
+    "preview_size": 20780
+  },
+  "images/tokyo-night/countries/omarchy-country-GA-Gabon-2K.webp": {
+    "sha256": "d2fec83528149dc210941da0ed01e7cdd9270fefa6201399d2d76bd8b99b9905",
+    "size": 405870,
+    "preview_sha256": "a8467bc7ea7e46b9681f24b461e65790502eb4eccb6337bde82a5f48e001540d",
+    "preview_size": 26362
+  },
+  "images/tokyo-night/countries/omarchy-country-GE-Georgia-2K.webp": {
+    "sha256": "21405d566e875245e386cd08151cc79ea05b1d30333efdf705b34d709092e09a",
+    "size": 379566,
+    "preview_sha256": "8455f986779d977f37474c1021392595db9fcb3113eff9d2a3ed98d14ed450b0",
+    "preview_size": 23076
+  },
+  "images/tokyo-night/countries/omarchy-country-GD-Grenada-2K.webp": {
+    "sha256": "05622d9897ce1a4a426c6e6a42577c867e2c0325425654127e675b635ae600b3",
+    "size": 418360,
+    "preview_sha256": "457016cf815d242089f371c8235c68e77f0071d2879ea015336e634474a39482",
+    "preview_size": 33978
+  },
+  "images/tokyo-night/countries/omarchy-country-GL-Greenland-2K.webp": {
+    "sha256": "be419a1ada4424bb3112857f26b730ed0dc99ba09d3df948fbd7c6e8679b7d81",
+    "size": 491236,
+    "preview_sha256": "bde5d0032cf69445a0e2ff714a6dfdc3d91f1da605784bd8c31879e5cfc75c5b",
+    "preview_size": 30846
+  },
+  "images/tokyo-night/countries/omarchy-country-GM-Gambia-2K.webp": {
+    "sha256": "00757c97c6485fc260511b9c235d23202b48cf7fa6c261543841ea6b7e554aee",
+    "size": 494844,
+    "preview_sha256": "c3825158d63e560d76e2bc7be45f62055a4b2350fc70d0b2e0586490ef93a40c",
+    "preview_size": 29034
+  },
+  "images/tokyo-night/countries/omarchy-country-GG-Guernsey-2K.webp": {
+    "sha256": "19069499b5b0938fee68ef2c6c4ee9d1a6d7fd492f6769832f33c28eb6c2f882",
+    "size": 482830,
+    "preview_sha256": "c030429b91b0c6743ba8471ba6b7db050007ecc068b4b64cc7abc76a8cab60b2",
+    "preview_size": 26744
+  },
+  "images/tokyo-night/countries/omarchy-country-GN-Guinea-2K.webp": {
+    "sha256": "49507feaa5f769a1ada391d0efbd59a92abee8028f434811f31af8639e349c2b",
+    "size": 373810,
+    "preview_sha256": "94bc47c858c8645fb3f5fd0844731f14841d3db81caf587ac5e4889fffa1b8c9",
+    "preview_size": 23700
+  },
+  "images/tokyo-night/countries/omarchy-country-GH-Ghana-2K.webp": {
+    "sha256": "aef824e1df3a5d3f2a14f53a2df5f804cf918771bb2ed2406d5a63a6d1bc1fd2",
+    "size": 428288,
+    "preview_sha256": "b4170403b067bb9044cf668b73c74e6c955915a55d1ecec9c889e92abad3636f",
+    "preview_size": 26644
+  },
+  "images/tokyo-night/countries/omarchy-country-GF-French-Guiana-2K.webp": {
+    "sha256": "cb55fe17699a6707bd26335cd6e121bcfa6ac1d1c07aed620bfa8bbfd60a4804",
+    "size": 629086,
+    "preview_sha256": "423685c234b0736c7ad14b4df2e93a750d8373022f37e31ee2546c94f214a47c",
+    "preview_size": 35390
+  },
+  "images/tokyo-night/countries/omarchy-country-GI-Gibraltar-2K.webp": {
+    "sha256": "1cf4e7e7930bc66cdd631ffa9b30f39b55bee6497dc73adf42c0a80d915de677",
+    "size": 523108,
+    "preview_sha256": "bd6f9628adaaa6b0ad5ed2c5d10764c1384121735e8da9ef12b91479cf499476",
+    "preview_size": 26926
+  },
+  "images/tokyo-night/countries/omarchy-country-GP-Guadeloupe-2K.webp": {
+    "sha256": "6f11fa40c4ceef4165aa006fd58657c010a13a12cda59d36fb4c421c2c4015c3",
+    "size": 425150,
+    "preview_sha256": "59373d76322170647a1361d1885ab93688780e253958e0d4bd3f0978239446fc",
+    "preview_size": 28964
+  },
+  "images/tokyo-night/countries/omarchy-country-GQ-Equatorial-Guinea-2K.webp": {
+    "sha256": "c44f4f3dbb697756e0abb6a03796175872cc12f58ae72126ea152c0261cfdac2",
+    "size": 487944,
+    "preview_sha256": "a9b556b1910fdba26699b6fd7f7a8b16f1967ddd5d3401ef69ea961fc211fb61",
+    "preview_size": 27892
+  },
+  "images/tokyo-night/countries/omarchy-country-GU-Guam-2K.webp": {
+    "sha256": "b091e845b6b9c8d481b99ad1b459f105fff41f3020a305854a22a02198ed725a",
+    "size": 391224,
+    "preview_sha256": "077edd63cc3e9e60dae4067c792d0f287a567b28b9ee4aa73054c24473b29835",
+    "preview_size": 25690
+  },
+  "images/tokyo-night/countries/omarchy-country-GR-Greece-2K.webp": {
+    "sha256": "9ae77a94cb646ef994d162c914835ae39f60f8581ac4832abde17341179057ec",
+    "size": 455080,
+    "preview_sha256": "5e508549c488fe9d018798d621b3d9a5d5783af04b27d219339af06b1bef86d1",
+    "preview_size": 24598
+  },
+  "images/tokyo-night/countries/omarchy-country-GT-Guatemala-2K.webp": {
+    "sha256": "2e6ee6519073b57a81174618e74433ef2447b5b48d94011c520dec13d792d1ee",
+    "size": 444726,
+    "preview_sha256": "a668d4e5656d813d27b535e92135abbe552056436ded0b5da134e4f86ecd1288",
+    "preview_size": 30254
+  },
+  "images/tokyo-night/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp": {
+    "sha256": "85259ae4ff4c140f5ff5b2c9db20e9fb2175046cf11b54341aaa891daff7f3f1",
+    "size": 361182,
+    "preview_sha256": "910592c12ec71d4558bab7c127fd6a9cd941072c78db52f88344c4f2cf6564bc",
+    "preview_size": 29938
+  },
+  "images/tokyo-night/countries/omarchy-country-GY-Guyana-2K.webp": {
+    "sha256": "c320ceced69a9939d0a300bcc079e8db06ffc8a045c5e97baec8e3262f02a3ef",
+    "size": 406206,
+    "preview_sha256": "39502dc56712bf0199f1109f14279d23d63d5d56531f5380c7baffe87e8911e4",
+    "preview_size": 27102
+  },
+  "images/tokyo-night/countries/omarchy-country-GW-Guinea-Bissau-2K.webp": {
+    "sha256": "a322da6b4f39a9933f6add39f1b91704127f487be188d6c92af90b2d4baff275",
+    "size": 460746,
+    "preview_sha256": "57f243b2ae746ac18974931a1018af8243dd052a7176af5db6a8aca82c15186f",
+    "preview_size": 24638
+  },
+  "images/tokyo-night/countries/omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K.webp": {
+    "sha256": "d8ffb7edf6e61cda994a80fefd64ac6bc9dc53071eb6f185591041eaad836549",
+    "size": 570626,
+    "preview_sha256": "0812d4b8ff4ed3640adffd791d907bed6326139b978862a60ef2ad63da844d22",
+    "preview_size": 31696
+  },
+  "images/tokyo-night/countries/omarchy-country-HR-Croatia-2K.webp": {
+    "sha256": "dd1f7a055231a743f80f74c358d2cb947019babfb6af1cbf562df59a990a083f",
+    "size": 467822,
+    "preview_sha256": "f06a0d45d0636aaa8ca9ae8bf51a332cc61ab61399283f2e033225f250e0d8ac",
+    "preview_size": 25116
+  },
+  "images/tokyo-night/countries/omarchy-country-HT-Haiti-2K.webp": {
+    "sha256": "52ca0f9d4ecb8a49b195f836cb6eba3f7daba67f5b02e3948171cee82d0a89a2",
+    "size": 516046,
+    "preview_sha256": "27384e1fa02f445c9d92c5eec6634401ef5ebebd1f1918852b36efa5be8cad05",
+    "preview_size": 33680
+  },
+  "images/tokyo-night/countries/omarchy-country-HN-Honduras-2K.webp": {
+    "sha256": "97830ee770584f88eb579d40ad32c7eaeab1ce7fea2fd6f723bd7696843c1479",
+    "size": 461936,
+    "preview_sha256": "011e9846d2706f7a17338ba35a1e0a96f660aa5308b0ea1bcfcff8eaf8091b79",
+    "preview_size": 28576
+  },
+  "images/tokyo-night/countries/omarchy-country-ID-Indonesia-2K.webp": {
+    "sha256": "dc133dfc885377960eb556c2cf460a2ddfcca5dfba356c059ce458caa4374590",
+    "size": 548450,
+    "preview_sha256": "d0d045ea712e56d8ef659ca18ded63684fdae854788a531c6ef5d9bc719fbda3",
+    "preview_size": 35072
+  },
+  "images/tokyo-night/countries/omarchy-country-HK-Hong-Kong-2K.webp": {
+    "sha256": "b2a98f6da52c0636a58e31827c5d64223b4532ee86285891ab9e0dcb86bd5a6e",
+    "size": 426152,
+    "preview_sha256": "255ad2dace84d20127a8623d74fb482eef2a74bf55960141b5312b50a2807466",
+    "preview_size": 23818
+  },
+  "images/tokyo-night/countries/omarchy-country-IL-Israel-2K.webp": {
+    "sha256": "ec45401cd085927b99c9944f995ccc3234395e69d8786130504a1fed20cfbee9",
+    "size": 584486,
+    "preview_sha256": "1725a2754167c474946fa9115644bde4273d67228191c93bcad822f382af5636",
+    "preview_size": 30612
+  },
+  "images/tokyo-night/countries/omarchy-country-IN-India-2K.webp": {
+    "sha256": "ea1cb19701fcc3910d52c1f7a70acfed1d93f8204b7d03ba64d8fc3cadb8b7f4",
+    "size": 507784,
+    "preview_sha256": "699ece5c8dc132bc93d706e924ee829878500fd5b664749105360f78da2e7db5",
+    "preview_size": 31752
+  },
+  "images/tokyo-night/countries/omarchy-country-IM-Isle-of-Man-2K.webp": {
+    "sha256": "2b006202ccc39d7dedc6bfb12acf5d8ca57718cca37dbc0fc250a8ff56669c9f",
+    "size": 525650,
+    "preview_sha256": "00e5f4f973986607617bc91f3c74807d7d6d4af88dfc8909ad171ac4646f0f71",
+    "preview_size": 29380
+  },
+  "images/tokyo-night/countries/omarchy-country-IR-Iran-2K.webp": {
+    "sha256": "2e1bef9637a66953adbc6c2a606e74a005062b00ce1d253a19072ac5655c1a95",
+    "size": 387688,
+    "preview_sha256": "f158047a24134e866e0f77119910df7cf54a5ea49887ace2c3bd0e23699394b8",
+    "preview_size": 26088
+  },
+  "images/tokyo-night/countries/omarchy-country-IQ-Iraq-2K.webp": {
+    "sha256": "abe2bf90b2fa5c8913d9ba6b0bdcd38f13dab9a206d2f0c94e11da7ce8039c46",
+    "size": 319072,
+    "preview_sha256": "096e41ba9c7f4b9f13c11023043492a24a08feaa12f86ce2b438af2d6a31c768",
+    "preview_size": 23684
+  },
+  "images/tokyo-night/countries/omarchy-country-IT-Italy-2K.webp": {
+    "sha256": "a3ca5a798f29ee50f4fc62c137fc4244b0c8f0a6793b460e7863dd62fe330d59",
+    "size": 486412,
+    "preview_sha256": "cffa8bdafd5a11974c3b3b5b1fe4ae03b21b5c255cf74c2a48b30749799e2b01",
+    "preview_size": 28274
+  },
+  "images/tokyo-night/countries/omarchy-country-IE-Ireland-2K.webp": {
+    "sha256": "f94b6d07bc0912ad92f1d627a2e84b91c1f2403bf0be9d6e691ef19eed6967cc",
+    "size": 449736,
+    "preview_sha256": "9a72d65480676d2e5fa1c241db1184b1f42991c4c3128066fd7e100314600249",
+    "preview_size": 27658
+  },
+  "images/tokyo-night/countries/omarchy-country-IS-Iceland-2K.webp": {
+    "sha256": "cdc847808d942165c5d6b1a16c6aa8e3f2dc8c34358f53e393605d1e8ceb6011",
+    "size": 450876,
+    "preview_sha256": "d5e19a1de2f00194f8b4d5852d4b260aa88605e722e4ee4b5bec93eb314ef22d",
+    "preview_size": 23004
+  },
+  "images/tokyo-night/countries/omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp": {
+    "sha256": "06c9f1de07f14c04902b29e7d6e09fadd741fea2e2a5f61c9a056ca38ae50128",
+    "size": 441190,
+    "preview_sha256": "46033431385168ec683fbd5c15c21ea5f9c70673fafee3461a828373417eb865",
+    "preview_size": 29964
+  },
+  "images/tokyo-night/countries/omarchy-country-JO-Jordan-2K.webp": {
+    "sha256": "574ee0b31b0c86f56e429570956d8a87e86ab8b0bb9b5726dc40f318c6015100",
+    "size": 376158,
+    "preview_sha256": "57325cf459930af62f6b9572bcde39ed1095f308d8b27bf4f7f44562747cbe6a",
+    "preview_size": 26560
+  },
+  "images/tokyo-night/countries/omarchy-country-JM-Jamaica-2K.webp": {
+    "sha256": "56d764b9c88314a29ed66283a579670b9a67cd608fc306ebec148c4a68329d29",
+    "size": 569836,
+    "preview_sha256": "8997aaf7a5b58e057bf5f688063bd2ffbdc6046c46a67b383014553268bd8b0b",
+    "preview_size": 33872
+  },
+  "images/tokyo-night/countries/omarchy-country-JE-Jersey-2K.webp": {
+    "sha256": "37432bc74df00d6fa8b708000c59b209af88b369189e81e1b2e6675409174394",
+    "size": 396962,
+    "preview_sha256": "90be5907e3ec5066e8a8f492a8e4664d802e4f9481b3a4ec0931bfc1e82c36d8",
+    "preview_size": 23538
+  },
+  "images/tokyo-night/countries/omarchy-country-KE-Kenya-2K.webp": {
+    "sha256": "442ef902d222d9d2614ea7b1ef5f9a83f2643002567783947d355dfee7e86259",
+    "size": 289242,
+    "preview_sha256": "fad5e9e2be21d85f64d3247ab311130d511a2ebc580aa3f8de7f89054dfb80ce",
+    "preview_size": 23354
+  },
+  "images/tokyo-night/countries/omarchy-country-JP-Japan-2K.webp": {
+    "sha256": "cdaf3e8441c67658603e5301811854de3106c4a9000a5efe7d6864b35c73006d",
+    "size": 340710,
+    "preview_sha256": "944821ff06d7f0bae5d22fe04ab8589967df3126ed98788be1ebbe83cc52187d",
+    "preview_size": 24042
+  },
+  "images/tokyo-night/countries/omarchy-country-KI-Kiribati-2K.webp": {
+    "sha256": "c6ebde75a735b76b131d487c121d9da8fa4c82bd6aa20cc90793e07047174490",
+    "size": 417072,
+    "preview_sha256": "93cc9457e200886d2cf691bed5552d88b60d5dde16562b9248b9652c2aeb97ac",
+    "preview_size": 29560
+  },
+  "images/tokyo-night/countries/omarchy-country-KG-Kyrgyzstan-2K.webp": {
+    "sha256": "c777a1cdf511a4e33ed2249ba6e7f08c10d9ecbfe332102beb4cb2355aab4f2b",
+    "size": 466986,
+    "preview_sha256": "08bdedcc84e3521f95f2e34152c3fa128d0341714b37ac473e9a02094e8c90ba",
+    "preview_size": 27956
+  },
+  "images/tokyo-night/countries/omarchy-country-KH-Cambodia-2K.webp": {
+    "sha256": "8273d73ca3d1904fe6b98e10521a867f9dd4e52ce53bd48c69d5c0ca26e60832",
+    "size": 459260,
+    "preview_sha256": "4213435924bf2a783e09fdda5166de76c6a14f408f6f2e3e74408cb77635a813",
+    "preview_size": 29122
+  },
+  "images/tokyo-night/countries/omarchy-country-KM-Comoros-2K.webp": {
+    "sha256": "126554ed4256d57a0d484630f780458a8b11a7b115c35de60ac5d3cc8d358818",
+    "size": 603478,
+    "preview_sha256": "c08297c69ca47b3d260a297e633011c9d8a146a317bbd765549e395217a60962",
+    "preview_size": 33312
+  },
+  "images/tokyo-night/countries/omarchy-country-KP-North-Korea-2K.webp": {
+    "sha256": "e178b4aac4a80ee1395df2378aea12ef932e7bf184cf80cfb79940f14cdcd04b",
+    "size": 361194,
+    "preview_sha256": "a91d7adef87b89a1b74324723be6c0e89d2961f112e97d5ae082b2321b14c8a4",
+    "preview_size": 25650
+  },
+  "images/tokyo-night/countries/omarchy-country-KN-Saint-Kitts-and-Nevis-2K.webp": {
+    "sha256": "038e5aba4e83e8560a4eb4c40883f08d0a8a2fb8b5872b0c49d3096b90a1ce07",
+    "size": 481434,
+    "preview_sha256": "39703c3fc0698d083bc730fd8dc0e87cd9c0415b85fa5b78d4e51c8a4bc99de0",
+    "preview_size": 27274
+  },
+  "images/tokyo-night/countries/omarchy-country-KW-Kuwait-2K.webp": {
+    "sha256": "7672148a2279ad5cde43e2d088e55f64cfc92c228aa491172afb52d1992c4470",
+    "size": 252490,
+    "preview_sha256": "40f9ead14b52abb31b0756a824fcac80e5acd9b8d1c73875f7e388e555dc534e",
+    "preview_size": 23120
+  },
+  "images/tokyo-night/countries/omarchy-country-KR-South-Korea-2K.webp": {
+    "sha256": "35ca021f37d2ffda53329fe7707140175d846255277194d5f84a98a97c49d62b",
+    "size": 407300,
+    "preview_sha256": "a14c95560779b4e5c46389a2f78662f1f68d0d7828dbc2a09d6563ff165af633",
+    "preview_size": 25518
+  },
+  "images/tokyo-night/countries/omarchy-country-KY-Cayman-Islands-2K.webp": {
+    "sha256": "fcb372964e6c6b99deddfb99a056ffdbbe6f937b1f0ee76aca1b34225774e499",
+    "size": 596102,
+    "preview_sha256": "b2c89895342c5a1b1faeb63110abc61bd398d1cf2f06fd4e3e98591948e768f7",
+    "preview_size": 28216
+  },
+  "images/tokyo-night/countries/omarchy-country-LC-Saint-Lucia-2K.webp": {
+    "sha256": "8389f671a4cec0edace4d4025ee6254ac75ffca3ed767180b4a313adca7d32f7",
+    "size": 574326,
+    "preview_sha256": "50057d8631848765c94be4d00c9835ab64427fbb21ac918a3923df48ef77dde8",
+    "preview_size": 31166
+  },
+  "images/tokyo-night/countries/omarchy-country-KZ-Kazakhstan-2K.webp": {
+    "sha256": "42603e3cb288e038499f9b9eb737da3c186bf4a0158bf3ec56e8782e4013608f",
+    "size": 419312,
+    "preview_sha256": "ac1479c55e8f8d86c0dce9037c7766fa5d1f1bdf76076dda8d13bdf8e830aa4f",
+    "preview_size": 26844
+  },
+  "images/tokyo-night/countries/omarchy-country-LB-Lebanon-2K.webp": {
+    "sha256": "79a1f37e64cafe8cc8ccafe85f508697627fba7f7f3a18a103511190c3934105",
+    "size": 569192,
+    "preview_sha256": "bf6005f9f46de6b16dc602b71a6c171bb2d768f83ad30029224b65d81a36cd81",
+    "preview_size": 32828
+  },
+  "images/tokyo-night/countries/omarchy-country-LA-Laos-2K.webp": {
+    "sha256": "4e6ef2f05ab16fd21143918c432a8b61171af2b00521c6c8b82a170cc18c5b0d",
+    "size": 545230,
+    "preview_sha256": "baaac1f53d74358fe4b59aeb89d8b2b92eaa81aabe0d68de256bc8e9a2d4e668",
+    "preview_size": 30834
+  },
+  "images/tokyo-night/countries/omarchy-country-LI-Liechtenstein-2K.webp": {
+    "sha256": "9ce6d1e30c7f79b25a6aa9e4399af23a9fa750ffad6b1cd7fe8a6ce71f262485",
+    "size": 527394,
+    "preview_sha256": "fd9b17423c1d82877a87b2e57701fa925310d489da3edf9228007ac179156e87",
+    "preview_size": 24380
+  },
+  "images/tokyo-night/countries/omarchy-country-LR-Liberia-2K.webp": {
+    "sha256": "a4ce6fbf3129a96b9b4e26f4e46dc2a2e5ca0ffb57a2dc704a7c3324268f4dcd",
+    "size": 481096,
+    "preview_sha256": "4f828b150427e5db68d7a2507f5776eb557c5bae4b27fd334ca29c78df8322fc",
+    "preview_size": 28898
+  },
+  "images/tokyo-night/countries/omarchy-country-LT-Lithuania-2K.webp": {
+    "sha256": "ebf401bb6586a568aa9dec12e93173d93ad23519c93ae7b16988924cd3cb7ae1",
+    "size": 378298,
+    "preview_sha256": "6c8d96a78d1c10aeed0a7bc83a88d24848333498a8400b1d9c9923e2b359ea74",
+    "preview_size": 23580
+  },
+  "images/tokyo-night/countries/omarchy-country-LS-Lesotho-2K.webp": {
+    "sha256": "55b9af487ec98109bf5cdf2fe69df7b94e2f87133e0ecb5ae71abcc38c1b2995",
+    "size": 486790,
+    "preview_sha256": "d4b725f1d65c14c4c7c275412cc3292cffef65b1d6a926a13d2161b955f595ab",
+    "preview_size": 27140
+  },
+  "images/tokyo-night/countries/omarchy-country-LK-Sri-Lanka-2K.webp": {
+    "sha256": "c0542a2df2e2dd9c2e34d35624accaae4ed15a55d67dee48e44d57b197f3c635",
+    "size": 624082,
+    "preview_sha256": "2680bdcca03f4855973b769aef6f521f7f7bdce83564b3fe371be25af5ce946f",
+    "preview_size": 32642
+  },
+  "images/tokyo-night/countries/omarchy-country-LU-Luxembourg-2K.webp": {
+    "sha256": "857b318efe3bae97a66211c8471f3b322e6c36e2cdd51ef9fe26a307bec1513a",
+    "size": 411832,
+    "preview_sha256": "e6a77b587773583cdf86ba9353bfee70bee17fd80f15ad186b62b900273e5c0c",
+    "preview_size": 25568
+  },
+  "images/tokyo-night/countries/omarchy-country-MD-Moldova-2K.webp": {
+    "sha256": "3c4e311d5a1c2061c64f36a12df94110d84a0716c8e0e2cd7e9c03bc6a18ec1d",
+    "size": 642188,
+    "preview_sha256": "f68b6b7602e120b1a900739ab76f267a3d2e27882bdaf8c7c3001dc0f6c9dbce",
+    "preview_size": 28710
+  },
+  "images/tokyo-night/countries/omarchy-country-MA-Morocco-2K.webp": {
+    "sha256": "7d0b0420f46be4dff59bdb903c4b4be0db906aca736746634326e576dbb34e4a",
+    "size": 481638,
+    "preview_sha256": "c259b636a65664d4cdd55c778d984d4a1351740cf68cf97fce6d6eb86b9754e1",
+    "preview_size": 25524
+  },
+  "images/tokyo-night/countries/omarchy-country-MC-Monaco-2K.webp": {
+    "sha256": "549912f871fc6d5e87e323b18f2a650f19dae8b6d4ae270bc931ad7b4516d3a5",
+    "size": 585226,
+    "preview_sha256": "f525f0877eb68a67e6c646579c4ebce69b5638b3b8a7e6ae6a8f76f986e32c7a",
+    "preview_size": 29042
+  },
+  "images/tokyo-night/countries/omarchy-country-MF-Saint-Martin-2K.webp": {
+    "sha256": "7f1fae3f4f61f3f7bb8d2bbf8415bbaf78519f2e605b0853603d732125dba691",
+    "size": 431922,
+    "preview_sha256": "e80987b18af3e0fd11687cb898dc3099819b1bca89e0b23923d79bf451a0db56",
+    "preview_size": 25156
+  },
+  "images/tokyo-night/countries/omarchy-country-LY-Libya-2K.webp": {
+    "sha256": "b10d1b20422aadbc7a431d2fd155e1e214321c15e5afd8bb7fddeff78a037693",
+    "size": 324346,
+    "preview_sha256": "c34aac39140cdaf6d4e859c4162e2493d16aa8f3be802dc3083c6563dba95222",
+    "preview_size": 21586
+  },
+  "images/tokyo-night/countries/omarchy-country-ME-Montenegro-2K.webp": {
+    "sha256": "a4e704edbaa9521c6dfa049848a621e57580861b0cf50e5afbe263bc4cc7c164",
+    "size": 528862,
+    "preview_sha256": "59d203c90a776a9bec6e4119df3c1b4bf7b9b3c4c3f0c7237995b230833745b3",
+    "preview_size": 32284
+  },
+  "images/tokyo-night/countries/omarchy-country-MH-Marshall-Islands-2K.webp": {
+    "sha256": "a5436fecaa3ef50c53c87a20a16712832583492f8ea9b418a99ccb33edf20a36",
+    "size": 471716,
+    "preview_sha256": "5e864e3be49216b5f04a50543cf4e918b04d625c7ae15f3b0c5404b15ab66396",
+    "preview_size": 34706
+  },
+  "images/tokyo-night/countries/omarchy-country-LV-Latvia-2K.webp": {
+    "sha256": "c24a3107293fea7e9bfab56df64a1e1550218cfc8c97aabb6d082a1b6ab8a10a",
+    "size": 598124,
+    "preview_sha256": "dcec9c8560dc31f776d6f99223ce71b671b7e13feedf4dff8254a1a3903ecc74",
+    "preview_size": 26562
+  },
+  "images/tokyo-night/countries/omarchy-country-MN-Mongolia-2K.webp": {
+    "sha256": "d34318485de61b2fb53ad419ddb732267c7ed6547743828492970d0041122186",
+    "size": 446716,
+    "preview_sha256": "ca579dc598af42ed6cc2b61f79cd9de3f293672bca9f26e0511fe0cc1b2f552f",
+    "preview_size": 27512
+  },
+  "images/tokyo-night/countries/omarchy-country-MO-Macau-2K.webp": {
+    "sha256": "49e97ead22a6d6ecbfa7a7d7a6300bc260a91d1ce533610c96d5354c52b86d3e",
+    "size": 424230,
+    "preview_sha256": "3803f30b0623849b344c6c33dd008bd0f9244e332e3ac47a76dd54903674e67f",
+    "preview_size": 27702
+  },
+  "images/tokyo-night/countries/omarchy-country-MK-North-Macedonia-2K.webp": {
+    "sha256": "1dd424af44cb13e19e9f9d92d7967f3fcdcc8b2ea5aa4bbdf53cf871b9e2c195",
+    "size": 519338,
+    "preview_sha256": "7386dac8a12f6d4f75de19b6628f42c71bbd3c6895b4cbf3aaeb0aacdefd3ada",
+    "preview_size": 26684
+  },
+  "images/tokyo-night/countries/omarchy-country-MM-Myanmar-2K.webp": {
+    "sha256": "4f93a642b6a25e5ef5501d7bc2586eeb4a00af1ca54ce7a71c4aa0c0464ebfe1",
+    "size": 462444,
+    "preview_sha256": "096db677201ebef549d5f691db89650f97b609d7afcb182e7b70c9864de7a2f2",
+    "preview_size": 29828
+  },
+  "images/tokyo-night/countries/omarchy-country-ML-Mali-2K.webp": {
+    "sha256": "80c92c5a7dc02dc077dfa595862aad9c1cb88994389ef421a98036e46d2bfe1d",
+    "size": 352510,
+    "preview_sha256": "e0e9cb0696a789e156f5da67221627d2ccf088ebb5b55b23e6dc1aa8d23aa18c",
+    "preview_size": 25478
+  },
+  "images/tokyo-night/countries/omarchy-country-MG-Madagascar-2K.webp": {
+    "sha256": "37b80067a69b81fffabbfe92ff840d2b74827b5df5e8b541b6fc3cbdb2e2b59d",
+    "size": 390630,
+    "preview_sha256": "83d632ce87d904b8bd0eeba84544f2825a6ecbbc03544ca5c522ae9922766d84",
+    "preview_size": 24122
+  },
+  "images/tokyo-night/countries/omarchy-country-MS-Montserrat-2K.webp": {
+    "sha256": "3812cdc692a053fccf8177deb651ccd9598d2a643193d78fa28e0eab3374c53e",
+    "size": 424260,
+    "preview_sha256": "feaf722d4f69455ec5b6a161a31034b71e4ba3a8a3f68ef52636f46c1ee5f935",
+    "preview_size": 23936
+  },
+  "images/tokyo-night/countries/omarchy-country-MT-Malta-2K.webp": {
+    "sha256": "a0f836c1a40fc5f963ba5f68e3d7d816d28fb00ca0d80104e054124ad982b004",
+    "size": 403386,
+    "preview_sha256": "37f09bc239d39c44e9a34bdf76d10c9d26684290ff0db85f36e698bc43929866",
+    "preview_size": 27598
+  },
+  "images/tokyo-night/countries/omarchy-country-MQ-Martinique-2K.webp": {
+    "sha256": "91d29146832c880c91c7c5cfefb531a4e7e1b2078b11a9395ed7af3db5a09c40",
+    "size": 737302,
+    "preview_sha256": "0b0c4f988fd9fec6b1cfc5dfb315a427ac076e5f16b77a5aaa947663dfdc1a99",
+    "preview_size": 36250
+  },
+  "images/tokyo-night/countries/omarchy-country-MR-Mauritania-2K.webp": {
+    "sha256": "194ed68300dc9eb83c6781ddab009dc0373e853a1641f986518221cbc97dc49e",
+    "size": 238970,
+    "preview_sha256": "7d956e694f118ba3a2a4acc8aaff4cee2badf53bc377c87253777d69998c762f",
+    "preview_size": 18394
+  },
+  "images/tokyo-night/countries/omarchy-country-MU-Mauritius-2K.webp": {
+    "sha256": "4ab6d7267d6a624a5d9d5cfc03a581449da767c8537c6477e0c833f0bb901014",
+    "size": 583856,
+    "preview_sha256": "14696c58b8aaf2710e6fe3e508554eb5f4014308d15bccd371c47e0559adfb3b",
+    "preview_size": 29562
+  },
+  "images/tokyo-night/countries/omarchy-country-MY-Malaysia-2K.webp": {
+    "sha256": "579132069cb52ebba92f6e38b461befc6f6e4d3f00d53ba47647e140ab615777",
+    "size": 459174,
+    "preview_sha256": "4d5f75a19bda8a99a7eede3fe88381669f989f8a4286d28fa208567fd2f0f931",
+    "preview_size": 30402
+  },
+  "images/tokyo-night/countries/omarchy-country-MX-Mexico-2K.webp": {
+    "sha256": "c3d72b9dab4eb52c9e9c68ca002a354813ace19a60c8f8771b21fa3b71568a05",
+    "size": 455294,
+    "preview_sha256": "bb408d1c350d0fcabddadf4db7f9ea190d069517500fd2baf7f3cf033f8116c7",
+    "preview_size": 26096
+  },
+  "images/tokyo-night/countries/omarchy-country-MZ-Mozambique-2K.webp": {
+    "sha256": "c94b859a01e552808021a3bb0da447b40463f55993776a142b2f6c4e3470b30e",
+    "size": 460178,
+    "preview_sha256": "a35b016d634e2dff7c59b23010f30e3e0742bf4d8f4e0a05f513ee2590862dbd",
+    "preview_size": 24078
+  },
+  "images/tokyo-night/countries/omarchy-country-MV-Maldives-2K.webp": {
+    "sha256": "5f18ab02fab6e75ce9bf658a16a0584dceca09d78564550aaa07af211939e80b",
+    "size": 333118,
+    "preview_sha256": "1494ae42d1ad10b37c189e521283869c49d04c1fa4d86a0dd0d2259170cb6c39",
+    "preview_size": 23068
+  },
+  "images/tokyo-night/countries/omarchy-country-MW-Malawi-2K.webp": {
+    "sha256": "7b20f7f463e8f245cbb0ebf51d04f9774a63d06095779bae8262e4bfae3368c1",
+    "size": 370396,
+    "preview_sha256": "883d97b821bf5990a85c8fd61d61bbdcf8f7ddab78c22c27f0873ced08249e50",
+    "preview_size": 23942
+  },
+  "images/tokyo-night/countries/omarchy-country-NF-Norfolk-Island-2K.webp": {
+    "sha256": "06539b42fffaf520d3ee78f788e76d17bc242a4d2612af5c62409db311f5a490",
+    "size": 601300,
+    "preview_sha256": "57d92237c68fb08ebd68501be9b40e23d92244f1f59e3cf42f608c82eb77b915",
+    "preview_size": 33072
+  },
+  "images/tokyo-night/countries/omarchy-country-NA-Namibia-2K.webp": {
+    "sha256": "aa5584c4f40c062ca3a620064a28da63ae4f45644ae363a6ce795cb154e63fbd",
+    "size": 429802,
+    "preview_sha256": "25042b460327b5e7928a2744850363a61b22d69c1300b3129b8ad579c7982e7d",
+    "preview_size": 25878
+  },
+  "images/tokyo-night/countries/omarchy-country-NE-Niger-2K.webp": {
+    "sha256": "105d282312d32fb20d22d3da8d41c0bbcaa2700380faa0873c60ea4961468eb5",
+    "size": 291586,
+    "preview_sha256": "8ee0fda741a0fcb38ba83cd52e38df8fc092d6afd0502aa2135bf273829e16e7",
+    "preview_size": 24028
+  },
+  "images/tokyo-night/countries/omarchy-country-NI-Nicaragua-2K.webp": {
+    "sha256": "ce9cb26e7b4069eb0c613391c4242b2fb65825fa50e7497d732872d843173352",
+    "size": 478778,
+    "preview_sha256": "81d80907ba401a9c6f3c17fb77456c98cf4a73af45cfc6900d24bf764012bb4e",
+    "preview_size": 28190
+  },
+  "images/tokyo-night/countries/omarchy-country-NO-Norway-2K.webp": {
+    "sha256": "d0049a7ef4d766a060936a10c64da7d58d9b4a5eae2cf2951dcd83bb6ff5812f",
+    "size": 487880,
+    "preview_sha256": "9b4d6b245149036d4bd162139457f80cccdab42c069204ff9741926c55acf2c0",
+    "preview_size": 25326
+  },
+  "images/tokyo-night/countries/omarchy-country-NC-New-Caledonia-2K.webp": {
+    "sha256": "98da6bc17b852788e1f92ef8a9e4e21ecec929c5e2aac6edc32e9a70885fd384",
+    "size": 390414,
+    "preview_sha256": "3ad8e94d7bc8cd91bf822a1667cd296988ee2e4e081a75ef7449c32cb60fb918",
+    "preview_size": 25324
+  },
+  "images/tokyo-night/countries/omarchy-country-NG-Nigeria-2K.webp": {
+    "sha256": "4a792a8acfb8cf68bee0f31694205283c1f9faed95f3ccf1c39c736b33e0661a",
+    "size": 554346,
+    "preview_sha256": "1322d42f266e246e9b95e6669965ac47f351c65f77fa37e40164eb4a6f8d45c3",
+    "preview_size": 35236
+  },
+  "images/tokyo-night/countries/omarchy-country-NL-Netherlands-2K.webp": {
+    "sha256": "2478adfc211dab63f9d9752f9b821b7c822f912a17a24c203842aaa5af2687e2",
+    "size": 415504,
+    "preview_sha256": "569067841cf5b6d5cdddaf4b399cef8b157c61f8ba6bb65436098da4f9386ef7",
+    "preview_size": 25816
+  },
+  "images/tokyo-night/countries/omarchy-country-NP-Nepal-2K.webp": {
+    "sha256": "1f03f2af9b57bcdd99fc3a2331eb12d74d3ce029ec0ec22e9c03120bc314d19b",
+    "size": 526370,
+    "preview_sha256": "a2722d77f507a411df33c0854cbea1369af2b63948ff70c209b13d475840600c",
+    "preview_size": 26762
+  },
+  "images/tokyo-night/countries/omarchy-country-NR-Nauru-2K.webp": {
+    "sha256": "f9c791ac6a35a6e20e0c0e644a20c3809dc693b9dcf9b205ccdbb26bc0f19895",
+    "size": 682018,
+    "preview_sha256": "bbb876964a90bef33628f40a8fca61108b65dba33099e8108a1e0d94fd48813a",
+    "preview_size": 32026
+  },
+  "images/tokyo-night/countries/omarchy-country-NZ-New-Zealand-2K.webp": {
+    "sha256": "74741f5e6dad548eb83b7d55a10371032064192dfc312866e73ef524e402679b",
+    "size": 527270,
+    "preview_sha256": "575145632032c6f86887d50d12d9cb5f7a72a0d73edd50e4f9b918fdaba5367c",
+    "preview_size": 30874
+  },
+  "images/tokyo-night/countries/omarchy-country-OM-Oman-2K.webp": {
+    "sha256": "712af08df6974a16e8447b401063916e080f72cc2b4bce951213fc6116ec4973",
+    "size": 282766,
+    "preview_sha256": "cbfde38a6de98b32d16a8196b134782a7b968ea3549c8a80e8c9bae2cab69d6a",
+    "preview_size": 18426
+  },
+  "images/tokyo-night/countries/omarchy-country-PE-Peru-2K.webp": {
+    "sha256": "fd2f6a471da394c773c7d3821e99d198abc506b9b5639434288f9348cf4ea57d",
+    "size": 618280,
+    "preview_sha256": "24ca6f3f3dbbe8ae3c4705551e338dc2382c91f347aa158e497e116dbc127d6c",
+    "preview_size": 32842
+  },
+  "images/tokyo-night/countries/omarchy-country-PF-French-Polynesia-2K.webp": {
+    "sha256": "ca2a042a85a575ee13da7fa127ab1e163e10b6a425387334a86edfd7bb44f402",
+    "size": 536338,
+    "preview_sha256": "ada90b098036ac29a5ea48973c603512cfcd2f1608b5317ebe2c2ff26fc82b75",
+    "preview_size": 30452
+  },
+  "images/tokyo-night/countries/omarchy-country-NU-Niue-2K.webp": {
+    "sha256": "e411b2ad79d512a4b7aa28a14e147652b0f0e891723c2a402b6c462f7122b8d5",
+    "size": 497326,
+    "preview_sha256": "0c96080be67af67e0f78d19cd71e7eb621b47ca7d868dac0deac54a4a142bec4",
+    "preview_size": 26890
+  },
+  "images/tokyo-night/countries/omarchy-country-PA-Panama-2K.webp": {
+    "sha256": "ec51b1d604ec21063409f56ac1e8a6ad599ce4a4998593e6b0197f1bf1fae6da",
+    "size": 554004,
+    "preview_sha256": "01fc6988d6822593ea5b4f70b36a50cb3ff468cf3cfb8aeb928773d9181ac19c",
+    "preview_size": 33422
+  },
+  "images/tokyo-night/countries/omarchy-country-PG-Papua-New-Guinea-2K.webp": {
+    "sha256": "a6f982de86f90bac2f26f2fedb2fd46750993305dbea71b851125375c7fcd34f",
+    "size": 616390,
+    "preview_sha256": "4c2fcb7d582c6d3817618af3308a5c1950fd386a58541158a98061d9cee099a8",
+    "preview_size": 34588
+  },
+  "images/tokyo-night/countries/omarchy-country-PH-Philippines-2K.webp": {
+    "sha256": "e1683ab3c1de03463277d17692a89481cc7521cf2467b06f3c82ff2a2002de6c",
+    "size": 436176,
+    "preview_sha256": "0b49806e6be64e479b778646b730494920aca6f544332b624b823e91ccec6c87",
+    "preview_size": 26210
+  },
+  "images/tokyo-night/countries/omarchy-country-PK-Pakistan-2K.webp": {
+    "sha256": "5d1b02a99637b65015fbdcf54da43943cde1a34eceedb86d38ef01321efbfe70",
+    "size": 499388,
+    "preview_sha256": "8541b737984f6b0f0753397aa1e13be1327d9f7eac54e9cac47753ca0672aa6f",
+    "preview_size": 32978
+  },
+  "images/tokyo-night/countries/omarchy-country-PM-Saint-Pierre-and-Miquelon-2K.webp": {
+    "sha256": "0cf08a2a7d04a192cbc82a6ca76d039d3c6c449b587d6d120d7481449d891c25",
+    "size": 533932,
+    "preview_sha256": "4637a3fdad3b371b562322913cdc410a4299d6dc0314af624737ff7104b24d90",
+    "preview_size": 23248
+  },
+  "images/tokyo-night/countries/omarchy-country-PN-Pitcairn-2K.webp": {
+    "sha256": "d060d842b6b6057f0b6661a80a8e8c16c9185091e23a94e0ac2febfb325edfee",
+    "size": 678356,
+    "preview_sha256": "983fc371c2776283009d9ea991297cf178c17e12889c38621fdde8e19913cd05",
+    "preview_size": 34856
+  },
+  "images/tokyo-night/countries/omarchy-country-PS-Palestine-2K.webp": {
+    "sha256": "dea3c58776895e0c3cce6460426e682f08c1385fc7bcd5f2bb4ed0ef6431c50a",
+    "size": 394272,
+    "preview_sha256": "90a40d4bb3b53952a15bcf7425304023c4c8f3ff172e0a2dbc087a07178e1cfe",
+    "preview_size": 24038
+  },
+  "images/tokyo-night/countries/omarchy-country-PL-Poland-2K.webp": {
+    "sha256": "32c6081463a701b0dbea56dcfb9df1000ba493d49816218c8b7afd4180213f10",
+    "size": 502792,
+    "preview_sha256": "3b5c311306b3dcca70a115f93083b940100c78e20daa805fe103dce3c88403e8",
+    "preview_size": 23268
+  },
+  "images/tokyo-night/countries/omarchy-country-PT-Portugal-2K.webp": {
+    "sha256": "4ccb092b1b56396de07e8a5ffaf109d957f5f14ec3f044f6ac6a6e4f8185aeec",
+    "size": 459424,
+    "preview_sha256": "71a890624e37367b3b5559fd2c7107d83fe1776726fccbb13027e82404d0dfb3",
+    "preview_size": 26918
+  },
+  "images/tokyo-night/countries/omarchy-country-PR-Puerto-Rico-2K.webp": {
+    "sha256": "6ab564826acfe92aad0d9b412928d6b73b68d370e5b7c4fa0d45905ae59a835c",
+    "size": 383214,
+    "preview_sha256": "e34e0fe319afab28a65691f67b1b5c4096f2c23ad16105258bd4a3bb063fc649",
+    "preview_size": 26726
+  },
+  "images/tokyo-night/countries/omarchy-country-PY-Paraguay-2K.webp": {
+    "sha256": "e2764a80b7f87bff83caf6127b30c71cc13ee388cc231a7063510acc65bdb8b2",
+    "size": 522570,
+    "preview_sha256": "cc1df1cbcfb03703c2350f4bee29afd3763e2900fe7d4b14957611f9cec22e58",
+    "preview_size": 29744
+  },
+  "images/tokyo-night/countries/omarchy-country-QA-Qatar-2K.webp": {
+    "sha256": "3be6567ea804638e157581428f07464e9af0670c834ae3d04cc34886bf21e598",
+    "size": 307716,
+    "preview_sha256": "e025fd17695c6526f737d8f2fe04b9f21bc73b477a61e2887a76d2b2463497fa",
+    "preview_size": 23254
+  },
+  "images/tokyo-night/countries/omarchy-country-PW-Palau-2K.webp": {
+    "sha256": "f27a6fa6c2fc4da03ea7665b924820fe8f60b73a2bfb16080a83f938bbf80e1c",
+    "size": 589212,
+    "preview_sha256": "408e96157634c453717b35835e2f93697e040bb2b09463a128eba6b4e12afa30",
+    "preview_size": 29784
+  },
+  "images/tokyo-night/countries/omarchy-country-RO-Romania-2K.webp": {
+    "sha256": "b43bf2c199be77845bc4a61750442b47ed39d1ee12124cf15a73c10656fae5c7",
+    "size": 469656,
+    "preview_sha256": "dc5218a44d1aad1004216bbf1bf1aacaef69fe9ff25d6e20915ae45f408f0fb0",
+    "preview_size": 25902
+  },
+  "images/tokyo-night/countries/omarchy-country-RE-Reunion-2K.webp": {
+    "sha256": "2e531543334eaefdd919e8f18cea0ead488562173228c8a46f8215d1f521b576",
+    "size": 566418,
+    "preview_sha256": "89ea69dc67fe0b6122f86f2ba4ea900ea8e55e0ef1596143870a3b390c693fe4",
+    "preview_size": 28966
+  },
+  "images/tokyo-night/countries/omarchy-country-RS-Serbia-2K.webp": {
+    "sha256": "763774fef283a9a5935d7e34eaaeee62a484fa2d89485063eb927c74906fd80b",
+    "size": 419912,
+    "preview_sha256": "6b7e732a6faf9c90fb834fe50920c0ada7ee22be18ae5a7becc14a37bcaa8381",
+    "preview_size": 23888
+  },
+  "images/tokyo-night/countries/omarchy-country-RU-Russia-2K.webp": {
+    "sha256": "f2c0b475a459e3fedf0944295ef694ff0ea1984931766749f314c0c49ad08602",
+    "size": 364014,
+    "preview_sha256": "80d4829c8d1fb1aedb0bf70230c16cc438e6a4a3c720b2994360da0e9027a881",
+    "preview_size": 22416
+  },
+  "images/tokyo-night/countries/omarchy-country-RW-Rwanda-2K.webp": {
+    "sha256": "1d410026f2de1214186d1fc20b30727bedee6c5e75acf0da13e480fc4fe7b2fb",
+    "size": 380532,
+    "preview_sha256": "2a7f17c0025944939babc76cfcdf415ab54db9b265ea05069ef57188d665eb05",
+    "preview_size": 24748
+  },
+  "images/tokyo-night/countries/omarchy-country-SA-Saudi-Arabia-2K.webp": {
+    "sha256": "450517f3274d75bb4b2c05df1991e963c4a7944f2a4d3054f677f22d5bcabf05",
+    "size": 414156,
+    "preview_sha256": "354d9744c335b2fcddef20ef86f6ede096cd8fd3dede872cb369912721ce0be0",
+    "preview_size": 26282
+  },
+  "images/tokyo-night/countries/omarchy-country-SB-Solomon-Islands-2K.webp": {
+    "sha256": "f82d9cf42a557809ebf3d02ecfc56276848baf2dd4dc35303c0140458aced31b",
+    "size": 526438,
+    "preview_sha256": "ebcfe69f8418bf7c6427fd509b6f62fc6dc512b699d155405634d807ac4f250a",
+    "preview_size": 22010
+  },
+  "images/tokyo-night/countries/omarchy-country-SC-Seychelles-2K.webp": {
+    "sha256": "e397f56cce71153c06684fa840b5f4a7d7e9c4fe11ca3c6ede202cdd5d4146e9",
+    "size": 449454,
+    "preview_sha256": "3df0d8ed7bc074240a39fd3578c90036e1314c9a83fc9a7c7dc38c77b39949f9",
+    "preview_size": 27898
+  },
+  "images/tokyo-night/countries/omarchy-country-SG-Singapore-2K.webp": {
+    "sha256": "0da0faacd8ff9e9c1d68a896af1c24d86b0611820880d21f61a29ecf97803db5",
+    "size": 364216,
+    "preview_sha256": "13b757ebe3fffc912cb616d551f16736c4021d6b3052d8e21fd7c2f29824b53f",
+    "preview_size": 22574
+  },
+  "images/tokyo-night/countries/omarchy-country-SD-Sudan-2K.webp": {
+    "sha256": "a78afda8bdcb13a6a589661d0f31ecc2f1966d49dec630f7c2939f82cd4453f3",
+    "size": 363444,
+    "preview_sha256": "857acad9fa60d58cfd531c1d98788b109f74e1303c06dc0983a33ac4926a0cf7",
+    "preview_size": 24816
+  },
+  "images/tokyo-night/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K.webp": {
+    "sha256": "aa7209ca49f223e4a0492b8d83d682343de88d3f05c5d9e5f3d87c827f645be6",
+    "size": 413302,
+    "preview_sha256": "345d04ac8c2ecb1f31f82bea31ff1687e8d0e178e792873ad6755d945a550b1e",
+    "preview_size": 26332
+  },
+  "images/tokyo-night/countries/omarchy-country-SI-Slovenia-2K.webp": {
+    "sha256": "8d113e4cb8410d026f2af4276857167afbb7ca2981e4f8875c7bca268ec0c96a",
+    "size": 525390,
+    "preview_sha256": "2680e5b090a6746e604a27400d44a62801b1f13b152182f528bd461b533ea875",
+    "preview_size": 25538
+  },
+  "images/tokyo-night/countries/omarchy-country-SL-Sierra-Leone-2K.webp": {
+    "sha256": "4f84a0cd8ca135a174d2a30610852b5f6b013ecccc82d57d7c1427c4c4223861",
+    "size": 592546,
+    "preview_sha256": "e9ffe28da5f472cbbf44b4c6e35b794ee992d56ce6a44f5201bed74c7e0fae61",
+    "preview_size": 31032
+  },
+  "images/tokyo-night/countries/omarchy-country-SE-Sweden-2K.webp": {
+    "sha256": "0961402f1d6b6d53399196f3baaa29fe31f698e71e8d70692594b9a085695609",
+    "size": 383138,
+    "preview_sha256": "3f7ac32a04072b6593cb8311244f4de9ab94391ffe62ba0bca37133bfcfb2479",
+    "preview_size": 24342
+  },
+  "images/tokyo-night/countries/omarchy-country-SN-Senegal-2K.webp": {
+    "sha256": "d7f7313901a8e518e9dbadcf3a7a17f33f13ad82b50cec4c14fa138be121fc16",
+    "size": 467432,
+    "preview_sha256": "07c4d7bf5bc38ee2b20220e47802dea2a811c8b5a7f4c896bfd1cb4653f6a21e",
+    "preview_size": 26560
+  },
+  "images/tokyo-night/countries/omarchy-country-SM-San-Marino-2K.webp": {
+    "sha256": "efa100de1af57e7e387bb5b0e750f67a25fed5708b6b0495ec79f1e58f2d2cce",
+    "size": 408914,
+    "preview_sha256": "5357c9ef0444686cb3da76b7f5e8066e5528a644cdbb39e38224a95c8b93b139",
+    "preview_size": 21454
+  },
+  "images/tokyo-night/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp": {
+    "sha256": "2ade9af2ab9776ac791499772fecf757f135aa72ec69ad8bfb6aeb1b66d85665",
+    "size": 555284,
+    "preview_sha256": "eab9bc0404a6cd9feaa7633cdeaa93c967713172becf2c31980cf3f0b29283be",
+    "preview_size": 29162
+  },
+  "images/tokyo-night/countries/omarchy-country-SR-Suriname-2K.webp": {
+    "sha256": "a4422a093315b1b8e17b18d4d62f31c27ebb41a4c35591b830fa76c57db4cdd8",
+    "size": 460730,
+    "preview_sha256": "162aff7b0815e58bd51e6bcd6884d13a3f15b34324453d1e0cee1c9c72e0390d",
+    "preview_size": 26476
+  },
+  "images/tokyo-night/countries/omarchy-country-SO-Somalia-2K.webp": {
+    "sha256": "15769eead20c06e64ab2ac3e1bc922ef3ec4bc9c7ad69484e9635818f834ffa7",
+    "size": 378134,
+    "preview_sha256": "52cd8cfbbbb9874414066c3f110b5570e4c8e3bed8069b92b42fa3d5341eee02",
+    "preview_size": 24020
+  },
+  "images/tokyo-night/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp": {
+    "sha256": "c284c547b873aca1d75009ec34118fa9e5901dde51b5adfbf16fec6fa57cc903",
+    "size": 457274,
+    "preview_sha256": "2e08f6ba04b375a9adc28e8c5bfda0bab9002e4a2a8d5118a94a7a5071a46aa9",
+    "preview_size": 33048
+  },
+  "images/tokyo-night/countries/omarchy-country-SS-South-Sudan-2K.webp": {
+    "sha256": "26fe8cc3c9afa490aa2d5f08cc866ce05e46788946c3e69ba61ff3a041e7d648",
+    "size": 547492,
+    "preview_sha256": "f6cb774b75de1211cf309a75dc5508f903ee553bbf60a1987e7cb4ceb14bb81c",
+    "preview_size": 26226
+  },
+  "images/tokyo-night/countries/omarchy-country-SV-El-Salvador-2K.webp": {
+    "sha256": "3b05c9537b51ea714165dc8372815c344671ee0ecee42baa73bb7f2e8a1e967a",
+    "size": 432920,
+    "preview_sha256": "b201b97d10fdea3dad19ecd7cee8e5c9f316bd26cc31e012ad4739b808c3874e",
+    "preview_size": 27908
+  },
+  "images/tokyo-night/countries/omarchy-country-SX-Sint-Maarten-2K.webp": {
+    "sha256": "2d34a9df5047c98bf6f86118848d6c0516919dc88a34cb0093efbd213132395a",
+    "size": 416416,
+    "preview_sha256": "d623f509ec64eb1023f36cec44048630c50340a5e548b10a4b20031d57641844",
+    "preview_size": 29144
+  },
+  "images/tokyo-night/countries/omarchy-country-SY-Syria-2K.webp": {
+    "sha256": "f4c6b4f0d728b0e1834d8d1e93bd35d82db3ec1bcacc8609ac6b6b32c3485358",
+    "size": 387692,
+    "preview_sha256": "6a924d5797c4f4e60da64d3ea96335379e4cde2e6b94ea1f4550397f926baafc",
+    "preview_size": 27046
+  },
+  "images/tokyo-night/countries/omarchy-country-TD-Chad-2K.webp": {
+    "sha256": "3fe1bf3d62480808fc47958bb64ca2564acd12ed2c2db3413e777fb87e567d90",
+    "size": 412752,
+    "preview_sha256": "e7f0a6cc30bb35f76aba63d01beae7efbde5b2bf5d6eba5ea64631a6f911ea7b",
+    "preview_size": 23800
+  },
+  "images/tokyo-night/countries/omarchy-country-SZ-Eswatini-2K.webp": {
+    "sha256": "0f0530404ac045324c49888c1ae93e2d7e9d660e63b1443f1a04fb80d7c4eca6",
+    "size": 538166,
+    "preview_sha256": "e645c7550f2f8cee0908efba3a20392029a884630db030eaebd081c6eecb4b2f",
+    "preview_size": 24434
+  },
+  "images/tokyo-night/countries/omarchy-country-TC-Turks-and-Caicos-Islands-2K.webp": {
+    "sha256": "05ceb01f6dbbdfecc584285d7e4694e30a866882b613b6d6a5ba50d839708ab9",
+    "size": 426478,
+    "preview_sha256": "ef0e1f3383588a7708073c7e8ad6f581a46c6077e91cbcffaa35b3cffbb22e3e",
+    "preview_size": 25746
+  },
+  "images/tokyo-night/countries/omarchy-country-TF-French-Southern-Territories-2K.webp": {
+    "sha256": "e5a868e2588c81ff08e1f59a6755d273eb607419b1ae4167805ab30407889b11",
+    "size": 341134,
+    "preview_sha256": "ff488bb770682baab98fa0cf57286837106be472e0e0f0f02b9df10a85d07017",
+    "preview_size": 24042
+  },
+  "images/tokyo-night/countries/omarchy-country-TG-Togo-2K.webp": {
+    "sha256": "99a56d0f82ad7cc77c03da284c584d1f25855a7ed8827c5dbfae24b0ddc7ec55",
+    "size": 355294,
+    "preview_sha256": "0eb491763f8dc9b5c7e75db4be0557978301f82b27b800467e79c20a1ce1bdc5",
+    "preview_size": 23034
+  },
+  "images/tokyo-night/countries/omarchy-country-TJ-Tajikistan-2K.webp": {
+    "sha256": "fc23261305cd5e4adcf5a608be5a2a50f6d89b79467b42bcbd47b58982ef2db0",
+    "size": 370272,
+    "preview_sha256": "666d34fcbf73cf6818694efc423b30e4d370be6ec8e763acf02474a1ace781bb",
+    "preview_size": 25910
+  },
+  "images/tokyo-night/countries/omarchy-country-TH-Thailand-2K.webp": {
+    "sha256": "b9a172605585fc6f82071c4f84688b1e8c8ad4c25ab63175e682eae58ca64355",
+    "size": 487990,
+    "preview_sha256": "482f3dfa69a7d2d689b5c9193fab0e637483ed2755b8d4500f6fe9fbae151b93",
+    "preview_size": 25576
+  },
+  "images/tokyo-night/countries/omarchy-country-TK-Tokelau-2K.webp": {
+    "sha256": "b0e67b9aa92c20ac8293221a319a19f295d6f7af7a517967a0a70a7fa1aa2f9f",
+    "size": 440144,
+    "preview_sha256": "efa966beb7856b21fafa353fbe642088bbd71eac980b897c9adb9fe0a15118e0",
+    "preview_size": 25808
+  },
+  "images/tokyo-night/countries/omarchy-country-TO-Tonga-2K.webp": {
+    "sha256": "e2e80ab7c69492ead8758d92ec8af562955cce822da157ccaa7a51980062fe54",
+    "size": 418648,
+    "preview_sha256": "66c775b81c5173ec3f14c05ebc7b74105e8e50343786084e8c5d01ffeaad83a4",
+    "preview_size": 22176
+  },
+  "images/tokyo-night/countries/omarchy-country-TR-Turkey-2K.webp": {
+    "sha256": "1c8103f98f2d8672fb61d2b2bcc9d12f68b26bf1569b10305af157139d1b56ad",
+    "size": 368316,
+    "preview_sha256": "bd1d93572b574109c3d71ed553934f3b4e0b49236c8e094b19d73b010c0849e0",
+    "preview_size": 24780
+  },
+  "images/tokyo-night/countries/omarchy-country-TL-Timor-Leste-2K.webp": {
+    "sha256": "66c633923cddb3560ea427c361563ed88a7e55cf90da6ed8d43c040d3c1842d2",
+    "size": 360786,
+    "preview_sha256": "9f95bc480362379c9649733594e8911e7b438f5d4682b635b8d74f2c829d857a",
+    "preview_size": 25594
+  },
+  "images/tokyo-night/countries/omarchy-country-TT-Trinidad-and-Tobago-2K.webp": {
+    "sha256": "eaaea43f23281e12d30075468472c740ba31ef6ff54072439195069f9924d257",
+    "size": 391470,
+    "preview_sha256": "57ef7df7e6005bda8a192f518ccb5a0409109f3c0abcbb3e05c13aa45f24a5e9",
+    "preview_size": 25170
+  },
+  "images/tokyo-night/countries/omarchy-country-TM-Turkmenistan-2K.webp": {
+    "sha256": "8b9d7e661ebe17d6925723e9032ef2032beb916bc3a391baf0cc352da062c117",
+    "size": 364228,
+    "preview_sha256": "698eb33a5724d8dce83be76ffb83be5fb705f09f207eec5ef9b4c490487b9653",
+    "preview_size": 24492
+  },
+  "images/tokyo-night/countries/omarchy-country-TN-Tunisia-2K.webp": {
+    "sha256": "73658555335938b3cf2c26877737a7d9565d63e3605aaff4fb971c5f6956dd25",
+    "size": 368128,
+    "preview_sha256": "35e1a7a6ffaeecefec98719eda13245073eec10c13e29c1ec46efa9161418bfe",
+    "preview_size": 24700
+  },
+  "images/tokyo-night/countries/omarchy-country-TV-Tuvalu-2K.webp": {
+    "sha256": "d60255ef3c45beab0a01964bb0d6b273cb62d159931f519bb4673747162da650",
+    "size": 452538,
+    "preview_sha256": "69a77c324e2529c096d9e83cdf89e8f7286141a376d9a77033c982154e6aa116",
+    "preview_size": 25262
+  },
+  "images/tokyo-night/countries/omarchy-country-TW-Taiwan-2K.webp": {
+    "sha256": "8566db13e66aa25d6551db5cfb11abb759c7b0be94d15821e32fbca24c547a56",
+    "size": 372288,
+    "preview_sha256": "b347bb324cb914bdd248bad52fda91a078a6ae869fe32f69e20d93b719ba045d",
+    "preview_size": 24160
+  },
+  "images/tokyo-night/countries/omarchy-country-UA-Ukraine-2K.webp": {
+    "sha256": "7975a3abd3a501845da22a6fe8116182a11ae78bc3f440b3c55c3db0e5b3c122",
+    "size": 420074,
+    "preview_sha256": "630a2d12c07e1fbf7b071e49175a6f1c5e38ab97c4e02e3edffc138846bb4262",
+    "preview_size": 24868
+  },
+  "images/tokyo-night/countries/omarchy-country-TZ-Tanzania-2K.webp": {
+    "sha256": "807561f2dffc16e4b8acc4dcbca4ea8e1f3c1e8d10c0edd59a4a3e2ac680b0a6",
+    "size": 354612,
+    "preview_sha256": "e678c2d40634d80e2d1fd2b4bfc151cf48dd6ef863df01f7938806939bf125d9",
+    "preview_size": 20380
+  },
+  "images/tokyo-night/countries/omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp": {
+    "sha256": "319e85b032820d8a5621cd626473ff0e12d9ec7490993aa8534e83655c5f6d2d",
+    "size": 485546,
+    "preview_sha256": "efac222108e70d09e2462fca4ac1b2bf9f453e554b04c223ca61955866c8d2f6",
+    "preview_size": 23992
+  },
+  "images/tokyo-night/countries/omarchy-country-UY-Uruguay-2K.webp": {
+    "sha256": "b8d302ffe1041085903e04ed18ec2193598f453d3a8e4630aa5b3d352449190f",
+    "size": 352632,
+    "preview_sha256": "7768f21446b8eae6a6dc59ba46e03dc695e9ff400b88aee0be68ade4b7085960",
+    "preview_size": 22042
+  },
+  "images/tokyo-night/countries/omarchy-country-UG-Uganda-2K.webp": {
+    "sha256": "ee29b66063fabdb108612383ff16f5bdf1580d91be7fe4e4c9438e942c64630e",
+    "size": 481866,
+    "preview_sha256": "fb8afce15b3d0ccff2c1bf496fe2682c2669af70c8b2c4b6257258f1d8322ef6",
+    "preview_size": 26766
+  },
+  "images/tokyo-night/countries/omarchy-country-US-USA-2K.webp": {
+    "sha256": "20025482ee180a93bf9a11b6fcd0daa89b972de5a84331aa56e96dee85b648b9",
+    "size": 425894,
+    "preview_sha256": "6c33b55d963870089779b63f53b7f32a1c21ebc4c72c1d5bbc0b9ccc47e532f7",
+    "preview_size": 24748
+  },
+  "images/tokyo-night/countries/omarchy-country-UZ-Uzbekistan-2K.webp": {
+    "sha256": "c46b22e47937198f65ad28db8b461ddb9abd469a09e46b959ef2f1034684dbdc",
+    "size": 351560,
+    "preview_sha256": "13dcd7186a9f17db9a544ae320f6570fcc6837258338d47ce4ed4ab55dd2e373",
+    "preview_size": 21046
+  },
+  "images/tokyo-night/countries/omarchy-country-VA-Vatican-2K.webp": {
+    "sha256": "a6d4a615453969c547589b4cf3df79149e0864ba99c3764657616628695ecda5",
+    "size": 349544,
+    "preview_sha256": "c06ef47ebe15fc3b3435a349384f1e0911dcc24c839fbdb4a8f1470867dd3afc",
+    "preview_size": 23992
+  },
+  "images/tokyo-night/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp": {
+    "sha256": "8452e2a9bd7fd45c5f05b901c8e662a62d29ac88dadfa3e4445836e2943292cc",
+    "size": 524396,
+    "preview_sha256": "6ca8aa32e883d65682d68497b0b903744578f46db4a1ef4cca69fdf71907606c",
+    "preview_size": 24908
+  },
+  "images/tokyo-night/countries/omarchy-country-VE-Venezuela-2K.webp": {
+    "sha256": "901bcc84e3b11b63e8f6e4a5c42eb037f287bdeb32bf1826fa61a6ba2b730263",
+    "size": 600036,
+    "preview_sha256": "f746f582c5fb01bf3574a8ac92faf1274e22a6724f390290a9b29be74587b5bd",
+    "preview_size": 29068
+  },
+  "images/tokyo-night/countries/omarchy-country-VG-British-Virgin-Islands-2K.webp": {
+    "sha256": "ba02237e2c56596d8575e32c056448729f1c78451b52d2b0ec156bda474d2425",
+    "size": 550552,
+    "preview_sha256": "42ddbca1d8767256a84802d901ade71c14e9c03544f1bfc332b814f21b816fab",
+    "preview_size": 33218
+  },
+  "images/tokyo-night/countries/omarchy-country-WF-Wallis-and-Futuna-2K.webp": {
+    "sha256": "3045b9f5dcfcc87f18bb5f3e2fea4bbe42a8ac4276cba0e9f7d0d0c024486c7b",
+    "size": 522378,
+    "preview_sha256": "adb72c3a722757787d8566df460645fd2d2073e053198b9189954d065dcc4666",
+    "preview_size": 29260
+  },
+  "images/tokyo-night/countries/omarchy-country-WS-Samoa-2K.webp": {
+    "sha256": "4a92d0d621091d31ae2bea58233a1ca857028388f6f8097dd50e5ed518f5a59a",
+    "size": 344602,
+    "preview_sha256": "c17734b2cbeeca14c6666b7bfe79d8a7ce89381ceecfe1148343154bd56a438a",
+    "preview_size": 25778
+  },
+  "images/tokyo-night/countries/omarchy-country-VI-US-Virgin-Islands-2K.webp": {
+    "sha256": "340dd446c96db445f055891278e50fe4b5f46a4ca7d19616da30030ced178208",
+    "size": 442120,
+    "preview_sha256": "beb1e5856fe09c1271d0822c6922017350ccb9a86984963af9e74b914c1db6fe",
+    "preview_size": 23678
+  },
+  "images/tokyo-night/countries/omarchy-country-XK-Kosovo-2K.webp": {
+    "sha256": "13e24ed3c622f635a4f9e58658a288ed06de04c045711a36fe0ecfbc37bae1d9",
+    "size": 380588,
+    "preview_sha256": "01a9b9230e9be87a708eada1fcceaefc860b57ff06252c38662dba7edc808713",
+    "preview_size": 21396
+  },
+  "images/tokyo-night/countries/omarchy-country-VN-Vietnam-2K.webp": {
+    "sha256": "883859cb228abb043a3569cbbea3b58f716dd6fb3458341f29ba0545837c0b0f",
+    "size": 491278,
+    "preview_sha256": "9d035d47631b89f4ec754da04205be0a1d081f22204387861f9905a9ae8f301f",
+    "preview_size": 27670
+  },
+  "images/tokyo-night/countries/omarchy-country-VU-Vanuatu-2K.webp": {
+    "sha256": "a437757ec5dc15ffb0593c848315cc9f6af0590dc303569c424402a4ae0451d6",
+    "size": 480360,
+    "preview_sha256": "17956e8920f60b385840457376eeb28195dd3226557a29dcc7ff30cf2c739242",
+    "preview_size": 29486
+  },
+  "images/tokyo-night/countries/omarchy-country-YE-Yemen-2K.webp": {
+    "sha256": "8f46a99b7bcaa0b8c715e8044a42ff86756a1ddd28d01a5b88d45315cd264276",
+    "size": 484364,
+    "preview_sha256": "14b7fafa259deacf33daf5b52a12a9876e82832a1c2e5d3a8060857274c99036",
+    "preview_size": 30034
+  },
+  "images/tokyo-night/countries/omarchy-country-YT-Mayotte-2K.webp": {
+    "sha256": "ef43bfcfc17bdd36a8eb2fd9b8d236ad8ba1cefa1b2abca03be1d1694eab6f27",
+    "size": 372424,
+    "preview_sha256": "890c9c64f77a44522fcd6f0b8e63fa965f7108ffea5a9bc9c2a8f30561cb0df7",
+    "preview_size": 28316
+  },
+  "images/tokyo-night/countries/omarchy-country-ZA-South-Africa-2K.webp": {
+    "sha256": "8b7beed89d2735a3d96cd6e197f268e659f2f2165a2d829ada41f7f2f97e1c18",
+    "size": 400634,
+    "preview_sha256": "a226ba19a6330a39c6a91c1e14e9883873debee37deb344cde7c453a0745ac3b",
+    "preview_size": 24758
+  },
+  "images/tokyo-night/countries/omarchy-country-ZM-Zambia-2K.webp": {
+    "sha256": "35197b5e3796f024b1de3b1a2daf180ed56ba211451373f51286f3c88cb62175",
+    "size": 410414,
+    "preview_sha256": "2398964e25ad24ed198f2710400f3b59939a23199bf23c11d0cdb44aabf8ce52",
+    "preview_size": 21626
+  }
+}
