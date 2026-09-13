@@ -58,9 +58,14 @@ CONFIG_PATH = os.path.join(DATASETS_DIR, "config.json")
 
 
 def clean_tmp():
-    """Delete this script's dedicated temp folder."""
-    if os.path.isdir(TMP_DIR):
-        shutil.rmtree(TMP_DIR)
+    """Remove only this script's own temp files, never the folder or user files."""
+    if not os.path.isdir(TMP_DIR):
+        return
+    for name in os.listdir(TMP_DIR):
+        if name.startswith("dataset-") and (
+            name.endswith(".result.json") or name.endswith(".log")
+        ):
+            os.remove(os.path.join(TMP_DIR, name))
 
 
 def load_config():
@@ -790,7 +795,7 @@ def main():
     parser.add_argument(
         "--clean",
         action="store_true",
-        help="delete this script's dedicated temp folder (working/generate-temp/dataset/) and exit",
+        help="remove this script's own temp files in working/generate-temp/dataset/ and exit",
     )
     parser.add_argument(
         "--no-previews",

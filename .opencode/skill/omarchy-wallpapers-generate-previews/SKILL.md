@@ -37,11 +37,11 @@ Create/revalidate the small preview images in `previews/` for every wallpaper in
 | Dispatcher | no `--theme` | Lists themes in `images/`, prints the plan, runs one worker per theme. |
 | Plan only | `--plan-only` | Prints theme list + work plan, launches **no** worker. |
 | Parallel themes | `--concurrency N` | Dispatcher runs up to N theme-workers at once (per-theme logs in `working/generate-temp/previews/`). |
-| Clean temp | `--clean` | Deletes this script's dedicated temp folder (`working/generate-temp/previews/`) and exits. |
+| Clean temp | `--clean` | Removes this script's own temp files in `working/generate-temp/previews/` and exits. |
 
 Other options: `--workers N` (intra-theme parallelism, default 8), `--force` (ignore manifest), `--dry-run` (report, write nothing), `--limit N`, `--save-every N`, `--report-every N`.
 
-The script keeps its temporary files in a dedicated folder `working/generate-temp/previews/` (gitignored) and wipes it at the start of every full dispatcher run (not for `--theme` workers or `--plan-only`).
+The script keeps its temporary files in a dedicated folder `working/generate-temp/previews/` (gitignored) and at the start of every full dispatcher run removes only its own temp files (never the folder or anything it did not create; not for `--theme` workers or `--plan-only`).
 
 ## Recommended workflow (parallel subagents + live todo list)
 

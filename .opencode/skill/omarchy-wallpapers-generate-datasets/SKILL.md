@@ -41,11 +41,11 @@ The top-level `datasets/datasets.json` is **not** a group: it is assembled once,
 | Plan only | `--plan-only` | Prints the group table + work plan, launches **no** worker and does **not** aggregate. |
 | Aggregate only | `--aggregate-only` | Assembles `datasets.json` from the catalogs already on disk and removes stale theme folders. No workers, no preview check. |
 | Parallel groups | `--concurrency N` | Dispatcher runs up to N group-workers at once (per-group logs in `working/generate-temp/dataset/`). |
-| Clean temp | `--clean` | Deletes this script's dedicated temp folder (`working/generate-temp/dataset/`) and exits. |
+| Clean temp | `--clean` | Removes this script's own temp files in `working/generate-temp/dataset/` and exits. |
 
 Other options: `--no-previews` (skip the missing-previews check/generation in the dispatcher).
 
-The script keeps its temporary files in a dedicated folder `working/generate-temp/dataset/` (gitignored) and wipes it at the start of every full dispatcher run (not for `--group` workers, `--plan-only` or `--aggregate-only`).
+The script keeps its temporary files in a dedicated folder `working/generate-temp/dataset/` (gitignored) and at the start of every full dispatcher run removes only its own temp files (never the folder or anything it did not create; not for `--group` workers, `--plan-only` or `--aggregate-only`).
 
 ## Recommended workflow (parallel subagents + live todo list)
 

@@ -38,11 +38,11 @@ The group list is computed at run time: masters first, then the themes found in 
 | Dispatcher | no `--group` | Lists groups (masters first, then themes), prints the plan, runs one worker per group. |
 | Plan only | `--plan-only` | Prints group list + work plan, launches **no** worker. |
 | Parallel groups | `--concurrency N` | Dispatcher runs up to N group-workers at once (per-group logs in `working/generate-temp/optimization/`). |
-| Clean temp | `--clean` | Deletes this script's dedicated temp folder (`working/generate-temp/optimization/`) and exits. |
+| Clean temp | `--clean` | Removes this script's own temp files in `working/generate-temp/optimization/` and exits. |
 
 Other options: `--workers N` (intra-group parallelism, default 8), `--method N` (libwebp method, default 6), `--force` (ignore manifest), `--dry-run` (report, change nothing), `--limit N`, `--save-every N`, `--report-every N`.
 
-The script keeps its temporary files in a dedicated folder `working/generate-temp/optimization/` (gitignored) and wipes it at the start of every full dispatcher run (not for `--group` workers or `--plan-only`).
+The script keeps its temporary files in a dedicated folder `working/generate-temp/optimization/` (gitignored) and at the start of every full dispatcher run removes only its own temp files (never the folder or anything it did not create; not for `--group` workers or `--plan-only`).
 
 ## Recommended workflow (parallel subagents + live todo list)
 

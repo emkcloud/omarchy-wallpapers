@@ -25,7 +25,6 @@ import argparse
 import hashlib
 import json
 import os
-import shutil
 import subprocess
 import sys
 import tempfile
@@ -54,9 +53,16 @@ def rel_to_root(path):
 
 
 def clean_tmp():
-    """Delete this script's dedicated temp folder."""
-    if os.path.isdir(TMP_DIR):
-        shutil.rmtree(TMP_DIR)
+    """Remove only this script's own temp files, never the folder or user files."""
+    if not os.path.isdir(TMP_DIR):
+        return
+    for name in os.listdir(TMP_DIR):
+        if name.startswith("optimize-") and (
+            name.endswith(".result.json")
+            or name.endswith(".log")
+            or name.endswith(".lock")
+        ):
+            os.remove(os.path.join(TMP_DIR, name))
 
 
 def tmp_webp():
@@ -544,7 +550,7 @@ def main():
     parser.add_argument(
         "--clean",
         action="store_true",
-        help="delete this script's dedicated temp folder (working/generate-temp/optimization/) and exit",
+        help="remove this script's own temp files in working/generate-temp/optimization/ and exit",
     )
     args = parser.parse_args()
 
