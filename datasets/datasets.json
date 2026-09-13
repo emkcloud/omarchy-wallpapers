@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:43:26.131759+00:00",
+  "generated_at": "2026-09-13T02:39:39.756034+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
@@ -35,7 +35,7 @@
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/collections.json",
-        "size_bytes": 1162,
+        "size_bytes": 1156,
         "collections": 1
       },
       "count": 250,
@@ -55,8 +55,8 @@
         "#d4be98",
         "#7daea3"
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-TH-Thailand-preview.webp",
-      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries/omarchy-country-TH-Thailand-2K.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-AG-Antigua-and-Barbuda-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp"
     },
     "matte-black": {
       "name": "matte-black",
@@ -108,8 +108,8 @@
         "#bebebe",
         "#e68e0d"
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-RW-Rwanda-preview.webp",
-      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/matte-black/countries/omarchy-country-RW-Rwanda-2K.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/matte-black/countries/omarchy-country-EH-Western-Sahara-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/matte-black/countries/omarchy-country-EH-Western-Sahara-2K.webp"
     },
     "nord": {
       "name": "nord",
@@ -141,7 +141,7 @@
       "collections_info": {
         "path": "datasets/nord/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/collections.json",
-        "size_bytes": 1146,
+        "size_bytes": 1148,
         "collections": 1
       },
       "count": 250,
@@ -161,8 +161,8 @@
         "#d8dee9",
         "#81a1c1"
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-CD-Congo-Democratic-Republic-preview.webp",
-      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/nord/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/nord/countries/omarchy-country-CA-Canada-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/nord/countries/omarchy-country-CA-Canada-2K.webp"
     },
     "osaka-jade": {
       "name": "osaka-jade",
@@ -194,7 +194,7 @@
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/collections.json",
-        "size_bytes": 1169,
+        "size_bytes": 1181,
         "collections": 1
       },
       "count": 250,
@@ -214,8 +214,8 @@
         "#c1c497",
         "#509475"
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-VE-Venezuela-preview.webp",
-      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade/countries/omarchy-country-VE-Venezuela-2K.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-FI-Finland-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade/countries/omarchy-country-FI-Finland-2K.webp"
     },
     "tokyo-night": {
       "name": "tokyo-night",
@@ -247,7 +247,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/collections.json",
-        "size_bytes": 1192,
+        "size_bytes": 1176,
         "collections": 1
       },
       "count": 250,
@@ -267,8 +267,8 @@
         "#a9b1d6",
         "#7aa2f7"
       ],
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-JO-Jordan-preview.webp",
-      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/tokyo-night/countries/omarchy-country-JO-Jordan-2K.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/tokyo-night/countries/omarchy-country-HK-Hong-Kong-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/tokyo-night/countries/omarchy-country-HK-Hong-Kong-2K.webp"
     }
   },
   "masters": {

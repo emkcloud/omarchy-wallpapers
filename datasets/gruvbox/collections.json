@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:43:24.526729+00:00",
+  "generated_at": "2026-09-13T02:39:38.719882+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-MV-Maldives-preview.webp",
-      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries/omarchy-country-MV-Maldives-2K.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-NE-Niger-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries/omarchy-country-NE-Niger-2K.webp"
     }
   ],
   "palette": [

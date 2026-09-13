@@ -1,43 +1,78 @@
 {
-  "themes": {
-    "matte-black": {
-      "title": "Matte Black",
-      "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
-      "palette": ["#0d0d0d", "#121212", "#333333", "#bebebe", "#e68e0d"]
+    "themes": {
+        "matte-black": {
+            "title": "Matte Black",
+            "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
+            "image": "omarchy-country-EH-Western-Sahara-2K.webp",
+            "palette": [
+                "#0d0d0d",
+                "#121212",
+                "#333333",
+                "#bebebe",
+                "#e68e0d"
+            ]
+        },
+        "gruvbox": {
+            "title": "Gruvbox",
+            "description": "Theme based on the retro groove color scheme (gruvbox), with warm earthy browns and muted greens.",
+            "image": "omarchy-country-AG-Antigua-and-Barbuda-2K.webp",
+            "palette": [
+                "#1e1e1e",
+                "#282828",
+                "#665c54",
+                "#d4be98",
+                "#7daea3"
+            ]
+        },
+        "nord": {
+            "title": "Nord",
+            "description": "Theme with cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast.",
+            "image": "omarchy-country-CA-Canada-2K.webp",
+            "palette": [
+                "#222730",
+                "#2e3440",
+                "#4c566a",
+                "#d8dee9",
+                "#81a1c1"
+            ]
+        },
+        "osaka-jade": {
+            "title": "Osaka Jade",
+            "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
+            "image": "omarchy-country-FI-Finland-2K.webp",
+            "palette": [
+                "#0c1512",
+                "#111c18",
+                "#53685b",
+                "#c1c497",
+                "#509475"
+            ]
+        },
+        "tokyo-night": {
+            "title": "Tokyo Night",
+            "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
+            "image": "omarchy-country-HK-Hong-Kong-2K.webp",
+            "palette": [
+                "#13141c",
+                "#1a1b26",
+                "#414868",
+                "#a9b1d6",
+                "#7aa2f7"
+            ]
+        }
     },
-    "gruvbox": {
-      "title": "Gruvbox",
-      "description": "Theme based on the retro groove color scheme (gruvbox), with warm earthy browns and muted greens.",
-      "palette": ["#1e1e1e", "#282828", "#665c54", "#d4be98", "#7daea3"]
-    },
-    "nord": {
-      "title": "Nord",
-      "description": "Theme with cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast.",
-      "palette": ["#222730", "#2e3440", "#4c566a", "#d8dee9", "#81a1c1"]
-    },
-    "osaka-jade": {
-      "title": "Osaka Jade",
-      "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
-      "palette": ["#0c1512", "#111c18", "#53685b", "#c1c497", "#509475"]
-    },
-    "tokyo-night": {
-      "title": "Tokyo Night",
-      "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
-      "palette": ["#13141c", "#1a1b26", "#414868", "#a9b1d6", "#7aa2f7"]
+    "collections": {
+        "countries": {
+            "title": "Countries",
+            "description": "Panoramas and iconic scenery inspired by individual countries."
+        },
+        "cities": {
+            "title": "Cities",
+            "description": "Wallpapers dedicated to specific cities and their landmarks."
+        },
+        "figures": {
+            "title": "Figures",
+            "description": "Wallpapers dedicated to great historical figures."
+        }
     }
-  },
-  "collections": {
-    "countries": {
-      "title": "Countries",
-      "description": "Panoramas and iconic scenery inspired by individual countries."
-    },
-    "cities": {
-      "title": "Cities",
-      "description": "Wallpapers dedicated to specific cities and their landmarks."
-    },
-    "figures": {
-      "title": "Figures",
-      "description": "Wallpapers dedicated to great historical figures."
-    }
-  }
 }

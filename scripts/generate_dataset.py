@@ -392,7 +392,44 @@ def theme_preview(theme, collections, forbidden_bases=None):
     return preview, full_image_url(theme, collection, filename)
 
 
-def build_collection(name, kind, images_dir, entries, catalog_path, description=None, forbidden_bases=None, palette=None):
+def base_from_reference(ref):
+    """Extract the wallpaper base name from a config reference, tolerating a
+    path, a resolution suffix (2K/4K/8K) and/or a -preview suffix."""
+    base = os.path.splitext(os.path.basename(ref))[0]
+    for pattern in (r"-(?:2K|4K|8K)$", r"-preview$", r"-(?:2K|4K|8K)$"):
+        base = re.sub(pattern, "", base, flags=re.IGNORECASE)
+    return base
+
+
+def resolve_cover(theme, ref):
+    """Resolve an explicit theme cover (config.json theme 'image') to a
+    (preview_url, image_url) pair, or None if it cannot be found. The reference
+    may be a base name, a filename with resolution, or a repo-relative path."""
+    if not ref:
+        return None
+    base = base_from_reference(ref)
+    for collection in COLLECTIONS:
+        image_dir = os.path.join(IMAGES_DIR, theme, collection)
+        if not os.path.isdir(image_dir):
+            continue
+        if not any(
+            os.path.exists(os.path.join(image_dir, f"{base}-{res}.webp"))
+            for res in ("2K", "4K", "8K")
+        ):
+            continue
+        preview_file = f"{base}-preview.webp"
+        preview_path = os.path.join(PREVIEWS_DIR, theme, collection, preview_file)
+        preview = (
+            f"{RAW_BASE}/previews/{theme}/{collection}/{preview_file}"
+            if os.path.exists(preview_path)
+            else None
+        )
+        return preview, full_image_url(theme, collection, preview_file)
+    print(f"Warning: cover '{ref}' not found for theme '{theme}'", file=sys.stderr)
+    return None
+
+
+def build_collection(name, kind, images_dir, entries, catalog_path, description=None, forbidden_bases=None, palette=None, cover=None):
     opt_path = os.path.join(os.path.dirname(catalog_path), "optimization.json")
     opt_info = None
     if os.path.exists(opt_path):
@@ -436,7 +473,10 @@ def build_collection(name, kind, images_dir, entries, catalog_path, description=
         collection["description"] = description
     if palette:
         collection["palette"] = palette
-    preview, image = theme_preview(name, collections, forbidden_bases)
+    if cover:
+        preview, image = cover
+    else:
+        preview, image = theme_preview(name, collections, forbidden_bases)
     if preview:
         collection["preview"] = preview
     if image:
@@ -609,6 +649,7 @@ def aggregate():
             description=meta.get("description"),
             forbidden_bases=used_bases,
             palette=meta.get("palette"),
+            cover=resolve_cover(theme, meta.get("image")),
         )
         theme_index[theme] = collection
         preview = collection.get("preview")
