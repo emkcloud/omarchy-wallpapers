@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-13T02:39:38.719882+00:00",
+  "generated_at": "2026-09-13T10:45:20.522437+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
   "kind": "theme",
   "count": 250,
-  "total_size_bytes": 309886810,
+  "total_size_bytes": 252550058,
   "collections": [
     {
       "collection": "countries",
       "count": 250,
-      "total_size_bytes": 309886810,
+      "total_size_bytes": 252550058,
       "directory": "images/gruvbox/countries",
       "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries",
       "variants": {
         "2K": {
           "count": 250,
-          "size_bytes": 309886810,
+          "size_bytes": 252550058,
           "width": 2560,
           "height": 1440
         }
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-NE-Niger-preview.webp",
-      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries/omarchy-country-NE-Niger-2K.webp"
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/gruvbox/countries/omarchy-country-GD-Grenada-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/gruvbox/countries/omarchy-country-GD-Grenada-2K.webp"
     }
   ],
   "palette": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T02:39:39.756034+00:00",
+  "generated_at": "2026-09-13T10:45:20.587804+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
@@ -17,30 +17,30 @@
       "catalog": {
         "path": "datasets/gruvbox/catalog.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/catalog.json",
-        "size_bytes": 228799,
+        "size_bytes": 228690,
         "entries": 250
       },
       "optimization": {
         "path": "datasets/gruvbox/optimization.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/optimization.json",
-        "size_bytes": 89596,
+        "size_bytes": 89487,
         "entries": 500
       },
       "previews": {
         "path": "datasets/gruvbox/previews.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/previews.json",
-        "size_bytes": 73422,
+        "size_bytes": 73313,
         "entries": 250
       },
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/collections.json",
-        "size_bytes": 1156,
+        "size_bytes": 1160,
         "collections": 1
       },
       "count": 250,
       "optimized": 500,
-      "total_size_bytes": 309886810,
+      "total_size_bytes": 252550058,
       "resolutions": [
         [
           2560,
