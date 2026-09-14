@@ -74,7 +74,7 @@ BACKGROUND_EXTS = {
 
 USER_AGENT = "omarchy-wallpapers-installer"
 
-__version__ = "0.1.1"
+__version__ = "0.2.0"
 
 
 def fetch_json(url):
