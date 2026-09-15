@@ -59,6 +59,17 @@
                 "#a9b1d6",
                 "#7aa2f7"
             ]
+        },
+        "solitude": {
+            "title": "Solitude",
+            "description": "Minimal monochrome theme by HANCORE. Near-black backgrounds with quiet gray tones for a calm, distraction-free workspace.",
+            "palette": [
+                "#0c0e0f",
+                "#101315",
+                "#4b4e55",
+                "#cacccc",
+                "#798186"
+            ]
         }
     },
     "collections": {

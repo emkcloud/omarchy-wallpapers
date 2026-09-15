@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T02:43:32.183277+00:00",
+  "generated_at": "2026-09-15T08:44:54.852925+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
-  "count": 6,
+  "count": 7,
   "themes": {
     "gruvbox": {
       "name": "gruvbox",
@@ -35,7 +35,7 @@
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/gruvbox/collections.json",
-        "size_bytes": 1160,
+        "size_bytes": 1158,
         "collections": 1
       },
       "count": 250,
@@ -88,7 +88,7 @@
       "collections_info": {
         "path": "datasets/matte-black/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/matte-black/collections.json",
-        "size_bytes": 1178,
+        "size_bytes": 1190,
         "collections": 1
       },
       "count": 250,
@@ -141,7 +141,7 @@
       "collections_info": {
         "path": "datasets/nord/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/nord/collections.json",
-        "size_bytes": 1148,
+        "size_bytes": 1170,
         "collections": 1
       },
       "count": 250,
@@ -194,7 +194,7 @@
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/collections.json",
-        "size_bytes": 1208,
+        "size_bytes": 1170,
         "collections": 1
       },
       "count": 250,
@@ -216,6 +216,59 @@
       ],
       "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/osaka-jade/countries/omarchy-country-FI-Finland-preview.webp",
       "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/osaka-jade/countries/omarchy-country-FI-Finland-2K.webp"
+    },
+    "solitude": {
+      "name": "solitude",
+      "title": "Solitude",
+      "kind": "theme",
+      "images_dir": "images/solitude",
+      "images_url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/solitude",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/solitude/catalog.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/catalog.json",
+        "size_bytes": 229830,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/solitude/optimization.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/optimization.json",
+        "size_bytes": 89851,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/solitude/previews.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/previews.json",
+        "size_bytes": 73427,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/solitude/collections.json",
+        "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/solitude/collections.json",
+        "size_bytes": 1199,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 104568626,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Minimal monochrome theme by HANCORE. Near-black backgrounds with quiet gray tones for a calm, distraction-free workspace.",
+      "palette": [
+        "#0c0e0f",
+        "#101315",
+        "#4b4e55",
+        "#cacccc",
+        "#798186"
+      ],
+      "preview": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/previews/solitude/countries/omarchy-country-SB-Solomon-Islands-preview.webp",
+      "image": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/images/solitude/countries/omarchy-country-SB-Solomon-Islands-2K.webp"
     },
     "tokyo-night": {
       "name": "tokyo-night",
@@ -247,7 +300,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/tokyo-night/collections.json",
-        "size_bytes": 1176,
+        "size_bytes": 1178,
         "collections": 1
       },
       "count": 250,
