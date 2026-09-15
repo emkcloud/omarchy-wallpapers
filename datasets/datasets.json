@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:45:20.587804+00:00",
+  "generated_at": "2026-09-15T02:43:32.183277+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main",
@@ -182,24 +182,24 @@
       "optimization": {
         "path": "datasets/osaka-jade/optimization.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/optimization.json",
-        "size_bytes": 90851,
+        "size_bytes": 90847,
         "entries": 500
       },
       "previews": {
         "path": "datasets/osaka-jade/previews.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/previews.json",
-        "size_bytes": 73927,
+        "size_bytes": 73923,
         "entries": 250
       },
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://raw.githubusercontent.com/emkcloud/omarchy-wallpapers/main/datasets/osaka-jade/collections.json",
-        "size_bytes": 1181,
+        "size_bytes": 1208,
         "collections": 1
       },
       "count": 250,
       "optimized": 500,
-      "total_size_bytes": 105369484,
+      "total_size_bytes": 83891820,
       "resolutions": [
         [
           2560,
