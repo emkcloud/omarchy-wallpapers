@@ -56,7 +56,7 @@ To install a different theme, replace `osaka-jade` with its folder name under `i
 
 ### Installing a collection
 
-Wallpapers are grouped into **collections** (content types, e.g. `countries`, `cities`, `figures`). To install only the wallpapers of one collection, pass its name as an extra argument (both the plural and singular forms work):
+Wallpapers are grouped into **collections** (content types, e.g. `countries`, `shelters`). To install only the wallpapers of one collection, pass its name as an extra argument (both the plural and singular forms work):
 
 ```bash
 python3 wallpapers.py install tokyo-night countries
@@ -171,6 +171,11 @@ datasets/
 - **Osaka Jade** — a fresh jade green palette with warm highlights.
 - **Solitude** — minimal monochrome near-black backgrounds with quiet gray tones.
 - **Tokyo Night** — deep blue backgrounds with cyan and purple neon accents.
+
+## Available collections
+
+- **Countries** — panoramas and iconic scenery inspired by individual countries.
+- **Shelters** — cozy improvised refuges tucked into the city. Currently available for Osaka Jade and Tokyo Night.
 
 ## Listing wallpapers
 
