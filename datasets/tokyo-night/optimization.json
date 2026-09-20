@@ -1,0 +1,4002 @@
+{
+  "images/tokyo-night/countries/omarchy-country-CR-Costa-Rica-2K.webp": {
+    "sha256": "69a030d105c6078019b887cad7a05e54ddb1610d37339beb9e6a7d750a77607d",
+    "size": 341458
+  },
+  "images/tokyo-night/countries/omarchy-country-CV-Cape-Verde-2K.webp": {
+    "sha256": "970be23b9673f1dfcc8a81ee808ef1a0feaaec995205c0d1e6f6acc121f9ecf7",
+    "size": 642218
+  },
+  "images/tokyo-night/countries/omarchy-country-ID-Indonesia-2K.webp": {
+    "sha256": "dc133dfc885377960eb556c2cf460a2ddfcca5dfba356c059ce458caa4374590",
+    "size": 548450
+  },
+  "images/tokyo-night/countries/omarchy-country-CO-Colombia-2K.webp": {
+    "sha256": "896f6b118383292ff44c9fed0d9a3865237df7ddf9cce222309588993da30270",
+    "size": 509724
+  },
+  "images/tokyo-night/countries/omarchy-country-IE-Ireland-2K.webp": {
+    "sha256": "f94b6d07bc0912ad92f1d627a2e84b91c1f2403bf0be9d6e691ef19eed6967cc",
+    "size": 449736
+  },
+  "images/tokyo-night/countries/omarchy-country-MT-Malta-2K.webp": {
+    "sha256": "a0f836c1a40fc5f963ba5f68e3d7d816d28fb00ca0d80104e054124ad982b004",
+    "size": 403386
+  },
+  "images/tokyo-night/countries/omarchy-country-SM-San-Marino-2K.webp": {
+    "sha256": "efa100de1af57e7e387bb5b0e750f67a25fed5708b6b0495ec79f1e58f2d2cce",
+    "size": 408914
+  },
+  "previews/tokyo-night/countries/omarchy-country-AO-Angola-preview.webp": {
+    "sha256": "d128a00d1feb0b945be61fa94f2321afffcdac4167952d5becc8ee5504315d7f",
+    "size": 23304
+  },
+  "previews/tokyo-night/countries/omarchy-country-CV-Cape-Verde-preview.webp": {
+    "sha256": "92817b21436a390ff5182d0353a609d9d67fda6a784286e2c3b2cf4e8d1e75dd",
+    "size": 30550
+  },
+  "previews/tokyo-night/countries/omarchy-country-IL-Israel-preview.webp": {
+    "sha256": "1725a2754167c474946fa9115644bde4273d67228191c93bcad822f382af5636",
+    "size": 30612
+  },
+  "previews/tokyo-night/countries/omarchy-country-MT-Malta-preview.webp": {
+    "sha256": "37f09bc239d39c44e9a34bdf76d10c9d26684290ff0db85f36e698bc43929866",
+    "size": 27598
+  },
+  "previews/tokyo-night/countries/omarchy-country-SL-Sierra-Leone-preview.webp": {
+    "sha256": "e9ffe28da5f472cbbf44b4c6e35b794ee992d56ce6a44f5201bed74c7e0fae61",
+    "size": 31032
+  },
+  "images/tokyo-night/countries/omarchy-country-AE-United-Arab-Emirates-2K.webp": {
+    "sha256": "3069db3cb1c214d5f507e9cdba46fc5eee7b4b8705cd123c8263218fd64eb5f5",
+    "size": 286194
+  },
+  "images/tokyo-night/countries/omarchy-country-AO-Angola-2K.webp": {
+    "sha256": "bbf7a247d298a99cc450b725b0b8d058b784ad160c4e4796f6a56b3d18dcee96",
+    "size": 399838
+  },
+  "images/tokyo-night/countries/omarchy-country-AD-Andorra-2K.webp": {
+    "sha256": "42d375d3ed3978374caea888265b12307fd4f920ac7f16ddaeb910fe6c6e6aa0",
+    "size": 335540
+  },
+  "images/tokyo-night/countries/omarchy-country-AL-Albania-2K.webp": {
+    "sha256": "54f10b8c97f26602b732e09a29bb889d28b464b126b80fede6214a6423e5ea21",
+    "size": 390022
+  },
+  "images/tokyo-night/countries/omarchy-country-AF-Afghanistan-2K.webp": {
+    "sha256": "c6f1924fc8f85eddc6affb8aa0aef7844a3aa582f71cd17606a0029eadd3bc02",
+    "size": 314052
+  },
+  "images/tokyo-night/countries/omarchy-country-AI-Anguilla-2K.webp": {
+    "sha256": "9e1185e2afa085a676f108826efc7f4397840779885480083a0289580a4f0564",
+    "size": 573042
+  },
+  "images/tokyo-night/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp": {
+    "sha256": "34d603d87c2827a4d3ce34d18922d393efa234c5474d7447049f700e633e1c33",
+    "size": 375532
+  },
+  "images/tokyo-night/countries/omarchy-country-AM-Armenia-2K.webp": {
+    "sha256": "c1041fbc08ecaeb0e442a30f3e66feeb89186fc3d158e876c0bffb1d9b6ef0a1",
+    "size": 509282
+  },
+  "images/tokyo-night/countries/omarchy-country-AS-American-Samoa-2K.webp": {
+    "sha256": "5471b10a414523fe13762ba0999cf8fa8581a73115ae78e554c4435e4b9cb6b2",
+    "size": 296878
+  },
+  "images/tokyo-night/countries/omarchy-country-AR-Argentina-2K.webp": {
+    "sha256": "91e4fdbc0d57cd1f848753002b7a37117844db5f4e8bdd63b617b06b59358340",
+    "size": 426056
+  },
+  "images/tokyo-night/countries/omarchy-country-AQ-Antarctica-2K.webp": {
+    "sha256": "ebd391af8991012783fa437ce16de6f348c2ee4a91a7c6147227f3c6fe9d9d68",
+    "size": 391348
+  },
+  "images/tokyo-night/countries/omarchy-country-AT-Austria-2K.webp": {
+    "sha256": "6f781ba25392aa3690c19c82119ead8869ae97306d9aa1610def7f7a426a0b28",
+    "size": 440814
+  },
+  "images/tokyo-night/countries/omarchy-country-AU-Australia-2K.webp": {
+    "sha256": "85af1b76cd55cdfaf49e6194bfb97da44e03509f579f311336dae4a802d15711",
+    "size": 365730
+  },
+  "images/tokyo-night/countries/omarchy-country-AW-Aruba-2K.webp": {
+    "sha256": "700937b1eb6052216c096b5a6cd4cc9388ecc82dcc22a69f0024f71aab7b19b2",
+    "size": 453550
+  },
+  "images/tokyo-night/countries/omarchy-country-AX-Aland-Islands-2K.webp": {
+    "sha256": "5683f31d0a27bb9f11a6637d2fa5828c1fc1b1a586974b4f89a7236baf4f1c6f",
+    "size": 512020
+  },
+  "images/tokyo-night/countries/omarchy-country-AZ-Azerbaijan-2K.webp": {
+    "sha256": "e872323908fb88e392a753c3857cb6732c4b94fa178d0367725041b0d120f6fe",
+    "size": 402400
+  },
+  "images/tokyo-night/countries/omarchy-country-BA-Bosnia-Herzegovina-2K.webp": {
+    "sha256": "9ff5fca121046508e4d769deb80f423f6c3bb7abaa573caeb1e3852665a50c9b",
+    "size": 414662
+  },
+  "images/tokyo-night/countries/omarchy-country-BB-Barbados-2K.webp": {
+    "sha256": "6c6f8d8d3170d42b35f4d17938f69b2a289007fc63bd054c31459a5c146c5d0f",
+    "size": 438992
+  },
+  "images/tokyo-night/countries/omarchy-country-BG-Bulgaria-2K.webp": {
+    "sha256": "464016dbf9e572fa18be15b9630d5bab058c51ca85448e8e4dd6ee0b15656562",
+    "size": 355932
+  },
+  "images/tokyo-night/countries/omarchy-country-BD-Bangladesh-2K.webp": {
+    "sha256": "331e2fd68a5d3ea710daa944cf612d6e82d9050de49c70f5935c400223e9dc21",
+    "size": 389580
+  },
+  "images/tokyo-night/countries/omarchy-country-BH-Bahrain-2K.webp": {
+    "sha256": "0c7c3e3b9fee571a68bc1caf808ad3dda26562967b54820afcfcb0c9064d0820",
+    "size": 294142
+  },
+  "images/tokyo-night/countries/omarchy-country-BE-Belgium-2K.webp": {
+    "sha256": "ad80523fe86c4cbdcb65fc02ce75b9db8a25a4ecd9d337fcc8a482e762658097",
+    "size": 504538
+  },
+  "images/tokyo-night/countries/omarchy-country-BF-Burkina-Faso-2K.webp": {
+    "sha256": "88f5fc79df04f61aacb0984e497a05b8ae81c7c2fa92943bac7e7574fb1537ed",
+    "size": 403648
+  },
+  "images/tokyo-night/countries/omarchy-country-BI-Burundi-2K.webp": {
+    "sha256": "da82ecd28e480b1e046e3e82f6e9c4aba2b70dc9fbe593f50c4098247ff1822d",
+    "size": 479816
+  },
+  "images/tokyo-night/countries/omarchy-country-BJ-Benin-2K.webp": {
+    "sha256": "7cef6afbf71aab0f2113f5e026a477f29c74a8054ecff64c3e8fac7589eeff62",
+    "size": 509662
+  },
+  "images/tokyo-night/countries/omarchy-country-BL-Saint-Barthelemy-2K.webp": {
+    "sha256": "c9d42c5166593b328540eac944c898b98652363ccb6523109f05d167a87735ff",
+    "size": 488290
+  },
+  "images/tokyo-night/countries/omarchy-country-BM-Bermuda-2K.webp": {
+    "sha256": "ff00c21e8e4eae105abfe1a08d5681eca04379836b48eeef6a8bdce01a28cc11",
+    "size": 336432
+  },
+  "images/tokyo-night/countries/omarchy-country-BN-Brunei-2K.webp": {
+    "sha256": "6cb636266ace3219fa542b6048b7bbe9f4cdd21da19a3694e72f4fa0015e58c0",
+    "size": 534576
+  },
+  "images/tokyo-night/countries/omarchy-country-BO-Bolivia-2K.webp": {
+    "sha256": "75a3ce2d5baf85af1027168086dcc35766c36bdb3d20ac3307c9243214732ea6",
+    "size": 367588
+  },
+  "images/tokyo-night/countries/omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K.webp": {
+    "sha256": "1e92efba8700a9cb2ecc5492a0249bb1f0895f06ee438753063ce8b77973fdff",
+    "size": 393826
+  },
+  "images/tokyo-night/countries/omarchy-country-BR-Brazil-2K.webp": {
+    "sha256": "8ff9577d54d22b02405d6c3170c2e7adb39f5533830da060a535cf38235a8387",
+    "size": 522250
+  },
+  "images/tokyo-night/countries/omarchy-country-BT-Bhutan-2K.webp": {
+    "sha256": "be3cd121482e4a60461c75d88ea2e76173a643ac537f1e5441941feeba3d699b",
+    "size": 405144
+  },
+  "images/tokyo-night/countries/omarchy-country-BS-Bahamas-2K.webp": {
+    "sha256": "5cd738d9ce2e8d58b226d21561c42a61ea3825f8fdd56dbe148b8a4104fb1ab1",
+    "size": 799986
+  },
+  "images/tokyo-night/countries/omarchy-country-BV-Bouvet-Island-2K.webp": {
+    "sha256": "b6735c515e9d8aac5e2e632325d57a1236d7caddd9b4900d7f6dc2b5d78f286a",
+    "size": 463674
+  },
+  "images/tokyo-night/countries/omarchy-country-BY-Belarus-2K.webp": {
+    "sha256": "a767f90e06b3aa0cb21e8cbdb00451003c16c2d416ea42e882007ad808b95c09",
+    "size": 305586
+  },
+  "images/tokyo-night/countries/omarchy-country-BW-Botswana-2K.webp": {
+    "sha256": "7d9f6b53ed4a2c3fc07f81c1ec51de554e59c686ff9433a6b03646fa6d4bb487",
+    "size": 465866
+  },
+  "images/tokyo-night/countries/omarchy-country-CA-Canada-2K.webp": {
+    "sha256": "2db3920a1ee4147d781d6b67092c67175f1da196157cd81cb411bc6094ecb94d",
+    "size": 323070
+  },
+  "images/tokyo-night/countries/omarchy-country-BZ-Belize-2K.webp": {
+    "sha256": "26827ffea064e745467f874d71e5899e6e2eea904ebe8284ea275f0795112eda",
+    "size": 425078
+  },
+  "images/tokyo-night/countries/omarchy-country-CC-Cocos-Keeling-Islands-2K.webp": {
+    "sha256": "a64bed8d85786c396e41b16bc43eba7d6293788d486d72724124d99ea061d763",
+    "size": 390154
+  },
+  "images/tokyo-night/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp": {
+    "sha256": "0093a1c4a28950b394012e04dcbf15911f7dfc5bdc41f477c21cee27697aec40",
+    "size": 397766
+  },
+  "images/tokyo-night/countries/omarchy-country-CF-Central-African-Republic-2K.webp": {
+    "sha256": "52b2d21b71b5e3f1bcb425168420cfbd167cc23e7c9c81099ba5d16a431af9f5",
+    "size": 362150
+  },
+  "images/tokyo-night/countries/omarchy-country-CG-Congo-2K.webp": {
+    "sha256": "aec883c8effa50c115c47b4a696e7d894d5ea20c828e0d40ccce7a444ff008c3",
+    "size": 351764
+  },
+  "images/tokyo-night/countries/omarchy-country-CI-Ivory-Coast-2K.webp": {
+    "sha256": "54fa74b65d4e138560ded3e4bd2c1483e402245bf8c05961a8cc5a65e584de60",
+    "size": 352706
+  },
+  "images/tokyo-night/countries/omarchy-country-CH-Switzerland-2K.webp": {
+    "sha256": "1ca9322266524aa1bd7ccb240c959781b6aa06d76e563ea72cfb9f1ee050df92",
+    "size": 413514
+  },
+  "images/tokyo-night/countries/omarchy-country-CK-Cook-Islands-2K.webp": {
+    "sha256": "6b7c33c1e13a29cdac459d844ec9eadccbe59c0e89ad4c52131db3be55fb54cb",
+    "size": 456558
+  },
+  "images/tokyo-night/countries/omarchy-country-CL-Chile-2K.webp": {
+    "sha256": "bff18c7816c177c73804794b07c43e6ea3ee1abff52fd2a197b0aabd902ad146",
+    "size": 540644
+  },
+  "images/tokyo-night/countries/omarchy-country-CM-Cameroon-2K.webp": {
+    "sha256": "1d1f8b93adfc78b32c04fdc5801b773afa7be608c540e676ef8d6c9d0fd84ee1",
+    "size": 415490
+  },
+  "images/tokyo-night/countries/omarchy-country-CN-China-2K.webp": {
+    "sha256": "876cb680d0a6de3aa0472622cdc04d2d06c334c137f802833130e65054870115",
+    "size": 430868
+  },
+  "images/tokyo-night/countries/omarchy-country-CU-Cuba-2K.webp": {
+    "sha256": "bd776decba277ead885560302cfab15695dc81837d347a01760e191468bd6c11",
+    "size": 486840
+  },
+  "images/tokyo-night/countries/omarchy-country-CW-Curacao-2K.webp": {
+    "sha256": "4e431d80fe5603979c79cefc025ee86355f5f4784b046273d068bd1970ce2af3",
+    "size": 409618
+  },
+  "images/tokyo-night/countries/omarchy-country-CZ-Czech-2K.webp": {
+    "sha256": "623a6520fa367355c665dc0c7c4fd745547588f7a25719c27dd0ef5b8b900b0e",
+    "size": 344100
+  },
+  "images/tokyo-night/countries/omarchy-country-DE-Germany-2K.webp": {
+    "sha256": "63e49e3b3684597d44037f7ee1a3e606395bd538e056ed09b03353392b96c8f4",
+    "size": 414838
+  },
+  "images/tokyo-night/countries/omarchy-country-CX-Christmas-Island-2K.webp": {
+    "sha256": "37a238ea8ee872443a1be7d9815b69b07a089581db89bbae0af44352b55b42ae",
+    "size": 485540
+  },
+  "images/tokyo-night/countries/omarchy-country-CY-Cyprus-2K.webp": {
+    "sha256": "e3131e1afe09011536d80e10ff8a7a2aa0c0fc146754480786f1469308ba67e4",
+    "size": 515086
+  },
+  "images/tokyo-night/countries/omarchy-country-DK-Denmark-2K.webp": {
+    "sha256": "40a95fa57329afdc9cd62ebb5d4181cd45a870dafb2b30867d657207a86a4c49",
+    "size": 501456
+  },
+  "images/tokyo-night/countries/omarchy-country-DJ-Djibouti-2K.webp": {
+    "sha256": "2941dfeedf9b089b48b0cd448e0c3831a27a789960c03ee9ed05eafa5983d309",
+    "size": 413414
+  },
+  "images/tokyo-night/countries/omarchy-country-DM-Dominica-2K.webp": {
+    "sha256": "1eb6313f6fd8aada33db4289eae5111a0b5951f1475b6d9e98150bd7290e9c51",
+    "size": 477620
+  },
+  "images/tokyo-night/countries/omarchy-country-DO-Dominican-Republic-2K.webp": {
+    "sha256": "f1c563b996eb60c9b182bd9d7ba3970fc3dabfbef0a324ee6e8379683c227133",
+    "size": 639272
+  },
+  "images/tokyo-night/countries/omarchy-country-DZ-Algeria-2K.webp": {
+    "sha256": "312f5cb794ccd385280abde551d8d48c7cb56048410244deae630d9a32ba1d83",
+    "size": 374296
+  },
+  "images/tokyo-night/countries/omarchy-country-EC-Ecuador-2K.webp": {
+    "sha256": "135825bdb729d86bff8b38629455cee7b78a122de7bb1bf8647c72b641151d93",
+    "size": 308908
+  },
+  "images/tokyo-night/countries/omarchy-country-EG-Egypt-2K.webp": {
+    "sha256": "2a613e9706ddf4efb4f36065cc8a23de2998c361828a8969dd322a2022b822a3",
+    "size": 232934
+  },
+  "images/tokyo-night/countries/omarchy-country-EE-Estonia-2K.webp": {
+    "sha256": "3d6b3554006c6cc70caeb3d54d4a89bbeff4722d6c63246771b9b915ac3d1895",
+    "size": 332384
+  },
+  "images/tokyo-night/countries/omarchy-country-EH-Western-Sahara-2K.webp": {
+    "sha256": "bfe729c18df750fe8e90a4679360c0296f09c5c96a8949e00517ca0a5bfd6499",
+    "size": 306242
+  },
+  "images/tokyo-night/countries/omarchy-country-ER-Eritrea-2K.webp": {
+    "sha256": "935b8675ee53d39609bfb25e2b2bbe02a50fb8817c909b2a01470fa275eb564b",
+    "size": 558548
+  },
+  "images/tokyo-night/countries/omarchy-country-ES-Spain-2K.webp": {
+    "sha256": "019d41d32f9293d38d7c5c93c9aff442f50bf35b010ec0fd290c8613a0e012c7",
+    "size": 379660
+  },
+  "images/tokyo-night/countries/omarchy-country-ET-Ethiopia-2K.webp": {
+    "sha256": "a39b7998605f360268b98abbe7658d9871458d5974093a44cbf32fa1abd27013",
+    "size": 402956
+  },
+  "images/tokyo-night/countries/omarchy-country-FI-Finland-2K.webp": {
+    "sha256": "0496e1af879fb186c4e6466d1c47480e5a59de138c80d5b5e857236644f1607b",
+    "size": 299726
+  },
+  "images/tokyo-night/countries/omarchy-country-FJ-Fiji-2K.webp": {
+    "sha256": "ec3d8340936b6ebc6cc93e550f48a3040e0ec9a6c81ad9d250c22b291cf1a4dc",
+    "size": 501598
+  },
+  "images/tokyo-night/countries/omarchy-country-FK-Falkland-Islands-2K.webp": {
+    "sha256": "af7d9d6c22021e3a68991fdd22ae100f72877c71a6f1d6ec935918c06d3ff3d3",
+    "size": 487620
+  },
+  "images/tokyo-night/countries/omarchy-country-FO-Faroe-Islands-2K.webp": {
+    "sha256": "5de365b47460524ff7d5dcf31990c9dcf6d08e37032fdf541ed0f6254c1ed10f",
+    "size": 387168
+  },
+  "images/tokyo-night/countries/omarchy-country-FM-Micronesia-2K.webp": {
+    "sha256": "1baab9d739e7cedec4f3899c65ad1e2f2ad8ab8bcad94bef827e01a96cf43710",
+    "size": 490546
+  },
+  "images/tokyo-night/countries/omarchy-country-GA-Gabon-2K.webp": {
+    "sha256": "d2fec83528149dc210941da0ed01e7cdd9270fefa6201399d2d76bd8b99b9905",
+    "size": 405870
+  },
+  "images/tokyo-night/countries/omarchy-country-FR-France-2K.webp": {
+    "sha256": "e355a46e19208e9184f601247e6b9e8d6e6e3dcb70e586d0df4445df24e36510",
+    "size": 465962
+  },
+  "images/tokyo-night/countries/omarchy-country-GB-UK-2K.webp": {
+    "sha256": "8ea5b4eb12238535c7b78739ece17c41393feba8ff224ef37f578c7e2f563021",
+    "size": 361466
+  },
+  "images/tokyo-night/countries/omarchy-country-GD-Grenada-2K.webp": {
+    "sha256": "05622d9897ce1a4a426c6e6a42577c867e2c0325425654127e675b635ae600b3",
+    "size": 418360
+  },
+  "images/tokyo-night/countries/omarchy-country-GE-Georgia-2K.webp": {
+    "sha256": "21405d566e875245e386cd08151cc79ea05b1d30333efdf705b34d709092e09a",
+    "size": 379566
+  },
+  "images/tokyo-night/countries/omarchy-country-GG-Guernsey-2K.webp": {
+    "sha256": "19069499b5b0938fee68ef2c6c4ee9d1a6d7fd492f6769832f33c28eb6c2f882",
+    "size": 482830
+  },
+  "images/tokyo-night/countries/omarchy-country-GH-Ghana-2K.webp": {
+    "sha256": "aef824e1df3a5d3f2a14f53a2df5f804cf918771bb2ed2406d5a63a6d1bc1fd2",
+    "size": 428288
+  },
+  "images/tokyo-night/countries/omarchy-country-GF-French-Guiana-2K.webp": {
+    "sha256": "cb55fe17699a6707bd26335cd6e121bcfa6ac1d1c07aed620bfa8bbfd60a4804",
+    "size": 629086
+  },
+  "images/tokyo-night/countries/omarchy-country-GN-Guinea-2K.webp": {
+    "sha256": "49507feaa5f769a1ada391d0efbd59a92abee8028f434811f31af8639e349c2b",
+    "size": 373810
+  },
+  "images/tokyo-night/countries/omarchy-country-GI-Gibraltar-2K.webp": {
+    "sha256": "1cf4e7e7930bc66cdd631ffa9b30f39b55bee6497dc73adf42c0a80d915de677",
+    "size": 523108
+  },
+  "images/tokyo-night/countries/omarchy-country-GL-Greenland-2K.webp": {
+    "sha256": "be419a1ada4424bb3112857f26b730ed0dc99ba09d3df948fbd7c6e8679b7d81",
+    "size": 491236
+  },
+  "images/tokyo-night/countries/omarchy-country-GM-Gambia-2K.webp": {
+    "sha256": "00757c97c6485fc260511b9c235d23202b48cf7fa6c261543841ea6b7e554aee",
+    "size": 494844
+  },
+  "images/tokyo-night/countries/omarchy-country-GP-Guadeloupe-2K.webp": {
+    "sha256": "6f11fa40c4ceef4165aa006fd58657c010a13a12cda59d36fb4c421c2c4015c3",
+    "size": 425150
+  },
+  "images/tokyo-night/countries/omarchy-country-GQ-Equatorial-Guinea-2K.webp": {
+    "sha256": "c44f4f3dbb697756e0abb6a03796175872cc12f58ae72126ea152c0261cfdac2",
+    "size": 487944
+  },
+  "images/tokyo-night/countries/omarchy-country-GR-Greece-2K.webp": {
+    "sha256": "9ae77a94cb646ef994d162c914835ae39f60f8581ac4832abde17341179057ec",
+    "size": 455080
+  },
+  "images/tokyo-night/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp": {
+    "sha256": "85259ae4ff4c140f5ff5b2c9db20e9fb2175046cf11b54341aaa891daff7f3f1",
+    "size": 361182
+  },
+  "images/tokyo-night/countries/omarchy-country-GU-Guam-2K.webp": {
+    "sha256": "b091e845b6b9c8d481b99ad1b459f105fff41f3020a305854a22a02198ed725a",
+    "size": 391224
+  },
+  "images/tokyo-night/countries/omarchy-country-GW-Guinea-Bissau-2K.webp": {
+    "sha256": "a322da6b4f39a9933f6add39f1b91704127f487be188d6c92af90b2d4baff275",
+    "size": 460746
+  },
+  "images/tokyo-night/countries/omarchy-country-GT-Guatemala-2K.webp": {
+    "sha256": "2e6ee6519073b57a81174618e74433ef2447b5b48d94011c520dec13d792d1ee",
+    "size": 444726
+  },
+  "images/tokyo-night/countries/omarchy-country-GY-Guyana-2K.webp": {
+    "sha256": "c320ceced69a9939d0a300bcc079e8db06ffc8a045c5e97baec8e3262f02a3ef",
+    "size": 406206
+  },
+  "images/tokyo-night/countries/omarchy-country-HK-Hong-Kong-2K.webp": {
+    "sha256": "b2a98f6da52c0636a58e31827c5d64223b4532ee86285891ab9e0dcb86bd5a6e",
+    "size": 426152
+  },
+  "images/tokyo-night/countries/omarchy-country-HR-Croatia-2K.webp": {
+    "sha256": "dd1f7a055231a743f80f74c358d2cb947019babfb6af1cbf562df59a990a083f",
+    "size": 467822
+  },
+  "images/tokyo-night/countries/omarchy-country-HN-Honduras-2K.webp": {
+    "sha256": "97830ee770584f88eb579d40ad32c7eaeab1ce7fea2fd6f723bd7696843c1479",
+    "size": 461936
+  },
+  "images/tokyo-night/countries/omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K.webp": {
+    "sha256": "d8ffb7edf6e61cda994a80fefd64ac6bc9dc53071eb6f185591041eaad836549",
+    "size": 570626
+  },
+  "images/tokyo-night/countries/omarchy-country-HT-Haiti-2K.webp": {
+    "sha256": "52ca0f9d4ecb8a49b195f836cb6eba3f7daba67f5b02e3948171cee82d0a89a2",
+    "size": 516046
+  },
+  "images/tokyo-night/countries/omarchy-country-HU-Hungary-2K.webp": {
+    "sha256": "370e10f4a60f5f2b1f0309b9a6608f2142cdee9e11ba3498b08dd831f640f7db",
+    "size": 303548
+  },
+  "images/tokyo-night/countries/omarchy-country-IL-Israel-2K.webp": {
+    "sha256": "ec45401cd085927b99c9944f995ccc3234395e69d8786130504a1fed20cfbee9",
+    "size": 584486
+  },
+  "images/tokyo-night/countries/omarchy-country-IM-Isle-of-Man-2K.webp": {
+    "sha256": "2b006202ccc39d7dedc6bfb12acf5d8ca57718cca37dbc0fc250a8ff56669c9f",
+    "size": 525650
+  },
+  "images/tokyo-night/countries/omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp": {
+    "sha256": "06c9f1de07f14c04902b29e7d6e09fadd741fea2e2a5f61c9a056ca38ae50128",
+    "size": 441190
+  },
+  "images/tokyo-night/countries/omarchy-country-IQ-Iraq-2K.webp": {
+    "sha256": "abe2bf90b2fa5c8913d9ba6b0bdcd38f13dab9a206d2f0c94e11da7ce8039c46",
+    "size": 319072
+  },
+  "images/tokyo-night/countries/omarchy-country-IN-India-2K.webp": {
+    "sha256": "ea1cb19701fcc3910d52c1f7a70acfed1d93f8204b7d03ba64d8fc3cadb8b7f4",
+    "size": 507784
+  },
+  "images/tokyo-night/countries/omarchy-country-IR-Iran-2K.webp": {
+    "sha256": "2e1bef9637a66953adbc6c2a606e74a005062b00ce1d253a19072ac5655c1a95",
+    "size": 387688
+  },
+  "images/tokyo-night/countries/omarchy-country-IT-Italy-2K.webp": {
+    "sha256": "a3ca5a798f29ee50f4fc62c137fc4244b0c8f0a6793b460e7863dd62fe330d59",
+    "size": 486412
+  },
+  "images/tokyo-night/countries/omarchy-country-IS-Iceland-2K.webp": {
+    "sha256": "cdc847808d942165c5d6b1a16c6aa8e3f2dc8c34358f53e393605d1e8ceb6011",
+    "size": 450876
+  },
+  "images/tokyo-night/countries/omarchy-country-JM-Jamaica-2K.webp": {
+    "sha256": "56d764b9c88314a29ed66283a579670b9a67cd608fc306ebec148c4a68329d29",
+    "size": 569836
+  },
+  "images/tokyo-night/countries/omarchy-country-JE-Jersey-2K.webp": {
+    "sha256": "37432bc74df00d6fa8b708000c59b209af88b369189e81e1b2e6675409174394",
+    "size": 396962
+  },
+  "images/tokyo-night/countries/omarchy-country-JO-Jordan-2K.webp": {
+    "sha256": "574ee0b31b0c86f56e429570956d8a87e86ab8b0bb9b5726dc40f318c6015100",
+    "size": 376158
+  },
+  "images/tokyo-night/countries/omarchy-country-JP-Japan-2K.webp": {
+    "sha256": "cdaf3e8441c67658603e5301811854de3106c4a9000a5efe7d6864b35c73006d",
+    "size": 340710
+  },
+  "images/tokyo-night/countries/omarchy-country-KE-Kenya-2K.webp": {
+    "sha256": "442ef902d222d9d2614ea7b1ef5f9a83f2643002567783947d355dfee7e86259",
+    "size": 289242
+  },
+  "images/tokyo-night/countries/omarchy-country-KG-Kyrgyzstan-2K.webp": {
+    "sha256": "c777a1cdf511a4e33ed2249ba6e7f08c10d9ecbfe332102beb4cb2355aab4f2b",
+    "size": 466986
+  },
+  "images/tokyo-night/countries/omarchy-country-KH-Cambodia-2K.webp": {
+    "sha256": "8273d73ca3d1904fe6b98e10521a867f9dd4e52ce53bd48c69d5c0ca26e60832",
+    "size": 459260
+  },
+  "images/tokyo-night/countries/omarchy-country-KI-Kiribati-2K.webp": {
+    "sha256": "c6ebde75a735b76b131d487c121d9da8fa4c82bd6aa20cc90793e07047174490",
+    "size": 417072
+  },
+  "images/tokyo-night/countries/omarchy-country-KN-Saint-Kitts-and-Nevis-2K.webp": {
+    "sha256": "038e5aba4e83e8560a4eb4c40883f08d0a8a2fb8b5872b0c49d3096b90a1ce07",
+    "size": 481434
+  },
+  "images/tokyo-night/countries/omarchy-country-KW-Kuwait-2K.webp": {
+    "sha256": "7672148a2279ad5cde43e2d088e55f64cfc92c228aa491172afb52d1992c4470",
+    "size": 252490
+  },
+  "images/tokyo-night/countries/omarchy-country-KR-South-Korea-2K.webp": {
+    "sha256": "35ca021f37d2ffda53329fe7707140175d846255277194d5f84a98a97c49d62b",
+    "size": 407300
+  },
+  "images/tokyo-night/countries/omarchy-country-KP-North-Korea-2K.webp": {
+    "sha256": "e178b4aac4a80ee1395df2378aea12ef932e7bf184cf80cfb79940f14cdcd04b",
+    "size": 361194
+  },
+  "images/tokyo-night/countries/omarchy-country-KM-Comoros-2K.webp": {
+    "sha256": "126554ed4256d57a0d484630f780458a8b11a7b115c35de60ac5d3cc8d358818",
+    "size": 603478
+  },
+  "images/tokyo-night/countries/omarchy-country-KZ-Kazakhstan-2K.webp": {
+    "sha256": "42603e3cb288e038499f9b9eb737da3c186bf4a0158bf3ec56e8782e4013608f",
+    "size": 419312
+  },
+  "images/tokyo-night/countries/omarchy-country-LA-Laos-2K.webp": {
+    "sha256": "4e6ef2f05ab16fd21143918c432a8b61171af2b00521c6c8b82a170cc18c5b0d",
+    "size": 545230
+  },
+  "images/tokyo-night/countries/omarchy-country-KY-Cayman-Islands-2K.webp": {
+    "sha256": "fcb372964e6c6b99deddfb99a056ffdbbe6f937b1f0ee76aca1b34225774e499",
+    "size": 596102
+  },
+  "images/tokyo-night/countries/omarchy-country-LK-Sri-Lanka-2K.webp": {
+    "sha256": "c0542a2df2e2dd9c2e34d35624accaae4ed15a55d67dee48e44d57b197f3c635",
+    "size": 624082
+  },
+  "images/tokyo-night/countries/omarchy-country-LR-Liberia-2K.webp": {
+    "sha256": "a4ce6fbf3129a96b9b4e26f4e46dc2a2e5ca0ffb57a2dc704a7c3324268f4dcd",
+    "size": 481096
+  },
+  "images/tokyo-night/countries/omarchy-country-LC-Saint-Lucia-2K.webp": {
+    "sha256": "8389f671a4cec0edace4d4025ee6254ac75ffca3ed767180b4a313adca7d32f7",
+    "size": 574326
+  },
+  "images/tokyo-night/countries/omarchy-country-LB-Lebanon-2K.webp": {
+    "sha256": "79a1f37e64cafe8cc8ccafe85f508697627fba7f7f3a18a103511190c3934105",
+    "size": 569192
+  },
+  "images/tokyo-night/countries/omarchy-country-LI-Liechtenstein-2K.webp": {
+    "sha256": "9ce6d1e30c7f79b25a6aa9e4399af23a9fa750ffad6b1cd7fe8a6ce71f262485",
+    "size": 527394
+  },
+  "images/tokyo-night/countries/omarchy-country-LS-Lesotho-2K.webp": {
+    "sha256": "55b9af487ec98109bf5cdf2fe69df7b94e2f87133e0ecb5ae71abcc38c1b2995",
+    "size": 486790
+  },
+  "images/tokyo-night/countries/omarchy-country-LT-Lithuania-2K.webp": {
+    "sha256": "ebf401bb6586a568aa9dec12e93173d93ad23519c93ae7b16988924cd3cb7ae1",
+    "size": 378298
+  },
+  "images/tokyo-night/countries/omarchy-country-LU-Luxembourg-2K.webp": {
+    "sha256": "857b318efe3bae97a66211c8471f3b322e6c36e2cdd51ef9fe26a307bec1513a",
+    "size": 411832
+  },
+  "images/tokyo-night/countries/omarchy-country-LY-Libya-2K.webp": {
+    "sha256": "b10d1b20422aadbc7a431d2fd155e1e214321c15e5afd8bb7fddeff78a037693",
+    "size": 324346
+  },
+  "images/tokyo-night/countries/omarchy-country-LV-Latvia-2K.webp": {
+    "sha256": "c24a3107293fea7e9bfab56df64a1e1550218cfc8c97aabb6d082a1b6ab8a10a",
+    "size": 598124
+  },
+  "images/tokyo-night/countries/omarchy-country-MC-Monaco-2K.webp": {
+    "sha256": "549912f871fc6d5e87e323b18f2a650f19dae8b6d4ae270bc931ad7b4516d3a5",
+    "size": 585226
+  },
+  "images/tokyo-night/countries/omarchy-country-MA-Morocco-2K.webp": {
+    "sha256": "7d0b0420f46be4dff59bdb903c4b4be0db906aca736746634326e576dbb34e4a",
+    "size": 481638
+  },
+  "images/tokyo-night/countries/omarchy-country-MD-Moldova-2K.webp": {
+    "sha256": "3c4e311d5a1c2061c64f36a12df94110d84a0716c8e0e2cd7e9c03bc6a18ec1d",
+    "size": 642188
+  },
+  "images/tokyo-night/countries/omarchy-country-MF-Saint-Martin-2K.webp": {
+    "sha256": "7f1fae3f4f61f3f7bb8d2bbf8415bbaf78519f2e605b0853603d732125dba691",
+    "size": 431922
+  },
+  "images/tokyo-night/countries/omarchy-country-ME-Montenegro-2K.webp": {
+    "sha256": "a4e704edbaa9521c6dfa049848a621e57580861b0cf50e5afbe263bc4cc7c164",
+    "size": 528862
+  },
+  "images/tokyo-night/countries/omarchy-country-MG-Madagascar-2K.webp": {
+    "sha256": "37b80067a69b81fffabbfe92ff840d2b74827b5df5e8b541b6fc3cbdb2e2b59d",
+    "size": 390630
+  },
+  "images/tokyo-night/countries/omarchy-country-MH-Marshall-Islands-2K.webp": {
+    "sha256": "a5436fecaa3ef50c53c87a20a16712832583492f8ea9b418a99ccb33edf20a36",
+    "size": 471716
+  },
+  "images/tokyo-night/countries/omarchy-country-ML-Mali-2K.webp": {
+    "sha256": "80c92c5a7dc02dc077dfa595862aad9c1cb88994389ef421a98036e46d2bfe1d",
+    "size": 352510
+  },
+  "images/tokyo-night/countries/omarchy-country-MK-North-Macedonia-2K.webp": {
+    "sha256": "1dd424af44cb13e19e9f9d92d7967f3fcdcc8b2ea5aa4bbdf53cf871b9e2c195",
+    "size": 519338
+  },
+  "images/tokyo-night/countries/omarchy-country-MN-Mongolia-2K.webp": {
+    "sha256": "d34318485de61b2fb53ad419ddb732267c7ed6547743828492970d0041122186",
+    "size": 446716
+  },
+  "images/tokyo-night/countries/omarchy-country-MM-Myanmar-2K.webp": {
+    "sha256": "4f93a642b6a25e5ef5501d7bc2586eeb4a00af1ca54ce7a71c4aa0c0464ebfe1",
+    "size": 462444
+  },
+  "images/tokyo-night/countries/omarchy-country-MP-Northern-Mariana-Islands-2K.webp": {
+    "sha256": "5e2f5199d67e0ae1902ba4d9445c20013e09cfc80e494839d5a32c88dd5d761b",
+    "size": 414710
+  },
+  "images/tokyo-night/countries/omarchy-country-MO-Macau-2K.webp": {
+    "sha256": "49e97ead22a6d6ecbfa7a7d7a6300bc260a91d1ce533610c96d5354c52b86d3e",
+    "size": 424230
+  },
+  "images/tokyo-night/countries/omarchy-country-MQ-Martinique-2K.webp": {
+    "sha256": "91d29146832c880c91c7c5cfefb531a4e7e1b2078b11a9395ed7af3db5a09c40",
+    "size": 737302
+  },
+  "images/tokyo-night/countries/omarchy-country-MS-Montserrat-2K.webp": {
+    "sha256": "3812cdc692a053fccf8177deb651ccd9598d2a643193d78fa28e0eab3374c53e",
+    "size": 424260
+  },
+  "images/tokyo-night/countries/omarchy-country-MR-Mauritania-2K.webp": {
+    "sha256": "194ed68300dc9eb83c6781ddab009dc0373e853a1641f986518221cbc97dc49e",
+    "size": 238970
+  },
+  "images/tokyo-night/countries/omarchy-country-MV-Maldives-2K.webp": {
+    "sha256": "5f18ab02fab6e75ce9bf658a16a0584dceca09d78564550aaa07af211939e80b",
+    "size": 333118
+  },
+  "images/tokyo-night/countries/omarchy-country-MU-Mauritius-2K.webp": {
+    "sha256": "4ab6d7267d6a624a5d9d5cfc03a581449da767c8537c6477e0c833f0bb901014",
+    "size": 583856
+  },
+  "images/tokyo-night/countries/omarchy-country-MX-Mexico-2K.webp": {
+    "sha256": "c3d72b9dab4eb52c9e9c68ca002a354813ace19a60c8f8771b21fa3b71568a05",
+    "size": 455294
+  },
+  "images/tokyo-night/countries/omarchy-country-MW-Malawi-2K.webp": {
+    "sha256": "7b20f7f463e8f245cbb0ebf51d04f9774a63d06095779bae8262e4bfae3368c1",
+    "size": 370396
+  },
+  "images/tokyo-night/countries/omarchy-country-MY-Malaysia-2K.webp": {
+    "sha256": "579132069cb52ebba92f6e38b461befc6f6e4d3f00d53ba47647e140ab615777",
+    "size": 459174
+  },
+  "images/tokyo-night/countries/omarchy-country-MZ-Mozambique-2K.webp": {
+    "sha256": "c94b859a01e552808021a3bb0da447b40463f55993776a142b2f6c4e3470b30e",
+    "size": 460178
+  },
+  "images/tokyo-night/countries/omarchy-country-NA-Namibia-2K.webp": {
+    "sha256": "aa5584c4f40c062ca3a620064a28da63ae4f45644ae363a6ce795cb154e63fbd",
+    "size": 429802
+  },
+  "images/tokyo-night/countries/omarchy-country-NC-New-Caledonia-2K.webp": {
+    "sha256": "98da6bc17b852788e1f92ef8a9e4e21ecec929c5e2aac6edc32e9a70885fd384",
+    "size": 390414
+  },
+  "images/tokyo-night/countries/omarchy-country-NE-Niger-2K.webp": {
+    "sha256": "105d282312d32fb20d22d3da8d41c0bbcaa2700380faa0873c60ea4961468eb5",
+    "size": 291586
+  },
+  "images/tokyo-night/countries/omarchy-country-NG-Nigeria-2K.webp": {
+    "sha256": "4a792a8acfb8cf68bee0f31694205283c1f9faed95f3ccf1c39c736b33e0661a",
+    "size": 554346
+  },
+  "images/tokyo-night/countries/omarchy-country-NF-Norfolk-Island-2K.webp": {
+    "sha256": "06539b42fffaf520d3ee78f788e76d17bc242a4d2612af5c62409db311f5a490",
+    "size": 601300
+  },
+  "images/tokyo-night/countries/omarchy-country-NL-Netherlands-2K.webp": {
+    "sha256": "2478adfc211dab63f9d9752f9b821b7c822f912a17a24c203842aaa5af2687e2",
+    "size": 415504
+  },
+  "images/tokyo-night/countries/omarchy-country-NI-Nicaragua-2K.webp": {
+    "sha256": "ce9cb26e7b4069eb0c613391c4242b2fb65825fa50e7497d732872d843173352",
+    "size": 478778
+  },
+  "images/tokyo-night/countries/omarchy-country-NO-Norway-2K.webp": {
+    "sha256": "d0049a7ef4d766a060936a10c64da7d58d9b4a5eae2cf2951dcd83bb6ff5812f",
+    "size": 487880
+  },
+  "images/tokyo-night/countries/omarchy-country-NP-Nepal-2K.webp": {
+    "sha256": "1f03f2af9b57bcdd99fc3a2331eb12d74d3ce029ec0ec22e9c03120bc314d19b",
+    "size": 526370
+  },
+  "images/tokyo-night/countries/omarchy-country-NR-Nauru-2K.webp": {
+    "sha256": "f9c791ac6a35a6e20e0c0e644a20c3809dc693b9dcf9b205ccdbb26bc0f19895",
+    "size": 682018
+  },
+  "images/tokyo-night/countries/omarchy-country-NU-Niue-2K.webp": {
+    "sha256": "e411b2ad79d512a4b7aa28a14e147652b0f0e891723c2a402b6c462f7122b8d5",
+    "size": 497326
+  },
+  "images/tokyo-night/countries/omarchy-country-OM-Oman-2K.webp": {
+    "sha256": "712af08df6974a16e8447b401063916e080f72cc2b4bce951213fc6116ec4973",
+    "size": 282766
+  },
+  "images/tokyo-night/countries/omarchy-country-NZ-New-Zealand-2K.webp": {
+    "sha256": "74741f5e6dad548eb83b7d55a10371032064192dfc312866e73ef524e402679b",
+    "size": 527270
+  },
+  "images/tokyo-night/countries/omarchy-country-PA-Panama-2K.webp": {
+    "sha256": "ec51b1d604ec21063409f56ac1e8a6ad599ce4a4998593e6b0197f1bf1fae6da",
+    "size": 554004
+  },
+  "images/tokyo-night/countries/omarchy-country-PE-Peru-2K.webp": {
+    "sha256": "fd2f6a471da394c773c7d3821e99d198abc506b9b5639434288f9348cf4ea57d",
+    "size": 618280
+  },
+  "images/tokyo-night/countries/omarchy-country-PF-French-Polynesia-2K.webp": {
+    "sha256": "ca2a042a85a575ee13da7fa127ab1e163e10b6a425387334a86edfd7bb44f402",
+    "size": 536338
+  },
+  "images/tokyo-night/countries/omarchy-country-PL-Poland-2K.webp": {
+    "sha256": "32c6081463a701b0dbea56dcfb9df1000ba493d49816218c8b7afd4180213f10",
+    "size": 502792
+  },
+  "images/tokyo-night/countries/omarchy-country-PG-Papua-New-Guinea-2K.webp": {
+    "sha256": "a6f982de86f90bac2f26f2fedb2fd46750993305dbea71b851125375c7fcd34f",
+    "size": 616390
+  },
+  "images/tokyo-night/countries/omarchy-country-PM-Saint-Pierre-and-Miquelon-2K.webp": {
+    "sha256": "0cf08a2a7d04a192cbc82a6ca76d039d3c6c449b587d6d120d7481449d891c25",
+    "size": 533932
+  },
+  "images/tokyo-night/countries/omarchy-country-PH-Philippines-2K.webp": {
+    "sha256": "e1683ab3c1de03463277d17692a89481cc7521cf2467b06f3c82ff2a2002de6c",
+    "size": 436176
+  },
+  "images/tokyo-night/countries/omarchy-country-PK-Pakistan-2K.webp": {
+    "sha256": "5d1b02a99637b65015fbdcf54da43943cde1a34eceedb86d38ef01321efbfe70",
+    "size": 499388
+  },
+  "images/tokyo-night/countries/omarchy-country-PR-Puerto-Rico-2K.webp": {
+    "sha256": "6ab564826acfe92aad0d9b412928d6b73b68d370e5b7c4fa0d45905ae59a835c",
+    "size": 383214
+  },
+  "images/tokyo-night/countries/omarchy-country-PN-Pitcairn-2K.webp": {
+    "sha256": "d060d842b6b6057f0b6661a80a8e8c16c9185091e23a94e0ac2febfb325edfee",
+    "size": 678356
+  },
+  "images/tokyo-night/countries/omarchy-country-PS-Palestine-2K.webp": {
+    "sha256": "dea3c58776895e0c3cce6460426e682f08c1385fc7bcd5f2bb4ed0ef6431c50a",
+    "size": 394272
+  },
+  "images/tokyo-night/countries/omarchy-country-PT-Portugal-2K.webp": {
+    "sha256": "4ccb092b1b56396de07e8a5ffaf109d957f5f14ec3f044f6ac6a6e4f8185aeec",
+    "size": 459424
+  },
+  "images/tokyo-night/countries/omarchy-country-QA-Qatar-2K.webp": {
+    "sha256": "3be6567ea804638e157581428f07464e9af0670c834ae3d04cc34886bf21e598",
+    "size": 307716
+  },
+  "images/tokyo-night/countries/omarchy-country-PW-Palau-2K.webp": {
+    "sha256": "f27a6fa6c2fc4da03ea7665b924820fe8f60b73a2bfb16080a83f938bbf80e1c",
+    "size": 589212
+  },
+  "images/tokyo-night/countries/omarchy-country-PY-Paraguay-2K.webp": {
+    "sha256": "e2764a80b7f87bff83caf6127b30c71cc13ee388cc231a7063510acc65bdb8b2",
+    "size": 522570
+  },
+  "images/tokyo-night/countries/omarchy-country-RE-Reunion-2K.webp": {
+    "sha256": "2e531543334eaefdd919e8f18cea0ead488562173228c8a46f8215d1f521b576",
+    "size": 566418
+  },
+  "images/tokyo-night/countries/omarchy-country-RO-Romania-2K.webp": {
+    "sha256": "b43bf2c199be77845bc4a61750442b47ed39d1ee12124cf15a73c10656fae5c7",
+    "size": 469656
+  },
+  "images/tokyo-night/countries/omarchy-country-RU-Russia-2K.webp": {
+    "sha256": "f2c0b475a459e3fedf0944295ef694ff0ea1984931766749f314c0c49ad08602",
+    "size": 364014
+  },
+  "images/tokyo-night/countries/omarchy-country-RS-Serbia-2K.webp": {
+    "sha256": "763774fef283a9a5935d7e34eaaeee62a484fa2d89485063eb927c74906fd80b",
+    "size": 419912
+  },
+  "images/tokyo-night/countries/omarchy-country-RW-Rwanda-2K.webp": {
+    "sha256": "1d410026f2de1214186d1fc20b30727bedee6c5e75acf0da13e480fc4fe7b2fb",
+    "size": 380532
+  },
+  "images/tokyo-night/countries/omarchy-country-SA-Saudi-Arabia-2K.webp": {
+    "sha256": "450517f3274d75bb4b2c05df1991e963c4a7944f2a4d3054f677f22d5bcabf05",
+    "size": 414156
+  },
+  "images/tokyo-night/countries/omarchy-country-SC-Seychelles-2K.webp": {
+    "sha256": "e397f56cce71153c06684fa840b5f4a7d7e9c4fe11ca3c6ede202cdd5d4146e9",
+    "size": 449454
+  },
+  "images/tokyo-night/countries/omarchy-country-SD-Sudan-2K.webp": {
+    "sha256": "a78afda8bdcb13a6a589661d0f31ecc2f1966d49dec630f7c2939f82cd4453f3",
+    "size": 363444
+  },
+  "images/tokyo-night/countries/omarchy-country-SB-Solomon-Islands-2K.webp": {
+    "sha256": "f82d9cf42a557809ebf3d02ecfc56276848baf2dd4dc35303c0140458aced31b",
+    "size": 526438
+  },
+  "images/tokyo-night/countries/omarchy-country-SE-Sweden-2K.webp": {
+    "sha256": "0961402f1d6b6d53399196f3baaa29fe31f698e71e8d70692594b9a085695609",
+    "size": 383138
+  },
+  "images/tokyo-night/countries/omarchy-country-SG-Singapore-2K.webp": {
+    "sha256": "0da0faacd8ff9e9c1d68a896af1c24d86b0611820880d21f61a29ecf97803db5",
+    "size": 364216
+  },
+  "images/tokyo-night/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K.webp": {
+    "sha256": "aa7209ca49f223e4a0492b8d83d682343de88d3f05c5d9e5f3d87c827f645be6",
+    "size": 413302
+  },
+  "images/tokyo-night/countries/omarchy-country-SI-Slovenia-2K.webp": {
+    "sha256": "8d113e4cb8410d026f2af4276857167afbb7ca2981e4f8875c7bca268ec0c96a",
+    "size": 525390
+  },
+  "images/tokyo-night/countries/omarchy-country-SK-Slovakia-2K.webp": {
+    "sha256": "901b219ca393aa040850c9222a5e16c4b4936b54d803ec51b2f0539e46e47368",
+    "size": 398042
+  },
+  "images/tokyo-night/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp": {
+    "sha256": "2ade9af2ab9776ac791499772fecf757f135aa72ec69ad8bfb6aeb1b66d85665",
+    "size": 555284
+  },
+  "images/tokyo-night/countries/omarchy-country-SL-Sierra-Leone-2K.webp": {
+    "sha256": "4f84a0cd8ca135a174d2a30610852b5f6b013ecccc82d57d7c1427c4c4223861",
+    "size": 592546
+  },
+  "images/tokyo-night/countries/omarchy-country-SN-Senegal-2K.webp": {
+    "sha256": "d7f7313901a8e518e9dbadcf3a7a17f33f13ad82b50cec4c14fa138be121fc16",
+    "size": 467432
+  },
+  "images/tokyo-night/countries/omarchy-country-SO-Somalia-2K.webp": {
+    "sha256": "15769eead20c06e64ab2ac3e1bc922ef3ec4bc9c7ad69484e9635818f834ffa7",
+    "size": 378134
+  },
+  "images/tokyo-night/countries/omarchy-country-SR-Suriname-2K.webp": {
+    "sha256": "a4422a093315b1b8e17b18d4d62f31c27ebb41a4c35591b830fa76c57db4cdd8",
+    "size": 460730
+  },
+  "images/tokyo-night/countries/omarchy-country-SS-South-Sudan-2K.webp": {
+    "sha256": "26fe8cc3c9afa490aa2d5f08cc866ce05e46788946c3e69ba61ff3a041e7d648",
+    "size": 547492
+  },
+  "images/tokyo-night/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp": {
+    "sha256": "c284c547b873aca1d75009ec34118fa9e5901dde51b5adfbf16fec6fa57cc903",
+    "size": 457274
+  },
+  "images/tokyo-night/countries/omarchy-country-SY-Syria-2K.webp": {
+    "sha256": "f4c6b4f0d728b0e1834d8d1e93bd35d82db3ec1bcacc8609ac6b6b32c3485358",
+    "size": 387692
+  },
+  "images/tokyo-night/countries/omarchy-country-SV-El-Salvador-2K.webp": {
+    "sha256": "3b05c9537b51ea714165dc8372815c344671ee0ecee42baa73bb7f2e8a1e967a",
+    "size": 432920
+  },
+  "images/tokyo-night/countries/omarchy-country-SX-Sint-Maarten-2K.webp": {
+    "sha256": "2d34a9df5047c98bf6f86118848d6c0516919dc88a34cb0093efbd213132395a",
+    "size": 416416
+  },
+  "images/tokyo-night/countries/omarchy-country-SZ-Eswatini-2K.webp": {
+    "sha256": "0f0530404ac045324c49888c1ae93e2d7e9d660e63b1443f1a04fb80d7c4eca6",
+    "size": 538166
+  },
+  "images/tokyo-night/countries/omarchy-country-TD-Chad-2K.webp": {
+    "sha256": "3fe1bf3d62480808fc47958bb64ca2564acd12ed2c2db3413e777fb87e567d90",
+    "size": 412752
+  },
+  "images/tokyo-night/countries/omarchy-country-TC-Turks-and-Caicos-Islands-2K.webp": {
+    "sha256": "05ceb01f6dbbdfecc584285d7e4694e30a866882b613b6d6a5ba50d839708ab9",
+    "size": 426478
+  },
+  "images/tokyo-night/countries/omarchy-country-TG-Togo-2K.webp": {
+    "sha256": "99a56d0f82ad7cc77c03da284c584d1f25855a7ed8827c5dbfae24b0ddc7ec55",
+    "size": 355294
+  },
+  "images/tokyo-night/countries/omarchy-country-TF-French-Southern-Territories-2K.webp": {
+    "sha256": "e5a868e2588c81ff08e1f59a6755d273eb607419b1ae4167805ab30407889b11",
+    "size": 341134
+  },
+  "images/tokyo-night/countries/omarchy-country-TJ-Tajikistan-2K.webp": {
+    "sha256": "fc23261305cd5e4adcf5a608be5a2a50f6d89b79467b42bcbd47b58982ef2db0",
+    "size": 370272
+  },
+  "images/tokyo-night/countries/omarchy-country-TH-Thailand-2K.webp": {
+    "sha256": "b9a172605585fc6f82071c4f84688b1e8c8ad4c25ab63175e682eae58ca64355",
+    "size": 487990
+  },
+  "images/tokyo-night/countries/omarchy-country-TK-Tokelau-2K.webp": {
+    "sha256": "b0e67b9aa92c20ac8293221a319a19f295d6f7af7a517967a0a70a7fa1aa2f9f",
+    "size": 440144
+  },
+  "images/tokyo-night/countries/omarchy-country-TM-Turkmenistan-2K.webp": {
+    "sha256": "8b9d7e661ebe17d6925723e9032ef2032beb916bc3a391baf0cc352da062c117",
+    "size": 364228
+  },
+  "images/tokyo-night/countries/omarchy-country-TL-Timor-Leste-2K.webp": {
+    "sha256": "66c633923cddb3560ea427c361563ed88a7e55cf90da6ed8d43c040d3c1842d2",
+    "size": 360786
+  },
+  "images/tokyo-night/countries/omarchy-country-TN-Tunisia-2K.webp": {
+    "sha256": "73658555335938b3cf2c26877737a7d9565d63e3605aaff4fb971c5f6956dd25",
+    "size": 368128
+  },
+  "images/tokyo-night/countries/omarchy-country-TR-Turkey-2K.webp": {
+    "sha256": "1c8103f98f2d8672fb61d2b2bcc9d12f68b26bf1569b10305af157139d1b56ad",
+    "size": 368316
+  },
+  "images/tokyo-night/countries/omarchy-country-TO-Tonga-2K.webp": {
+    "sha256": "e2e80ab7c69492ead8758d92ec8af562955cce822da157ccaa7a51980062fe54",
+    "size": 418648
+  },
+  "images/tokyo-night/countries/omarchy-country-TT-Trinidad-and-Tobago-2K.webp": {
+    "sha256": "eaaea43f23281e12d30075468472c740ba31ef6ff54072439195069f9924d257",
+    "size": 391470
+  },
+  "images/tokyo-night/countries/omarchy-country-TV-Tuvalu-2K.webp": {
+    "sha256": "d60255ef3c45beab0a01964bb0d6b273cb62d159931f519bb4673747162da650",
+    "size": 452538
+  },
+  "images/tokyo-night/countries/omarchy-country-TW-Taiwan-2K.webp": {
+    "sha256": "8566db13e66aa25d6551db5cfb11abb759c7b0be94d15821e32fbca24c547a56",
+    "size": 372288
+  },
+  "images/tokyo-night/countries/omarchy-country-TZ-Tanzania-2K.webp": {
+    "sha256": "807561f2dffc16e4b8acc4dcbca4ea8e1f3c1e8d10c0edd59a4a3e2ac680b0a6",
+    "size": 354612
+  },
+  "images/tokyo-night/countries/omarchy-country-UA-Ukraine-2K.webp": {
+    "sha256": "7975a3abd3a501845da22a6fe8116182a11ae78bc3f440b3c55c3db0e5b3c122",
+    "size": 420074
+  },
+  "images/tokyo-night/countries/omarchy-country-UG-Uganda-2K.webp": {
+    "sha256": "ee29b66063fabdb108612383ff16f5bdf1580d91be7fe4e4c9438e942c64630e",
+    "size": 481866
+  },
+  "images/tokyo-night/countries/omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp": {
+    "sha256": "319e85b032820d8a5621cd626473ff0e12d9ec7490993aa8534e83655c5f6d2d",
+    "size": 485546
+  },
+  "images/tokyo-night/countries/omarchy-country-US-USA-2K.webp": {
+    "sha256": "20025482ee180a93bf9a11b6fcd0daa89b972de5a84331aa56e96dee85b648b9",
+    "size": 425894
+  },
+  "images/tokyo-night/countries/omarchy-country-UY-Uruguay-2K.webp": {
+    "sha256": "b8d302ffe1041085903e04ed18ec2193598f453d3a8e4630aa5b3d352449190f",
+    "size": 352632
+  },
+  "images/tokyo-night/countries/omarchy-country-UZ-Uzbekistan-2K.webp": {
+    "sha256": "c46b22e47937198f65ad28db8b461ddb9abd469a09e46b959ef2f1034684dbdc",
+    "size": 351560
+  },
+  "images/tokyo-night/countries/omarchy-country-VA-Vatican-2K.webp": {
+    "sha256": "a6d4a615453969c547589b4cf3df79149e0864ba99c3764657616628695ecda5",
+    "size": 349544
+  },
+  "images/tokyo-night/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp": {
+    "sha256": "8452e2a9bd7fd45c5f05b901c8e662a62d29ac88dadfa3e4445836e2943292cc",
+    "size": 524396
+  },
+  "images/tokyo-night/countries/omarchy-country-VI-US-Virgin-Islands-2K.webp": {
+    "sha256": "340dd446c96db445f055891278e50fe4b5f46a4ca7d19616da30030ced178208",
+    "size": 442120
+  },
+  "images/tokyo-night/countries/omarchy-country-VE-Venezuela-2K.webp": {
+    "sha256": "901bcc84e3b11b63e8f6e4a5c42eb037f287bdeb32bf1826fa61a6ba2b730263",
+    "size": 600036
+  },
+  "images/tokyo-night/countries/omarchy-country-VG-British-Virgin-Islands-2K.webp": {
+    "sha256": "ba02237e2c56596d8575e32c056448729f1c78451b52d2b0ec156bda474d2425",
+    "size": 550552
+  },
+  "images/tokyo-night/countries/omarchy-country-VU-Vanuatu-2K.webp": {
+    "sha256": "a437757ec5dc15ffb0593c848315cc9f6af0590dc303569c424402a4ae0451d6",
+    "size": 480360
+  },
+  "images/tokyo-night/countries/omarchy-country-VN-Vietnam-2K.webp": {
+    "sha256": "883859cb228abb043a3569cbbea3b58f716dd6fb3458341f29ba0545837c0b0f",
+    "size": 491278
+  },
+  "images/tokyo-night/countries/omarchy-country-WS-Samoa-2K.webp": {
+    "sha256": "4a92d0d621091d31ae2bea58233a1ca857028388f6f8097dd50e5ed518f5a59a",
+    "size": 344602
+  },
+  "images/tokyo-night/countries/omarchy-country-WF-Wallis-and-Futuna-2K.webp": {
+    "sha256": "3045b9f5dcfcc87f18bb5f3e2fea4bbe42a8ac4276cba0e9f7d0d0c024486c7b",
+    "size": 522378
+  },
+  "previews/tokyo-night/countries/omarchy-country-AD-Andorra-preview.webp": {
+    "sha256": "939dc8a8826dec408029bd42497c7129ff907dbdb35a0a1876f7496711e093f1",
+    "size": 22522
+  },
+  "previews/tokyo-night/countries/omarchy-country-AE-United-Arab-Emirates-preview.webp": {
+    "sha256": "d191cd3ab21c7adef88c5cade081dce8938bd5f0823a6e30ec1fe7728c9a106c",
+    "size": 24896
+  },
+  "previews/tokyo-night/countries/omarchy-country-AF-Afghanistan-preview.webp": {
+    "sha256": "4d5f44dba03064c5dd0fe341225bbb041a0a4c1ea072f1260f8f037e29a01e21",
+    "size": 25804
+  },
+  "images/tokyo-night/countries/omarchy-country-XK-Kosovo-2K.webp": {
+    "sha256": "13e24ed3c622f635a4f9e58658a288ed06de04c045711a36fe0ecfbc37bae1d9",
+    "size": 380588
+  },
+  "previews/tokyo-night/countries/omarchy-country-AI-Anguilla-preview.webp": {
+    "sha256": "a88feb63965c05d4f77bf94b5d7257353a295b4ca65bf1870fc492dcb6ee950a",
+    "size": 30332
+  },
+  "previews/tokyo-night/countries/omarchy-country-AG-Antigua-and-Barbuda-preview.webp": {
+    "sha256": "108d9b4951d473701701f0e435f96a2c8115eb03e474bcaccb0304f97222edd1",
+    "size": 26726
+  },
+  "previews/tokyo-night/countries/omarchy-country-AL-Albania-preview.webp": {
+    "sha256": "7f8215232bbcf367198316f2983cdfdb48093fd922f6c472699a9f31534a470f",
+    "size": 23812
+  },
+  "previews/tokyo-night/countries/omarchy-country-AM-Armenia-preview.webp": {
+    "sha256": "2445f1648a2f1a222adc13badbcbd956a866ba3396eae0815f5ca2c94fd2e8ec",
+    "size": 27876
+  },
+  "images/tokyo-night/countries/omarchy-country-YT-Mayotte-2K.webp": {
+    "sha256": "ef43bfcfc17bdd36a8eb2fd9b8d236ad8ba1cefa1b2abca03be1d1694eab6f27",
+    "size": 372424
+  },
+  "previews/tokyo-night/countries/omarchy-country-AQ-Antarctica-preview.webp": {
+    "sha256": "72d1ed969fb771cb8f60668b0e4c4154f4a9c2098db3b9b3ea41a5dd64b1eca8",
+    "size": 30882
+  },
+  "previews/tokyo-night/countries/omarchy-country-AS-American-Samoa-preview.webp": {
+    "sha256": "9c7761fcaab15ce3b0fb35928cfb8bfcebed1223ad73a1036cc96894f8d610e6",
+    "size": 25384
+  },
+  "previews/tokyo-night/countries/omarchy-country-AR-Argentina-preview.webp": {
+    "sha256": "98d5b78ecae7484cadd243e73cb81caa5bc2cf964d7b2b9505260f4509a3af1d",
+    "size": 30910
+  },
+  "images/tokyo-night/countries/omarchy-country-ZA-South-Africa-2K.webp": {
+    "sha256": "8b7beed89d2735a3d96cd6e197f268e659f2f2165a2d829ada41f7f2f97e1c18",
+    "size": 400634
+  },
+  "images/tokyo-night/countries/omarchy-country-ZM-Zambia-2K.webp": {
+    "sha256": "35197b5e3796f024b1de3b1a2daf180ed56ba211451373f51286f3c88cb62175",
+    "size": 410414
+  },
+  "previews/tokyo-night/countries/omarchy-country-AT-Austria-preview.webp": {
+    "sha256": "37c51eda2bf4eaffba70673e9d3e8d845bb01bc780f19e765cb5b027120e45d4",
+    "size": 23548
+  },
+  "previews/tokyo-night/countries/omarchy-country-AU-Australia-preview.webp": {
+    "sha256": "33061a82c64e4228ee8c2efd6f55413d5d270b53af6ab893074a9f4113fe132b",
+    "size": 27414
+  },
+  "images/tokyo-night/countries/omarchy-country-YE-Yemen-2K.webp": {
+    "sha256": "8f46a99b7bcaa0b8c715e8044a42ff86756a1ddd28d01a5b88d45315cd264276",
+    "size": 484364
+  },
+  "previews/tokyo-night/countries/omarchy-country-AW-Aruba-preview.webp": {
+    "sha256": "5200f897cb83c81fa08ce9d806e9ebc2aba6df08ed93e7f750ec1f8435b9f16a",
+    "size": 33310
+  },
+  "previews/tokyo-night/countries/omarchy-country-AX-Aland-Islands-preview.webp": {
+    "sha256": "8cec9cfec2915e80ab8338460b00cf3d43f29a8066fb4903205f324f32d60c9f",
+    "size": 28280
+  },
+  "previews/tokyo-night/countries/omarchy-country-AZ-Azerbaijan-preview.webp": {
+    "sha256": "5cc2830b4a7a6be02d598f336aecc292bd05a4e00f9afa727f9247c980880966",
+    "size": 23468
+  },
+  "previews/tokyo-night/countries/omarchy-country-BA-Bosnia-Herzegovina-preview.webp": {
+    "sha256": "d3f8502c4c3994c53cb5ec0e90965b59d2864a47750132475d3348658a9aec39",
+    "size": 24740
+  },
+  "images/tokyo-night/countries/omarchy-country-ZW-Zimbabwe-2K.webp": {
+    "sha256": "31e5aff5787954b39e4c813dda30c39b647765356b14d8f63d1fcdab939cd9ef",
+    "size": 497060
+  },
+  "previews/tokyo-night/countries/omarchy-country-BB-Barbados-preview.webp": {
+    "sha256": "6299d5025dc6559f28c8c7c8d6839067ba0564a4b2677b5882fd9a48cddbb46d",
+    "size": 34772
+  },
+  "previews/tokyo-night/countries/omarchy-country-BE-Belgium-preview.webp": {
+    "sha256": "0e0d74432b4e8aa1a3dc87f11e47c857164bc7e60a12fc594545ac8fc05ff9cd",
+    "size": 26428
+  },
+  "previews/tokyo-night/countries/omarchy-country-BD-Bangladesh-preview.webp": {
+    "sha256": "a1096ab1fcb43c12da94891344b8315904d2ded86515709249d2bcb8a46e6275",
+    "size": 26242
+  },
+  "previews/tokyo-night/countries/omarchy-country-BF-Burkina-Faso-preview.webp": {
+    "sha256": "e5cb8307fb3c5395ee6f52705e43e4ec9b9017a2dca21b43cd1c7be3efabe038",
+    "size": 27412
+  },
+  "previews/tokyo-night/countries/omarchy-country-BH-Bahrain-preview.webp": {
+    "sha256": "a2fec6a5834e27a8ed5dd504ae8f85271da7137ea41041204603ae7cc814a9b7",
+    "size": 21630
+  },
+  "previews/tokyo-night/countries/omarchy-country-BG-Bulgaria-preview.webp": {
+    "sha256": "2f06484b53563c37fa92933481c16ad78d86ee64e2e00c8c28da626e0a3baa29",
+    "size": 25378
+  },
+  "previews/tokyo-night/countries/omarchy-country-BL-Saint-Barthelemy-preview.webp": {
+    "sha256": "b0640fd4d744ddfb5192c4750a8ac68e3eada3a1269bfade6e39e7f763c31d5c",
+    "size": 33832
+  },
+  "previews/tokyo-night/countries/omarchy-country-BI-Burundi-preview.webp": {
+    "sha256": "5ab7fd337687e1426cacd3cbc1f5a8792f4653fdb2cc4b73063784d420f7bba4",
+    "size": 26460
+  },
+  "previews/tokyo-night/countries/omarchy-country-BJ-Benin-preview.webp": {
+    "sha256": "6631d365056c22400b64df7a0b976f6a12a3af5c0da44894b67496a8562e8ab0",
+    "size": 28292
+  },
+  "previews/tokyo-night/countries/omarchy-country-BO-Bolivia-preview.webp": {
+    "sha256": "aa10f3398501a0a3e7d7f357f656be0a890bbbcb6329278abc25c7da7acc7b5d",
+    "size": 22364
+  },
+  "previews/tokyo-night/countries/omarchy-country-BM-Bermuda-preview.webp": {
+    "sha256": "f0cbce19dcdb67d9ba3bb8ce5fe3850471271b0e1ffd4c965781c2385809805e",
+    "size": 25762
+  },
+  "previews/tokyo-night/countries/omarchy-country-BN-Brunei-preview.webp": {
+    "sha256": "103c8fe04845baf6562a340ad0df60e1e4df6fe99422009f58c196fcf34bba1a",
+    "size": 31456
+  },
+  "previews/tokyo-night/countries/omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-preview.webp": {
+    "sha256": "f298c8ad3704d7472842546ca91672f719508289e6d8bf4564d6b512d5906a86",
+    "size": 30884
+  },
+  "previews/tokyo-night/countries/omarchy-country-BR-Brazil-preview.webp": {
+    "sha256": "690891b820fe6c0627abd3ff6ab3fad323794e5034a1cae0e812537722e621a1",
+    "size": 36440
+  },
+  "previews/tokyo-night/countries/omarchy-country-BS-Bahamas-preview.webp": {
+    "sha256": "5174ebb8f523cc1566cde00e468a8d39115f22ba6571ea40ee8356bec2d0a238",
+    "size": 28438
+  },
+  "previews/tokyo-night/countries/omarchy-country-BT-Bhutan-preview.webp": {
+    "sha256": "31a082e5abe453d58777caf1ea4850b0a3a9e06203643560f08e72902b1c263e",
+    "size": 26576
+  },
+  "previews/tokyo-night/countries/omarchy-country-BV-Bouvet-Island-preview.webp": {
+    "sha256": "2a4120815739d9bfe1b196fc7b18034dc6257d12b466ff1ce382d3603f507974",
+    "size": 31790
+  },
+  "previews/tokyo-night/countries/omarchy-country-BW-Botswana-preview.webp": {
+    "sha256": "21bcdddb52b4aea18c3a7787c3dbff795aff852b6e64783eb2ab8c577f153181",
+    "size": 24524
+  },
+  "previews/tokyo-night/countries/omarchy-country-BZ-Belize-preview.webp": {
+    "sha256": "f443efbbc4cec8cb68207f63b03881a25857d504b40ded2ad12c479d56d566f4",
+    "size": 30902
+  },
+  "previews/tokyo-night/countries/omarchy-country-CA-Canada-preview.webp": {
+    "sha256": "dd9eb4df2085d18d679a716fbf18f282b86d4e72cd7cf0d6e59291ec64f7c164",
+    "size": 25910
+  },
+  "previews/tokyo-night/countries/omarchy-country-BY-Belarus-preview.webp": {
+    "sha256": "fbe745b0f615bbdb7695cd4de940dffb18a70927ef4723fc7ed26a7f222a806d",
+    "size": 22174
+  },
+  "previews/tokyo-night/countries/omarchy-country-CD-Congo-Democratic-Republic-preview.webp": {
+    "sha256": "8114a9ff67c65754cb5c73667f0064596d1e613bd33b5343b31464a99ab9c667",
+    "size": 23660
+  },
+  "previews/tokyo-night/countries/omarchy-country-CF-Central-African-Republic-preview.webp": {
+    "sha256": "77d8d68f1bf2aeca39c6fc3d5caaefe9c54d88783d141d7cf3bb43b77d077584",
+    "size": 25782
+  },
+  "previews/tokyo-night/countries/omarchy-country-CC-Cocos-Keeling-Islands-preview.webp": {
+    "sha256": "66d15bde4cd30e3a86705ae282cc04b9ffb9f7dcca7fb5aeedb8b07960959dfd",
+    "size": 32262
+  },
+  "previews/tokyo-night/countries/omarchy-country-CG-Congo-preview.webp": {
+    "sha256": "38197d69da7fe43fa07fef051b4ab102c002b9c368ceaba41d4fcf59d90dcda7",
+    "size": 24400
+  },
+  "previews/tokyo-night/countries/omarchy-country-CH-Switzerland-preview.webp": {
+    "sha256": "e04ea3093a18e44e3843d80d227a98c12645e9e5c0f4c7f606c2064d5510b5ef",
+    "size": 23790
+  },
+  "previews/tokyo-night/countries/omarchy-country-CI-Ivory-Coast-preview.webp": {
+    "sha256": "710ee62dd3746f5d1ff1a1a8e183f61a02342a98649259856755e19cb12d48f4",
+    "size": 22658
+  },
+  "previews/tokyo-night/countries/omarchy-country-CL-Chile-preview.webp": {
+    "sha256": "d11c3f546ce7b6e2d3d07c848d2c0765f74293d343122330d0b53cae6bb53a09",
+    "size": 32540
+  },
+  "previews/tokyo-night/countries/omarchy-country-CK-Cook-Islands-preview.webp": {
+    "sha256": "dd99061b117c0928cd71e5fed6f4346a97ce0d5cf017d14ad0d21aff67442372",
+    "size": 32434
+  },
+  "previews/tokyo-night/countries/omarchy-country-CM-Cameroon-preview.webp": {
+    "sha256": "309952e75371754ed7ecdb5e09596e2ed22d6fbf4a04d7f2df9083134498edcf",
+    "size": 22810
+  },
+  "previews/tokyo-night/countries/omarchy-country-CN-China-preview.webp": {
+    "sha256": "24e360c4841205b06f0529d5110d0b6766cfebb3c5baed9cb1230b56461a4e90",
+    "size": 28252
+  },
+  "previews/tokyo-night/countries/omarchy-country-CO-Colombia-preview.webp": {
+    "sha256": "66f1f5f5551b04f632d6c92861426a1b6b95340548800c9617ae629b6b20e51d",
+    "size": 28912
+  },
+  "previews/tokyo-night/countries/omarchy-country-CR-Costa-Rica-preview.webp": {
+    "sha256": "80fd53d9b8152e94f605d3d9abaa7e133ce8447f21e87d43a094b24d0cb1c9f2",
+    "size": 24212
+  },
+  "previews/tokyo-night/countries/omarchy-country-CU-Cuba-preview.webp": {
+    "sha256": "14de4300ce929ed8a9c63fd9c32bcbdfa774c7fb8fc829dc0e99532c9a188a28",
+    "size": 28350
+  },
+  "previews/tokyo-night/countries/omarchy-country-CW-Curacao-preview.webp": {
+    "sha256": "0a60c764f5361886e19b697b1b1d7cc01261c327de5bd569de344d9f3f48d7cd",
+    "size": 28068
+  },
+  "previews/tokyo-night/countries/omarchy-country-CX-Christmas-Island-preview.webp": {
+    "sha256": "0233a1677c1978cc9a9c232a45a9c05f81efe964335029dd9817166a41478101",
+    "size": 28628
+  },
+  "previews/tokyo-night/countries/omarchy-country-CY-Cyprus-preview.webp": {
+    "sha256": "b05816f4237c4172f624db24b850ac9bf194f9411ac777d437acb6c1270a58a1",
+    "size": 29568
+  },
+  "previews/tokyo-night/countries/omarchy-country-CZ-Czech-preview.webp": {
+    "sha256": "329f31f3610bb091541904086a30c10fcc41d17794967d2803e6b06e5ebc3751",
+    "size": 23744
+  },
+  "previews/tokyo-night/countries/omarchy-country-DE-Germany-preview.webp": {
+    "sha256": "d4b8e3cec1085057c9cca2833f80b89bb8275fe00d28bfa5f7d64c87406aa2e8",
+    "size": 25164
+  },
+  "previews/tokyo-night/countries/omarchy-country-DJ-Djibouti-preview.webp": {
+    "sha256": "f26ef32a98a10df7a2061804602e7397dd0ec12bf216cfbf2f9e478864af975e",
+    "size": 20620
+  },
+  "previews/tokyo-night/countries/omarchy-country-DM-Dominica-preview.webp": {
+    "sha256": "04962507c72a6f8151b26df1e00af8cf03aeb89fcbfe9b85d783590ace09fb02",
+    "size": 28044
+  },
+  "previews/tokyo-night/countries/omarchy-country-DK-Denmark-preview.webp": {
+    "sha256": "1fb44b6fc8127c330d23e954d82309ef991f59ce207e3b2ec4591fd40970c1b4",
+    "size": 24110
+  },
+  "previews/tokyo-night/countries/omarchy-country-DZ-Algeria-preview.webp": {
+    "sha256": "bcb2e6af405ae98524f2fcff737f1a20924de781c6ce506423098a1ed7f47078",
+    "size": 26820
+  },
+  "previews/tokyo-night/countries/omarchy-country-DO-Dominican-Republic-preview.webp": {
+    "sha256": "944149500eab65b67d9b55837ee8d9557159b6e0665e2f914942e19822d917ac",
+    "size": 31032
+  },
+  "previews/tokyo-night/countries/omarchy-country-EC-Ecuador-preview.webp": {
+    "sha256": "363a323679f9d968434ecaf27bc4027f10bd9b9ecd32b32d92bdb6d1483c2491",
+    "size": 26752
+  },
+  "previews/tokyo-night/countries/omarchy-country-EG-Egypt-preview.webp": {
+    "sha256": "09867625c4fa17659235bdd399f1b5c2413744b562c0361caa23527f0c7088e6",
+    "size": 18056
+  },
+  "previews/tokyo-night/countries/omarchy-country-EE-Estonia-preview.webp": {
+    "sha256": "860059ca79ecb873fdeecad5b298d312cc6a846609c9379d6a4554a7f5da29bc",
+    "size": 25574
+  },
+  "previews/tokyo-night/countries/omarchy-country-ER-Eritrea-preview.webp": {
+    "sha256": "3bf841dc8fef6fc6b689bffd203742ded142f9cbc3b93d6b09883ff0a230b1d7",
+    "size": 27620
+  },
+  "previews/tokyo-night/countries/omarchy-country-EH-Western-Sahara-preview.webp": {
+    "sha256": "858485780bb5bffe494f28d7884bba073afbf7c241641918cb39ab419f3babee",
+    "size": 20798
+  },
+  "previews/tokyo-night/countries/omarchy-country-ES-Spain-preview.webp": {
+    "sha256": "de4904f25ff9f6516fe010a3fc3cd8c68ccfae0bd24c4f3689e7570ca3d37056",
+    "size": 25294
+  },
+  "previews/tokyo-night/countries/omarchy-country-ET-Ethiopia-preview.webp": {
+    "sha256": "abbb85b5a9a105c020162941588c0088fed7f7413416f54eada730a9211497e0",
+    "size": 25170
+  },
+  "previews/tokyo-night/countries/omarchy-country-FI-Finland-preview.webp": {
+    "sha256": "67b3834319160c0473932616c762ee385659e29561c5fcf9fe4c7b4b50ade218",
+    "size": 23456
+  },
+  "previews/tokyo-night/countries/omarchy-country-FJ-Fiji-preview.webp": {
+    "sha256": "a402a5e4c2667446ea4475e955d83639ad6e055e9cd6fd8c85cb6201c489becb",
+    "size": 27708
+  },
+  "previews/tokyo-night/countries/omarchy-country-FK-Falkland-Islands-preview.webp": {
+    "sha256": "8cbbd95ca896453fed534dd7428c3fa4d0c5ff9c0811bff6e39c74f9cd2118b5",
+    "size": 23344
+  },
+  "previews/tokyo-night/countries/omarchy-country-FM-Micronesia-preview.webp": {
+    "sha256": "3f909558777bb66550b4e8d27e252a20c238628dae463d3fdf17b561aea260e8",
+    "size": 31376
+  },
+  "previews/tokyo-night/countries/omarchy-country-FO-Faroe-Islands-preview.webp": {
+    "sha256": "b1e6328ab49d8363c741d273910f48d034853fd2ea290b14d583f2b33d9dfcf6",
+    "size": 21874
+  },
+  "previews/tokyo-night/countries/omarchy-country-FR-France-preview.webp": {
+    "sha256": "197fb101f3f8a7c7b277af9a0d2eb495a3630a1408ae03a8accd71efc8844145",
+    "size": 25722
+  },
+  "previews/tokyo-night/countries/omarchy-country-GA-Gabon-preview.webp": {
+    "sha256": "a8467bc7ea7e46b9681f24b461e65790502eb4eccb6337bde82a5f48e001540d",
+    "size": 26362
+  },
+  "previews/tokyo-night/countries/omarchy-country-GB-UK-preview.webp": {
+    "sha256": "67ef3ae95c51ee36ecf5d65261ac35f69321ba5af71b30bf71d10cf4778fe189",
+    "size": 20780
+  },
+  "previews/tokyo-night/countries/omarchy-country-GD-Grenada-preview.webp": {
+    "sha256": "457016cf815d242089f371c8235c68e77f0071d2879ea015336e634474a39482",
+    "size": 33978
+  },
+  "previews/tokyo-night/countries/omarchy-country-GE-Georgia-preview.webp": {
+    "sha256": "8455f986779d977f37474c1021392595db9fcb3113eff9d2a3ed98d14ed450b0",
+    "size": 23076
+  },
+  "previews/tokyo-night/countries/omarchy-country-GF-French-Guiana-preview.webp": {
+    "sha256": "423685c234b0736c7ad14b4df2e93a750d8373022f37e31ee2546c94f214a47c",
+    "size": 35390
+  },
+  "previews/tokyo-night/countries/omarchy-country-GG-Guernsey-preview.webp": {
+    "sha256": "c030429b91b0c6743ba8471ba6b7db050007ecc068b4b64cc7abc76a8cab60b2",
+    "size": 26744
+  },
+  "previews/tokyo-night/countries/omarchy-country-GH-Ghana-preview.webp": {
+    "sha256": "b4170403b067bb9044cf668b73c74e6c955915a55d1ecec9c889e92abad3636f",
+    "size": 26644
+  },
+  "previews/tokyo-night/countries/omarchy-country-GI-Gibraltar-preview.webp": {
+    "sha256": "bd6f9628adaaa6b0ad5ed2c5d10764c1384121735e8da9ef12b91479cf499476",
+    "size": 26926
+  },
+  "previews/tokyo-night/countries/omarchy-country-GL-Greenland-preview.webp": {
+    "sha256": "bde5d0032cf69445a0e2ff714a6dfdc3d91f1da605784bd8c31879e5cfc75c5b",
+    "size": 30846
+  },
+  "previews/tokyo-night/countries/omarchy-country-GM-Gambia-preview.webp": {
+    "sha256": "c3825158d63e560d76e2bc7be45f62055a4b2350fc70d0b2e0586490ef93a40c",
+    "size": 29034
+  },
+  "previews/tokyo-night/countries/omarchy-country-GN-Guinea-preview.webp": {
+    "sha256": "94bc47c858c8645fb3f5fd0844731f14841d3db81caf587ac5e4889fffa1b8c9",
+    "size": 23700
+  },
+  "previews/tokyo-night/countries/omarchy-country-GP-Guadeloupe-preview.webp": {
+    "sha256": "59373d76322170647a1361d1885ab93688780e253958e0d4bd3f0978239446fc",
+    "size": 28964
+  },
+  "previews/tokyo-night/countries/omarchy-country-GQ-Equatorial-Guinea-preview.webp": {
+    "sha256": "a9b556b1910fdba26699b6fd7f7a8b16f1967ddd5d3401ef69ea961fc211fb61",
+    "size": 27892
+  },
+  "previews/tokyo-night/countries/omarchy-country-GR-Greece-preview.webp": {
+    "sha256": "5e508549c488fe9d018798d621b3d9a5d5783af04b27d219339af06b1bef86d1",
+    "size": 24598
+  },
+  "previews/tokyo-night/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-preview.webp": {
+    "sha256": "910592c12ec71d4558bab7c127fd6a9cd941072c78db52f88344c4f2cf6564bc",
+    "size": 29938
+  },
+  "previews/tokyo-night/countries/omarchy-country-GU-Guam-preview.webp": {
+    "sha256": "077edd63cc3e9e60dae4067c792d0f287a567b28b9ee4aa73054c24473b29835",
+    "size": 25690
+  },
+  "previews/tokyo-night/countries/omarchy-country-GT-Guatemala-preview.webp": {
+    "sha256": "a668d4e5656d813d27b535e92135abbe552056436ded0b5da134e4f86ecd1288",
+    "size": 30254
+  },
+  "previews/tokyo-night/countries/omarchy-country-GW-Guinea-Bissau-preview.webp": {
+    "sha256": "57f243b2ae746ac18974931a1018af8243dd052a7176af5db6a8aca82c15186f",
+    "size": 24638
+  },
+  "previews/tokyo-night/countries/omarchy-country-GY-Guyana-preview.webp": {
+    "sha256": "39502dc56712bf0199f1109f14279d23d63d5d56531f5380c7baffe87e8911e4",
+    "size": 27102
+  },
+  "previews/tokyo-night/countries/omarchy-country-HK-Hong-Kong-preview.webp": {
+    "sha256": "255ad2dace84d20127a8623d74fb482eef2a74bf55960141b5312b50a2807466",
+    "size": 23818
+  },
+  "previews/tokyo-night/countries/omarchy-country-HN-Honduras-preview.webp": {
+    "sha256": "011e9846d2706f7a17338ba35a1e0a96f660aa5308b0ea1bcfcff8eaf8091b79",
+    "size": 28576
+  },
+  "previews/tokyo-night/countries/omarchy-country-HM-Heard-Island-and-McDonald-Islands-preview.webp": {
+    "sha256": "0812d4b8ff4ed3640adffd791d907bed6326139b978862a60ef2ad63da844d22",
+    "size": 31696
+  },
+  "previews/tokyo-night/countries/omarchy-country-HR-Croatia-preview.webp": {
+    "sha256": "f06a0d45d0636aaa8ca9ae8bf51a332cc61ab61399283f2e033225f250e0d8ac",
+    "size": 25116
+  },
+  "previews/tokyo-night/countries/omarchy-country-HU-Hungary-preview.webp": {
+    "sha256": "408b8c6e9bba5b7764faf3c352f25e6a8c4fb4ec2688e613cc8e033e737bb905",
+    "size": 22548
+  },
+  "previews/tokyo-night/countries/omarchy-country-HT-Haiti-preview.webp": {
+    "sha256": "27384e1fa02f445c9d92c5eec6634401ef5ebebd1f1918852b36efa5be8cad05",
+    "size": 33680
+  },
+  "previews/tokyo-night/countries/omarchy-country-ID-Indonesia-preview.webp": {
+    "sha256": "d0d045ea712e56d8ef659ca18ded63684fdae854788a531c6ef5d9bc719fbda3",
+    "size": 35072
+  },
+  "previews/tokyo-night/countries/omarchy-country-IE-Ireland-preview.webp": {
+    "sha256": "9a72d65480676d2e5fa1c241db1184b1f42991c4c3128066fd7e100314600249",
+    "size": 27658
+  },
+  "previews/tokyo-night/countries/omarchy-country-IM-Isle-of-Man-preview.webp": {
+    "sha256": "00e5f4f973986607617bc91f3c74807d7d6d4af88dfc8909ad171ac4646f0f71",
+    "size": 29380
+  },
+  "previews/tokyo-night/countries/omarchy-country-IN-India-preview.webp": {
+    "sha256": "699ece5c8dc132bc93d706e924ee829878500fd5b664749105360f78da2e7db5",
+    "size": 31752
+  },
+  "previews/tokyo-night/countries/omarchy-country-IO-British-Indian-Ocean-Territory-preview.webp": {
+    "sha256": "46033431385168ec683fbd5c15c21ea5f9c70673fafee3461a828373417eb865",
+    "size": 29964
+  },
+  "previews/tokyo-night/countries/omarchy-country-IQ-Iraq-preview.webp": {
+    "sha256": "096e41ba9c7f4b9f13c11023043492a24a08feaa12f86ce2b438af2d6a31c768",
+    "size": 23684
+  },
+  "previews/tokyo-night/countries/omarchy-country-IS-Iceland-preview.webp": {
+    "sha256": "d5e19a1de2f00194f8b4d5852d4b260aa88605e722e4ee4b5bec93eb314ef22d",
+    "size": 23004
+  },
+  "previews/tokyo-night/countries/omarchy-country-IR-Iran-preview.webp": {
+    "sha256": "f158047a24134e866e0f77119910df7cf54a5ea49887ace2c3bd0e23699394b8",
+    "size": 26088
+  },
+  "previews/tokyo-night/countries/omarchy-country-IT-Italy-preview.webp": {
+    "sha256": "cffa8bdafd5a11974c3b3b5b1fe4ae03b21b5c255cf74c2a48b30749799e2b01",
+    "size": 28274
+  },
+  "previews/tokyo-night/countries/omarchy-country-JE-Jersey-preview.webp": {
+    "sha256": "90be5907e3ec5066e8a8f492a8e4664d802e4f9481b3a4ec0931bfc1e82c36d8",
+    "size": 23538
+  },
+  "previews/tokyo-night/countries/omarchy-country-JO-Jordan-preview.webp": {
+    "sha256": "57325cf459930af62f6b9572bcde39ed1095f308d8b27bf4f7f44562747cbe6a",
+    "size": 26560
+  },
+  "previews/tokyo-night/countries/omarchy-country-JM-Jamaica-preview.webp": {
+    "sha256": "8997aaf7a5b58e057bf5f688063bd2ffbdc6046c46a67b383014553268bd8b0b",
+    "size": 33872
+  },
+  "previews/tokyo-night/countries/omarchy-country-KE-Kenya-preview.webp": {
+    "sha256": "fad5e9e2be21d85f64d3247ab311130d511a2ebc580aa3f8de7f89054dfb80ce",
+    "size": 23354
+  },
+  "previews/tokyo-night/countries/omarchy-country-JP-Japan-preview.webp": {
+    "sha256": "944821ff06d7f0bae5d22fe04ab8589967df3126ed98788be1ebbe83cc52187d",
+    "size": 24042
+  },
+  "previews/tokyo-night/countries/omarchy-country-KH-Cambodia-preview.webp": {
+    "sha256": "4213435924bf2a783e09fdda5166de76c6a14f408f6f2e3e74408cb77635a813",
+    "size": 29122
+  },
+  "previews/tokyo-night/countries/omarchy-country-KG-Kyrgyzstan-preview.webp": {
+    "sha256": "08bdedcc84e3521f95f2e34152c3fa128d0341714b37ac473e9a02094e8c90ba",
+    "size": 27956
+  },
+  "previews/tokyo-night/countries/omarchy-country-KI-Kiribati-preview.webp": {
+    "sha256": "93cc9457e200886d2cf691bed5552d88b60d5dde16562b9248b9652c2aeb97ac",
+    "size": 29560
+  },
+  "previews/tokyo-night/countries/omarchy-country-KM-Comoros-preview.webp": {
+    "sha256": "c08297c69ca47b3d260a297e633011c9d8a146a317bbd765549e395217a60962",
+    "size": 33312
+  },
+  "previews/tokyo-night/countries/omarchy-country-KN-Saint-Kitts-and-Nevis-preview.webp": {
+    "sha256": "39703c3fc0698d083bc730fd8dc0e87cd9c0415b85fa5b78d4e51c8a4bc99de0",
+    "size": 27274
+  },
+  "previews/tokyo-night/countries/omarchy-country-KP-North-Korea-preview.webp": {
+    "sha256": "a91d7adef87b89a1b74324723be6c0e89d2961f112e97d5ae082b2321b14c8a4",
+    "size": 25650
+  },
+  "previews/tokyo-night/countries/omarchy-country-KR-South-Korea-preview.webp": {
+    "sha256": "a14c95560779b4e5c46389a2f78662f1f68d0d7828dbc2a09d6563ff165af633",
+    "size": 25518
+  },
+  "previews/tokyo-night/countries/omarchy-country-KY-Cayman-Islands-preview.webp": {
+    "sha256": "b2c89895342c5a1b1faeb63110abc61bd398d1cf2f06fd4e3e98591948e768f7",
+    "size": 28216
+  },
+  "previews/tokyo-night/countries/omarchy-country-KW-Kuwait-preview.webp": {
+    "sha256": "40f9ead14b52abb31b0756a824fcac80e5acd9b8d1c73875f7e388e555dc534e",
+    "size": 23120
+  },
+  "previews/tokyo-night/countries/omarchy-country-KZ-Kazakhstan-preview.webp": {
+    "sha256": "ac1479c55e8f8d86c0dce9037c7766fa5d1f1bdf76076dda8d13bdf8e830aa4f",
+    "size": 26844
+  },
+  "previews/tokyo-night/countries/omarchy-country-LA-Laos-preview.webp": {
+    "sha256": "baaac1f53d74358fe4b59aeb89d8b2b92eaa81aabe0d68de256bc8e9a2d4e668",
+    "size": 30834
+  },
+  "previews/tokyo-night/countries/omarchy-country-LB-Lebanon-preview.webp": {
+    "sha256": "bf6005f9f46de6b16dc602b71a6c171bb2d768f83ad30029224b65d81a36cd81",
+    "size": 32828
+  },
+  "previews/tokyo-night/countries/omarchy-country-LC-Saint-Lucia-preview.webp": {
+    "sha256": "50057d8631848765c94be4d00c9835ab64427fbb21ac918a3923df48ef77dde8",
+    "size": 31166
+  },
+  "previews/tokyo-night/countries/omarchy-country-LK-Sri-Lanka-preview.webp": {
+    "sha256": "2680bdcca03f4855973b769aef6f521f7f7bdce83564b3fe371be25af5ce946f",
+    "size": 32642
+  },
+  "previews/tokyo-night/countries/omarchy-country-LR-Liberia-preview.webp": {
+    "sha256": "4f828b150427e5db68d7a2507f5776eb557c5bae4b27fd334ca29c78df8322fc",
+    "size": 28898
+  },
+  "previews/tokyo-night/countries/omarchy-country-LI-Liechtenstein-preview.webp": {
+    "sha256": "fd9b17423c1d82877a87b2e57701fa925310d489da3edf9228007ac179156e87",
+    "size": 24380
+  },
+  "previews/tokyo-night/countries/omarchy-country-LS-Lesotho-preview.webp": {
+    "sha256": "d4b725f1d65c14c4c7c275412cc3292cffef65b1d6a926a13d2161b955f595ab",
+    "size": 27140
+  },
+  "previews/tokyo-night/countries/omarchy-country-LT-Lithuania-preview.webp": {
+    "sha256": "6c8d96a78d1c10aeed0a7bc83a88d24848333498a8400b1d9c9923e2b359ea74",
+    "size": 23580
+  },
+  "previews/tokyo-night/countries/omarchy-country-LU-Luxembourg-preview.webp": {
+    "sha256": "e6a77b587773583cdf86ba9353bfee70bee17fd80f15ad186b62b900273e5c0c",
+    "size": 25568
+  },
+  "previews/tokyo-night/countries/omarchy-country-LV-Latvia-preview.webp": {
+    "sha256": "dcec9c8560dc31f776d6f99223ce71b671b7e13feedf4dff8254a1a3903ecc74",
+    "size": 26562
+  },
+  "previews/tokyo-night/countries/omarchy-country-MC-Monaco-preview.webp": {
+    "sha256": "f525f0877eb68a67e6c646579c4ebce69b5638b3b8a7e6ae6a8f76f986e32c7a",
+    "size": 29042
+  },
+  "previews/tokyo-night/countries/omarchy-country-LY-Libya-preview.webp": {
+    "sha256": "c34aac39140cdaf6d4e859c4162e2493d16aa8f3be802dc3083c6563dba95222",
+    "size": 21586
+  },
+  "previews/tokyo-night/countries/omarchy-country-MA-Morocco-preview.webp": {
+    "sha256": "c259b636a65664d4cdd55c778d984d4a1351740cf68cf97fce6d6eb86b9754e1",
+    "size": 25524
+  },
+  "previews/tokyo-night/countries/omarchy-country-ME-Montenegro-preview.webp": {
+    "sha256": "59d203c90a776a9bec6e4119df3c1b4bf7b9b3c4c3f0c7237995b230833745b3",
+    "size": 32284
+  },
+  "previews/tokyo-night/countries/omarchy-country-MD-Moldova-preview.webp": {
+    "sha256": "f68b6b7602e120b1a900739ab76f267a3d2e27882bdaf8c7c3001dc0f6c9dbce",
+    "size": 28710
+  },
+  "previews/tokyo-night/countries/omarchy-country-MF-Saint-Martin-preview.webp": {
+    "sha256": "e80987b18af3e0fd11687cb898dc3099819b1bca89e0b23923d79bf451a0db56",
+    "size": 25156
+  },
+  "previews/tokyo-night/countries/omarchy-country-MG-Madagascar-preview.webp": {
+    "sha256": "83d632ce87d904b8bd0eeba84544f2825a6ecbbc03544ca5c522ae9922766d84",
+    "size": 24122
+  },
+  "previews/tokyo-night/countries/omarchy-country-MH-Marshall-Islands-preview.webp": {
+    "sha256": "5e864e3be49216b5f04a50543cf4e918b04d625c7ae15f3b0c5404b15ab66396",
+    "size": 34706
+  },
+  "previews/tokyo-night/countries/omarchy-country-ML-Mali-preview.webp": {
+    "sha256": "e0e9cb0696a789e156f5da67221627d2ccf088ebb5b55b23e6dc1aa8d23aa18c",
+    "size": 25478
+  },
+  "previews/tokyo-night/countries/omarchy-country-MK-North-Macedonia-preview.webp": {
+    "sha256": "7386dac8a12f6d4f75de19b6628f42c71bbd3c6895b4cbf3aaeb0aacdefd3ada",
+    "size": 26684
+  },
+  "previews/tokyo-night/countries/omarchy-country-MM-Myanmar-preview.webp": {
+    "sha256": "096db677201ebef549d5f691db89650f97b609d7afcb182e7b70c9864de7a2f2",
+    "size": 29828
+  },
+  "previews/tokyo-night/countries/omarchy-country-MP-Northern-Mariana-Islands-preview.webp": {
+    "sha256": "dce96a79857f61ba8459ff26ecc373e05eee9057ad6cae439cfb81c64f2845b0",
+    "size": 26882
+  },
+  "previews/tokyo-night/countries/omarchy-country-MN-Mongolia-preview.webp": {
+    "sha256": "ca579dc598af42ed6cc2b61f79cd9de3f293672bca9f26e0511fe0cc1b2f552f",
+    "size": 27512
+  },
+  "previews/tokyo-night/countries/omarchy-country-MO-Macau-preview.webp": {
+    "sha256": "3803f30b0623849b344c6c33dd008bd0f9244e332e3ac47a76dd54903674e67f",
+    "size": 27702
+  },
+  "previews/tokyo-night/countries/omarchy-country-MQ-Martinique-preview.webp": {
+    "sha256": "0b0c4f988fd9fec6b1cfc5dfb315a427ac076e5f16b77a5aaa947663dfdc1a99",
+    "size": 36250
+  },
+  "previews/tokyo-night/countries/omarchy-country-MS-Montserrat-preview.webp": {
+    "sha256": "feaf722d4f69455ec5b6a161a31034b71e4ba3a8a3f68ef52636f46c1ee5f935",
+    "size": 23936
+  },
+  "previews/tokyo-night/countries/omarchy-country-MR-Mauritania-preview.webp": {
+    "sha256": "7d956e694f118ba3a2a4acc8aaff4cee2badf53bc377c87253777d69998c762f",
+    "size": 18394
+  },
+  "previews/tokyo-night/countries/omarchy-country-MU-Mauritius-preview.webp": {
+    "sha256": "14696c58b8aaf2710e6fe3e508554eb5f4014308d15bccd371c47e0559adfb3b",
+    "size": 29562
+  },
+  "previews/tokyo-night/countries/omarchy-country-MV-Maldives-preview.webp": {
+    "sha256": "1494ae42d1ad10b37c189e521283869c49d04c1fa4d86a0dd0d2259170cb6c39",
+    "size": 23068
+  },
+  "previews/tokyo-night/countries/omarchy-country-MX-Mexico-preview.webp": {
+    "sha256": "bb408d1c350d0fcabddadf4db7f9ea190d069517500fd2baf7f3cf033f8116c7",
+    "size": 26096
+  },
+  "previews/tokyo-night/countries/omarchy-country-MW-Malawi-preview.webp": {
+    "sha256": "883d97b821bf5990a85c8fd61d61bbdcf8f7ddab78c22c27f0873ced08249e50",
+    "size": 23942
+  },
+  "previews/tokyo-night/countries/omarchy-country-MZ-Mozambique-preview.webp": {
+    "sha256": "a35b016d634e2dff7c59b23010f30e3e0742bf4d8f4e0a05f513ee2590862dbd",
+    "size": 24078
+  },
+  "previews/tokyo-night/countries/omarchy-country-MY-Malaysia-preview.webp": {
+    "sha256": "4d5f75a19bda8a99a7eede3fe88381669f989f8a4286d28fa208567fd2f0f931",
+    "size": 30402
+  },
+  "previews/tokyo-night/countries/omarchy-country-NA-Namibia-preview.webp": {
+    "sha256": "25042b460327b5e7928a2744850363a61b22d69c1300b3129b8ad579c7982e7d",
+    "size": 25878
+  },
+  "previews/tokyo-night/countries/omarchy-country-NC-New-Caledonia-preview.webp": {
+    "sha256": "3ad8e94d7bc8cd91bf822a1667cd296988ee2e4e081a75ef7449c32cb60fb918",
+    "size": 25324
+  },
+  "previews/tokyo-night/countries/omarchy-country-NE-Niger-preview.webp": {
+    "sha256": "8ee0fda741a0fcb38ba83cd52e38df8fc092d6afd0502aa2135bf273829e16e7",
+    "size": 24028
+  },
+  "previews/tokyo-night/countries/omarchy-country-NF-Norfolk-Island-preview.webp": {
+    "sha256": "57d92237c68fb08ebd68501be9b40e23d92244f1f59e3cf42f608c82eb77b915",
+    "size": 33072
+  },
+  "previews/tokyo-night/countries/omarchy-country-NI-Nicaragua-preview.webp": {
+    "sha256": "81d80907ba401a9c6f3c17fb77456c98cf4a73af45cfc6900d24bf764012bb4e",
+    "size": 28190
+  },
+  "previews/tokyo-night/countries/omarchy-country-NG-Nigeria-preview.webp": {
+    "sha256": "1322d42f266e246e9b95e6669965ac47f351c65f77fa37e40164eb4a6f8d45c3",
+    "size": 35236
+  },
+  "previews/tokyo-night/countries/omarchy-country-NL-Netherlands-preview.webp": {
+    "sha256": "569067841cf5b6d5cdddaf4b399cef8b157c61f8ba6bb65436098da4f9386ef7",
+    "size": 25816
+  },
+  "previews/tokyo-night/countries/omarchy-country-NO-Norway-preview.webp": {
+    "sha256": "9b4d6b245149036d4bd162139457f80cccdab42c069204ff9741926c55acf2c0",
+    "size": 25326
+  },
+  "previews/tokyo-night/countries/omarchy-country-NP-Nepal-preview.webp": {
+    "sha256": "a2722d77f507a411df33c0854cbea1369af2b63948ff70c209b13d475840600c",
+    "size": 26762
+  },
+  "previews/tokyo-night/countries/omarchy-country-NU-Niue-preview.webp": {
+    "sha256": "0c96080be67af67e0f78d19cd71e7eb621b47ca7d868dac0deac54a4a142bec4",
+    "size": 26890
+  },
+  "previews/tokyo-night/countries/omarchy-country-NR-Nauru-preview.webp": {
+    "sha256": "bbb876964a90bef33628f40a8fca61108b65dba33099e8108a1e0d94fd48813a",
+    "size": 32026
+  },
+  "previews/tokyo-night/countries/omarchy-country-NZ-New-Zealand-preview.webp": {
+    "sha256": "575145632032c6f86887d50d12d9cb5f7a72a0d73edd50e4f9b918fdaba5367c",
+    "size": 30874
+  },
+  "previews/tokyo-night/countries/omarchy-country-OM-Oman-preview.webp": {
+    "sha256": "cbfde38a6de98b32d16a8196b134782a7b968ea3549c8a80e8c9bae2cab69d6a",
+    "size": 18426
+  },
+  "previews/tokyo-night/countries/omarchy-country-PA-Panama-preview.webp": {
+    "sha256": "01fc6988d6822593ea5b4f70b36a50cb3ff468cf3cfb8aeb928773d9181ac19c",
+    "size": 33422
+  },
+  "previews/tokyo-night/countries/omarchy-country-PE-Peru-preview.webp": {
+    "sha256": "24ca6f3f3dbbe8ae3c4705551e338dc2382c91f347aa158e497e116dbc127d6c",
+    "size": 32842
+  },
+  "previews/tokyo-night/countries/omarchy-country-PF-French-Polynesia-preview.webp": {
+    "sha256": "ada90b098036ac29a5ea48973c603512cfcd2f1608b5317ebe2c2ff26fc82b75",
+    "size": 30452
+  },
+  "previews/tokyo-night/countries/omarchy-country-PG-Papua-New-Guinea-preview.webp": {
+    "sha256": "4c2fcb7d582c6d3817618af3308a5c1950fd386a58541158a98061d9cee099a8",
+    "size": 34588
+  },
+  "previews/tokyo-night/countries/omarchy-country-PH-Philippines-preview.webp": {
+    "sha256": "0b49806e6be64e479b778646b730494920aca6f544332b624b823e91ccec6c87",
+    "size": 26210
+  },
+  "previews/tokyo-night/countries/omarchy-country-PK-Pakistan-preview.webp": {
+    "sha256": "8541b737984f6b0f0753397aa1e13be1327d9f7eac54e9cac47753ca0672aa6f",
+    "size": 32978
+  },
+  "previews/tokyo-night/countries/omarchy-country-PL-Poland-preview.webp": {
+    "sha256": "3b5c311306b3dcca70a115f93083b940100c78e20daa805fe103dce3c88403e8",
+    "size": 23268
+  },
+  "previews/tokyo-night/countries/omarchy-country-PM-Saint-Pierre-and-Miquelon-preview.webp": {
+    "sha256": "4637a3fdad3b371b562322913cdc410a4299d6dc0314af624737ff7104b24d90",
+    "size": 23248
+  },
+  "previews/tokyo-night/countries/omarchy-country-PN-Pitcairn-preview.webp": {
+    "sha256": "983fc371c2776283009d9ea991297cf178c17e12889c38621fdde8e19913cd05",
+    "size": 34856
+  },
+  "previews/tokyo-night/countries/omarchy-country-PR-Puerto-Rico-preview.webp": {
+    "sha256": "e34e0fe319afab28a65691f67b1b5c4096f2c23ad16105258bd4a3bb063fc649",
+    "size": 26726
+  },
+  "previews/tokyo-night/countries/omarchy-country-PS-Palestine-preview.webp": {
+    "sha256": "90a40d4bb3b53952a15bcf7425304023c4c8f3ff172e0a2dbc087a07178e1cfe",
+    "size": 24038
+  },
+  "previews/tokyo-night/countries/omarchy-country-PT-Portugal-preview.webp": {
+    "sha256": "71a890624e37367b3b5559fd2c7107d83fe1776726fccbb13027e82404d0dfb3",
+    "size": 26918
+  },
+  "previews/tokyo-night/countries/omarchy-country-PW-Palau-preview.webp": {
+    "sha256": "408e96157634c453717b35835e2f93697e040bb2b09463a128eba6b4e12afa30",
+    "size": 29784
+  },
+  "previews/tokyo-night/countries/omarchy-country-PY-Paraguay-preview.webp": {
+    "sha256": "cc1df1cbcfb03703c2350f4bee29afd3763e2900fe7d4b14957611f9cec22e58",
+    "size": 29744
+  },
+  "previews/tokyo-night/countries/omarchy-country-QA-Qatar-preview.webp": {
+    "sha256": "e025fd17695c6526f737d8f2fe04b9f21bc73b477a61e2887a76d2b2463497fa",
+    "size": 23254
+  },
+  "previews/tokyo-night/countries/omarchy-country-RE-Reunion-preview.webp": {
+    "sha256": "89ea69dc67fe0b6122f86f2ba4ea900ea8e55e0ef1596143870a3b390c693fe4",
+    "size": 28966
+  },
+  "previews/tokyo-night/countries/omarchy-country-RO-Romania-preview.webp": {
+    "sha256": "dc5218a44d1aad1004216bbf1bf1aacaef69fe9ff25d6e20915ae45f408f0fb0",
+    "size": 25902
+  },
+  "previews/tokyo-night/countries/omarchy-country-RU-Russia-preview.webp": {
+    "sha256": "80d4829c8d1fb1aedb0bf70230c16cc438e6a4a3c720b2994360da0e9027a881",
+    "size": 22416
+  },
+  "previews/tokyo-night/countries/omarchy-country-RS-Serbia-preview.webp": {
+    "sha256": "6b7e732a6faf9c90fb834fe50920c0ada7ee22be18ae5a7becc14a37bcaa8381",
+    "size": 23888
+  },
+  "previews/tokyo-night/countries/omarchy-country-SB-Solomon-Islands-preview.webp": {
+    "sha256": "ebcfe69f8418bf7c6427fd509b6f62fc6dc512b699d155405634d807ac4f250a",
+    "size": 22010
+  },
+  "previews/tokyo-night/countries/omarchy-country-RW-Rwanda-preview.webp": {
+    "sha256": "2a7f17c0025944939babc76cfcdf415ab54db9b265ea05069ef57188d665eb05",
+    "size": 24748
+  },
+  "previews/tokyo-night/countries/omarchy-country-SA-Saudi-Arabia-preview.webp": {
+    "sha256": "354d9744c335b2fcddef20ef86f6ede096cd8fd3dede872cb369912721ce0be0",
+    "size": 26282
+  },
+  "previews/tokyo-night/countries/omarchy-country-SD-Sudan-preview.webp": {
+    "sha256": "857acad9fa60d58cfd531c1d98788b109f74e1303c06dc0983a33ac4926a0cf7",
+    "size": 24816
+  },
+  "previews/tokyo-night/countries/omarchy-country-SC-Seychelles-preview.webp": {
+    "sha256": "3df0d8ed7bc074240a39fd3578c90036e1314c9a83fc9a7c7dc38c77b39949f9",
+    "size": 27898
+  },
+  "previews/tokyo-night/countries/omarchy-country-SE-Sweden-preview.webp": {
+    "sha256": "3f7ac32a04072b6593cb8311244f4de9ab94391ffe62ba0bca37133bfcfb2479",
+    "size": 24342
+  },
+  "previews/tokyo-night/countries/omarchy-country-SG-Singapore-preview.webp": {
+    "sha256": "13b757ebe3fffc912cb616d551f16736c4021d6b3052d8e21fd7c2f29824b53f",
+    "size": 22574
+  },
+  "previews/tokyo-night/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-preview.webp": {
+    "sha256": "345d04ac8c2ecb1f31f82bea31ff1687e8d0e178e792873ad6755d945a550b1e",
+    "size": 26332
+  },
+  "previews/tokyo-night/countries/omarchy-country-SI-Slovenia-preview.webp": {
+    "sha256": "2680e5b090a6746e604a27400d44a62801b1f13b152182f528bd461b533ea875",
+    "size": 25538
+  },
+  "previews/tokyo-night/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-preview.webp": {
+    "sha256": "eab9bc0404a6cd9feaa7633cdeaa93c967713172becf2c31980cf3f0b29283be",
+    "size": 29162
+  },
+  "previews/tokyo-night/countries/omarchy-country-SK-Slovakia-preview.webp": {
+    "sha256": "8ed46cac75433ee7313568fc31f8f46a40ab4724a7805ff009f8fff728e0f35a",
+    "size": 22928
+  },
+  "previews/tokyo-night/countries/omarchy-country-SM-San-Marino-preview.webp": {
+    "sha256": "5357c9ef0444686cb3da76b7f5e8066e5528a644cdbb39e38224a95c8b93b139",
+    "size": 21454
+  },
+  "previews/tokyo-night/countries/omarchy-country-SN-Senegal-preview.webp": {
+    "sha256": "07c4d7bf5bc38ee2b20220e47802dea2a811c8b5a7f4c896bfd1cb4653f6a21e",
+    "size": 26560
+  },
+  "previews/tokyo-night/countries/omarchy-country-SR-Suriname-preview.webp": {
+    "sha256": "162aff7b0815e58bd51e6bcd6884d13a3f15b34324453d1e0cee1c9c72e0390d",
+    "size": 26476
+  },
+  "previews/tokyo-night/countries/omarchy-country-SO-Somalia-preview.webp": {
+    "sha256": "52cd8cfbbbb9874414066c3f110b5570e4c8e3bed8069b92b42fa3d5341eee02",
+    "size": 24020
+  },
+  "previews/tokyo-night/countries/omarchy-country-SS-South-Sudan-preview.webp": {
+    "sha256": "f6cb774b75de1211cf309a75dc5508f903ee553bbf60a1987e7cb4ceb14bb81c",
+    "size": 26226
+  },
+  "previews/tokyo-night/countries/omarchy-country-ST-Sao-Tome-and-Principe-preview.webp": {
+    "sha256": "2e08f6ba04b375a9adc28e8c5bfda0bab9002e4a2a8d5118a94a7a5071a46aa9",
+    "size": 33048
+  },
+  "previews/tokyo-night/countries/omarchy-country-SV-El-Salvador-preview.webp": {
+    "sha256": "b201b97d10fdea3dad19ecd7cee8e5c9f316bd26cc31e012ad4739b808c3874e",
+    "size": 27908
+  },
+  "previews/tokyo-night/countries/omarchy-country-SY-Syria-preview.webp": {
+    "sha256": "6a924d5797c4f4e60da64d3ea96335379e4cde2e6b94ea1f4550397f926baafc",
+    "size": 27046
+  },
+  "previews/tokyo-night/countries/omarchy-country-SX-Sint-Maarten-preview.webp": {
+    "sha256": "d623f509ec64eb1023f36cec44048630c50340a5e548b10a4b20031d57641844",
+    "size": 29144
+  },
+  "previews/tokyo-night/countries/omarchy-country-SZ-Eswatini-preview.webp": {
+    "sha256": "e645c7550f2f8cee0908efba3a20392029a884630db030eaebd081c6eecb4b2f",
+    "size": 24434
+  },
+  "previews/tokyo-night/countries/omarchy-country-TC-Turks-and-Caicos-Islands-preview.webp": {
+    "sha256": "ef0e1f3383588a7708073c7e8ad6f581a46c6077e91cbcffaa35b3cffbb22e3e",
+    "size": 25746
+  },
+  "previews/tokyo-night/countries/omarchy-country-TD-Chad-preview.webp": {
+    "sha256": "e7f0a6cc30bb35f76aba63d01beae7efbde5b2bf5d6eba5ea64631a6f911ea7b",
+    "size": 23800
+  },
+  "previews/tokyo-night/countries/omarchy-country-TF-French-Southern-Territories-preview.webp": {
+    "sha256": "ff488bb770682baab98fa0cf57286837106be472e0e0f0f02b9df10a85d07017",
+    "size": 24042
+  },
+  "previews/tokyo-night/countries/omarchy-country-TH-Thailand-preview.webp": {
+    "sha256": "482f3dfa69a7d2d689b5c9193fab0e637483ed2755b8d4500f6fe9fbae151b93",
+    "size": 25576
+  },
+  "previews/tokyo-night/countries/omarchy-country-TG-Togo-preview.webp": {
+    "sha256": "0eb491763f8dc9b5c7e75db4be0557978301f82b27b800467e79c20a1ce1bdc5",
+    "size": 23034
+  },
+  "previews/tokyo-night/countries/omarchy-country-TJ-Tajikistan-preview.webp": {
+    "sha256": "666d34fcbf73cf6818694efc423b30e4d370be6ec8e763acf02474a1ace781bb",
+    "size": 25910
+  },
+  "previews/tokyo-night/countries/omarchy-country-TK-Tokelau-preview.webp": {
+    "sha256": "efa966beb7856b21fafa353fbe642088bbd71eac980b897c9adb9fe0a15118e0",
+    "size": 25808
+  },
+  "previews/tokyo-night/countries/omarchy-country-TL-Timor-Leste-preview.webp": {
+    "sha256": "9f95bc480362379c9649733594e8911e7b438f5d4682b635b8d74f2c829d857a",
+    "size": 25594
+  },
+  "previews/tokyo-night/countries/omarchy-country-TM-Turkmenistan-preview.webp": {
+    "sha256": "698eb33a5724d8dce83be76ffb83be5fb705f09f207eec5ef9b4c490487b9653",
+    "size": 24492
+  },
+  "previews/tokyo-night/countries/omarchy-country-TN-Tunisia-preview.webp": {
+    "sha256": "35e1a7a6ffaeecefec98719eda13245073eec10c13e29c1ec46efa9161418bfe",
+    "size": 24700
+  },
+  "previews/tokyo-night/countries/omarchy-country-TO-Tonga-preview.webp": {
+    "sha256": "66c775b81c5173ec3f14c05ebc7b74105e8e50343786084e8c5d01ffeaad83a4",
+    "size": 22176
+  },
+  "previews/tokyo-night/countries/omarchy-country-TR-Turkey-preview.webp": {
+    "sha256": "bd1d93572b574109c3d71ed553934f3b4e0b49236c8e094b19d73b010c0849e0",
+    "size": 24780
+  },
+  "previews/tokyo-night/countries/omarchy-country-TT-Trinidad-and-Tobago-preview.webp": {
+    "sha256": "57ef7df7e6005bda8a192f518ccb5a0409109f3c0abcbb3e05c13aa45f24a5e9",
+    "size": 25170
+  },
+  "previews/tokyo-night/countries/omarchy-country-TW-Taiwan-preview.webp": {
+    "sha256": "b347bb324cb914bdd248bad52fda91a078a6ae869fe32f69e20d93b719ba045d",
+    "size": 24160
+  },
+  "previews/tokyo-night/countries/omarchy-country-TV-Tuvalu-preview.webp": {
+    "sha256": "69a77c324e2529c096d9e83cdf89e8f7286141a376d9a77033c982154e6aa116",
+    "size": 25262
+  },
+  "previews/tokyo-night/countries/omarchy-country-TZ-Tanzania-preview.webp": {
+    "sha256": "e678c2d40634d80e2d1fd2b4bfc151cf48dd6ef863df01f7938806939bf125d9",
+    "size": 20380
+  },
+  "previews/tokyo-night/countries/omarchy-country-UA-Ukraine-preview.webp": {
+    "sha256": "630a2d12c07e1fbf7b071e49175a6f1c5e38ab97c4e02e3edffc138846bb4262",
+    "size": 24868
+  },
+  "previews/tokyo-night/countries/omarchy-country-UG-Uganda-preview.webp": {
+    "sha256": "fb8afce15b3d0ccff2c1bf496fe2682c2669af70c8b2c4b6257258f1d8322ef6",
+    "size": 26766
+  },
+  "previews/tokyo-night/countries/omarchy-country-UM-US-Minor-Outlying-Islands-preview.webp": {
+    "sha256": "efac222108e70d09e2462fca4ac1b2bf9f453e554b04c223ca61955866c8d2f6",
+    "size": 23992
+  },
+  "previews/tokyo-night/countries/omarchy-country-UY-Uruguay-preview.webp": {
+    "sha256": "7768f21446b8eae6a6dc59ba46e03dc695e9ff400b88aee0be68ade4b7085960",
+    "size": 22042
+  },
+  "previews/tokyo-night/countries/omarchy-country-US-USA-preview.webp": {
+    "sha256": "6c33b55d963870089779b63f53b7f32a1c21ebc4c72c1d5bbc0b9ccc47e532f7",
+    "size": 24748
+  },
+  "previews/tokyo-night/countries/omarchy-country-UZ-Uzbekistan-preview.webp": {
+    "sha256": "13dcd7186a9f17db9a544ae320f6570fcc6837258338d47ce4ed4ab55dd2e373",
+    "size": 21046
+  },
+  "previews/tokyo-night/countries/omarchy-country-VA-Vatican-preview.webp": {
+    "sha256": "c06ef47ebe15fc3b3435a349384f1e0911dcc24c839fbdb4a8f1470867dd3afc",
+    "size": 23992
+  },
+  "previews/tokyo-night/countries/omarchy-country-VI-US-Virgin-Islands-preview.webp": {
+    "sha256": "beb1e5856fe09c1271d0822c6922017350ccb9a86984963af9e74b914c1db6fe",
+    "size": 23678
+  },
+  "previews/tokyo-night/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-preview.webp": {
+    "sha256": "6ca8aa32e883d65682d68497b0b903744578f46db4a1ef4cca69fdf71907606c",
+    "size": 24908
+  },
+  "previews/tokyo-night/countries/omarchy-country-VE-Venezuela-preview.webp": {
+    "sha256": "f746f582c5fb01bf3574a8ac92faf1274e22a6724f390290a9b29be74587b5bd",
+    "size": 29068
+  },
+  "previews/tokyo-night/countries/omarchy-country-VG-British-Virgin-Islands-preview.webp": {
+    "sha256": "42ddbca1d8767256a84802d901ade71c14e9c03544f1bfc332b814f21b816fab",
+    "size": 33218
+  },
+  "previews/tokyo-night/countries/omarchy-country-VU-Vanuatu-preview.webp": {
+    "sha256": "17956e8920f60b385840457376eeb28195dd3226557a29dcc7ff30cf2c739242",
+    "size": 29486
+  },
+  "previews/tokyo-night/countries/omarchy-country-VN-Vietnam-preview.webp": {
+    "sha256": "9d035d47631b89f4ec754da04205be0a1d081f22204387861f9905a9ae8f301f",
+    "size": 27670
+  },
+  "previews/tokyo-night/countries/omarchy-country-WF-Wallis-and-Futuna-preview.webp": {
+    "sha256": "adb72c3a722757787d8566df460645fd2d2073e053198b9189954d065dcc4666",
+    "size": 29260
+  },
+  "previews/tokyo-night/countries/omarchy-country-WS-Samoa-preview.webp": {
+    "sha256": "c17734b2cbeeca14c6666b7bfe79d8a7ce89381ceecfe1148343154bd56a438a",
+    "size": 25778
+  },
+  "previews/tokyo-night/countries/omarchy-country-XK-Kosovo-preview.webp": {
+    "sha256": "01a9b9230e9be87a708eada1fcceaefc860b57ff06252c38662dba7edc808713",
+    "size": 21396
+  },
+  "previews/tokyo-night/countries/omarchy-country-YE-Yemen-preview.webp": {
+    "sha256": "14b7fafa259deacf33daf5b52a12a9876e82832a1c2e5d3a8060857274c99036",
+    "size": 30034
+  },
+  "previews/tokyo-night/countries/omarchy-country-YT-Mayotte-preview.webp": {
+    "sha256": "890c9c64f77a44522fcd6f0b8e63fa965f7108ffea5a9bc9c2a8f30561cb0df7",
+    "size": 28316
+  },
+  "previews/tokyo-night/countries/omarchy-country-ZA-South-Africa-preview.webp": {
+    "sha256": "a226ba19a6330a39c6a91c1e14e9883873debee37deb344cde7c453a0745ac3b",
+    "size": 24758
+  },
+  "previews/tokyo-night/countries/omarchy-country-ZM-Zambia-preview.webp": {
+    "sha256": "2398964e25ad24ed198f2710400f3b59939a23199bf23c11d0cdb44aabf8ce52",
+    "size": 21626
+  },
+  "previews/tokyo-night/countries/omarchy-country-ZW-Zimbabwe-preview.webp": {
+    "sha256": "7767aec3c1633ec0c325e679664d2bce2def4394be7c16be106fe77baef73a57",
+    "size": 27614
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-050-the-freight-depot-2K.webp": {
+    "sha256": "67175576eae57f82be16810de95aa11189d5cdc728ab2f753b988b1def8d6763",
+    "size": 185214
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-099-stairwell-landing-desk-2K.webp": {
+    "sha256": "c7242ad46f1ecc7be22e6732123e19f3e12c0fe3c997162f73dfb69155095a3e",
+    "size": 270358
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-153-the-kitchen-at-four-2K.webp": {
+    "sha256": "9ae711b8f8f3ea37200fbdfb6a94cd56144533ab2e848e0eebc9c66075134427",
+    "size": 198296
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-200-rooftop-ramen-2K.webp": {
+    "sha256": "e7cf56ac3a5258f579150f661309fa5bae4c357b92f87ac1a1934c8222ea8a65",
+    "size": 214108
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-003-the-old-windmill-preview.webp": {
+    "sha256": "b3d1093b3b9612751b88c5988c04e54ba4a35abaab35bf2d9b92eb2b2b22094c",
+    "size": 16850
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-050-the-freight-depot-preview.webp": {
+    "sha256": "67a7b8c74dba3776a891337cca1d002600e1c560b434016b87c3aa7b7e989490",
+    "size": 19810
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-098-billboard-scaffold-camp-preview.webp": {
+    "sha256": "0593c3c54ed6b897266729553cfd43c110a34636d5eeadd6e8f0ba33448b19a6",
+    "size": 26164
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-150-greenhouse-bedroom-preview.webp": {
+    "sha256": "bd30621a4f563fdf30fcd95a44df40ae309cea23599f49a0a902517b8627e95e",
+    "size": 34534
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-198-curtain-of-cables-preview.webp": {
+    "sha256": "6eab095a56edd9b034498f7d9dba536dc3e384a47a440fc71b2ca520c581f357",
+    "size": 28356
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-250-rooftop-cinema-preview.webp": {
+    "sha256": "fe80e159c26957435c8de7a32bb043b759818647ebe70bd4285b4d7abbe0dc4f",
+    "size": 26302
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-005-rooftop-sauna-2K.webp": {
+    "sha256": "a6ff94ea937a7b7d2d5f347c4e373037d58cbeb2db65b251b922910af06abd80",
+    "size": 174464
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-001-helicopter-on-the-roof-2K.webp": {
+    "sha256": "d3a05fe8566e06ccd8406aa181a4ad8582fafcda4f2d9b7cde190c7381ecd11a",
+    "size": 184702
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-003-the-old-windmill-2K.webp": {
+    "sha256": "5b766170245c43257e4aed40b3b88d6a4fb13cb7137f39cf8dde3fd742c21abc",
+    "size": 171836
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp": {
+    "sha256": "07e9c44afc42a97d7218370826e31f23c0cbe9feaadc7669fa98bd7ac79ab9bd",
+    "size": 184104
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-008-pinball-repair-2K.webp": {
+    "sha256": "3acda7afef083ae3a22d057d78afbc9b70a9ed30f403c0791d24417a766fe075",
+    "size": 256864
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-002-the-instrument-rental-2K.webp": {
+    "sha256": "74a87227f1a6f9757b604233ca15f305db274f4578759735452e41d4458773aa",
+    "size": 212626
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-007-the-map-room-2K.webp": {
+    "sha256": "c2856e2607634afcc183ff49d0d4ae0718a747858214eb821622a788472c45fa",
+    "size": 283780
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-006-moss-garden-teahouse-2K.webp": {
+    "sha256": "a498042cde3f7cdd8aaffbd3a2dd5b9f17c8c8889bd3f00aba1bdd9d4df9aa5b",
+    "size": 358840
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-009-fire-lookout-tower-2K.webp": {
+    "sha256": "d97e9696c5e9973c7eee2a36aa71cc700e18697959bc850fd379f16eb11a3e15",
+    "size": 197162
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-010-control-tower-abandoned-2K.webp": {
+    "sha256": "8033fb3b084de0c8b1aeb5322f395d32aabb6877c3eaeb61024bff3a6338c36a",
+    "size": 259572
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-011-vending-machine-corner-2K.webp": {
+    "sha256": "5b3b2efeb3b162325eaefc3005e6d4c13996971f828a632d46b65da2e5e9b598",
+    "size": 205584
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-012-the-fish-tank-room-2K.webp": {
+    "sha256": "fd5f1ded418b5acad735fef3343e6a8bbcf57f693fd60c1d635490544a127c12",
+    "size": 173044
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp": {
+    "sha256": "df86d76079e2fff373d07823d68a154434bdcdb61aa653bf7b300305eda383ac",
+    "size": 228320
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-013-the-vinyl-basement-2K.webp": {
+    "sha256": "63fc7ce23103c61dd784a79c3d40926646d5c81d78b01ab38c3695403e3ed709",
+    "size": 235408
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-015-laundry-terrace-2K.webp": {
+    "sha256": "fed4f91447a028e7c478c391def16061f448ff01e1addb761fb0bd1088ff6fbd",
+    "size": 207440
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-016-rooftop-noodle-cart-2K.webp": {
+    "sha256": "0a8d791d17d79ad81044f9232584ff086ce68e75dedbf9a9c8fdd5a3f7746ab4",
+    "size": 273244
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-019-the-guard-hut-2K.webp": {
+    "sha256": "df837001896285e3693b06d3a67b8ce7a009362ea0c743e9c0cca9570e0de57c",
+    "size": 187634
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-2K.webp": {
+    "sha256": "9d334f35e8b16dd3537c4918e96c2fa5173a924f6ddf9ff55fb2bbd509b91116",
+    "size": 318322
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-017-the-tea-corner-2K.webp": {
+    "sha256": "016afe47c266ff787dc81e6d21adb59912dd3e9ef4ff2f5188bf651007584852",
+    "size": 322280
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-021-airstream-under-the-overpass-2K.webp": {
+    "sha256": "9cb5535b454c39e86e6bffa05a582acd2b32cfa713b1425acfcb57b35e7ced1b",
+    "size": 208130
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-023-the-satellite-dish-den-2K.webp": {
+    "sha256": "7ce7aad09dfa916ace424d4634c449808d3ff2e4953ba00498680b66cc29fda3",
+    "size": 253184
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-020-stadium-under-seats-2K.webp": {
+    "sha256": "96cbc6ee416c0b306655a95af2940cd25790d78cfe290d1c576c49386bacd2dc",
+    "size": 294928
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-024-the-elevator-machine-room-2K.webp": {
+    "sha256": "5cc9f7a2910e0c4be15e8e5cbb47e19693bba6efeb6365508d814412406f6b45",
+    "size": 258978
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
+    "sha256": "b8551155bd302ce974df4702c738861654a47572a9d2b9f490c85ab76306b516",
+    "size": 301646
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-025-aerial-walkway-hut-2K.webp": {
+    "sha256": "97ca8e0aef1ed6654b615f3fcaa270a5ea42cb700a1bce2a47dbfa484a92773b",
+    "size": 227706
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-026-rooftop-hammock-deck-2K.webp": {
+    "sha256": "268f139602d5958772b16bcacf2e93e597310b8914c926186c0be95daf492bdb",
+    "size": 242972
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-030-crane-cabin-home-2K.webp": {
+    "sha256": "6cbf3754a3431fe834c09066db611d21a4a47cc3b95a7db7d72809fb463bc162",
+    "size": 179100
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-2K.webp": {
+    "sha256": "eefe24f83a53d58817dfb4a97de8efcb0c91f32c76a06a61dda8c32cc9ed05e6",
+    "size": 211512
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-027-attic-of-maps-2K.webp": {
+    "sha256": "c726638972d80b2cfef3ac4a565a577aaae70056006cb593f41ebad1002a68f1",
+    "size": 239180
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-029-the-fishmonger-ice-2K.webp": {
+    "sha256": "28d7804bcdf481bf2d827d7b0a676c6452511325c967cd21a865dde532569c4c",
+    "size": 200826
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-031-sewing-machine-row-2K.webp": {
+    "sha256": "9c904412feaa723a5a344c037d2b1eb53eb751be60029932b214aaa6566aef60",
+    "size": 288826
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-032-rooftop-orchard-2K.webp": {
+    "sha256": "016917052de6ec573d1c971c8b0720ab43186c5e251fb0cf3945953173c02037",
+    "size": 275244
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-033-the-battery-yard-camp-2K.webp": {
+    "sha256": "c36f27843470b9c97f0346c4467aad51cbaa1fdf6c94747cd49ebffd79fce77b",
+    "size": 235666
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-034-boat-on-a-trailer-2K.webp": {
+    "sha256": "f497b15ec98e65d6a9c5a144e32705b6d73e048d78f3ed0ade28ad0db79068bc",
+    "size": 230962
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-035-caravan-on-the-ledge-2K.webp": {
+    "sha256": "95f064823ae59b8b514ce9365b8a23f564b0e161f052ad87c697f3d983646ec6",
+    "size": 188146
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-036-the-armoured-greenhouse-2K.webp": {
+    "sha256": "6e3e7d3a75fa6601511d9baf542df28c96b096b89e6b9c81dd7c9e44ce6baeb2",
+    "size": 251242
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp": {
+    "sha256": "cc27e8f6081484863fc153caa333fcb7a110916d945c1b4d8a6403c8c803969a",
+    "size": 199292
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-037-capsule-hotel-pod-2K.webp": {
+    "sha256": "0bdc857a34db629b38e38caba2332202d3de5b1e052466045a02bcfa7057e4c2",
+    "size": 256180
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-040-bicycle-workshop-2K.webp": {
+    "sha256": "6c641807362139a3bdbd39fe43f5f7a44767f89b4f8c92a4141b51e200668287",
+    "size": 226248
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-039-the-recording-booth-2K.webp": {
+    "sha256": "d02ae56f8133bde37bae3903427b20a3f98388778216286d4e8b08e2447a5eb3",
+    "size": 338982
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-041-the-ferry-cabin-2K.webp": {
+    "sha256": "d794eebd598b163c921c82bebc4f21d170e993fac69b4deb8ff950affabd14fb",
+    "size": 328292
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-043-the-map-shop-2K.webp": {
+    "sha256": "92e6ce408e33f3dad40b5fee390f7e5d90d81489aaaec95ce2984424b9ad1db0",
+    "size": 222410
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-042-the-aquarium-shop-2K.webp": {
+    "sha256": "d5b30fc97d3e89807df8894e21590eb47baf2d8ba850aa713bd274023066f10b",
+    "size": 304554
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-044-nursery-of-seedlings-2K.webp": {
+    "sha256": "f1b077efff625f5f8a82c39fa19bbf28e4bc6e6627490d3968ec4f6b14ead1f1",
+    "size": 324836
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-2K.webp": {
+    "sha256": "9adae73885bae9090b8b27f4653463dd8704215bc546d04de55b33bbe1654881",
+    "size": 384380
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-048-pontoon-greenhouse-2K.webp": {
+    "sha256": "c6beb184dbfa09f28c0e1fdd0c732021f6407faa251fa31c06aaa75d4e14eae6",
+    "size": 190182
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-047-pedestrian-bridge-hut-2K.webp": {
+    "sha256": "871d5c2ff23d848595b2d9050f0c4803137677f6c0c4cb90b3c9d4b68ee11945",
+    "size": 246284
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-046-the-toy-hospital-2K.webp": {
+    "sha256": "9336be15beab5237577d569b167596042fdb0e46e69dc312af9a0d272398e662",
+    "size": 309546
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-049-flooded-street-boat-2K.webp": {
+    "sha256": "433fea37771929ce4cb2a02594f12bab2af3e28c2f2f49e8c5f44ca50cd8d7fd",
+    "size": 142616
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-051-ice-cream-truck-winter-2K.webp": {
+    "sha256": "a9312f913f16c366a0bd8b7abbdcc591b2d7145839fab305f4c5e213e58abe3e",
+    "size": 234572
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-052-grounded-fuselage-2K.webp": {
+    "sha256": "381cc7bb9ef1cda55b9f723dcddaa24ee82904b916039e60e2f1fc9ad18d23b0",
+    "size": 188078
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-053-the-projection-booth-2K.webp": {
+    "sha256": "84473e1223101686c8d7bf56abd0d4fb407ef173855385525134dbc6ffb6140d",
+    "size": 226944
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-054-the-midnight-bus-2K.webp": {
+    "sha256": "c2bdeadf2eb72286240da34f83871cc366ee6fe0633fabc77b17c47fd51c03d2",
+    "size": 215486
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-055-the-server-room-bed-2K.webp": {
+    "sha256": "1fa767b3ce91cd60a0a92fcefe588949dbdd2db57d87b9823bc0e40f3a1f40f0",
+    "size": 198674
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-057-sampan-kitchen-2K.webp": {
+    "sha256": "b944819cc86dad035ab48b5f9633c9f2656c3b06f60382b45d20a50e8389ee4e",
+    "size": 192528
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-056-the-bell-tower-2K.webp": {
+    "sha256": "9ac537cb216e6728ddf59ffe19d14775d45e6c08aa56334caa8eee051920a57f",
+    "size": 178640
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-058-armoured-van-archive-2K.webp": {
+    "sha256": "b66ced53d7fd9895d6bca3b7312e8e62ebe50c32a35a958b7c108a5fb4a6a86b",
+    "size": 241718
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-059-the-sluice-house-2K.webp": {
+    "sha256": "6dd91eec17a99860ff8c1e4ea2b9fa7f419376b77beb8c2d75696015e70e4868",
+    "size": 241742
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-061-combine-harvester-house-2K.webp": {
+    "sha256": "d35f773163cd391e03a440588eea25857d4eba1bfa09de222bd3ee8a1146ac4e",
+    "size": 163570
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-060-rooftop-koi-pond-2K.webp": {
+    "sha256": "ac5f64c7aee009a4ca34cd4051019784d18837a33e4805d76a787195869b5e5e",
+    "size": 232870
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-064-the-petrol-station-2K.webp": {
+    "sha256": "d0f809aa8b076d19e804704d173aaa0bd80f837a8374d1dd2fb13ed58170df64",
+    "size": 151628
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-2K.webp": {
+    "sha256": "3df6f31d155d2751d8d8178789064a7bf78771ee73096494ef5620437ec71150",
+    "size": 309760
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-063-the-camera-shop-2K.webp": {
+    "sha256": "b2b067d634e9a5a9611ab28fc4a5261b96cdfb9fbdf8d7b35581bf9030376716",
+    "size": 218770
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-065-the-ferry-waiting-room-2K.webp": {
+    "sha256": "63547d49db9cfa90f526f3220506121226e54d3cb7acb587d7ee45cf9dbd48d2",
+    "size": 235254
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-066-the-rooftop-greenhouse-2K.webp": {
+    "sha256": "49b418830a31a54ebd422f356a5d6480dbace277acbc5dd59aff2df9b0acacce",
+    "size": 367098
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-067-the-one-room-with-a-view-2K.webp": {
+    "sha256": "e5b519664da01dd60c49145d351a4f9e9f3a6bdf9112efb34fbffa4f9122acb6",
+    "size": 179814
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-068-electronics-repair-shop-2K.webp": {
+    "sha256": "b05d1055de5f876306497871d0a719ee5b1693321f9558e48ae8d5d3646c3f88",
+    "size": 258204
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-070-water-tower-lantern-2K.webp": {
+    "sha256": "bbcad32210416a7c1ac4b3a2ac0d5286b2425f6030919ac16dc8f234185b1a6a",
+    "size": 133656
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-069-the-underpass-room-2K.webp": {
+    "sha256": "4f4e6b7a0eaacb5246994093f5e3ac751cbd39991b08b18b034368e423423adf",
+    "size": 301874
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-071-archive-of-tapes-2K.webp": {
+    "sha256": "e2cc21cbc02be9581391ca6585d4ca22e19ec928963a6a3926064ae9deea8454",
+    "size": 282980
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-072-hacker-loft-of-monitors-2K.webp": {
+    "sha256": "8aa3705a113be1b9e2a4849a7ad6e9d1834bad53fd575dacd554f4fd2c19909d",
+    "size": 270466
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-073-rooftop-onsen-2K.webp": {
+    "sha256": "13da419b24110bf1fdf78840edfeedf159879362ae5e775bceb7d0bd7ebc55f1",
+    "size": 199678
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-075-the-apiary-in-the-park-2K.webp": {
+    "sha256": "3ebb762f79ef502e1fe630fc4a3aef9c41798e925de350d916d2a7456b8c091e",
+    "size": 233288
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-074-postal-van-darkroom-2K.webp": {
+    "sha256": "c9433546636eff792d046132d548db2afefcb46abb8cdf97e699c72607d3ca2f",
+    "size": 222850
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-076-the-cable-car-station-2K.webp": {
+    "sha256": "a4099d89323a0dc350431d9cdc9b1eac9f43d535290562be5ad881032b9aebbf",
+    "size": 243778
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-077-the-clockmakers-window-2K.webp": {
+    "sha256": "4c63a131cdc4038f16d06061a5a7ab7c06e57d87f1db5f5b061a3b500e995888",
+    "size": 294340
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-078-dormer-window-desk-2K.webp": {
+    "sha256": "f7fde0cd11346f95939944222371d1830c576dcbeb36dd7d04ffe1c6c77f7690",
+    "size": 259040
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-079-candle-and-circuit-2K.webp": {
+    "sha256": "6f53461690611d8616f4db56bdef86a8076af592f18bf03095b4dcb8b490069b",
+    "size": 235160
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-080-tunnel-mouth-camp-2K.webp": {
+    "sha256": "56d1ee7be8c6012d780e0dbd7427885f601683068404cf7ef665892a4676715c",
+    "size": 351072
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-2K.webp": {
+    "sha256": "3f2ee61bb5d232a142c1af2ab3b51099e50aa716bc654af21dac6b3ac51ded2f",
+    "size": 232124
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-083-the-pier-shack-2K.webp": {
+    "sha256": "645d41d52a2387bf3f23c67123d0902aee9c328ba34c57f7fc20b43ba1b372b4",
+    "size": 238946
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-2K.webp": {
+    "sha256": "dce42bb356d8af275138b54c097b774d95dade5125fe75337d3ae195fbbbb123",
+    "size": 295650
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-084-tea-house-and-server-rack-2K.webp": {
+    "sha256": "076cd7b919735f94b3b298ad2ef48c985cb7bf064c67a1812bf50a67747d50dd",
+    "size": 188812
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-085-the-beekeeper-terrace-2K.webp": {
+    "sha256": "c2fadce9635d08c199007470149a38c658131b9a3f1a545c6e1bd3182f5b97b0",
+    "size": 160486
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-086-the-tea-and-modem-2K.webp": {
+    "sha256": "4486a5b2f90e190edbde25c368ecdb23fb1ceddf14dcae8e05c7b8d11f44b807",
+    "size": 188160
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-087-zeppelin-gondola-2K.webp": {
+    "sha256": "52be34affd717e7355a75a76d60f2dc293412bc905e51c1d18b956d2409ef63b",
+    "size": 277880
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-088-shack-above-the-neon-2K.webp": {
+    "sha256": "beeb41aeea80301f7b9f766cda21cb109b8cd36b57700a60eab48b4667845fd5",
+    "size": 234268
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-089-server-farm-bedroom-2K.webp": {
+    "sha256": "c2c1014d84011891deb340561cb313138f6a7ffe56141e11f830de2caad98dc9",
+    "size": 244460
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-090-solar-panel-garden-2K.webp": {
+    "sha256": "6c07cb042d44d52fd3ed4214fe7290b76943fbbde889c9fa359a25eaf915c31e",
+    "size": 350338
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-091-water-tower-loft-2K.webp": {
+    "sha256": "dc5a45b36bd805f06b0c7ef886e8e05bb0bc82d97515db5fdf8482930ec27989",
+    "size": 194336
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-093-the-penthouse-shanty-2K.webp": {
+    "sha256": "3d9220962ce8b18619472b0afab0fcbfb3c88da95701e957474703cca48a226a",
+    "size": 228542
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-092-the-weighbridge-office-2K.webp": {
+    "sha256": "2fd6ed532ad18accc89e451816d24e3141f2dbc847063d9350795a44b6c39556",
+    "size": 311630
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-095-late-night-copy-shop-2K.webp": {
+    "sha256": "3987da28d1a99cf8c46878517430d9742fe7b58164bb86be22a2ff7c29ab1777",
+    "size": 164140
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-096-the-lamp-shop-2K.webp": {
+    "sha256": "5c47126ac8d11e4df7e964d789294127a0c00895a0a03a5efc7131f678472aa3",
+    "size": 254560
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-094-bathtub-with-a-skyline-2K.webp": {
+    "sha256": "a42a539930d66cef8eaaa5aa01939362b8ac012a28de35a9512269c9fe06b901",
+    "size": 434888
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-097-the-canal-lock-house-2K.webp": {
+    "sha256": "a760efae68a215c9da3d1aa4eba0d09e410c133039acf19c0d983c8934a65510",
+    "size": 238382
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-098-billboard-scaffold-camp-2K.webp": {
+    "sha256": "eec0d820cf05aa8b38b69ba85d5d74815eaeca9d72da6fa1ce405cf306abf8c0",
+    "size": 309062
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-100-the-bookmobile-2K.webp": {
+    "sha256": "909d1367cd6af8279752de72dd0ab38cc2646e8240650d2f6b48bbd70ba3c394",
+    "size": 239200
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-101-the-allotment-shed-2K.webp": {
+    "sha256": "506ec0981ed421d6f814488356d952c9bd017f30054480ccfe979913644cc59a",
+    "size": 304644
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-102-the-bookbinder-2K.webp": {
+    "sha256": "31011b118121872ba75752060de339e64c0b778dd0b3a518b5e4506b080b807d",
+    "size": 233738
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-103-stairwell-hut-2K.webp": {
+    "sha256": "85827b27e25c1ca82398df1ef8db66b61f25edd81ca73049659fb3be0c9987cd",
+    "size": 243696
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-104-laundromat-at-3am-2K.webp": {
+    "sha256": "da9c0745daa3b403f050135c662c8beedabdac15144670571abec94f9e363cca",
+    "size": 271556
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-105-the-cable-junction-hut-2K.webp": {
+    "sha256": "cfe562b6ca3ccd48cffded021adcf813db2a7a17778c3801e0678ce6237ab175",
+    "size": 243142
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-106-the-tattoo-parlour-2K.webp": {
+    "sha256": "44ebdadd10fa2c49f0704b91ed5bf1738497fefb5c73518a231039638fe86b87",
+    "size": 160998
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-107-rooftop-radio-station-2K.webp": {
+    "sha256": "d1fe6fb34a2e9d2d0023a264655031e2fc2c3a8e856c6ac96f9569d9acd62396",
+    "size": 225246
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-108-the-ruined-arch-2K.webp": {
+    "sha256": "04557b70b8d5efab69f065555471743a011cac531df138d306c0f48e5e01c75d",
+    "size": 268044
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-109-library-in-the-fog-2K.webp": {
+    "sha256": "cafef042d44fed8596c4197b14017bee043c63d65695bc365fd2c91146a02e30",
+    "size": 229080
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-110-harbour-crane-cabin-2K.webp": {
+    "sha256": "cbbea923757f625aafce2b37f40de04c03679d5c164b636a99a4d8f485f86762",
+    "size": 198552
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-111-the-sewing-room-2K.webp": {
+    "sha256": "a1fd0cfa2d97480eb59711463b89d08c49a2a6f2cb4adefb05fa191a4d0a748f",
+    "size": 250568
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-2K.webp": {
+    "sha256": "4fdedb48f75b88f3e46130a6d327d652fad847bc5a13470303f0a3e72b028dd9",
+    "size": 213112
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-114-the-ski-lift-shed-2K.webp": {
+    "sha256": "18eaf41b491c79978b13552021ceac45bfe19bdac3667f60727a00055f95c80e",
+    "size": 206702
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-113-canal-side-flower-barge-2K.webp": {
+    "sha256": "11be745de30046ca3b2bef1c3006ab454caf706c7969389228ebd616cbfd6614",
+    "size": 278300
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-115-the-empty-office-home-2K.webp": {
+    "sha256": "a726ecc438abcd932541d631ddc73888080f05f8ca38eea5db6998db80cb91c6",
+    "size": 215974
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-119-rooftop-bathhouse-2K.webp": {
+    "sha256": "c313214dc1f9c2f7eccb1a0f5a2bcd7698358bf524666469326ef24fa3f36495",
+    "size": 200228
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-116-datacenter-noodle-bar-2K.webp": {
+    "sha256": "b6f94455cce3cb1b7e6f1bce835bb38d6575591a38d1074f401783e3bd7d2c2d",
+    "size": 258342
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-118-the-rooftop-bar-2K.webp": {
+    "sha256": "a63430068ceb3f99a90678c36009529c3af596586f1b46604a04c3dbdca2ef2b",
+    "size": 266584
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-117-loft-of-open-cases-2K.webp": {
+    "sha256": "a7bcec937933a6fb6883326fac94dc9a7709104a35d3d311048c29fed39090b0",
+    "size": 297952
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp": {
+    "sha256": "d8b0eac70cd475db17a1222d9c81b6c99b9760837aba866137eddfeacf0232da",
+    "size": 309198
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-120-airfield-hangar-corner-2K.webp": {
+    "sha256": "25d5258b2bcb2ef9bac64cf1edcd96b94faa4349566e96de7b5a863b3bdad9e7",
+    "size": 236836
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-122-mechanics-loft-2K.webp": {
+    "sha256": "e97d74caaed2f93467d6e1128e6176d3e82c86ba2356f2616270944f153287fe",
+    "size": 278106
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-123-the-shipwreck-room-2K.webp": {
+    "sha256": "7ac4920cd0dcd38ef7130c4bde9159a1951565c5070afa326dc853dab3e3778c",
+    "size": 266054
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-124-grain-silo-home-2K.webp": {
+    "sha256": "5b8b1f28def4eaf16f03726e22a3fbe957974a5818dc2c0d28eeef46e54ec388",
+    "size": 178844
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-125-study-with-two-chairs-2K.webp": {
+    "sha256": "ffea6542615951de410c305592ab97d1a969dcb2205f8b44e80627e2085fef2f",
+    "size": 257556
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-126-ambulance-refuge-2K.webp": {
+    "sha256": "e0e5cb0d0eeea6edf8c3acdf413417f805ca05e488c70e8aa459f79fb152f9a7",
+    "size": 324570
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp": {
+    "sha256": "99fa0391451014f08425992b5dc80f62385e76636291ba259897f2238d93920c",
+    "size": 168610
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-127-floating-market-stall-2K.webp": {
+    "sha256": "736880c9ae675ab2f6a7772b2a26ae30d77cde1f3027f8fc739d23478afa35f6",
+    "size": 236716
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-130-bulldozer-den-2K.webp": {
+    "sha256": "5070015ea26503a5c4f6fb7347af1e79e18337927e1ff10574fcdcf08f46b1de",
+    "size": 165828
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-129-the-milk-float-2K.webp": {
+    "sha256": "8c0badf8d2aa3225eb1387cbc5e6f505e54962aabe887cc6e9e74fe5af0f358f",
+    "size": 202486
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-132-the-freight-nest-2K.webp": {
+    "sha256": "343216d2a5d9c255a750347b71f197466e5159bf04400c243e1bc8f4c2dabc37",
+    "size": 279142
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-131-urban-vineyard-hut-2K.webp": {
+    "sha256": "0748d583812fbef86b7b6cca6bafa482735e3648c499e0a007c1d9062f36df54",
+    "size": 295302
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-134-houseboat-of-lanterns-2K.webp": {
+    "sha256": "b276bcc8e65f13bf72e32aea07961f6420ee8f4d49e06c16eba4139e45fc346b",
+    "size": 198030
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-133-flower-stall-rain-2K.webp": {
+    "sha256": "15843d11be19509ea3e94204dda1e5bf84eebff11f78fbd9a6abec74d736cee1",
+    "size": 232016
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-135-limousine-lounge-2K.webp": {
+    "sha256": "d734faf0517d2f432e679278ad13c9068abc5a93a5356565a181c309bc231afa",
+    "size": 215208
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-137-crane-yard-office-2K.webp": {
+    "sha256": "3c120cec9cceb2fe97b22ac3d8579bd8e4ff3b80beb225358071f3ef8d256754",
+    "size": 267068
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-136-snowplough-shelter-2K.webp": {
+    "sha256": "367f39274c6817730d03b8bcfe5c9b37e5f043e0db1767bcd963243c9aab0488",
+    "size": 280014
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-138-control-room-of-nothing-2K.webp": {
+    "sha256": "39f372b7f92b59fa297b4ddd46ab0ab7efdff00c5e38d2bf5481312730b102cf",
+    "size": 286076
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-139-the-last-terrace-2K.webp": {
+    "sha256": "a81a72bc1e4919f90cd01145fdad7c1f86e34bbe2dcf66415474cbaf89d0a99a",
+    "size": 231072
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-140-the-clocktower-room-2K.webp": {
+    "sha256": "bfe52bd2d5b54fa4abbea48ec9d53264e1a72d8c8c3261332d70ba5bada81d40",
+    "size": 236260
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-141-subway-entrance-kiosk-2K.webp": {
+    "sha256": "07189bb5f5fdcd4cc92e2c7cde684e8535c89214aad129b86bfcc1622ab52e4f",
+    "size": 288766
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-142-the-boiler-room-home-2K.webp": {
+    "sha256": "dc2520314d92746ccb5cf72fdd974bf972291113e2d31b06570cd2b2dfc59b9d",
+    "size": 245144
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-143-the-observatory-shed-2K.webp": {
+    "sha256": "7fa7cb218b6ae9d55e3deebcf6ad8765e5d8b987e9e827ebf20c474379f94736",
+    "size": 227098
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-144-dry-dock-home-2K.webp": {
+    "sha256": "3337135b6e9116520158fdd1701973cba736d800b68fb621c298416122104b99",
+    "size": 229266
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-145-dam-keepers-house-2K.webp": {
+    "sha256": "b44a586ae2ff63efd81b955ca3352135b130edd17ab2289f1fd72e0c49f6ee7a",
+    "size": 163910
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-146-bakery-back-room-2K.webp": {
+    "sha256": "df7e21449459bf3cab9a907b9150007fc13a20f5696df5e18fbfbd1da9765405",
+    "size": 202288
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-147-the-window-seat-2K.webp": {
+    "sha256": "77660b3d78abd97674a3d34222a8be2c9a488a194b4ac0a5c0038b0da450b276",
+    "size": 271414
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-148-pigeon-loft-lantern-2K.webp": {
+    "sha256": "6ea15ccc4b1dfde40a3117c67ec395fc71710dede5fa48c7453c1b478fa7e463",
+    "size": 235854
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-149-the-last-westfalia-2K.webp": {
+    "sha256": "2ec9ab153c8443f4a7bddc07a74f9d3da00ed4f8f8b373a84b4cec4bd9dc2582",
+    "size": 249662
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-151-the-terminal-at-the-end-2K.webp": {
+    "sha256": "58ac7260f079141c391024f70c3e51a13829a4590eedf0b176c18be1d263b297",
+    "size": 304950
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-152-skylight-studio-2K.webp": {
+    "sha256": "262c34099e70f3eabef3e96febf87496e03ff793fb4bcbab00d0974f844e4464",
+    "size": 337858
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-150-greenhouse-bedroom-2K.webp": {
+    "sha256": "155de5289dda7d780ed8162ef6ebe555f61433ebf1b78803aebf03202f24b2cc",
+    "size": 413170
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-154-fire-truck-kitchen-2K.webp": {
+    "sha256": "972f66044cbe1be6ab099256e69c6c45865416db7d78244e35aeac379cab6ecf",
+    "size": 206676
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-155-the-scaffold-shack-2K.webp": {
+    "sha256": "e377822ad0bb4f680247118b76a8fef2382f588991720ea80bc265d7ab34e28c",
+    "size": 293600
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-156-bakery-before-dawn-2K.webp": {
+    "sha256": "b7487d38e7706276a990a93191e0e19a9b3603f2c9a8fd2d3fd4542a2a959701",
+    "size": 237626
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-157-prosthetics-workshop-2K.webp": {
+    "sha256": "5d47728010d02d59fc9553879a5231f89acb79c4a2885bfe006a588dafc08914",
+    "size": 238546
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-160-pigeon-race-roof-2K.webp": {
+    "sha256": "e213f8a3b1ee016c74e52495700047adba8ac71b6bf75c7ff179b8a3b09a59d8",
+    "size": 135852
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-159-dovecote-tower-2K.webp": {
+    "sha256": "226ce4ca65314d15d588b7058809cd6b7397a6d596d2556fdf231c6b9e532fbc",
+    "size": 210586
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-158-the-ramen-alley-2K.webp": {
+    "sha256": "161dcba4543a57be08e2918012e4dea4839e50d5216614628a15595d4b3c1084",
+    "size": 190134
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-161-the-kite-workshop-2K.webp": {
+    "sha256": "f7bf9fc3ba2067fb64cf2603c496cad86e7a85ac94af92e21b24bbd44ffb92f8",
+    "size": 247320
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-162-signal-tower-cabin-2K.webp": {
+    "sha256": "e5d202bbfe317b6d5a814da1b919c8cf3928fa143b24602fcefab55d09e85c65",
+    "size": 218992
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-163-rooftop-tent-camp-2K.webp": {
+    "sha256": "dfb4a2e62d7ed9f146ad331b047b88549b983dc20a7dab83277a9cf93cdaef62",
+    "size": 241044
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-165-rooftop-vineyard-2K.webp": {
+    "sha256": "bc9c0ba7f1131c182eeec5a878a5b648794ce9f0dffbd2d577cddf1977e46d62",
+    "size": 229270
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-164-cockpit-library-2K.webp": {
+    "sha256": "eb28e6dc0b25e980a6cc8de49d323d9329b8a3b2e32ec2ba00563603b9092882",
+    "size": 279146
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-167-the-guitar-luthier-2K.webp": {
+    "sha256": "b139863001e35e710af9a898405226c847678966b5a7604235f0df1cab96358e",
+    "size": 226838
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp": {
+    "sha256": "799d38c31377660d657f009157767b4fda9fcadd86139d64ed3f65e0c41d3a9b",
+    "size": 217624
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-169-the-cinema-marquee-dark-2K.webp": {
+    "sha256": "afd794a5bb01208ad2f3da966ea143ce36510ca97f407394f0bbeb0ed1490d08",
+    "size": 242654
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-170-fire-escape-garden-2K.webp": {
+    "sha256": "9b240ebdb693055207a92a156ddb5b48b32815b4bd5bdbc9e1046600475ea3bf",
+    "size": 237132
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-166-the-glasshouse-library-2K.webp": {
+    "sha256": "f7350ac52432ba8907e1eaea9014a2519df9f92942c95abfe360efbbaa5bb131",
+    "size": 344348
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-171-rooftop-chapel-2K.webp": {
+    "sha256": "b5b6ffc15b7a47a8fa3d3c36ac2c0b510d6333ece3939290f119d4bfdf3974e1",
+    "size": 254968
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-172-the-watch-repair-bench-2K.webp": {
+    "sha256": "dfc5e6fc6b140c520ae99e740643caef6605079dc6ac235445ad65814538a7a5",
+    "size": 226004
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-173-the-gatekeepers-lodge-2K.webp": {
+    "sha256": "4d64a7a8a6e2e163b9d93c986f55d477623517d39f5971b452c4446ed47a9917",
+    "size": 305898
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-174-the-quarry-hut-2K.webp": {
+    "sha256": "355f7c6164cac731f503daf62400a3b9cf16e57d990b6396db67bc817907d290",
+    "size": 217216
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-175-newsstand-island-2K.webp": {
+    "sha256": "28344b0dc9bac8da71f0a39103a94af9eee47251f5b2dcc6e431fd359f36d4ac",
+    "size": 223554
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-178-stilt-house-over-water-2K.webp": {
+    "sha256": "ef2cb81c413ef308b72cd6839936d712a89e32a2ef2760ebb451ad0e238768f9",
+    "size": 188668
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-177-dumpling-window-2K.webp": {
+    "sha256": "8bd6ddb28ce279ffe18849c068ae6dd731d834f3f1180ee3b9ec4e136f252af1",
+    "size": 255006
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-179-the-radio-pirate-2K.webp": {
+    "sha256": "043504d4806ebb0025c65b3c0dd453f39317edea010fff8b7b244ddf98757985",
+    "size": 224732
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-176-the-taxi-garden-2K.webp": {
+    "sha256": "68a48fb0f1d2a52ec11b39a2308bf64915ca040b879c5c39a74cb8f73e892337",
+    "size": 230154
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp": {
+    "sha256": "b2ee576acc92d94063d7f9929c0698e08a3235622c6b6f573f02f7773cb485d5",
+    "size": 250002
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-182-the-drone-port-shack-2K.webp": {
+    "sha256": "7d0eb91fb10ec5e19836204ad775dbd0ac920d6084ea0fbe1489e2630c410aa2",
+    "size": 229254
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-183-pigeon-post-office-2K.webp": {
+    "sha256": "b22bfd32ce6716a18de650b2b136107ae8781f155b39a87905eedb9aba32f579",
+    "size": 201970
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-2K.webp": {
+    "sha256": "a30fd61e05c93d18e0de67eece3174a3d85d27b304f555af539265a69b500d71",
+    "size": 233720
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-184-the-piano-in-the-dark-2K.webp": {
+    "sha256": "81ac60c158f981e2bf746f17abce3b2f0eefa7010d94487847bc95f2e23dd544",
+    "size": 201894
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-186-seed-bank-room-2K.webp": {
+    "sha256": "6b01d55a2f896ae17dcb0f2fed409d8435ade2a7d84f518b69e0ee4e119601c4",
+    "size": 288868
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-187-empty-pool-camp-2K.webp": {
+    "sha256": "230f43f11f13e80cbca8a492843fb5fcde0d644195395845fa7b00850e5d5030",
+    "size": 231998
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-185-sleeper-car-atelier-2K.webp": {
+    "sha256": "fe8046288bd9b9c593ef88a0c99faa6ca791c1248cab7749931372527a827bb8",
+    "size": 239376
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-189-submarine-hatch-home-2K.webp": {
+    "sha256": "132604ec8cdadc4e461d6fbc7bba1ddd8622f62c19afa6c1f3b0880049cb347d",
+    "size": 156124
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-2K.webp": {
+    "sha256": "7a1c88470c04f801abf171236753b0e2dbe1b7f73fea2505ff14e466c6103ab8",
+    "size": 190350
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-190-drawbridge-cabin-2K.webp": {
+    "sha256": "a8ba2d9b294e617cb3f95481f840f4ca08954859089e5d17ca2977084f53f158",
+    "size": 216574
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp": {
+    "sha256": "e35eac96bb8400fb39295bbf9a1607c94aed2091d6987f47130c6d8bdf8019ca",
+    "size": 198402
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-191-workshop-of-clocks-2K.webp": {
+    "sha256": "1f9f5dacaf3c2c1633164a40e2d8a9d0e2b2f0330e753946426ec796e713fdc6",
+    "size": 237850
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-193-laundry-room-blue-2K.webp": {
+    "sha256": "5f2aea8864ffe6c48675b03f2f2d373c6f14dcbf35833e01951848cb2c02eab2",
+    "size": 177994
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp": {
+    "sha256": "e3e81f261aa0e4e140891ff2565151b26485fb921f132d3ef4a780c1c0ccc78f",
+    "size": 171440
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp": {
+    "sha256": "9312c5221dcf90868205a71f357c01b609684a8fb8ae6233e0884613f85b1614",
+    "size": 270694
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-194-record-press-workshop-2K.webp": {
+    "sha256": "9420a643c2e8c6c55d8b67a7ea61f44e4ae635cecce72cae56b4367fb723fa1b",
+    "size": 284280
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-197-chimney-side-hut-2K.webp": {
+    "sha256": "176cd6e2115cb870cb64b4b9002dae0a6458196ef973f9ceaa7bb8f569828fce",
+    "size": 303846
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-199-the-key-cutter-2K.webp": {
+    "sha256": "35b4912be0901c9c4163c52760c99276afdd008c4ad0af031f15744cb132a7d5",
+    "size": 216104
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-198-curtain-of-cables-2K.webp": {
+    "sha256": "bd668574534d75ebc91adc8f0eb153524f563fc6603688f501964fec9844d300",
+    "size": 332372
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-201-the-rooftop-forge-2K.webp": {
+    "sha256": "19acbffd96e33382e46a1a96b3dcc9bffc728748546447e81d04ba5468e65ee2",
+    "size": 185086
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-204-the-barge-garden-2K.webp": {
+    "sha256": "cf95fef04fd2291ff8a2d83721c73640ad685a5bd07def6815b5a8e86a53834a",
+    "size": 201026
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-202-whisky-bar-one-seat-2K.webp": {
+    "sha256": "50774921b493b494120dcec1f60d87ab5257ac30d9340b8434b2662aa7b3d6fb",
+    "size": 364600
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-206-the-mail-train-caboose-2K.webp": {
+    "sha256": "bce8bc2f093768182d6e6dec3364ec64de07798d5190650d45f68bda97e087b6",
+    "size": 167314
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-203-the-telescope-window-2K.webp": {
+    "sha256": "aa04df04a0a2b07a1f9e99da799e071412404c393c718691b767f1e9958d622d",
+    "size": 190184
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-205-coffee-roastery-night-2K.webp": {
+    "sha256": "2bf82984999e0321b5c1371c60d70a35796c2156790c1cc1805ac876ee173140",
+    "size": 206922
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-208-transformer-station-home-2K.webp": {
+    "sha256": "7be1d9886774ca4518d109c199fae3a30ae70ddad951732ccbe06e725fe903a8",
+    "size": 217154
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-207-shoe-repair-and-solder-2K.webp": {
+    "sha256": "c48de2d8e8afe845087db00c852ca2cea6e322bd96b70c62d23d137fd3a8c1f5",
+    "size": 311434
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp": {
+    "sha256": "96f1140f51d3946fca7e22cbe6bd94efef16ea94198adce7d267b0aaab896c0d",
+    "size": 333210
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-211-deconsecrated-chapel-2K.webp": {
+    "sha256": "b32922300c3da65aae57c7e7140976e5f8674a58bd0b772a03d75407d830a9c3",
+    "size": 272598
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp": {
+    "sha256": "d7c437b9472a32a083f26b0b41c2bbfc84c8c5b6e11891cb0078206350c35285",
+    "size": 222730
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-213-monorail-capsule-2K.webp": {
+    "sha256": "d59ab2d5115a556174cb7a2f8899ace111a9c0b0d4333968d1feb4e8f7ab769b",
+    "size": 255822
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-212-the-radio-parts-stall-2K.webp": {
+    "sha256": "7fb64a93731d137ad4491cad34d4baac689a9945b107d7c7d74cc32ed45e475a",
+    "size": 265364
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-2K.webp": {
+    "sha256": "f678bd336245dec5818e6a462fa923b0b8732fc5da829a039661d0363f2b4d4f",
+    "size": 230592
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-216-the-oyster-shed-2K.webp": {
+    "sha256": "58b5f41bdf711ce18e473e1eb9498eb0d279e0fbdd82d88c19bc1347528779d9",
+    "size": 206840
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-215-the-typewriter-hospital-2K.webp": {
+    "sha256": "b9dd1f08c0810fad0df82808f4ad9634bebeb70dded06617323bdd677279d494",
+    "size": 330660
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-217-lighthouse-lamp-room-2K.webp": {
+    "sha256": "d654710c11e20cc0fc406590ea949601433feed016662e0f8ad350dd40ff4a54",
+    "size": 241378
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-220-the-forklift-camp-2K.webp": {
+    "sha256": "0500566f8f5eb96e273e0b7c971418b4f06d9347217dda56e03c59dbdc67a7f5",
+    "size": 217344
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-219-the-barber-and-the-cat-2K.webp": {
+    "sha256": "fa0b608030f26996e7c190377f36fadde21788aaa101105521475774e3d28821",
+    "size": 257112
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-218-the-chess-table-2K.webp": {
+    "sha256": "0134d2955bd0c164f699d10b27cebd29f690621771518ae3148ec8d5d81f408b",
+    "size": 267682
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-221-hotel-room-forever-2K.webp": {
+    "sha256": "46f73733a4aed96887f680a8d92ed05c3701eab006387e30774bc8c5bafe2291",
+    "size": 216960
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-222-vertical-farm-corner-2K.webp": {
+    "sha256": "2233e9c40d8aef84574d9caa2252c7bfb8e4592c59cedb18de32ed01b72434a7",
+    "size": 341374
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-223-tractor-and-awning-2K.webp": {
+    "sha256": "613ff6f0b375842afe1309771d421fe13a0c9392737416374374cff590d89961",
+    "size": 236016
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-224-tugboat-galley-2K.webp": {
+    "sha256": "964c99a19c3fa29319059d4eff4dab1725c9581f0250c645361aeb9911fef744",
+    "size": 188326
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-225-bus-shelter-alone-2K.webp": {
+    "sha256": "2f616c77935436c9b3f1c15962edf17f95a65c98aeabe0176bf3dd0f23987773",
+    "size": 169684
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-227-the-billboard-back-room-2K.webp": {
+    "sha256": "4738f74ea000c3894f1c4d91f47160cdb8b237f01dd8e6ae3033b19f319cab47",
+    "size": 268820
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-226-bamboo-grove-hut-2K.webp": {
+    "sha256": "5f106fbaf4483cc132d54e932efd44ef68e119a87a92047eb4889a3fd18d2347",
+    "size": 399532
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-230-the-last-phone-box-2K.webp": {
+    "sha256": "f9565ce540383c92e6f075539b5f5538f31879cdbd2d2bc853d7a6a05d1821be",
+    "size": 208760
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp": {
+    "sha256": "c8dade292411f9dce792be923487c34c00fcbb821abd7299d91a106aca6c3b85",
+    "size": 295544
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-229-signal-box-on-the-line-2K.webp": {
+    "sha256": "429d624f999df7ccc1ca081d80fa2a2cd788e2b9aa2af75b695bb8b9f6d222ed",
+    "size": 298948
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-231-the-antenna-farm-shack-2K.webp": {
+    "sha256": "22c711f6636fcdfb6afb20d73ec7b0c5252cea168caa953034958fc7903674e9",
+    "size": 280014
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-233-the-antenna-keeper-2K.webp": {
+    "sha256": "fc15b1dac2beab6c8cfae7cc3c05c682724bede6d3d5913b46444480ef7bd702",
+    "size": 211384
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-232-sidecar-repair-shop-2K.webp": {
+    "sha256": "09343be038a9ff4b8cfd49ff5e70efe3c0fc265382d1d5264a59dec256dca142",
+    "size": 246498
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp": {
+    "sha256": "f1418c6bc72ba823114f0cd3ed49b383145ec1662da8aa5a94b9832a4868860f",
+    "size": 218446
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-234-the-terrarium-wall-2K.webp": {
+    "sha256": "5fd9c06b4c8ecab0a1c3389311de72ba6345a66c0ebef8df5c503d83ff7f3952",
+    "size": 245900
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-235-the-rickshaw-kitchen-2K.webp": {
+    "sha256": "ea237e359e3381f8f24a744c43707981374818208bde9fe35fff58dd2004782f",
+    "size": 241862
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-238-the-pawn-shop-window-2K.webp": {
+    "sha256": "17a4dfafd85f85384325c225ce14b015979c00897a16275b48c9d77149325ab5",
+    "size": 250776
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-236-the-drone-clinic-2K.webp": {
+    "sha256": "31c7627844f2562d81f9caf2cf2723e4d09ac2cc7240018fd59101ec1605bc11",
+    "size": 311348
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-239-the-clinic-after-hours-2K.webp": {
+    "sha256": "81d77b039e9c81fe2e9df5978b9878af8c5e6539991b74e3aa018649a85d679d",
+    "size": 254776
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-241-the-fern-house-2K.webp": {
+    "sha256": "d8c6279deec16e5538c24385ef96c23ea38dc554f5abd8711c878afbd510871c",
+    "size": 344856
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-2K.webp": {
+    "sha256": "f19221f83a359501d1e7df3190a4f3249d29807e0f30777ca9cf60a67b350e5f",
+    "size": 423790
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-2K.webp": {
+    "sha256": "496209bfcb8a966d35c8e1dfec27a1a57938e67d0590eb4a9ccf2c67d63237a9",
+    "size": 168110
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-242-comic-shop-back-issues-2K.webp": {
+    "sha256": "717d562882adc757048878c3fbb4207c86ba2b898d0ae3c794474d5509cb0379",
+    "size": 294166
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-244-water-tank-house-2K.webp": {
+    "sha256": "691e70fb990b2601cf630ab6502d82ddd713464b8122d99bd06f7f1c4c344789",
+    "size": 205838
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-245-hovercraft-skirt-camp-2K.webp": {
+    "sha256": "2e6a5bd1e000cff26c0dc241ff27a2fe5efc18d9ac426e21d55283b9c47b6ddf",
+    "size": 211428
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-001-helicopter-on-the-roof-preview.webp": {
+    "sha256": "c09ba11790c9483551ae778a009b2a606f34e1699d6c3a3a28bbad48528a7038",
+    "size": 16962
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-002-the-instrument-rental-preview.webp": {
+    "sha256": "e97e8bf5d4a44a0d530b1c99c679343703175382ec80ee31b058a4582cf70fed",
+    "size": 23474
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-246-the-nursery-tunnel-2K.webp": {
+    "sha256": "deddc1226073eb9d8354a16086a6d8a7677ade97e2fce97e10fdad7f96bf786f",
+    "size": 236700
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-248-observatory-dome-inside-2K.webp": {
+    "sha256": "171537c101e2c4984c932452d69a3fa1348c184b59731366f01cc60ca4ce1456",
+    "size": 181180
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-004-mahjong-parlour-window-preview.webp": {
+    "sha256": "52c46e58a4fb1ae0a2e43b194798cdca99f1e12a7601d4724e2186c799c0e698",
+    "size": 19276
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-005-rooftop-sauna-preview.webp": {
+    "sha256": "73926112eb99ffd3de436343c7052958a8c7d00e5fd38df75eac060bd97bab31",
+    "size": 18610
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-006-moss-garden-teahouse-preview.webp": {
+    "sha256": "920021c02e6e8684bdeb4894aef0b1007c72a7cbd5ab06e3606bc856d9f58af5",
+    "size": 30618
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-007-the-map-room-preview.webp": {
+    "sha256": "f4f30d305cc68263ded9f2a4af8f48c9d75022c87e3623e177072ea14321766b",
+    "size": 26402
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-008-pinball-repair-preview.webp": {
+    "sha256": "669352185c73ca59f1c088c485180fafb4a93528f76d61481902f6338ebee889",
+    "size": 22358
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-247-painters-studio-north-light-2K.webp": {
+    "sha256": "5ed8223c1cc402d78551627798b630fde9427a5a84d3376ce9bb292ba5ad25c0",
+    "size": 312894
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-009-fire-lookout-tower-preview.webp": {
+    "sha256": "6e3df01bb635739433e7033d492cf9355133c93ccff446cd7a426faca93e95d6",
+    "size": 22350
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-010-control-tower-abandoned-preview.webp": {
+    "sha256": "85ce9e5e826e1bb7b8dc2944ea5f752c1c50773998d6b60643f5c865b3da8fdd",
+    "size": 22830
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-011-vending-machine-corner-preview.webp": {
+    "sha256": "52d18d14aa9cebfe9d62bf13aa44a89654b7b66e2e2686b4d43ed54d74061225",
+    "size": 17892
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-249-tailor-with-a-terminal-2K.webp": {
+    "sha256": "5c033939ea095fae28ac16310943f0d3c7d5892e24ca3a776ba9dcc8cbcfc1fd",
+    "size": 223010
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-012-the-fish-tank-room-preview.webp": {
+    "sha256": "5e5894a74b4f3de8290c74b7ea5a8d52884e0bc9d87c1abf600d9bcac0d24fb1",
+    "size": 16900
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-013-the-vinyl-basement-preview.webp": {
+    "sha256": "0a68a51eedc56656a5e0cfd4561924cde8bd3052fb53d359863c1973f005ef36",
+    "size": 21298
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-015-laundry-terrace-preview.webp": {
+    "sha256": "b7040588c320aa118679f32180f18209a886d3a42d1a2399a52b4c9ca8ef49a0",
+    "size": 20296
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp": {
+    "sha256": "b763e56de4b399d1c4e0f617d9b0aafee9199a8e5b6142d8ee1ead3ec3711804",
+    "size": 21600
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-016-rooftop-noodle-cart-preview.webp": {
+    "sha256": "bc19df7b68b1a97d5ee3f77634c77a749ef66ae42d6c19dca5a61e00d1128c41",
+    "size": 21918
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-017-the-tea-corner-preview.webp": {
+    "sha256": "35b016fb996b8b0d70ef1faed6b449243b966c4071d70a5c2c0d3473b06f268e",
+    "size": 28092
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-019-the-guard-hut-preview.webp": {
+    "sha256": "c2e9d60c555e01755ffe3ad5ef6bb2acf09b7f33edf7ebbe1953ee807ef90bee",
+    "size": 19616
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-preview.webp": {
+    "sha256": "57a39be3d6855a5c55937f235ac3ff003253a44f3361ee07ab5eb83ef8adee77",
+    "size": 32310
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-021-airstream-under-the-overpass-preview.webp": {
+    "sha256": "2a4ddb28491e533f154c2610faf7e9d6bb64612585a68b4a99ba5d56a6474000",
+    "size": 22440
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-020-stadium-under-seats-preview.webp": {
+    "sha256": "4c13d950f2e8423fb4ac86d9c2773913f14c84bc0c9c4e3b524e75933f4f22ce",
+    "size": 29880
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-022-parking-garage-level-nine-preview.webp": {
+    "sha256": "875ab60424ae8b6c6c59da311bf677d3503532af58b96628c74d237afedd555a",
+    "size": 22928
+  },
+  "images/tokyo-night/shelters/omarchy-shelter-250-rooftop-cinema-2K.webp": {
+    "sha256": "eb9f34e54287717d297398777dff25f78fb19eb5cf0b83db08df7bb052efdd2a",
+    "size": 271616
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-023-the-satellite-dish-den-preview.webp": {
+    "sha256": "8a711bc76162bfa7a1baf9695cdb6ea9368461961a007bdb60d028e682195e08",
+    "size": 25626
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-024-the-elevator-machine-room-preview.webp": {
+    "sha256": "ab83436b40c710ff2312e75e44dc3b095b9c374ef4b871ed75789c3e1b06beab",
+    "size": 26440
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-025-aerial-walkway-hut-preview.webp": {
+    "sha256": "ade9868244c6ae318c24449a5f16d228079c076c42e56ba367ba79a56c50c70b",
+    "size": 23320
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-026-rooftop-hammock-deck-preview.webp": {
+    "sha256": "f6af62ff73ac72feb14beaf3e1aa73636625c39c306676f602d534956d78214f",
+    "size": 23606
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-027-attic-of-maps-preview.webp": {
+    "sha256": "020b43645251851ad8a6d6e855d2d79219736913ff404af8b92e33031d8b15ec",
+    "size": 23370
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-preview.webp": {
+    "sha256": "92e48d4667b94c2f4ea8623130ae14c94ed795189a90419434427633d13c9f93",
+    "size": 20938
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-029-the-fishmonger-ice-preview.webp": {
+    "sha256": "37f12cbca1f714c6596c6d9fb2456e2c2151761fe4f51bec5acd510bf3ba73ee",
+    "size": 21192
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-030-crane-cabin-home-preview.webp": {
+    "sha256": "2f6d81524e39de8d0b5c9d081a5dc03aa2ab7264dc131ab88e641d893902ccda",
+    "size": 22366
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-031-sewing-machine-row-preview.webp": {
+    "sha256": "d87a0d9077e1d3bca4412492c46833db39c731040fc6221eecea25ad734a832f",
+    "size": 23220
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-032-rooftop-orchard-preview.webp": {
+    "sha256": "60db499250a62c6b0449f41d96a4f8798925afa18aeb3b60ba5d22d3ba788e19",
+    "size": 28808
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-033-the-battery-yard-camp-preview.webp": {
+    "sha256": "4cbae7ffac4c2bd77391827a5f17abc5fd7a59e20befdef62492768658188e46",
+    "size": 21358
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-035-caravan-on-the-ledge-preview.webp": {
+    "sha256": "f9c5d036fbd0e7f6e98e3e5077b28471502c334bc00b23abef73b44c13c83b07",
+    "size": 15902
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-034-boat-on-a-trailer-preview.webp": {
+    "sha256": "9687ee10a6eab4ddbee6ef8350164a79e7dc330a8a74e261e93b3192b210f574",
+    "size": 22578
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-037-capsule-hotel-pod-preview.webp": {
+    "sha256": "dc3fda3f72c96911e1fa83d1cba3195ed267ffd6181eedb2521ed56687120b4c",
+    "size": 17762
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-036-the-armoured-greenhouse-preview.webp": {
+    "sha256": "106726b76c4f5976bda413dcab6009bbf149ecc6da8a540e3e7af919705ecdb3",
+    "size": 27186
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-038-the-old-toll-bridge-preview.webp": {
+    "sha256": "2142119b49775edbd32fcaf2dbfb140d6b179dfc831089db5cc48179b83967e8",
+    "size": 20344
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-039-the-recording-booth-preview.webp": {
+    "sha256": "c196178e8815a166b4726cfa5cb9efc55d9c0108bc34ba0840eeae3b901bfaa6",
+    "size": 27246
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-040-bicycle-workshop-preview.webp": {
+    "sha256": "0ee3474d85900c429455edb4949a8aed4a26f065df567f2ea301322518c225f6",
+    "size": 22762
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-041-the-ferry-cabin-preview.webp": {
+    "sha256": "b9fbe7757d09f328f5ef0834a36f5e0852b4ebda78bfefb0d05aa7acb3c26cf1",
+    "size": 28538
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-042-the-aquarium-shop-preview.webp": {
+    "sha256": "dfbcc69fef17b8b9b31544f86fb5e7fa420277a9b1a5d36ed09434503d0be037",
+    "size": 25534
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-043-the-map-shop-preview.webp": {
+    "sha256": "1b3630f187383655a966a42f974479272ec126df0d8383c2410f191549169bbf",
+    "size": 26122
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-preview.webp": {
+    "sha256": "09b81eea06c28fdc27072d63b1809b0b2b28d1ee4efae8b1dbb52e6e3bf1f7b2",
+    "size": 35546
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-044-nursery-of-seedlings-preview.webp": {
+    "sha256": "9d1d6bb25dec9b1e5f8085f6201b705829ae4767ea4d49db2f0f7c699fa7ecf1",
+    "size": 27066
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-046-the-toy-hospital-preview.webp": {
+    "sha256": "b9777e6e3da567326353ea146a807e81d97ed751e660fac1dc7af142cdb92ba2",
+    "size": 29026
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-047-pedestrian-bridge-hut-preview.webp": {
+    "sha256": "da3230df899238a4b606a8f6d0bf4712cca17570f49290765839187a67651663",
+    "size": 24560
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-048-pontoon-greenhouse-preview.webp": {
+    "sha256": "b410ff5d81c4198c5bd75ea0e26efdfe00375b03f0b5b4174bac241b86533faf",
+    "size": 22410
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-049-flooded-street-boat-preview.webp": {
+    "sha256": "3f1e9b09b74e9a752cb3b41fd88e92f3ba320d34654a9785cea01230afdaa7c8",
+    "size": 17384
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-051-ice-cream-truck-winter-preview.webp": {
+    "sha256": "c5d7168a2a7afe2517d94b623fc11bca8c8e2c8e90fc3cf483e374ad64e7ec0b",
+    "size": 20616
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-052-grounded-fuselage-preview.webp": {
+    "sha256": "887ddf0b5cb3bae72bc9567f01f6155b131370b95c1a56807b0f6fe599279255",
+    "size": 21090
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-053-the-projection-booth-preview.webp": {
+    "sha256": "c6be910a4169643755b962d5f707b3a23ad4c1a0b9651fad13f1bbb5cb44a524",
+    "size": 22332
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-054-the-midnight-bus-preview.webp": {
+    "sha256": "1b37a86d1c52249a235a7add2262a8e1c12eb9486d14099ca6cb591c4a23cc01",
+    "size": 21230
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-055-the-server-room-bed-preview.webp": {
+    "sha256": "c373507ddc04e5b503e0dc2752556c5bedfd21d35e61b5325207c5aa74f5cadd",
+    "size": 21364
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-057-sampan-kitchen-preview.webp": {
+    "sha256": "57c20b70dcbb5b3bebbc4d79027f1aeb67ac2d5d3c806255571f68daf94dcf0f",
+    "size": 17644
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-056-the-bell-tower-preview.webp": {
+    "sha256": "ffa8d19690b9026b4f0eb193e225c12b4ec8b95c9fe785cb3a8674d2bb622dda",
+    "size": 21474
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-058-armoured-van-archive-preview.webp": {
+    "sha256": "09d141fb4358e0a97a0671b6efe028447bba8135d28bea44a995b30321bbe338",
+    "size": 18432
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-059-the-sluice-house-preview.webp": {
+    "sha256": "bf4d2bbb5970b491d662547fbe3e544e82f16fc3058d47a62460888749d79cbc",
+    "size": 26444
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-061-combine-harvester-house-preview.webp": {
+    "sha256": "ac75e2e70efc800b0a0bec1fddfc4371a25c02542b2f92dd440ef61fc26deabc",
+    "size": 17618
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-060-rooftop-koi-pond-preview.webp": {
+    "sha256": "98b5b45243c79324e13a47dc7e53f2ce20bd49b626cf64c23496f6326217ebda",
+    "size": 21150
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-preview.webp": {
+    "sha256": "4e8705d7eaf8422d0508aaadeacdea1bd64fae6c84836d57c7f53b139fa8d00a",
+    "size": 27724
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-063-the-camera-shop-preview.webp": {
+    "sha256": "41c2a3fc4865af4e271023edb23619b8ceed3f3e1e5ec737ade21048ddc1eec4",
+    "size": 21548
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-064-the-petrol-station-preview.webp": {
+    "sha256": "f4ff32b5666a1ce69bbf1ac5d4991e4178497e4683024bacb0fafcf9b8830121",
+    "size": 15232
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-065-the-ferry-waiting-room-preview.webp": {
+    "sha256": "adddf7613d13c3da9e2d06f5abea7e9d74b8abd562b861919b9290b5b39fd6d3",
+    "size": 18282
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-066-the-rooftop-greenhouse-preview.webp": {
+    "sha256": "8842a480cead9b82e0fd69227e439125763487fdf3f0cb19843f573aa7ac13ef",
+    "size": 34076
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-067-the-one-room-with-a-view-preview.webp": {
+    "sha256": "ae263462ab2bb01fc5484b2fbb4407d29d5e7f99a5c7e27b39d6beb2ebe2efc7",
+    "size": 16802
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-070-water-tower-lantern-preview.webp": {
+    "sha256": "247e2dc1313c358f970d435c7bcb9a08ba0383d5a426a4c1e464ebd6b14694f2",
+    "size": 14344
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-068-electronics-repair-shop-preview.webp": {
+    "sha256": "6124210b9582949de14ce36e04d0854d48bdec419f112d828d88550a1e3a0605",
+    "size": 23624
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-069-the-underpass-room-preview.webp": {
+    "sha256": "52043c61152b622039dce2fe9e4def24002eff0cf28e337a4eef8d917ea25498",
+    "size": 27684
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-071-archive-of-tapes-preview.webp": {
+    "sha256": "7ce0cf1135e5da97803965e64abcc6d3dd9facf61d3799151030f85d55372d93",
+    "size": 31562
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-073-rooftop-onsen-preview.webp": {
+    "sha256": "cc392e20a60acc4e6c5670af2584e85c84a109e8f18ebdafc0b91106bb836804",
+    "size": 23512
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-072-hacker-loft-of-monitors-preview.webp": {
+    "sha256": "12ca2136755d6b05eabb8bc5491c55c6db34230887c10b5219bde3a4e08ef6ee",
+    "size": 25386
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-075-the-apiary-in-the-park-preview.webp": {
+    "sha256": "d79633c7f329f69071aa8f5fe927dce664b614b55b0f0bdf9938550171528bab",
+    "size": 22128
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-074-postal-van-darkroom-preview.webp": {
+    "sha256": "59d4c831b30fb927d4f343d4f4c3f1af0743667e01a20a224d38276184195a0b",
+    "size": 25850
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-076-the-cable-car-station-preview.webp": {
+    "sha256": "f00269df48503d953a8a1da957b4ddbeb5e582f8a978050e12e6716962034521",
+    "size": 24438
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-077-the-clockmakers-window-preview.webp": {
+    "sha256": "746e05460631fb72ff4e50cfeb8e11829b2730817e3f69628f5e404886730192",
+    "size": 24614
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-078-dormer-window-desk-preview.webp": {
+    "sha256": "e90d044eec3def61ec6a96301ab89302ec13e160e9783864531c347592b152b2",
+    "size": 26764
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-079-candle-and-circuit-preview.webp": {
+    "sha256": "21fa1d4daa1633e49954117d51c51668a551a3e78da33fd4f2dc3290a784e91b",
+    "size": 20128
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-080-tunnel-mouth-camp-preview.webp": {
+    "sha256": "82bb73756e1fde42246765a6aff16a78a312805f8288471bcfb11a1046adac0a",
+    "size": 28772
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-preview.webp": {
+    "sha256": "6c636a75905107bd5c9afc7e0e5707c3a56a4e073ae8c7ff1c67b326fb843e7b",
+    "size": 23816
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-083-the-pier-shack-preview.webp": {
+    "sha256": "122705f96e67179609111d78a2109af49ef4ca02fd4898d790369b87506ba501",
+    "size": 21960
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-preview.webp": {
+    "sha256": "2987c4c444aa2ad584df8e0494bf50e31c1d12acbee27f73b361154ac5696f98",
+    "size": 27086
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-084-tea-house-and-server-rack-preview.webp": {
+    "sha256": "58758e344e2f47e3af915f02f4d599411c8e3c7f1315f2184644ed496cedac2e",
+    "size": 17410
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-085-the-beekeeper-terrace-preview.webp": {
+    "sha256": "c59c9d2129392e4640df5a3f3a0f5094f40db35e976cbabcdbe711242bf90152",
+    "size": 19520
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-086-the-tea-and-modem-preview.webp": {
+    "sha256": "09d9e6246d716c994bdbffb591dfcc7c656fa812bc34bad0b41f38d31f0123ba",
+    "size": 19748
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-087-zeppelin-gondola-preview.webp": {
+    "sha256": "e9f1120c9709eccbc77c0bb298e7e0da5603f8516407f4256d450e9a03163f36",
+    "size": 24104
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-088-shack-above-the-neon-preview.webp": {
+    "sha256": "006425ed102f3e798db6e55ec19ad2afb689b51dc277430e3ffea206392b5a8a",
+    "size": 23526
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-089-server-farm-bedroom-preview.webp": {
+    "sha256": "e52db3cb2d8e282c21a4e9143db849f931d1f1076aaa6f256348c75f9308e770",
+    "size": 25820
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-090-solar-panel-garden-preview.webp": {
+    "sha256": "9d600bfb5dc76fd8a0c422869ffd442c8d0f4aaa77e6014a6da713e679ac4d0c",
+    "size": 26662
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-091-water-tower-loft-preview.webp": {
+    "sha256": "8ea8c896db10ea5666f16e449186a1e1b328df4837294b3fe82227487efa4812",
+    "size": 20088
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-092-the-weighbridge-office-preview.webp": {
+    "sha256": "1672f11e72ace90b9b2d62ebe2fda1110b8aa5f214d0e3a3e7c4fe5cd94bc437",
+    "size": 25990
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-093-the-penthouse-shanty-preview.webp": {
+    "sha256": "434dc6c61d4392966a2d89127bb5d5515e374e2636ce9e41fcd2c14e290e8e4f",
+    "size": 23232
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-095-late-night-copy-shop-preview.webp": {
+    "sha256": "ea4fd8f1681be587bab0e7124340e2d3d44ef6f56bcd58492ea3a4b728f9fedc",
+    "size": 17582
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-094-bathtub-with-a-skyline-preview.webp": {
+    "sha256": "c0f62b9a3bf503e02d60273930941de01f50b8a46fb6d3b7551653e642d9917f",
+    "size": 25460
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-096-the-lamp-shop-preview.webp": {
+    "sha256": "5476e9878bdc9366c43729c5130874627785face77bdfa0c34b54f8476d9b388",
+    "size": 25572
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-097-the-canal-lock-house-preview.webp": {
+    "sha256": "88df602391c57af6531a497e6642a2c53a462ab98ea02177957454d54490430e",
+    "size": 20618
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-099-stairwell-landing-desk-preview.webp": {
+    "sha256": "a39160017b6367921bbf5785ebe827a47e047b5bf1736e2bb26946568eb19e48",
+    "size": 21718
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-100-the-bookmobile-preview.webp": {
+    "sha256": "719a99b5b3a4eac69668ad753d1cd2d9c8280bc5d32078a5a10fe136672ed890",
+    "size": 21370
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-102-the-bookbinder-preview.webp": {
+    "sha256": "9beca446554428ae6fb06ca576c70405786627005a0cb87f7d93b25a19315e34",
+    "size": 21410
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-103-stairwell-hut-preview.webp": {
+    "sha256": "96b8db41e069baf3aa27c86e47745626a8c8d8ddffb5ba7e8f3d84bc873ddd65",
+    "size": 19900
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-101-the-allotment-shed-preview.webp": {
+    "sha256": "a121339684519b8b5b4ef159ae9f2a5c4f0d8f67faeb3f0734eaf7658e87d1ed",
+    "size": 29102
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-104-laundromat-at-3am-preview.webp": {
+    "sha256": "0978f1ba1f4b6caef0811b31f5c170b09845aec8480326b7e7d8bba5364a9456",
+    "size": 21770
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-105-the-cable-junction-hut-preview.webp": {
+    "sha256": "2377dcb69401d9ff725d7683444d9a7879f55603d12f162fc9dd29b37acd96b7",
+    "size": 20632
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-106-the-tattoo-parlour-preview.webp": {
+    "sha256": "5e06a7b02c02e92a0b5a5ff275082a052dc18cee0b5fb9944523840634ee115f",
+    "size": 17778
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-107-rooftop-radio-station-preview.webp": {
+    "sha256": "78dea8f21e17ae4d8dffc8470a024a21a74ea7dbb62f3e0285726456565b8e5d",
+    "size": 22838
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-108-the-ruined-arch-preview.webp": {
+    "sha256": "a18595bce014bd193b6f56a9cb26d17b044fff2b17b83b08b0352ebc229eca01",
+    "size": 26456
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-109-library-in-the-fog-preview.webp": {
+    "sha256": "ddc467e3b8c6b3eb8eca0d82da96b6957ed0e28ef6360e093337091ca39683e2",
+    "size": 23982
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-110-harbour-crane-cabin-preview.webp": {
+    "sha256": "736224a473e1b0e2538dd5ea4c79f9563cb8d491b15e14e5a2fdb20cefbafded",
+    "size": 18622
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-111-the-sewing-room-preview.webp": {
+    "sha256": "b7b6480bb53bd5433167759dd2bd070d219ad2f5b7377b256c4cd1a9a9a1858c",
+    "size": 26476
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-preview.webp": {
+    "sha256": "8c9f7aafbddc05c81399c30b52b327c78e43137ef5b3206a366f2a96e1c99086",
+    "size": 19134
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-113-canal-side-flower-barge-preview.webp": {
+    "sha256": "e182fc32365f3927e6a6143668e4c24e2fdb9fcc56f44ff733afedea4620f9b3",
+    "size": 26098
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-114-the-ski-lift-shed-preview.webp": {
+    "sha256": "425842b88e57e76652677c9897315ae1f413dcffef38326cfdc46a0b0137aac1",
+    "size": 23364
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-115-the-empty-office-home-preview.webp": {
+    "sha256": "807d26e6c171c0c164cd678c0d6d71914dda2c2d4897fc37573ca012f1746ada",
+    "size": 20046
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-116-datacenter-noodle-bar-preview.webp": {
+    "sha256": "ac59f1f1faa4d2a434cfb3ac4a80a1719f67a8a16a0029868bc74b5444f54f87",
+    "size": 25204
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-117-loft-of-open-cases-preview.webp": {
+    "sha256": "6231fc456b9f9bef1544312f63f2aaf030487e8c242f4283a3698993369c8d4a",
+    "size": 31976
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-118-the-rooftop-bar-preview.webp": {
+    "sha256": "eb4a8c052412787a85d1f826721bfdae2a59989c98ad7eabebdcc4b8e4851c0a",
+    "size": 24120
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-119-rooftop-bathhouse-preview.webp": {
+    "sha256": "6a6e5af70d3169e206ebe6129ce16e4227a4d9e5176053ca595987c23406266d",
+    "size": 23220
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-120-airfield-hangar-corner-preview.webp": {
+    "sha256": "8e6274c71c51a4464e51c1c975b16cec20d08d743db5d0b5501f550d5181a262",
+    "size": 22328
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-121-the-bonsai-workshop-preview.webp": {
+    "sha256": "440ca08497253f2343764f67a5be9082dcf31aca170beaf16358c548463ef9b5",
+    "size": 28338
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-124-grain-silo-home-preview.webp": {
+    "sha256": "6d5d45c0d9fcbf465ed0450f7ccafe5419944275f92419f273c42078b296a4bb",
+    "size": 17588
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-123-the-shipwreck-room-preview.webp": {
+    "sha256": "87a9eca4cfc8a4648fb2a0aacf38b0b2960444dde394de226e4bdc4ffe2e5a91",
+    "size": 24720
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-122-mechanics-loft-preview.webp": {
+    "sha256": "b13fb9b0297f260aa9702596e838de1d2ed04454f3661b68b77383ae4424158b",
+    "size": 27216
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-126-ambulance-refuge-preview.webp": {
+    "sha256": "26dc698263e27bfa91b5e5b79e60d3ff8f08bf15680db3051528c646c2f1b5d9",
+    "size": 24728
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-125-study-with-two-chairs-preview.webp": {
+    "sha256": "98e7a6f804b6189bfdfe91714dc1a67f1daa68278bb1aa69bfb17dc49c7193c4",
+    "size": 24670
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-127-floating-market-stall-preview.webp": {
+    "sha256": "8229ecfae13270c8ec9c0a058381c3cbc1f05a31bad3f7a9f5c2948c12ff8c9a",
+    "size": 21300
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-128-checkpoint-of-no-border-preview.webp": {
+    "sha256": "14ac23e031c9849df25733db4fab8e91c6ae714a507e224590d72971f3d9f7a5",
+    "size": 19070
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-129-the-milk-float-preview.webp": {
+    "sha256": "7d546bbb9e74e2f7b4ff458efc91922d0f2068f4a34d1ab4fd576f7746ab8db3",
+    "size": 21654
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-130-bulldozer-den-preview.webp": {
+    "sha256": "22ca1997089f14a8549fa4a3daea163fcd94d60ef3ceba45f41bd4ba91b90472",
+    "size": 18518
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-131-urban-vineyard-hut-preview.webp": {
+    "sha256": "d4d66dd393c0c867dc39dcdc27f8d2874a9800426493eb65890fd7295e80992c",
+    "size": 28518
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-132-the-freight-nest-preview.webp": {
+    "sha256": "da16ddd5a41251f2e1ed83aaf4800671674afed026de5b7def8aa11fa3e9c7ed",
+    "size": 25588
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-133-flower-stall-rain-preview.webp": {
+    "sha256": "f9895bfe1420e31d510cfd25a9e4482c1410d22ba52a4d0d553e64d4c5ba917f",
+    "size": 21342
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-134-houseboat-of-lanterns-preview.webp": {
+    "sha256": "6418da70374d57b3e23ae431ec7de8259fcef5e25c210694c5a63fcb70bf49bb",
+    "size": 19286
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-135-limousine-lounge-preview.webp": {
+    "sha256": "d9c54ece7fbf6f4cdce4ef6c472b9bea925d25936e854efd783a3a35910563e4",
+    "size": 20742
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-136-snowplough-shelter-preview.webp": {
+    "sha256": "dcce76aaa48a65e95185da29af39280325487b0fba0c1c04623766c318b42424",
+    "size": 26050
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-137-crane-yard-office-preview.webp": {
+    "sha256": "6b7a3e886e1c8d1c274b56b272c594a312ecd5aef39f74ceb5546be44d41796b",
+    "size": 26820
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-138-control-room-of-nothing-preview.webp": {
+    "sha256": "62e566a58b605b97d3cd0de057300f5c75745df293b053c90ad3268dba25a7c8",
+    "size": 24168
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-139-the-last-terrace-preview.webp": {
+    "sha256": "86141591d129acf34d45c9dfa907e3d09042381519087fedfba11617a5a65a79",
+    "size": 24154
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-140-the-clocktower-room-preview.webp": {
+    "sha256": "a2dfcf3a5e4685f8d96769a2120c11214614549e0e6e3e097484a3219dc94551",
+    "size": 26264
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-142-the-boiler-room-home-preview.webp": {
+    "sha256": "a47ec5053dc1f462dc5c054c18b1eb9b40b659f4de3b0b8aecaaa568c5514e66",
+    "size": 25040
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-143-the-observatory-shed-preview.webp": {
+    "sha256": "ce76ee6b37ab5ca644ec0120738bb4fe1a9ae4251d2a35cdda2fd9a7b0f6bbca",
+    "size": 23802
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-141-subway-entrance-kiosk-preview.webp": {
+    "sha256": "d71cfe2521f1f068cb17bf570432b11626468f36611e04dc6da70c350a14ffc5",
+    "size": 26660
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-144-dry-dock-home-preview.webp": {
+    "sha256": "f91c9524267b5b75fc0e94d6db455db81c2e1af14f881bc8d3ed9b08237d9d1e",
+    "size": 23020
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-145-dam-keepers-house-preview.webp": {
+    "sha256": "75070e56f7135505aff83fd77c3e3d1b84389a03f667c5beb76cb286b3d278bb",
+    "size": 15602
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-146-bakery-back-room-preview.webp": {
+    "sha256": "579f4ca3a2557a0c2a23796035dc949106b5f68bb16aeb688fcfde60bf22e728",
+    "size": 19444
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-147-the-window-seat-preview.webp": {
+    "sha256": "02c830021156fec6495f9c01dafb841292280a6785116dbd605cd46189a8c3b4",
+    "size": 22934
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-148-pigeon-loft-lantern-preview.webp": {
+    "sha256": "1e29fa73be28953027d471a06374792689b8d802df575e626c2ad29fdcd9cacc",
+    "size": 21182
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-149-the-last-westfalia-preview.webp": {
+    "sha256": "599178fe6b9aeee0178a324a08812fd8d7caa3ebc29df0d3ac09e9f621222dc3",
+    "size": 19736
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-151-the-terminal-at-the-end-preview.webp": {
+    "sha256": "efce1d8d9ddfdfbdd26d1b5f1a37628a2f4f83065bab6e23e33522a0fa957e0a",
+    "size": 26412
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-153-the-kitchen-at-four-preview.webp": {
+    "sha256": "74b02e0898cd8b23cd42b37be3535326c1f64a9b6094b1267bfbf7c690c87881",
+    "size": 17548
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-152-skylight-studio-preview.webp": {
+    "sha256": "9c507da159075774a8beea21a125a82e434184580aae8080a3448de803e0f2d8",
+    "size": 26474
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-154-fire-truck-kitchen-preview.webp": {
+    "sha256": "c24f5f1e0865784e371da9e036726e827a3e4df43ce6bef0bf7fac82722b674e",
+    "size": 21350
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-156-bakery-before-dawn-preview.webp": {
+    "sha256": "46de204fbb8bfd73f8d4eb4301702dde7013f600d26fd1674c9234422bcf5c4e",
+    "size": 18032
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-155-the-scaffold-shack-preview.webp": {
+    "sha256": "5350ff5c0290f4effea82ed753341c4b94da996e8cf703731cd4864635138cde",
+    "size": 27268
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-157-prosthetics-workshop-preview.webp": {
+    "sha256": "63a3dbbcd1824d381ce39e635ba5294461d1bf2e2e46694d041138b3d790e5e4",
+    "size": 23254
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-158-the-ramen-alley-preview.webp": {
+    "sha256": "532575786779745d8d486810ea1acfdb5e33ddb79d64375ab9dd149aa950872f",
+    "size": 19534
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-159-dovecote-tower-preview.webp": {
+    "sha256": "207fbb0a203f3214717a4acf51d6e3c15ff94ada8d520b52b2483d7a3819a60f",
+    "size": 22062
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-160-pigeon-race-roof-preview.webp": {
+    "sha256": "9b67cb90e6c87b59e5ed8eab2cd8e9f2159e4c018de412529b38ba67474423ab",
+    "size": 16738
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-161-the-kite-workshop-preview.webp": {
+    "sha256": "d8bb2ea6b0fbe3544d58dab1252c7b384b93396e77f251aded0c95d868395cb8",
+    "size": 26430
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-162-signal-tower-cabin-preview.webp": {
+    "sha256": "2d77d8516ca0f0b756b0e6c5b0d64c7d5211e54d39d1ecd6cafe17b533a1931e",
+    "size": 24390
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-163-rooftop-tent-camp-preview.webp": {
+    "sha256": "0582bf898b87d691a9d5dc8cb9cd8ede82af9f3da12e1fad7e558e881be8b3d6",
+    "size": 18952
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-164-cockpit-library-preview.webp": {
+    "sha256": "85d959547b8d919b7921295a0e55764b4e6525ee273b4af7536ea3eb1e795f1f",
+    "size": 26406
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-165-rooftop-vineyard-preview.webp": {
+    "sha256": "47e00427498153751468ff8ea67d9d0a65ddd05328cec79cd21dae23716dc846",
+    "size": 26116
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-167-the-guitar-luthier-preview.webp": {
+    "sha256": "6d1f48af40ddd2782e798b7519dd3cd12eaed83dd2a268673c291d405f6d1011",
+    "size": 21276
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-166-the-glasshouse-library-preview.webp": {
+    "sha256": "b37e730bee91b42ce02224f21e45c47c074283f2ff59d292cdf74fd5dbb97313",
+    "size": 32626
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-168-fishing-boat-galley-preview.webp": {
+    "sha256": "2f93195af2e5dfce83c0d3112a4dca7a78eef27255769cdad851f965f3644840",
+    "size": 24376
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-169-the-cinema-marquee-dark-preview.webp": {
+    "sha256": "2dacfc917f85694ebdc0c3bb14142ce8d50012fb2f08258fb9bccb1c107f69ff",
+    "size": 21568
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-170-fire-escape-garden-preview.webp": {
+    "sha256": "570b8b71c16222a5d74172d593b7bb5014ac31b97deb296fd63dceaa91b29d73",
+    "size": 25364
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-171-rooftop-chapel-preview.webp": {
+    "sha256": "e6441571758db26b8f34876cc561f4a5231491707289eecae29c7b9e31c9f682",
+    "size": 23664
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-172-the-watch-repair-bench-preview.webp": {
+    "sha256": "7efb3e107c905e5f20abbf42bdf06365f1c3dc5fd0a2b71109f12a97ef95bdcd",
+    "size": 23444
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-173-the-gatekeepers-lodge-preview.webp": {
+    "sha256": "67198d8c396bbd2041b5520a0e723cf5f65fbf9980825a36b1326347c1c13385",
+    "size": 24600
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-174-the-quarry-hut-preview.webp": {
+    "sha256": "3ef193d77f2990df41c0b3041436a3c5ae1f125ac111063b3f48ca08588652a6",
+    "size": 21104
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-175-newsstand-island-preview.webp": {
+    "sha256": "ca5f19719eb79515b1adcdcb9919b98660a8f2bf5172e7fbe11857ef3a96c5f9",
+    "size": 22454
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-176-the-taxi-garden-preview.webp": {
+    "sha256": "e1af1bf372f67ea4d74b576278e6f5a0d6fd8604716e61b050bab9ee71a7b7d3",
+    "size": 23456
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-177-dumpling-window-preview.webp": {
+    "sha256": "3c33fe4ecaef36dac842bc4f29d5bc737b267cd0272c2382c0b28a3e625f0589",
+    "size": 20956
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-178-stilt-house-over-water-preview.webp": {
+    "sha256": "64cd2b3c2c0c02f045cad44aefe32307d822a4c465b3f511ace26721d110bac5",
+    "size": 21384
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-179-the-radio-pirate-preview.webp": {
+    "sha256": "e19f815fdaa59ab07c3248d307f26b0aadf0b2c6abb3805f9b4ee5ff5f6cdf53",
+    "size": 26438
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-180-the-model-railway-room-preview.webp": {
+    "sha256": "7769ca175d92ad0669c9f844bbfa17ffd73b5639add3de7524dfe681a68242a2",
+    "size": 25584
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-preview.webp": {
+    "sha256": "303780b3ce9f63878c0bfedf3571e41d6b7ba86e71a7e163aa2dddfc48f1077c",
+    "size": 19720
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-182-the-drone-port-shack-preview.webp": {
+    "sha256": "1608393e30b93a1b968abe40d35cd420fd813a29fd5acb31227ac48301c99cfc",
+    "size": 22740
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-184-the-piano-in-the-dark-preview.webp": {
+    "sha256": "5ddbbd442dd21503ba335261107b08cf7bf8e11c50f7f60f9738a9df78096aa2",
+    "size": 18300
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-183-pigeon-post-office-preview.webp": {
+    "sha256": "5e2903e6f9a63917334ab5af39af8bb9bba655a543ee25c0ab276d7ec7c6aa98",
+    "size": 19654
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-185-sleeper-car-atelier-preview.webp": {
+    "sha256": "1939e1cba73046ed0e17f418452c538ac6ca254042feef9153b3cb3302c3437b",
+    "size": 23464
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-186-seed-bank-room-preview.webp": {
+    "sha256": "d823c353da4b72bf3934b32f82d47162b18c48e608d75f906e3019b5c598a99b",
+    "size": 28802
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-187-empty-pool-camp-preview.webp": {
+    "sha256": "e6cc27ed477a68d72936dc54cf36f5de78843865b64d5ff86e2f258e2fdce601",
+    "size": 22568
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-preview.webp": {
+    "sha256": "8557b4d8668d41aa9b2fd809042e4c3ccc853d39465d189064bb74e9de32c3f0",
+    "size": 21060
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-189-submarine-hatch-home-preview.webp": {
+    "sha256": "bbb4147135ad6fd277edb9ac77b96fba555d628ee7c29d186454217b5a34abca",
+    "size": 18454
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-192-cargo-bike-coffee-preview.webp": {
+    "sha256": "87b9fd5f494f278439a9798a25fa45c8e3d8b18f72b805acb9a91489b8fc0b42",
+    "size": 21330
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-190-drawbridge-cabin-preview.webp": {
+    "sha256": "2479c1052e7656cdbae2c4463ff57a715a213326b094fee8fe47f358d40877fd",
+    "size": 22372
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-191-workshop-of-clocks-preview.webp": {
+    "sha256": "fb64fa0ea7520ffdd89bcd1c86378e79d51c7685467f901ec8fc0e7820dfe187",
+    "size": 26596
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-193-laundry-room-blue-preview.webp": {
+    "sha256": "b602a15db6b8110772352a14a2bc5b7df196906ed72f3885cfb4b2bbb531a054",
+    "size": 19472
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-194-record-press-workshop-preview.webp": {
+    "sha256": "6f4d38fe0aea650e42896031a5fd5bf9ce8d3253620488e93f3114dcd2ae8ab2",
+    "size": 26578
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-195-subway-carriage-home-preview.webp": {
+    "sha256": "991fa93ffdec5bba511fac1889a7f332b90f492b8d9b4bb6e5b9674154741d72",
+    "size": 26506
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-196-photo-lab-red-light-preview.webp": {
+    "sha256": "e1b95bf98ef259fbc3d4fa3e55befa4256b0819d2080f3f93f9d1972a557d36a",
+    "size": 18016
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-197-chimney-side-hut-preview.webp": {
+    "sha256": "57ba0f41240f89d4ad8c5e6dee12b44a113bc35f964fa8f5a2cec1a731dbe3dc",
+    "size": 23356
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-199-the-key-cutter-preview.webp": {
+    "sha256": "8e25d3f041a6a8a3dcda368f07d6e6512932fb2eb45dbf2d201070d79b83fd6a",
+    "size": 18250
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-200-rooftop-ramen-preview.webp": {
+    "sha256": "23a842f20fd225ad03034778f1ce99498745b9b725d04de969126b5e5655b385",
+    "size": 19384
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-201-the-rooftop-forge-preview.webp": {
+    "sha256": "23239c5dbf7c8daee707202519ede198a1023ebe201eb22d27b5ac5b6958da9f",
+    "size": 19960
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-202-whisky-bar-one-seat-preview.webp": {
+    "sha256": "2c390b18c0f59476b8dfc470437998a6c2197d6cddf6c81e7f34031dfb93a7f9",
+    "size": 26372
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-203-the-telescope-window-preview.webp": {
+    "sha256": "061e0e7b0be3944c9ad906a8d033c37a69ef82ef1328214b9cb6305edd29f9b9",
+    "size": 22102
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-204-the-barge-garden-preview.webp": {
+    "sha256": "af7b2927a5b392ff3b72aed7e0c92642cb8d46099c2ed275461da81e402a96cb",
+    "size": 20326
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-205-coffee-roastery-night-preview.webp": {
+    "sha256": "f1633a8db08db4a036194a183d3fff9e07c1eeee99ce641cff4a19774cb26225",
+    "size": 19392
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-208-transformer-station-home-preview.webp": {
+    "sha256": "a55fe2006fdb2d0494ed96d9f8a80de1483d40094d1cdf27b8fb228020c0f59b",
+    "size": 22954
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-206-the-mail-train-caboose-preview.webp": {
+    "sha256": "1ce694b24308013dfb8c707cc1841c1f166d4ea7e2685f3dde3ea9958f816d4f",
+    "size": 18046
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-207-shoe-repair-and-solder-preview.webp": {
+    "sha256": "bb9c23c8ba1cda398311804beed5577c8d6d84f804671b4f23c2d674113467fb",
+    "size": 26202
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-209-repair-bay-of-machines-preview.webp": {
+    "sha256": "eb82df1f4a63f22d8649bc6eda24e62309819a40839c0a49c8c64abdceb727be",
+    "size": 27714
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-210-the-mushroom-cellar-preview.webp": {
+    "sha256": "3bdb7d97a48bab6bbd2dca7c4fe27e3ae04494cbfb66ac2457d2109d75d4341d",
+    "size": 19754
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-211-deconsecrated-chapel-preview.webp": {
+    "sha256": "58ab577007ccb89ba69d629c3c86c3531b6022e45cc7ac46f01a5fda292ba996",
+    "size": 23778
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-212-the-radio-parts-stall-preview.webp": {
+    "sha256": "ed2bef4327e3c32396d1617ce55a36c91b3dbad5b1f8ceab9a841537ea9e8421",
+    "size": 27464
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-213-monorail-capsule-preview.webp": {
+    "sha256": "d02ab3d18bc805f0dfc793b9e1d80b92ab9d1dde655687df8b015cffbbe6da6b",
+    "size": 30096
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-preview.webp": {
+    "sha256": "2baaeae0a36305bef33a016c13834ffeb7409c317dd2f28eec0025b79762c43a",
+    "size": 24054
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-216-the-oyster-shed-preview.webp": {
+    "sha256": "e222c29ec434a08fea2cdc5b0346fcac93a78e23d1daa8ca6ee841ad356e140a",
+    "size": 20428
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-217-lighthouse-lamp-room-preview.webp": {
+    "sha256": "417b91921332f9d56616600cf73b43c0f2214608c509f028bb01bb76da6c5576",
+    "size": 21090
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-215-the-typewriter-hospital-preview.webp": {
+    "sha256": "ab78d11bdd3a4967ed9bdcd4894b9f2b8eff443392d051b167e895f8bad250e2",
+    "size": 28310
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-218-the-chess-table-preview.webp": {
+    "sha256": "a9742e5cdf89e0719fd9f495d56c93a0ca9ce1c55a04b834578b8812ef94264f",
+    "size": 26774
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-219-the-barber-and-the-cat-preview.webp": {
+    "sha256": "eeecc0f3c5cc624f870f7285755d37b84e3d0aad45912ba5bcec70679189f4a5",
+    "size": 21198
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-220-the-forklift-camp-preview.webp": {
+    "sha256": "090172d6c0bbff17436369d3ea189aa57334062c146eb3d000bbd413bca63438",
+    "size": 24672
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-221-hotel-room-forever-preview.webp": {
+    "sha256": "10ecd67edbdaf16899888e7169ddc4eb01cec60b66845ef2705d273cb5b80a6e",
+    "size": 20308
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-223-tractor-and-awning-preview.webp": {
+    "sha256": "045ccc80f7e674d98f69b6b5bbec464b1cd6cd3b7aad0f71f38fd06ee78263b8",
+    "size": 26720
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-222-vertical-farm-corner-preview.webp": {
+    "sha256": "7d55c79d7361d14327b18170e3d8e9da03aff0ca373d2f29163737138ac7292a",
+    "size": 31500
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-224-tugboat-galley-preview.webp": {
+    "sha256": "eea2eeff2a012a6f0d98d759c87050151a48e1656fc6df9f5347b48cfe668523",
+    "size": 21740
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-225-bus-shelter-alone-preview.webp": {
+    "sha256": "42875ce78c84c0d5d7404c4575c349990c10ec7651f1af86320a252526549807",
+    "size": 17082
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-226-bamboo-grove-hut-preview.webp": {
+    "sha256": "2761697e6bb4a872839ff2120b4e9e8864c6861817ac19775a77e55d8fbc8286",
+    "size": 41230
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-227-the-billboard-back-room-preview.webp": {
+    "sha256": "7073ef00159165cbb571c240033fc98e78f20b47c56a1b298e8427ce4e342cef",
+    "size": 27448
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-228-the-plant-and-cable-shop-preview.webp": {
+    "sha256": "1f1e82d585d9e47d5bbb113620c2ed81d1c793c65788488a7db421a79984628b",
+    "size": 26842
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-230-the-last-phone-box-preview.webp": {
+    "sha256": "7e8c974b45ffdb676e51928874178fcd1e01b935e12fe800f1af2e1283bf2ee2",
+    "size": 21000
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-229-signal-box-on-the-line-preview.webp": {
+    "sha256": "32da32b70319c26e129def8f2702e47d631582cc5864a6fce356cd522c6cf9db",
+    "size": 29158
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-231-the-antenna-farm-shack-preview.webp": {
+    "sha256": "952afed5b98ff6df133667c27c5b4cd1ce87fefd4daadb9c90b130a69b7544b4",
+    "size": 28138
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-232-sidecar-repair-shop-preview.webp": {
+    "sha256": "47db6600e5df77224c1363fb156e56ccc22f97aa19af5c0cca9ac684ba95afbd",
+    "size": 23138
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-233-the-antenna-keeper-preview.webp": {
+    "sha256": "fd11d6098762448dd31966ec9b1a261acf863b04fbf2750e15287b77ccd72c55",
+    "size": 22996
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-234-the-terrarium-wall-preview.webp": {
+    "sha256": "44bcfe9f1039ae5f342f14f8c528b719efc8930f5ca5cda280513e4ab8d7f59e",
+    "size": 25620
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-235-the-rickshaw-kitchen-preview.webp": {
+    "sha256": "f2d6312f61161db1ff4e0c499e1c6cfb4d798a3541532e12fec92315a397f4a7",
+    "size": 25152
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-236-the-drone-clinic-preview.webp": {
+    "sha256": "8b51b0fe8ede3b6e14e450ae97e37f26d4c38ecd454102178cdafbf6796c17b5",
+    "size": 25376
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-237-the-cable-car-room-preview.webp": {
+    "sha256": "f454c99d455f2f0bdb5425166dcf1a288a69b4ef09000cac0e6196c3091b5b83",
+    "size": 18918
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-238-the-pawn-shop-window-preview.webp": {
+    "sha256": "4fbc10dd640affe83bf400d39724c26462efad5a572f557d654009396f4fe96d",
+    "size": 24598
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-239-the-clinic-after-hours-preview.webp": {
+    "sha256": "e3d3af66760f56ac341500dd3fd58b3d357f7e366f9e42312c6c5d0e8c41dce1",
+    "size": 20356
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-preview.webp": {
+    "sha256": "a2d70bd0ad96ee800ae50984b3b4bca5bb553f2686ddacf76404b84fb2ce94b8",
+    "size": 27918
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-241-the-fern-house-preview.webp": {
+    "sha256": "f106b52d719e2453a3ef98abac029b4052fa2c13381985417577f88220574fe0",
+    "size": 24062
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-242-comic-shop-back-issues-preview.webp": {
+    "sha256": "aacc4cfba51fd80d1faa5beae7b0006bc0b965511579de5132d51d590a8969ea",
+    "size": 25232
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-preview.webp": {
+    "sha256": "3f098f5626d22d6be58a88438e889a96d1d8a1ce216069e6eae8f4d468350118",
+    "size": 17772
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-244-water-tank-house-preview.webp": {
+    "sha256": "14e123a5fedee24697786fa3a7c4b3e9d94118223dc051fd5aac1b271b658bd9",
+    "size": 23978
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-245-hovercraft-skirt-camp-preview.webp": {
+    "sha256": "53ce3290766b08811ff88ed2a65ce86e0cd93a131442b5e04b4400a6d19320fe",
+    "size": 23088
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-246-the-nursery-tunnel-preview.webp": {
+    "sha256": "19348c502155d2f4cf50a945ca3929cac451b75084f7f24b51b43209f087e91e",
+    "size": 24576
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-247-painters-studio-north-light-preview.webp": {
+    "sha256": "4284656f5bb39cf9a60556d98ca7092dc8512d5a4febaef8f840a1119378af14",
+    "size": 29132
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-248-observatory-dome-inside-preview.webp": {
+    "sha256": "9f345bb7e78251f8db4cc22d901121436574cfedaca4e7c9e06a71e473142ce5",
+    "size": 20966
+  },
+  "previews/tokyo-night/shelters/omarchy-shelter-249-tailor-with-a-terminal-preview.webp": {
+    "sha256": "5f0b1b683f017b6a5872f215d0f0dd6cb4b68ab242fce45ddbf8c8b2a08dac9d",
+    "size": 21708
+  }
+}

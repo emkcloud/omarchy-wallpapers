@@ -1,0 +1,420 @@
+{
+  "generated_at": "2026-09-20T17:40:38.986105+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "url_base": "https://content.emkcloud.com/wallpapers/1.1.0",
+  "count": 8,
+  "themes": {
+    "catppuccin": {
+      "name": "catppuccin",
+      "title": "Catppuccin",
+      "kind": "theme",
+      "images_dir": "images/catppuccin",
+      "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/images/catppuccin",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/catppuccin/catalog.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/catppuccin/catalog.json",
+        "size_bytes": 221827,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/catppuccin/optimization.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/catppuccin/optimization.json",
+        "size_bytes": 90851,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/catppuccin/previews.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/catppuccin/previews.json",
+        "size_bytes": 73927,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/catppuccin/collections.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/catppuccin/collections.json",
+        "size_bytes": 1159,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 81991752,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme based on the popular Catppuccin palette (Mocha variant): soothing pastel accents over deep dark backgrounds.",
+      "palette": [
+        "#161622",
+        "#1e1e2e",
+        "#585b70",
+        "#cdd6f4",
+        "#89b4fa"
+      ],
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/catppuccin/countries/omarchy-country-DO-Dominican-Republic-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/catppuccin/countries/omarchy-country-DO-Dominican-Republic-2K.webp"
+    },
+    "gruvbox": {
+      "name": "gruvbox",
+      "title": "Gruvbox",
+      "kind": "theme",
+      "images_dir": "images/gruvbox",
+      "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/images/gruvbox",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/gruvbox/catalog.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/gruvbox/catalog.json",
+        "size_bytes": 218190,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/gruvbox/optimization.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/gruvbox/optimization.json",
+        "size_bytes": 89487,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/gruvbox/previews.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/gruvbox/previews.json",
+        "size_bytes": 73313,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/gruvbox/collections.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/gruvbox/collections.json",
+        "size_bytes": 1093,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 252550058,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme based on the retro groove color scheme (gruvbox), with warm earthy browns and muted greens.",
+      "palette": [
+        "#1e1e1e",
+        "#282828",
+        "#665c54",
+        "#d4be98",
+        "#7daea3"
+      ],
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/gruvbox/countries/omarchy-country-AG-Antigua-and-Barbuda-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/gruvbox/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp"
+    },
+    "matte-black": {
+      "name": "matte-black",
+      "title": "Matte Black",
+      "kind": "theme",
+      "images_dir": "images/matte-black",
+      "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/images/matte-black",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/matte-black/catalog.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/matte-black/catalog.json",
+        "size_bytes": 223078,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/matte-black/optimization.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/matte-black/optimization.json",
+        "size_bytes": 91358,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/matte-black/previews.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/matte-black/previews.json",
+        "size_bytes": 74184,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/matte-black/collections.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/matte-black/collections.json",
+        "size_bytes": 1113,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 206951684,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme with a matte black background and a strong orange accent. Sleek, high-contrast, and low-distraction.",
+      "palette": [
+        "#0d0d0d",
+        "#121212",
+        "#333333",
+        "#bebebe",
+        "#e68e0d"
+      ],
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/matte-black/countries/omarchy-country-EH-Western-Sahara-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/matte-black/countries/omarchy-country-EH-Western-Sahara-2K.webp"
+    },
+    "nord": {
+      "name": "nord",
+      "title": "Nord",
+      "kind": "theme",
+      "images_dir": "images/nord",
+      "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/images/nord",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/nord/catalog.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/nord/catalog.json",
+        "size_bytes": 214295,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/nord/optimization.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/nord/optimization.json",
+        "size_bytes": 87846,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/nord/previews.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/nord/previews.json",
+        "size_bytes": 72422,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/nord/collections.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/nord/collections.json",
+        "size_bytes": 1125,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 40864066,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme with cold, muted blue-gray tones from the Nord palette, with crisp arctic-inspired contrast.",
+      "palette": [
+        "#222730",
+        "#2e3440",
+        "#4c566a",
+        "#d8dee9",
+        "#81a1c1"
+      ],
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/nord/countries/omarchy-country-CA-Canada-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/nord/countries/omarchy-country-CA-Canada-2K.webp"
+    },
+    "osaka-jade": {
+      "name": "osaka-jade",
+      "title": "Osaka Jade",
+      "kind": "theme",
+      "images_dir": "images/osaka-jade",
+      "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/osaka-jade/catalog.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/osaka-jade/catalog.json",
+        "size_bytes": 221844,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/osaka-jade/optimization.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/osaka-jade/optimization.json",
+        "size_bytes": 90847,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/osaka-jade/previews.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/osaka-jade/previews.json",
+        "size_bytes": 73923,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/osaka-jade/collections.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/osaka-jade/collections.json",
+        "size_bytes": 1105,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 83891820,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme by Justin Lowry. A dark jade-green palette inspired by Osaka aesthetics, pairing deep green backgrounds with warm highlights.",
+      "palette": [
+        "#0c1512",
+        "#111c18",
+        "#53685b",
+        "#c1c497",
+        "#509475"
+      ],
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/osaka-jade/countries/omarchy-country-FI-Finland-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/countries/omarchy-country-FI-Finland-2K.webp"
+    },
+    "solitude": {
+      "name": "solitude",
+      "title": "Solitude",
+      "kind": "theme",
+      "images_dir": "images/solitude",
+      "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/images/solitude",
+      "collections": [
+        "countries"
+      ],
+      "catalog": {
+        "path": "datasets/solitude/catalog.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/solitude/catalog.json",
+        "size_bytes": 219330,
+        "entries": 250
+      },
+      "optimization": {
+        "path": "datasets/solitude/optimization.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/solitude/optimization.json",
+        "size_bytes": 89851,
+        "entries": 500
+      },
+      "previews": {
+        "path": "datasets/solitude/previews.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/solitude/previews.json",
+        "size_bytes": 73427,
+        "entries": 250
+      },
+      "collections_info": {
+        "path": "datasets/solitude/collections.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/solitude/collections.json",
+        "size_bytes": 1102,
+        "collections": 1
+      },
+      "count": 250,
+      "optimized": 500,
+      "total_size_bytes": 104568626,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Minimal monochrome theme by HANCORE. Near-black backgrounds with quiet gray tones for a calm, distraction-free workspace.",
+      "palette": [
+        "#0c0e0f",
+        "#101315",
+        "#4b4e55",
+        "#cacccc",
+        "#798186"
+      ],
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/solitude/countries/omarchy-country-SB-Solomon-Islands-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/solitude/countries/omarchy-country-SB-Solomon-Islands-2K.webp"
+    },
+    "tokyo-night": {
+      "name": "tokyo-night",
+      "title": "Tokyo Night",
+      "kind": "theme",
+      "images_dir": "images/tokyo-night",
+      "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/images/tokyo-night",
+      "collections": [
+        "countries",
+        "shelters"
+      ],
+      "catalog": {
+        "path": "datasets/tokyo-night/catalog.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/tokyo-night/catalog.json",
+        "size_bytes": 464199,
+        "entries": 500
+      },
+      "optimization": {
+        "path": "datasets/tokyo-night/optimization.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/tokyo-night/optimization.json",
+        "size_bytes": 187247,
+        "entries": 1000
+      },
+      "previews": {
+        "path": "datasets/tokyo-night/previews.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/tokyo-night/previews.json",
+        "size_bytes": 150625,
+        "entries": 500
+      },
+      "collections_info": {
+        "path": "datasets/tokyo-night/collections.json",
+        "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/tokyo-night/collections.json",
+        "size_bytes": 1968,
+        "collections": 2
+      },
+      "count": 500,
+      "optimized": 1000,
+      "total_size_bytes": 172548210,
+      "resolutions": [
+        [
+          2560,
+          1440
+        ]
+      ],
+      "description": "Theme based on the popular Tokyo Night color scheme by Enkia. Deep blue backgrounds with cyan, blue, and purple neon accents evoking Tokyo after dark.",
+      "palette": [
+        "#13141c",
+        "#1a1b26",
+        "#414868",
+        "#a9b1d6",
+        "#7aa2f7"
+      ],
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/tokyo-night/countries/omarchy-country-HK-Hong-Kong-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/tokyo-night/countries/omarchy-country-HK-Hong-Kong-2K.webp"
+    }
+  },
+  "masters": {
+    "name": "masters",
+    "title": "Masters",
+    "kind": "masters",
+    "images_dir": "masters/colors",
+    "images_url": "https://content.emkcloud.com/wallpapers/1.1.0/masters/colors",
+    "collections": [
+      "countries",
+      "shelters"
+    ],
+    "catalog": {
+      "path": "datasets/masters/catalog.json",
+      "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/masters/catalog.json",
+      "size_bytes": 365879,
+      "entries": 500
+    },
+    "optimization": {
+      "path": "datasets/masters/optimization.json",
+      "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/masters/optimization.json",
+      "size_bytes": 182741,
+      "entries": 1000
+    },
+    "previews": null,
+    "collections_info": {
+      "path": "datasets/masters/collections.json",
+      "url": "https://content.emkcloud.com/wallpapers/1.1.0/datasets/masters/collections.json",
+      "size_bytes": 1309,
+      "collections": 2
+    },
+    "count": 500,
+    "optimized": 1000,
+    "total_size_bytes": 1789456024,
+    "resolutions": [
+      [
+        2560,
+        1440
+      ]
+    ]
+  }
+}

@@ -1,0 +1,2002 @@
+{
+  "masters/colors/countries/omarchy-country-SB-Solomon-Islands-2K.webp": {
+    "sha256": "f0444ee5b483b0dd5bc8d7896b085b9409c75e0b78201c7cd4b5f8ef0a3ca9f5",
+    "size": 502290
+  },
+  "masters/colors/countries/omarchy-country-CX-Christmas-Island-2K.webp": {
+    "sha256": "3bee02ade97b818bf5c62e0694aaa3f22277167ff7ffa4031d30bfe40eea3b66",
+    "size": 727442
+  },
+  "masters/colors/countries/omarchy-country-PN-Pitcairn-2K.webp": {
+    "sha256": "0ba227fffe6ef78bdf972eef50d4cdb0150bf82b7e72c91135cae255b32b11b1",
+    "size": 890630
+  },
+  "masters/colors/countries/omarchy-country-AE-United-Arab-Emirates-2K.webp": {
+    "sha256": "6416144ce5e2f26a75e954282426c49330c0a709076942721e5a9e2fde84dfa0",
+    "size": 2896260
+  },
+  "masters/colors/countries/omarchy-country-AO-Angola-2K.webp": {
+    "sha256": "03ede05f20db7eecfded2dadf3fd597a828f17a291f77a67817cb39b21e5eefc",
+    "size": 3241876
+  },
+  "masters/colors/countries/omarchy-country-AF-Afghanistan-2K.webp": {
+    "sha256": "abe96dc7eff6f0615a4a8726b83a2029f1101c55917d2366e2bcffc4ca3d3d12",
+    "size": 3122996
+  },
+  "masters/colors/countries/omarchy-country-AL-Albania-2K.webp": {
+    "sha256": "ba5405f30dbc49d7a3459a2bfc668d635e8a7422b8d2cdf94b781a1f29a15d9a",
+    "size": 3695356
+  },
+  "masters/colors/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp": {
+    "sha256": "09f1bea1945b4a85749214cc26e6a99ee81dc7839a0a625b17e215ef64b10999",
+    "size": 3492998
+  },
+  "masters/colors/countries/omarchy-country-AD-Andorra-2K.webp": {
+    "sha256": "6867029773839ce4dd63e20a963afc16a0fe67017306d58d2f25ddc285b1cba3",
+    "size": 3417028
+  },
+  "masters/colors/countries/omarchy-country-AI-Anguilla-2K.webp": {
+    "sha256": "78b3966508517c3e02b8e1a8fffd8bdcd2f7f1a5f67b5eab5e80d6a75fcc58ee",
+    "size": 3508794
+  },
+  "masters/colors/countries/omarchy-country-AM-Armenia-2K.webp": {
+    "sha256": "f6571a4d1a44ff9449929a4d441dc17e802aa1e22b65653187117186bcecaef7",
+    "size": 3584464
+  },
+  "masters/colors/countries/omarchy-country-AS-American-Samoa-2K.webp": {
+    "sha256": "13594ca3dd7b5844a348eb793b880c4a117e88579ed1437096c220fae142c9a5",
+    "size": 600198
+  },
+  "masters/colors/countries/omarchy-country-AU-Australia-2K.webp": {
+    "sha256": "4c3a072e4bfb64220b04fd036bdacd7ff945f2ea1c1c40c1c56762b5ec91afc2",
+    "size": 3444274
+  },
+  "masters/colors/countries/omarchy-country-AQ-Antarctica-2K.webp": {
+    "sha256": "c258c9d3460bacf7151539d05226f1e3a841e9fe70e3b230849812099bdd0f2e",
+    "size": 3796322
+  },
+  "masters/colors/countries/omarchy-country-AR-Argentina-2K.webp": {
+    "sha256": "60acd5e5acb3a96c64387d12228c736376b960fcf8a5df5fbe8fcbd6b56c0cc8",
+    "size": 3787986
+  },
+  "masters/colors/countries/omarchy-country-AT-Austria-2K.webp": {
+    "sha256": "453f24e9b163466097aedc905f841cdca6cc7205c87771b11910530bf403b939",
+    "size": 3533166
+  },
+  "masters/colors/countries/omarchy-country-AX-Aland-Islands-2K.webp": {
+    "sha256": "d543dae055d75a08d112b15bb4156e222d5f7f3799f9186937b4d527c2ea20a2",
+    "size": 3498996
+  },
+  "masters/colors/countries/omarchy-country-AZ-Azerbaijan-2K.webp": {
+    "sha256": "c0b5e102544f30f01df9ab004f226b679d228b4b8e60ec7aabdbb20ad0f9563b",
+    "size": 3571938
+  },
+  "masters/colors/countries/omarchy-country-AW-Aruba-2K.webp": {
+    "sha256": "99aaf163c1033df0e6774209e4cf59d862e21cd16d56207755b8ed3aaed6bda4",
+    "size": 3930272
+  },
+  "masters/colors/countries/omarchy-country-BH-Bahrain-2K.webp": {
+    "sha256": "cbf4daa1ebf7f0b7852e9f835fc77c8f6305124726559c20dec92c8819fd2061",
+    "size": 2790086
+  },
+  "masters/colors/countries/omarchy-country-BA-Bosnia-Herzegovina-2K.webp": {
+    "sha256": "f21b0a4bb57073266175aa7c41b25d43b0fd2512113edb93ff7199653affe02f",
+    "size": 3701498
+  },
+  "masters/colors/countries/omarchy-country-BE-Belgium-2K.webp": {
+    "sha256": "30b8467a7167032b45639eeb2e1471b6f59ed3eeb26c0158b2c9c4c9829515e6",
+    "size": 3479220
+  },
+  "masters/colors/countries/omarchy-country-BD-Bangladesh-2K.webp": {
+    "sha256": "275120279f486e0b94be048e93f2731372e7bda56199b2d2dbc358e7b0555052",
+    "size": 3675696
+  },
+  "masters/colors/countries/omarchy-country-BB-Barbados-2K.webp": {
+    "sha256": "1118980f4890670d5d0f9a1524a34725018ed662e26cd7cfb74c6e84402db6e2",
+    "size": 3657104
+  },
+  "masters/colors/countries/omarchy-country-BI-Burundi-2K.webp": {
+    "sha256": "d7e619f479e24acd1629cf41ba92cd5ef86ea681139a5027aee79ae8bc01c2b1",
+    "size": 3548508
+  },
+  "masters/colors/countries/omarchy-country-BG-Bulgaria-2K.webp": {
+    "sha256": "37ea20fb593ae09747c2192734e7c19dff462a4013fdaebb4fc6075e78ae3cc0",
+    "size": 3366660
+  },
+  "masters/colors/countries/omarchy-country-BF-Burkina-Faso-2K.webp": {
+    "sha256": "25705ae712e0da98480d645559b55a8a7a5e5a4f1fcf551eccdb23879bc11601",
+    "size": 3684580
+  },
+  "masters/colors/countries/omarchy-country-BM-Bermuda-2K.webp": {
+    "sha256": "904fe6860429c10ef489286183a28dc871bac7b79d4ee002d5e1216aafa15b7b",
+    "size": 3393112
+  },
+  "masters/colors/countries/omarchy-country-BJ-Benin-2K.webp": {
+    "sha256": "995f023a2c96be64da9bf4775a93036d13cfab3fc0883726d7817c7ea79e5840",
+    "size": 3607400
+  },
+  "masters/colors/countries/omarchy-country-BL-Saint-Barthelemy-2K.webp": {
+    "sha256": "f1c948d0351019a120c3fd94a2407be0f6bb38474a8a93a19e75cbec4492ebc0",
+    "size": 3781988
+  },
+  "masters/colors/countries/omarchy-country-BO-Bolivia-2K.webp": {
+    "sha256": "8ffad978afd8509e791947a3fad213712951e51d4745e9ec3b2d416350096866",
+    "size": 3045400
+  },
+  "masters/colors/countries/omarchy-country-BS-Bahamas-2K.webp": {
+    "sha256": "c9284d3254adee72b8428f92008c31fc9969eb62ba6355d47ce5b869e6802099",
+    "size": 2903618
+  },
+  "masters/colors/countries/omarchy-country-BN-Brunei-2K.webp": {
+    "sha256": "9e1170963a183b5a8d8f3d4e3b7c1af5aed67ab88e2fef98ee35f8bfa524fedb",
+    "size": 3711418
+  },
+  "masters/colors/countries/omarchy-country-BQ-Bonaire-Sint-Eustatius-and-Saba-2K.webp": {
+    "sha256": "a944cdd1b125e02c22982e861ab06697b844e74d4a2fd6516e01090e1d1f0164",
+    "size": 3835106
+  },
+  "masters/colors/countries/omarchy-country-BR-Brazil-2K.webp": {
+    "sha256": "07f7215c90b0547c3bbca5a62aadd76e04b808c03b0d959d55d00165f8123841",
+    "size": 4410242
+  },
+  "masters/colors/countries/omarchy-country-BT-Bhutan-2K.webp": {
+    "sha256": "3b00217294809a66e7a7c16715c7b5b2dcfe25b594501774771d4ab27153b203",
+    "size": 3260076
+  },
+  "masters/colors/countries/omarchy-country-BY-Belarus-2K.webp": {
+    "sha256": "3faacbb89cbb2084d0217c417ece647ff5c607211acfab7f108b7d12e8c67f77",
+    "size": 3302116
+  },
+  "masters/colors/countries/omarchy-country-BW-Botswana-2K.webp": {
+    "sha256": "a77935d486e52962ef3c39a294ee6a1e51285191beb9c98eb03f217cace524bb",
+    "size": 3624526
+  },
+  "masters/colors/countries/omarchy-country-BV-Bouvet-Island-2K.webp": {
+    "sha256": "9fc6daaec71b0e0c57dcae1959320c5296c88e35810813dfa7cc97c03bc93853",
+    "size": 3740962
+  },
+  "masters/colors/countries/omarchy-country-CA-Canada-2K.webp": {
+    "sha256": "3518bb3305ddd25367d4f0229090ab194cf37aab2dd43c0339d46db41dd0c8c1",
+    "size": 3607042
+  },
+  "masters/colors/countries/omarchy-country-CC-Cocos-Keeling-Islands-2K.webp": {
+    "sha256": "819c5f77de08de60a59037a0293decf599b3a6cbd160b56e44f84687b09f9e17",
+    "size": 3968618
+  },
+  "masters/colors/countries/omarchy-country-BZ-Belize-2K.webp": {
+    "sha256": "8e31e04028aeb2f9102719af6d94aa6fbb8b39d3b64f7894503bdff6cc03f878",
+    "size": 3892264
+  },
+  "masters/colors/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp": {
+    "sha256": "bf0fba81a3dd30afbfb1f2f507b6bf75fd50fbb415641108a1d1925a1679ce5e",
+    "size": 3795258
+  },
+  "masters/colors/countries/omarchy-country-CF-Central-African-Republic-2K.webp": {
+    "sha256": "c54e445c1f74abbc6c673ce20a28144e711748cdfe3cff7897be74eba1833cd7",
+    "size": 3422920
+  },
+  "masters/colors/countries/omarchy-country-CG-Congo-2K.webp": {
+    "sha256": "19570ada4c1103c472078f0d2370f87692b575960c788b790798f4dcc41126df",
+    "size": 3385904
+  },
+  "masters/colors/countries/omarchy-country-CH-Switzerland-2K.webp": {
+    "sha256": "eeb533705c2056c07d76c22196e693f01b9466addc4504e81ee95f4bd70ff661",
+    "size": 3605048
+  },
+  "masters/colors/countries/omarchy-country-CI-Ivory-Coast-2K.webp": {
+    "sha256": "0fe7759b1f752d99bf120576741cd451ed6f8de2c9d1a8f151ed07acc41b59b5",
+    "size": 3291420
+  },
+  "masters/colors/countries/omarchy-country-CM-Cameroon-2K.webp": {
+    "sha256": "0053699eb4f3e08f96154e4d86f96fd32dfe6d7abeca15770f098d1f06181101",
+    "size": 3493732
+  },
+  "masters/colors/countries/omarchy-country-CK-Cook-Islands-2K.webp": {
+    "sha256": "7f888f112fc9596b5c818a1bfd0d29755020b240ccae57368a0f7e2e73246b12",
+    "size": 3935124
+  },
+  "masters/colors/countries/omarchy-country-CL-Chile-2K.webp": {
+    "sha256": "1ff6f12f9c37bf2dd114d0c1498a03bdfffef93d39cac9051be338633fb870c0",
+    "size": 3533868
+  },
+  "masters/colors/countries/omarchy-country-CN-China-2K.webp": {
+    "sha256": "ec84a8465a89a72e0ff2750d80636e3461cbfcb012302170544278ce19a29e8f",
+    "size": 3968568
+  },
+  "masters/colors/countries/omarchy-country-CO-Colombia-2K.webp": {
+    "sha256": "458af72d8d8e34b90cb8450843c947b8a5672b16207cac4a808452a8d042e502",
+    "size": 3976004
+  },
+  "masters/colors/countries/omarchy-country-CR-Costa-Rica-2K.webp": {
+    "sha256": "814b8e9fdc269dd1040532e936df838d9da8c16b281f5d8b02710c894786810f",
+    "size": 3728988
+  },
+  "masters/colors/countries/omarchy-country-CZ-Czech-2K.webp": {
+    "sha256": "cdb809c01c02b54470436e4b535523c1207c1d5d4bf3487cac4b4355a2b44993",
+    "size": 3243270
+  },
+  "masters/colors/countries/omarchy-country-CW-Curacao-2K.webp": {
+    "sha256": "53165f0009e6ee5050977307be6957ff84b698977fe21835de6cfee7d8102e0a",
+    "size": 3400768
+  },
+  "masters/colors/countries/omarchy-country-CY-Cyprus-2K.webp": {
+    "sha256": "42881d834c63d53b53893d2174eadd3ff738b7919139d7b4952c1df1f8361c9b",
+    "size": 3704152
+  },
+  "masters/colors/countries/omarchy-country-CU-Cuba-2K.webp": {
+    "sha256": "545c5ab60866610a8d7fc41c326be12253de7bdc44913d932d7f7e675fddc23b",
+    "size": 3656488
+  },
+  "masters/colors/countries/omarchy-country-CV-Cape-Verde-2K.webp": {
+    "sha256": "236d7b6cc5d63e5cc07086c76ba2db2a04c21a886ac65763838ab716b2dcea03",
+    "size": 3712156
+  },
+  "masters/colors/countries/omarchy-country-DE-Germany-2K.webp": {
+    "sha256": "25566fd3785644c4577c8eb15c51382a6996dac0e0bbbfd31d77a661fefadfa0",
+    "size": 3389028
+  },
+  "masters/colors/countries/omarchy-country-DJ-Djibouti-2K.webp": {
+    "sha256": "cd25b73684afa113c4415229c9a00ab1a819d77e92d6eaa13a5c9bdd7e12536d",
+    "size": 2996126
+  },
+  "masters/colors/countries/omarchy-country-DK-Denmark-2K.webp": {
+    "sha256": "59831b932ad2c4fe9e03c1e7f53d8173949e5c177f970c2a32cb44a170b5fd53",
+    "size": 3529778
+  },
+  "masters/colors/countries/omarchy-country-DZ-Algeria-2K.webp": {
+    "sha256": "c5763602de8494a8795135e90028470e954f52e7f726385b66da45a2611bf082",
+    "size": 3506598
+  },
+  "masters/colors/countries/omarchy-country-DM-Dominica-2K.webp": {
+    "sha256": "84e0e141304015d0abecb9a9d054232a86313d3c5178de7e36d96e10ed5a6ac5",
+    "size": 3910466
+  },
+  "masters/colors/countries/omarchy-country-EC-Ecuador-2K.webp": {
+    "sha256": "da2d222846a2f0b880ab3aad616947ae1fd05516948e1b7bd4ecc200b69aa547",
+    "size": 3580886
+  },
+  "masters/colors/countries/omarchy-country-EE-Estonia-2K.webp": {
+    "sha256": "0e7c1cd5a69349326f7d2f79e0cc6c83f06965a17d4973ea396ef929f9cdba08",
+    "size": 3321912
+  },
+  "masters/colors/countries/omarchy-country-DO-Dominican-Republic-2K.webp": {
+    "sha256": "5612350c990edac756745593e5557fb7c9719fb9d4293ca447aeede145d4571b",
+    "size": 3735924
+  },
+  "masters/colors/countries/omarchy-country-EG-Egypt-2K.webp": {
+    "sha256": "31a91fafc758ffddf4cd7d080f352d650f486736b7e3b493b628631bc3183bd1",
+    "size": 2989786
+  },
+  "masters/colors/countries/omarchy-country-EH-Western-Sahara-2K.webp": {
+    "sha256": "f7a925b2597d111610139b918ff074454353b34b79d3f7f1819c3c80530f43f4",
+    "size": 3070450
+  },
+  "masters/colors/countries/omarchy-country-ER-Eritrea-2K.webp": {
+    "sha256": "1219e45b78100535c180da5941f0823b16b71facf917467c7431c3c284be5958",
+    "size": 3690700
+  },
+  "masters/colors/countries/omarchy-country-ES-Spain-2K.webp": {
+    "sha256": "0d47087c5990f98e92ce72fe7dfe97282b97763f19b891adb1d09cb1e5de20c5",
+    "size": 3419164
+  },
+  "masters/colors/countries/omarchy-country-ET-Ethiopia-2K.webp": {
+    "sha256": "f8e13ea5fe1114830a5a11d3d88864293cd8e08c5a785a9b31789def30026b55",
+    "size": 3581200
+  },
+  "masters/colors/countries/omarchy-country-FI-Finland-2K.webp": {
+    "sha256": "0693afbac6846af1667310b194dc96caff8a9ad150089003efe910f8e9e481a1",
+    "size": 3429370
+  },
+  "masters/colors/countries/omarchy-country-FJ-Fiji-2K.webp": {
+    "sha256": "25b2cacc988547486a41e08bd53a18a03bfbbffe526f9c604393bf5d99d027bf",
+    "size": 3781734
+  },
+  "masters/colors/countries/omarchy-country-FK-Falkland-Islands-2K.webp": {
+    "sha256": "48af2f06bd1d0c8ae66bf4bfb3f1b9b5ef39c3ecc2e5078431912e70b959189a",
+    "size": 3691056
+  },
+  "masters/colors/countries/omarchy-country-FM-Micronesia-2K.webp": {
+    "sha256": "dc202e242b004bd8a100f7015189d60eeacef1647e251c9173286180a1e2fd52",
+    "size": 3481226
+  },
+  "masters/colors/countries/omarchy-country-FO-Faroe-Islands-2K.webp": {
+    "sha256": "f71f423813c8118f2ce05d9b4c83d8ef1d581eda3d2964d74e69186aa08c4a7e",
+    "size": 3540934
+  },
+  "masters/colors/countries/omarchy-country-GB-UK-2K.webp": {
+    "sha256": "7bac6a73922bff30a4e893eafd6b1747f9cc69fba395cb00de938b2dc22ee265",
+    "size": 3081786
+  },
+  "masters/colors/countries/omarchy-country-FR-France-2K.webp": {
+    "sha256": "c34471e167d0bd1d285cace88711fa76cd54a6bb417d01cf66424fcac7eadb94",
+    "size": 3858372
+  },
+  "masters/colors/countries/omarchy-country-GA-Gabon-2K.webp": {
+    "sha256": "9de68241635b18a16fb7b7cb70e941dd3dbd1f14ffbe5bfb015ca956f3a1ba0f",
+    "size": 3687744
+  },
+  "masters/colors/countries/omarchy-country-GE-Georgia-2K.webp": {
+    "sha256": "2c776b6fd79fdef44d297d9d0b2db49d4c9b25d43706ab0c1c876a5aaa9aae90",
+    "size": 3231572
+  },
+  "masters/colors/countries/omarchy-country-GD-Grenada-2K.webp": {
+    "sha256": "4c716c98dd5662d0aaa4ac5c186e1add0eaba072e78e7e3aaca51e04f5e11292",
+    "size": 4056466
+  },
+  "masters/colors/countries/omarchy-country-GG-Guernsey-2K.webp": {
+    "sha256": "c8fe9252abb8b73b7c745518b390e82ae38dc9fa77cc68f0b3ae345cb7c5b3d7",
+    "size": 3586456
+  },
+  "masters/colors/countries/omarchy-country-GF-French-Guiana-2K.webp": {
+    "sha256": "91b1e44ec47ac2bde2013fc4a94890949cfe1e2ab9c940cd30462d2c98da2a12",
+    "size": 4043208
+  },
+  "masters/colors/countries/omarchy-country-GH-Ghana-2K.webp": {
+    "sha256": "c8abf2a24fb65fee55462fdc5c0e04a250b64ce3ae34b426f0dff101d3c74a41",
+    "size": 3532056
+  },
+  "masters/colors/countries/omarchy-country-GI-Gibraltar-2K.webp": {
+    "sha256": "277d3b2292a057c1dc23b53d47b93ccb7c14da20ba5413da62b4d245db78dc0f",
+    "size": 3224118
+  },
+  "masters/colors/countries/omarchy-country-GM-Gambia-2K.webp": {
+    "sha256": "f95a46b852b03dabb47c5188f3febfdb6819d783814a5a8d73a0c0c27e6aa65f",
+    "size": 3562974
+  },
+  "masters/colors/countries/omarchy-country-GL-Greenland-2K.webp": {
+    "sha256": "5122de61b83eb89c5fcb1a86a7e6189bf2368569edbda0acece65c989256d732",
+    "size": 3631910
+  },
+  "masters/colors/countries/omarchy-country-GN-Guinea-2K.webp": {
+    "sha256": "4e76f25a9b81a345d3dda1a515f975fc09a3e0d6024d9638d57b6f0df0932461",
+    "size": 3668226
+  },
+  "masters/colors/countries/omarchy-country-GP-Guadeloupe-2K.webp": {
+    "sha256": "f04ff9b1c6bbbb6bfdf7f7adcd028cb0f0bf6e2687b377e284795affc30fec04",
+    "size": 3611748
+  },
+  "masters/colors/countries/omarchy-country-GQ-Equatorial-Guinea-2K.webp": {
+    "sha256": "7ee4a282021c934f2939ca23b8f157f271fe7bb1f9bd518a37cc0e4d050423c2",
+    "size": 3698006
+  },
+  "masters/colors/countries/omarchy-country-GR-Greece-2K.webp": {
+    "sha256": "ac4f5e95371db143422541084d2594009235ce5b1248ddf3a84fce29b480bb3f",
+    "size": 3423358
+  },
+  "masters/colors/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp": {
+    "sha256": "c61119986589d78efee82aa61ba81e79e1a44a376f3dcf3a57600c88ef3aeb55",
+    "size": 3593538
+  },
+  "masters/colors/countries/omarchy-country-GT-Guatemala-2K.webp": {
+    "sha256": "b28e176120f91780bb663b4574db3d8989acdd766a6e0346e7e75f69a9282a88",
+    "size": 3704080
+  },
+  "masters/colors/countries/omarchy-country-GU-Guam-2K.webp": {
+    "sha256": "9c73d40af88e05e7fd1a44e31e481929ad64c78d73500d2e382212252f7c6490",
+    "size": 3543578
+  },
+  "masters/colors/countries/omarchy-country-GW-Guinea-Bissau-2K.webp": {
+    "sha256": "ae5709455a7d3210a812c3e16af055ac559b1cd8bee214064c12ca65f6b1a06c",
+    "size": 3598602
+  },
+  "masters/colors/countries/omarchy-country-GY-Guyana-2K.webp": {
+    "sha256": "7a4a915f757009e10a66e300b02e890949675ceaef36ec2d98eda3bf17c1fbba",
+    "size": 3591926
+  },
+  "masters/colors/countries/omarchy-country-HK-Hong-Kong-2K.webp": {
+    "sha256": "5286a4ab0545ad03101d8d54586e029b8a3061048de713e791cca1ccc49b14d2",
+    "size": 3605522
+  },
+  "masters/colors/countries/omarchy-country-HM-Heard-Island-and-McDonald-Islands-2K.webp": {
+    "sha256": "f51d94c2b4f7c081b52aa46662b73f454ed3be65f73a61ea413e4a0a08be3356",
+    "size": 3517276
+  },
+  "masters/colors/countries/omarchy-country-HN-Honduras-2K.webp": {
+    "sha256": "6f0b42b41144903c2d528d75dfd96d6c916345ccb817c034af7ae396239774a9",
+    "size": 3846926
+  },
+  "masters/colors/countries/omarchy-country-HR-Croatia-2K.webp": {
+    "sha256": "689252214bb30c5bb3cd94a040fc12cfc5d48ec05591f69a426797c1579bf763",
+    "size": 3386856
+  },
+  "masters/colors/countries/omarchy-country-HU-Hungary-2K.webp": {
+    "sha256": "626db64138c14f1b2d9df45b8fda4e94a9d6bc48b02b52b6a6cf1ef2fc753335",
+    "size": 3409702
+  },
+  "masters/colors/countries/omarchy-country-HT-Haiti-2K.webp": {
+    "sha256": "18fedb3299b4635372747fc1696dd2eabfdd4910b9ff1b0891d747335c49fb54",
+    "size": 4058558
+  },
+  "masters/colors/countries/omarchy-country-ID-Indonesia-2K.webp": {
+    "sha256": "f5c2b9c133f97d4cc637c63f8d22d77c6db0567bf4624bd02041ecb9039b9ba8",
+    "size": 3933928
+  },
+  "masters/colors/countries/omarchy-country-IE-Ireland-2K.webp": {
+    "sha256": "0911ed839391c5863a89403c004279ab5d36c972f4e59bd19806635400e25f81",
+    "size": 3576686
+  },
+  "masters/colors/countries/omarchy-country-IL-Israel-2K.webp": {
+    "sha256": "07e87d88c9a0ebbe0de81efba65d426ead4b90649085b8b87c771fdf3fcf6da3",
+    "size": 3698712
+  },
+  "masters/colors/countries/omarchy-country-IM-Isle-of-Man-2K.webp": {
+    "sha256": "064c23863dc37b0b5906dd6b8885a5d8de41fcfc3ea2519bb55d446b1d7c1071",
+    "size": 3655022
+  },
+  "masters/colors/countries/omarchy-country-IN-India-2K.webp": {
+    "sha256": "f856a44836803eaa1765231c7428c4671b792a3067c139946a922a5105eb77d8",
+    "size": 3745154
+  },
+  "masters/colors/countries/omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp": {
+    "sha256": "b6b9391124a4b93e872389b8a63583d1e2fe32560a20723a5c2ac55d546a8a04",
+    "size": 3974318
+  },
+  "masters/colors/countries/omarchy-country-IQ-Iraq-2K.webp": {
+    "sha256": "02ab1cd81d087790c3213328c08c32375e24d37a58936dd9fabe097c18671811",
+    "size": 3663266
+  },
+  "masters/colors/countries/omarchy-country-IR-Iran-2K.webp": {
+    "sha256": "1a9eb4289669985f09bcde396a32741c72fd69fb12c5ad53a60589ff54e1ac80",
+    "size": 3268034
+  },
+  "masters/colors/countries/omarchy-country-IS-Iceland-2K.webp": {
+    "sha256": "f30f31e43e5f5aa48f58a918952ec304250f77eb40fae8b28bae60926853608f",
+    "size": 3398600
+  },
+  "masters/colors/countries/omarchy-country-JE-Jersey-2K.webp": {
+    "sha256": "232fca49f8357db06e93e664eebaa35bf59f347133cfe982c82b89b0dcdd679d",
+    "size": 3717542
+  },
+  "masters/colors/countries/omarchy-country-IT-Italy-2K.webp": {
+    "sha256": "c0e29402559337eedfb0c3b39a67ec5bb720a26cf5ee035d31a556d96040393c",
+    "size": 3795052
+  },
+  "masters/colors/countries/omarchy-country-JO-Jordan-2K.webp": {
+    "sha256": "c9c3e09df42f74876cc9cf6b0fbe5e28263513eea57d64d2bcb0631b1a4b712d",
+    "size": 3413852
+  },
+  "masters/colors/countries/omarchy-country-JM-Jamaica-2K.webp": {
+    "sha256": "df0dfa98a22bb917447de811426928b852db40a536db2d51f482a1a3b9395f0e",
+    "size": 732022
+  },
+  "masters/colors/countries/omarchy-country-JP-Japan-2K.webp": {
+    "sha256": "6fa2bb9135a9af11a73e7e275efce66016dbdf0e5da4b8bd1e30193eadd31ef2",
+    "size": 3255260
+  },
+  "masters/colors/countries/omarchy-country-KE-Kenya-2K.webp": {
+    "sha256": "1c5eb4089dc3483ab1e8ea934fbaac15b4e3b2fb652f2df8e45c28ebe6127b23",
+    "size": 3520026
+  },
+  "masters/colors/countries/omarchy-country-KH-Cambodia-2K.webp": {
+    "sha256": "692218cb6a66248363bd1a3977457b8c2c347b16afe246cfa0aa41dc66a5fd4c",
+    "size": 3675156
+  },
+  "masters/colors/countries/omarchy-country-KG-Kyrgyzstan-2K.webp": {
+    "sha256": "3ec7dd20e6740dcd6223ac43c30faf23c9ce630573cdb42c816e43f7dcd19d88",
+    "size": 3670314
+  },
+  "masters/colors/countries/omarchy-country-KN-Saint-Kitts-and-Nevis-2K.webp": {
+    "sha256": "43ab56661d8f408ecda8ab395c94740e11481e32b4de6245cba51b5585975925",
+    "size": 3589138
+  },
+  "masters/colors/countries/omarchy-country-KM-Comoros-2K.webp": {
+    "sha256": "7fcfa95aa551d29c3556502b62f7dbabe4e625c3f976c4088948808b112a717d",
+    "size": 3891004
+  },
+  "masters/colors/countries/omarchy-country-KI-Kiribati-2K.webp": {
+    "sha256": "05b414b05fd1be058eb74bf4cbcea69aa20e59191e540ee8db3b3fbb99b9a80a",
+    "size": 4003180
+  },
+  "masters/colors/countries/omarchy-country-KP-North-Korea-2K.webp": {
+    "sha256": "12febbc30cff483fc96fac32c9eb728f53e21f92a862fe0aace29be45e8bfd5f",
+    "size": 3667464
+  },
+  "masters/colors/countries/omarchy-country-KR-South-Korea-2K.webp": {
+    "sha256": "79ce9e5f3d1d147981809709f4cebbdc365a0ff734512d47297dcf57349bb12b",
+    "size": 3269472
+  },
+  "masters/colors/countries/omarchy-country-KW-Kuwait-2K.webp": {
+    "sha256": "56a3ceeda339e67f50420bf67271add178c81da9bb18bd462283e7c88cea452b",
+    "size": 2808886
+  },
+  "masters/colors/countries/omarchy-country-KZ-Kazakhstan-2K.webp": {
+    "sha256": "3eafa39cbfcd55df2b4e619a93b6ebda067029c0920088e36f5b97f1423e38e4",
+    "size": 3553288
+  },
+  "masters/colors/countries/omarchy-country-KY-Cayman-Islands-2K.webp": {
+    "sha256": "5e1c9cf10f44175d1ab328adff30850ddba49aacc002e764492b640b3cb2c5c3",
+    "size": 3908952
+  },
+  "masters/colors/countries/omarchy-country-LI-Liechtenstein-2K.webp": {
+    "sha256": "5659c25354937083bc298390c9fb3e683b3e51798a3659a3810aeabcaaea79fe",
+    "size": 3302556
+  },
+  "masters/colors/countries/omarchy-country-LB-Lebanon-2K.webp": {
+    "sha256": "b5dd48cb0ab2254e3e0103320e9dcfb9cb4c2ba3e031bcbf0c26ec5d594cbd59",
+    "size": 3598900
+  },
+  "masters/colors/countries/omarchy-country-LA-Laos-2K.webp": {
+    "sha256": "22f6c11f7a8b7458a606da1deb1b176c6d753908eb2054806f6d89052249a35f",
+    "size": 4017606
+  },
+  "masters/colors/countries/omarchy-country-LC-Saint-Lucia-2K.webp": {
+    "sha256": "327fbf223d6779a0f22c22b6a26d2a59fe085a4e1dec23dd45ed8bc779ba0b26",
+    "size": 3771510
+  },
+  "masters/colors/countries/omarchy-country-LK-Sri-Lanka-2K.webp": {
+    "sha256": "9d1efeaefbd09a3740f90b1149907b34572e6d14e6892448353289c13d6f547a",
+    "size": 3978832
+  },
+  "masters/colors/countries/omarchy-country-LR-Liberia-2K.webp": {
+    "sha256": "3b5e0d1c71e7a718cd2e6c0d2d5ec58cf3afb4b1e07fff14948dcef980a2d372",
+    "size": 3744736
+  },
+  "masters/colors/countries/omarchy-country-LS-Lesotho-2K.webp": {
+    "sha256": "bf7b4199667f29c0a9c569c422fbe57ab79487308e7109a5cf7f7981e995db39",
+    "size": 3498948
+  },
+  "masters/colors/countries/omarchy-country-LT-Lithuania-2K.webp": {
+    "sha256": "715ce8ecdcbf47af3c66f66735d451a0bdcf3b9b1a7ab651a645bd42cbe3141a",
+    "size": 3466888
+  },
+  "masters/colors/countries/omarchy-country-LU-Luxembourg-2K.webp": {
+    "sha256": "a9403bfb89f71add406eac5bbc43c70782302ba14a0ff0d97e74c34590ee06e6",
+    "size": 3863936
+  },
+  "masters/colors/countries/omarchy-country-LY-Libya-2K.webp": {
+    "sha256": "f8fa07225ae127dd1f2da8031096a5ab7723ce0ba1c140ce962ff09d4eae1e47",
+    "size": 3024134
+  },
+  "masters/colors/countries/omarchy-country-LV-Latvia-2K.webp": {
+    "sha256": "32242cb93238dbf5f26af4b87a18a0697f74b3cb9364077efdcdebb5daac2ab1",
+    "size": 3580190
+  },
+  "masters/colors/countries/omarchy-country-MA-Morocco-2K.webp": {
+    "sha256": "84a79f1a391627e5c33328be982a944cf3fc23759baf7f9516a322d981b77840",
+    "size": 3528502
+  },
+  "masters/colors/countries/omarchy-country-MC-Monaco-2K.webp": {
+    "sha256": "c22ac210601a1635b62b50f1cddaf59286dee32540348780a3d6bad433cef4e5",
+    "size": 3862080
+  },
+  "masters/colors/countries/omarchy-country-MD-Moldova-2K.webp": {
+    "sha256": "7ca6b52e96eaccd655666fd6f03de79caad4e5d6d7a2b90585c32d97bf2c000a",
+    "size": 3798180
+  },
+  "masters/colors/countries/omarchy-country-MF-Saint-Martin-2K.webp": {
+    "sha256": "e14d5e07cbdfd8452b31433acef543362309d0ce9fc19d7f7b95cc2ade53fa0c",
+    "size": 3739588
+  },
+  "masters/colors/countries/omarchy-country-ME-Montenegro-2K.webp": {
+    "sha256": "78851cf9f9fb082de3ecd4f6492afa654959e2cf6842212bbf6980fa8af6c96e",
+    "size": 3745550
+  },
+  "masters/colors/countries/omarchy-country-MG-Madagascar-2K.webp": {
+    "sha256": "a595826b905f74874f471c3e05b7bdbb02db83e1f2be056fe8b06d6391672048",
+    "size": 3851844
+  },
+  "masters/colors/countries/omarchy-country-MH-Marshall-Islands-2K.webp": {
+    "sha256": "fbd0dfb59f0d02ff3e92b9c4faa4f90d5661d7516513b160b10eb286d1ec8d36",
+    "size": 3823952
+  },
+  "masters/colors/countries/omarchy-country-MK-North-Macedonia-2K.webp": {
+    "sha256": "3958e82088035a7a6b3b47a950641c872ff2b1aa7b53f87918ad0279c0b22db7",
+    "size": 3528662
+  },
+  "masters/colors/countries/omarchy-country-ML-Mali-2K.webp": {
+    "sha256": "67d00d341025ec6f7323b479f0c10366ac03474ac738d4a9cd93e8048a7909d5",
+    "size": 3578060
+  },
+  "masters/colors/countries/omarchy-country-MM-Myanmar-2K.webp": {
+    "sha256": "54081a669429b39bd27cc28d25397a31b77bc56964e0ef7964adad5d76bfc191",
+    "size": 3685184
+  },
+  "masters/colors/countries/omarchy-country-MN-Mongolia-2K.webp": {
+    "sha256": "529f4540441e5e3dd0fac7435c11de2a7060bcdb38e33531b2be067fb88622e9",
+    "size": 3480016
+  },
+  "masters/colors/countries/omarchy-country-MP-Northern-Mariana-Islands-2K.webp": {
+    "sha256": "3ed9464dcd00c2961b18913b65c83e21548e11f418cea053246769b862845223",
+    "size": 3693784
+  },
+  "masters/colors/countries/omarchy-country-MO-Macau-2K.webp": {
+    "sha256": "fb1dad2c0fcc0c63ceffeca43c9c8c070b0da4b156a39cca852749422cc04fce",
+    "size": 3676766
+  },
+  "masters/colors/countries/omarchy-country-MR-Mauritania-2K.webp": {
+    "sha256": "404a16401434f32cbd36edd3a65860deb6c45c6ca0e2bc6e22f2c968d39d5ed5",
+    "size": 2529630
+  },
+  "masters/colors/countries/omarchy-country-MS-Montserrat-2K.webp": {
+    "sha256": "3f0f348450e4a390bab3314cff8852f1ccf222d1d6f58be7efab0e350b1348db",
+    "size": 3494992
+  },
+  "masters/colors/countries/omarchy-country-MQ-Martinique-2K.webp": {
+    "sha256": "3982d34332813df0ffd3d723b7a3d950575e249f836e0a049b120ecaf3c218f6",
+    "size": 3408902
+  },
+  "masters/colors/countries/omarchy-country-MT-Malta-2K.webp": {
+    "sha256": "fa9482d2848c5fe4bdd26061d0695e25a6cf9bde5ffe293a8322e8e12158a3ea",
+    "size": 3310048
+  },
+  "masters/colors/countries/omarchy-country-MV-Maldives-2K.webp": {
+    "sha256": "c0ab08d373f020000c8928dd456590c4718c4e03dd1534b957dd992238f14877",
+    "size": 2931802
+  },
+  "masters/colors/countries/omarchy-country-MU-Mauritius-2K.webp": {
+    "sha256": "8179f60a493ec304bd8df748e1c62f19e91bc88110d9cd4dc1e6bba4495b400b",
+    "size": 3879166
+  },
+  "masters/colors/countries/omarchy-country-MW-Malawi-2K.webp": {
+    "sha256": "af3a092aafe8aac7e8ee2148694fd441c62911c3ef08f1c7690f99fce02bdab2",
+    "size": 3491510
+  },
+  "masters/colors/countries/omarchy-country-MX-Mexico-2K.webp": {
+    "sha256": "e349931a8c85371771618821acf77fff852145e7843d67c11ea3ad7676e1e7e7",
+    "size": 3435724
+  },
+  "masters/colors/countries/omarchy-country-MY-Malaysia-2K.webp": {
+    "sha256": "8895b50ca789da62c1056ee7f3e9d92dde7eed8af02b186ee8677c7a518d7cb6",
+    "size": 3894628
+  },
+  "masters/colors/countries/omarchy-country-NA-Namibia-2K.webp": {
+    "sha256": "5077916d5a24c828e8afd21331fdd184e721c641034867f3d359700bf629494d",
+    "size": 3091532
+  },
+  "masters/colors/countries/omarchy-country-MZ-Mozambique-2K.webp": {
+    "sha256": "6d64c059daf4db3309528cd7546aa064d11c9aa2d21b0a050e677adaa208aede",
+    "size": 3689990
+  },
+  "masters/colors/countries/omarchy-country-NC-New-Caledonia-2K.webp": {
+    "sha256": "505491f399c0dbfc0ab32ae23ac12cb5e05adaf775a1e3f7b827ba789b80e35e",
+    "size": 3901114
+  },
+  "masters/colors/countries/omarchy-country-NE-Niger-2K.webp": {
+    "sha256": "a2c788c4bdda922a76c5abdfe88636c1c3111c451e42e9ccd66b3658932c2e77",
+    "size": 3358426
+  },
+  "masters/colors/countries/omarchy-country-NF-Norfolk-Island-2K.webp": {
+    "sha256": "0e63bc261078cf9d61ba21ee386df0a252fcc27b80c61e387dd08f09af7ca008",
+    "size": 4069658
+  },
+  "masters/colors/countries/omarchy-country-NG-Nigeria-2K.webp": {
+    "sha256": "d929b5ef150277450c869ec3fbf77a1be729da15beeafaef40b3fb073d4b39cc",
+    "size": 3918446
+  },
+  "masters/colors/countries/omarchy-country-NI-Nicaragua-2K.webp": {
+    "sha256": "baba39539a5c97d6e319cb2ca3007c154cd2d0169320737a8bba8b3e2d4d347d",
+    "size": 4122916
+  },
+  "masters/colors/countries/omarchy-country-NL-Netherlands-2K.webp": {
+    "sha256": "a464faa57f1d3aa6f235a4c0ad6fdea74953853c20a2a446aca788a52900c312",
+    "size": 3295718
+  },
+  "masters/colors/countries/omarchy-country-NO-Norway-2K.webp": {
+    "sha256": "aa4f078ac40d22cc04dabdca3de91ce71496038d187a492f091ade047ef19c5f",
+    "size": 3397828
+  },
+  "masters/colors/countries/omarchy-country-NP-Nepal-2K.webp": {
+    "sha256": "d92ebb359dc4be5049ff047b98e156726d42a94867aeb6fec919fe332a42a5e8",
+    "size": 3406060
+  },
+  "masters/colors/countries/omarchy-country-NU-Niue-2K.webp": {
+    "sha256": "18e1cf91a11dd7c76a8b1932e429b5361245e8f54aded658d536c7962e29dd4e",
+    "size": 3634208
+  },
+  "masters/colors/countries/omarchy-country-NR-Nauru-2K.webp": {
+    "sha256": "c4bcbbcc196e1e8cb1b8beb11c2ee2c94ac4144ff57d46a23403160c08d5acfb",
+    "size": 3870876
+  },
+  "masters/colors/countries/omarchy-country-NZ-New-Zealand-2K.webp": {
+    "sha256": "bd6aa0629e2d1853c71af1707e68a28adaa8e649c6366699d12ffeae8f87052c",
+    "size": 3669776
+  },
+  "masters/colors/countries/omarchy-country-OM-Oman-2K.webp": {
+    "sha256": "8c85fe90b9efd6cd88b4c4b003738719e335c6616eba6ac1d6f8b9d980083ab8",
+    "size": 2574690
+  },
+  "masters/colors/countries/omarchy-country-PA-Panama-2K.webp": {
+    "sha256": "6b538da92901c4e334d75371b194eb6215bce9d714d7daab728f0ce01f44a430",
+    "size": 4098464
+  },
+  "masters/colors/countries/omarchy-country-PF-French-Polynesia-2K.webp": {
+    "sha256": "bc84f4f2e00ee107a220f0e0d6ff91876c0cd9085f970146d2740863914967ac",
+    "size": 3793956
+  },
+  "masters/colors/countries/omarchy-country-PE-Peru-2K.webp": {
+    "sha256": "e5017b1536b12a4109fe60a9d5daee3f44a1fc3d40005bfe1b14b037664f1d61",
+    "size": 3849868
+  },
+  "masters/colors/countries/omarchy-country-PH-Philippines-2K.webp": {
+    "sha256": "76a580fe074aa0c826464b4170b1eac738bcf6b852fe2cfdd57c6adf31f3f5b8",
+    "size": 3930186
+  },
+  "masters/colors/countries/omarchy-country-PG-Papua-New-Guinea-2K.webp": {
+    "sha256": "5eda2af7eccf90d82a2c9fedeb520c73e6148455eee3511c42e7d9fcad0c2f8d",
+    "size": 4115552
+  },
+  "masters/colors/countries/omarchy-country-PK-Pakistan-2K.webp": {
+    "sha256": "1e96e3e5c6dd219a0c692696ff7b039ec8be16c9bf35495dd395bb1ff7cf7612",
+    "size": 3752360
+  },
+  "masters/colors/countries/omarchy-country-PL-Poland-2K.webp": {
+    "sha256": "d311d56082bbaf6ea4684b85759b14c63b20c40b5470fc8e4c8d5a7c6ce86a02",
+    "size": 3415334
+  },
+  "masters/colors/countries/omarchy-country-PM-Saint-Pierre-and-Miquelon-2K.webp": {
+    "sha256": "3b7264e3391007f9996d82d63afa5a32e233f3cf064b3cdd06091e220f2e668b",
+    "size": 3588048
+  },
+  "masters/colors/countries/omarchy-country-PR-Puerto-Rico-2K.webp": {
+    "sha256": "7d8ac89af9f53773b48716eddd2412938c86924dabbb55bf38a919c22e6a6cfd",
+    "size": 3683566
+  },
+  "masters/colors/countries/omarchy-country-PS-Palestine-2K.webp": {
+    "sha256": "bc95e505adad36f542e74ba045af3ea1b37acf7390201059a76bb87c04db3c3f",
+    "size": 3531830
+  },
+  "masters/colors/countries/omarchy-country-PT-Portugal-2K.webp": {
+    "sha256": "64f3a7e486b44e0097864c63632b25fa1eb8ef46c006f7154f6a7823c50629c6",
+    "size": 3790724
+  },
+  "masters/colors/countries/omarchy-country-QA-Qatar-2K.webp": {
+    "sha256": "b13300ae22971d4c6de5c763e82017012d917627a9ea265327a29da71dbdc58c",
+    "size": 2993060
+  },
+  "masters/colors/countries/omarchy-country-PW-Palau-2K.webp": {
+    "sha256": "343ae9d57cb2195c00aa72c68f6eec1a88344d9e88f732b515eac60979d50f7e",
+    "size": 3721078
+  },
+  "masters/colors/countries/omarchy-country-PY-Paraguay-2K.webp": {
+    "sha256": "fe71a3a7d115ee8fae750f839040bf7b186168665361181df57bb03719201de2",
+    "size": 3509022
+  },
+  "masters/colors/countries/omarchy-country-RE-Reunion-2K.webp": {
+    "sha256": "402e29e8683c04cef7b9c044593a77cb222a09d4d305895b95421c4c35a3e95b",
+    "size": 3955054
+  },
+  "masters/colors/countries/omarchy-country-RO-Romania-2K.webp": {
+    "sha256": "d59f047d55bf9b820579f50d81d07249292ebefeaee11b5eff731aed1386e959",
+    "size": 3336168
+  },
+  "masters/colors/countries/omarchy-country-RS-Serbia-2K.webp": {
+    "sha256": "946b8b352e486d570bff23ac5b81a16a1903bdda0e28c88a6c60928c7bb15de8",
+    "size": 3414650
+  },
+  "masters/colors/countries/omarchy-country-RU-Russia-2K.webp": {
+    "sha256": "de1967581885e05603c6f5f97531c8dd65bb360c8923e615c804e3ff562acb1b",
+    "size": 3488370
+  },
+  "masters/colors/countries/omarchy-country-SA-Saudi-Arabia-2K.webp": {
+    "sha256": "98a3bce6e8f6824e5da896474c69f5f9cc9c0f0ccb0ac42d5ebb50a0da379de5",
+    "size": 3358826
+  },
+  "masters/colors/countries/omarchy-country-RW-Rwanda-2K.webp": {
+    "sha256": "c3ebd80842624ed48f5b1753fbb3d75d85600296c38727ba0ba768b8bdeff25a",
+    "size": 3596394
+  },
+  "masters/colors/countries/omarchy-country-SC-Seychelles-2K.webp": {
+    "sha256": "feafb8f21be7f3e08cd38a807d1abee02b7920a4626d53a59056ba87fdc983a8",
+    "size": 3447524
+  },
+  "masters/colors/countries/omarchy-country-SD-Sudan-2K.webp": {
+    "sha256": "b871eeccd3009e573bff9780966e2bbccbc0c84f245fdd39b946fcae01ebdeb0",
+    "size": 3086148
+  },
+  "masters/colors/countries/omarchy-country-SG-Singapore-2K.webp": {
+    "sha256": "67cf805605c4b72563aefe6e93f20b445921c67667bfbe149d67c3e0d685e001",
+    "size": 2953896
+  },
+  "masters/colors/countries/omarchy-country-SE-Sweden-2K.webp": {
+    "sha256": "d953c67348a6ab3eb91e048d183ff4a58e5f2c5365fd9c6ddbf8ad62e49db9c0",
+    "size": 3872246
+  },
+  "masters/colors/countries/omarchy-country-SH-Saint-Helena-Ascension-and-Tristan-da-Cunha-2K.webp": {
+    "sha256": "8c6ecc32183a0dc0de60c53280e5f1ec791b5f8b88084328ea10c6363d63b424",
+    "size": 3721094
+  },
+  "masters/colors/countries/omarchy-country-SI-Slovenia-2K.webp": {
+    "sha256": "186b795698d11fca8c65474ed0f33b70f1138f1fbf5b5f11f761c6fa2629324a",
+    "size": 3418928
+  },
+  "masters/colors/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp": {
+    "sha256": "3501bb3e08f18fe65f5f85f02c4c14b986e11818fb32b9ad70c9b197d0335f03",
+    "size": 3546252
+  },
+  "masters/colors/countries/omarchy-country-SK-Slovakia-2K.webp": {
+    "sha256": "a3509ab7a9b64199e0deadcb22ccb10ae4ffb1c194146b94c10b2444d5cd1edf",
+    "size": 3472248
+  },
+  "masters/colors/countries/omarchy-country-SM-San-Marino-2K.webp": {
+    "sha256": "456237fbf29e00f425907bdeed47e4c724d12c07aa4772e90aa9869e1d06f48c",
+    "size": 3387588
+  },
+  "masters/colors/countries/omarchy-country-SL-Sierra-Leone-2K.webp": {
+    "sha256": "6e7614238515fc1b24cb96c5387b02cc292f98cf6fb6ae05fd758e6b42529a78",
+    "size": 3946062
+  },
+  "masters/colors/countries/omarchy-country-SN-Senegal-2K.webp": {
+    "sha256": "2f9a0cf84f4fba963c25e69ff03358e74bf5a652274810c55171eaa4edae0549",
+    "size": 3153624
+  },
+  "masters/colors/countries/omarchy-country-SO-Somalia-2K.webp": {
+    "sha256": "e59928797865359c4a188e08141ae08ba38d323faafc892b0b690d07b32498f7",
+    "size": 3088800
+  },
+  "masters/colors/countries/omarchy-country-SR-Suriname-2K.webp": {
+    "sha256": "d381a361450d8664610e56a338becea84c033f11bf3e69f36f2e497fe718756d",
+    "size": 3909222
+  },
+  "masters/colors/countries/omarchy-country-SS-South-Sudan-2K.webp": {
+    "sha256": "6d0c8e1fe7a1c8338d0e31651801243fae0c8764fb1a37b194ba397a3d918715",
+    "size": 3499640
+  },
+  "masters/colors/countries/omarchy-country-SY-Syria-2K.webp": {
+    "sha256": "7ed7f3755e50f4e1ea57e41cfb3e5f6d2ee777e6898aa56e34d755892ecce607",
+    "size": 3621424
+  },
+  "masters/colors/countries/omarchy-country-SV-El-Salvador-2K.webp": {
+    "sha256": "e1cfba872813cc3eab0dfb52a3304a427c49a5b30675e976054e6d00f4d22469",
+    "size": 3216234
+  },
+  "masters/colors/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp": {
+    "sha256": "cd7d8e247201705abf51bdbd1706fef124827f790a252561ef9ee4767dfd352f",
+    "size": 705606
+  },
+  "masters/colors/countries/omarchy-country-SX-Sint-Maarten-2K.webp": {
+    "sha256": "4a79622933076e29472c4fcb01fecdb5df5ac5fc86c25515ef4f575b4979593f",
+    "size": 3801320
+  },
+  "masters/colors/countries/omarchy-country-TC-Turks-and-Caicos-Islands-2K.webp": {
+    "sha256": "4dfe34b3ddda7bf015a62a5edcab72c6c4b491474d0bbe51b62314c4bdfa0414",
+    "size": 3682462
+  },
+  "masters/colors/countries/omarchy-country-SZ-Eswatini-2K.webp": {
+    "sha256": "ad87d559d2a81cb4f11e308cd62503d5e63e7b630001fe364bc924cd2e5e9f88",
+    "size": 3411672
+  },
+  "masters/colors/countries/omarchy-country-TD-Chad-2K.webp": {
+    "sha256": "12aa4af9a4998963320fbc115b0747e3052622e59b420cd5eed0ed216f2f3800",
+    "size": 3552312
+  },
+  "masters/colors/countries/omarchy-country-TF-French-Southern-Territories-2K.webp": {
+    "sha256": "cb5b3a0d66e373a9fa43d024ac06329d77cbe75af9c7fc812063d7129fc14049",
+    "size": 3070672
+  },
+  "masters/colors/countries/omarchy-country-TG-Togo-2K.webp": {
+    "sha256": "898c0ca36c17357170caf30de767b63abe0ecdda40df0802f10a3bec195bf945",
+    "size": 3507450
+  },
+  "masters/colors/countries/omarchy-country-TH-Thailand-2K.webp": {
+    "sha256": "b07e961e4709cb2b55a1ff7a0c7c60657cbd752901f8a076dfc6e2a3cacf33dc",
+    "size": 3503726
+  },
+  "masters/colors/countries/omarchy-country-TL-Timor-Leste-2K.webp": {
+    "sha256": "708063c97f2f0b776aeac451cc227218b63e4484f4745a600c242a6920bb28c2",
+    "size": 3531944
+  },
+  "masters/colors/countries/omarchy-country-TJ-Tajikistan-2K.webp": {
+    "sha256": "4dc83a9e510ebf4bc36e9d6f796d694a479d66075ad02bb62557626aeb716810",
+    "size": 3716826
+  },
+  "masters/colors/countries/omarchy-country-TK-Tokelau-2K.webp": {
+    "sha256": "dd37add39a622e37709e6465f70a457294951d36504ecd6e86b1a462ca5df7ba",
+    "size": 3533306
+  },
+  "masters/colors/countries/omarchy-country-TM-Turkmenistan-2K.webp": {
+    "sha256": "dede3b28b154e86c11c96245d1ef8cdae996e35d07d0217a03396a1b3f73ce96",
+    "size": 3228172
+  },
+  "masters/colors/countries/omarchy-country-TN-Tunisia-2K.webp": {
+    "sha256": "7ef424c2bd660700a8130642b0b0da749a3b95b2a6bb566221c622ffb4adb289",
+    "size": 3291416
+  },
+  "masters/colors/countries/omarchy-country-TO-Tonga-2K.webp": {
+    "sha256": "95a0a9f0dee36c6dbc2665d86817988582a7db3fcace0163eadb44bda9b8ab38",
+    "size": 3191270
+  },
+  "masters/colors/countries/omarchy-country-TR-Turkey-2K.webp": {
+    "sha256": "d9e40f7ca819d70fa1e13fef2a0a0140e55ddc5302fc43f90e78ed40a9b8ff97",
+    "size": 3263402
+  },
+  "masters/colors/countries/omarchy-country-TZ-Tanzania-2K.webp": {
+    "sha256": "637dea1d8e51d21c892949938713ccfc73a46a14bca998ccc425f65d58128333",
+    "size": 2939438
+  },
+  "masters/colors/countries/omarchy-country-TV-Tuvalu-2K.webp": {
+    "sha256": "c64edc559201eb9551085c85b44dac0d860a49aef8806ee4c30a1cd908ad4b03",
+    "size": 3458870
+  },
+  "masters/colors/countries/omarchy-country-TT-Trinidad-and-Tobago-2K.webp": {
+    "sha256": "ea892bd8fd007c09f2a488e827a540778a2c8953255995f4886622441d310035",
+    "size": 3670004
+  },
+  "masters/colors/countries/omarchy-country-UA-Ukraine-2K.webp": {
+    "sha256": "f255cb1196dece311d4094dcc886254711089ef90ab6a175f8607c5002ce612b",
+    "size": 3097550
+  },
+  "masters/colors/countries/omarchy-country-TW-Taiwan-2K.webp": {
+    "sha256": "c39106712c0510b490aabc515c95edd2ceacdefa7a9bb5d9e32f8e02683714cf",
+    "size": 3566060
+  },
+  "masters/colors/countries/omarchy-country-UG-Uganda-2K.webp": {
+    "sha256": "a34fab5e4dae3e370e8c8ce02c426dd1d10e80c4d44dc1074ad5b2efc1ff23bf",
+    "size": 3251752
+  },
+  "masters/colors/countries/omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp": {
+    "sha256": "1928e7f9a951148325d405a586948f44f4b1ddaee806a20ea39baa704c66e4eb",
+    "size": 3621590
+  },
+  "masters/colors/countries/omarchy-country-UY-Uruguay-2K.webp": {
+    "sha256": "a0b612d40bf09843c8deea8cbf4fa83e0c74277c298a10e08ca710e5a9ade6dc",
+    "size": 2681222
+  },
+  "masters/colors/countries/omarchy-country-US-USA-2K.webp": {
+    "sha256": "b2fdb647032d57e25a44d64d5f6c59c7429f607affd7d2f142dfad7a405c3b2a",
+    "size": 3400890
+  },
+  "masters/colors/countries/omarchy-country-UZ-Uzbekistan-2K.webp": {
+    "sha256": "7890ae1612cd77fa38261fb57d36e033dccc4e2563021051087bce99beda82c0",
+    "size": 3126068
+  },
+  "masters/colors/countries/omarchy-country-VA-Vatican-2K.webp": {
+    "sha256": "d18256998ae674f01748aa76561add150d2192210b8f49b47e50f2b27d8b88ff",
+    "size": 3001880
+  },
+  "masters/colors/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp": {
+    "sha256": "fd802a5b387670cabb385aac198ab9120e5606a513e844c2bc49a1b448ec2206",
+    "size": 3516430
+  },
+  "masters/colors/countries/omarchy-country-VE-Venezuela-2K.webp": {
+    "sha256": "bb2246e7422e5ee911b68ffe64e904ed73e22187bb66b7b9b57a0769db76f0e7",
+    "size": 3767312
+  },
+  "masters/colors/countries/omarchy-country-VG-British-Virgin-Islands-2K.webp": {
+    "sha256": "b74a9a1f3288db4791f4199afd9b2c431891bbc044a2c55c77b558da2080ab03",
+    "size": 4025818
+  },
+  "masters/colors/countries/omarchy-country-VI-US-Virgin-Islands-2K.webp": {
+    "sha256": "4490659008f61986d94704c423a3b72e63b2686bc30b924d9374c3320efcbeb2",
+    "size": 3578668
+  },
+  "masters/colors/countries/omarchy-country-VN-Vietnam-2K.webp": {
+    "sha256": "bb7a812326d636e29bc2bcf9f5991d2c77d31e0e8ca2532aa714c042017f6bf3",
+    "size": 3291668
+  },
+  "masters/colors/countries/omarchy-country-VU-Vanuatu-2K.webp": {
+    "sha256": "e4bd90e0cb563d0855c8f499d4bce36e54414bb6af2d04c951eefd80e1a75d95",
+    "size": 3880172
+  },
+  "masters/colors/countries/omarchy-country-WF-Wallis-and-Futuna-2K.webp": {
+    "sha256": "2da481a78944ade67933134d7b28a63945f6eeb8a410de5e6a8b82b097582f5f",
+    "size": 3906972
+  },
+  "masters/colors/countries/omarchy-country-WS-Samoa-2K.webp": {
+    "sha256": "21c9fd09f827b337d5667294bd6c734cf046635ad1448865e4eafdb929bfa590",
+    "size": 3782404
+  },
+  "masters/colors/countries/omarchy-country-XK-Kosovo-2K.webp": {
+    "sha256": "2b6d2abd02bd19595c6702060110f4812693873b17c9a6ef5e228e05e56b0507",
+    "size": 3359632
+  },
+  "masters/colors/countries/omarchy-country-YE-Yemen-2K.webp": {
+    "sha256": "d51148257f4a5980e671be55447a11495346ee751b9163568c488217d32333aa",
+    "size": 3637920
+  },
+  "masters/colors/countries/omarchy-country-YT-Mayotte-2K.webp": {
+    "sha256": "d5c78f31e2bf91c4a6e568d5508f5d714e9a3927a0f5c93a700dc1d7b31f52a9",
+    "size": 3919138
+  },
+  "masters/colors/countries/omarchy-country-ZA-South-Africa-2K.webp": {
+    "sha256": "dcf27988c1f6b59fb269b1c1427ab85c07c93137117b2093b86ea156ff98ba54",
+    "size": 3362676
+  },
+  "masters/colors/countries/omarchy-country-ZM-Zambia-2K.webp": {
+    "sha256": "71ea69126ddd3e8c782a91bbd6ab9b609aca3fb2a602ef838e6bfc7e173b0516",
+    "size": 3509238
+  },
+  "masters/colors/countries/omarchy-country-ZW-Zimbabwe-2K.webp": {
+    "sha256": "56d03c5f9c7933819d8802cbc8abc770e82f0f713c0f8bcc494114ba5721853e",
+    "size": 3826754
+  },
+  "masters/colors/shelters/omarchy-shelter-001-helicopter-on-the-roof-2K.webp": {
+    "sha256": "1db8d588b0825f52edc026f23382933fc263d7a8c355fd89b684c7d9fd71b1c9",
+    "size": 3542550
+  },
+  "masters/colors/shelters/omarchy-shelter-003-the-old-windmill-2K.webp": {
+    "sha256": "f8488c766ea4f7a7cb2d4a628274eb11b75471f928620460eece613842e35e36",
+    "size": 3462204
+  },
+  "masters/colors/shelters/omarchy-shelter-005-rooftop-sauna-2K.webp": {
+    "sha256": "cea8aac955433249cf41fe5dff9e6df28c9900a41eab6535f687ea16e2a928d0",
+    "size": 3466790
+  },
+  "masters/colors/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp": {
+    "sha256": "75c6aa07e04e5cd31abd2f1b3e6d29d8582acf8a9d2a70b54313c9756ce5faaf",
+    "size": 3573516
+  },
+  "masters/colors/shelters/omarchy-shelter-002-the-instrument-rental-2K.webp": {
+    "sha256": "32b7dbdf34bb49b31cf793751df82d734d45fc76607de8ffa2bbc1f6975dd0cd",
+    "size": 3744180
+  },
+  "masters/colors/shelters/omarchy-shelter-008-pinball-repair-2K.webp": {
+    "sha256": "117382aa2db9c88d0c18b970d87351f9cab6080ec80762ea6e5e8e6c2adde1c3",
+    "size": 3778400
+  },
+  "masters/colors/shelters/omarchy-shelter-007-the-map-room-2K.webp": {
+    "sha256": "69f81f4bf3574ad10d2427992d832db8b5a66cb607b4492bc2c8548e4cac66bd",
+    "size": 3654098
+  },
+  "masters/colors/shelters/omarchy-shelter-006-moss-garden-teahouse-2K.webp": {
+    "sha256": "3f406e4984e0529f9e2743c42a99066e2e84576c1d0cb7e278f5561244b4819b",
+    "size": 4080216
+  },
+  "masters/colors/shelters/omarchy-shelter-009-fire-lookout-tower-2K.webp": {
+    "sha256": "4697948265474691c347ddb1b23112ca0c42ac0eddf93184a914e1da9cc5a725",
+    "size": 3436072
+  },
+  "masters/colors/shelters/omarchy-shelter-012-the-fish-tank-room-2K.webp": {
+    "sha256": "15bdfc535e4337f2d6137c92321ad3dac508effecceeafcd127d6a1dae771936",
+    "size": 3763472
+  },
+  "masters/colors/shelters/omarchy-shelter-011-vending-machine-corner-2K.webp": {
+    "sha256": "f570c76a45e7229bc53d9b0b2142181eafe0d54a519254da71fbb427287311eb",
+    "size": 3552932
+  },
+  "masters/colors/shelters/omarchy-shelter-013-the-vinyl-basement-2K.webp": {
+    "sha256": "20b38e7ed35d3521636ff704bcea2c058f93762df6c079f791b62acb7cd13796",
+    "size": 3753184
+  },
+  "masters/colors/shelters/omarchy-shelter-010-control-tower-abandoned-2K.webp": {
+    "sha256": "27c0ed0c3fd537e8c35eb745f8b669f5d7e4380dd064e57c7e51f4c928c83528",
+    "size": 3836736
+  },
+  "masters/colors/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp": {
+    "sha256": "280ba095d07a987a708ad752af4c7f2f5068cad0ba24ef9a90c9aa286617ef45",
+    "size": 3657868
+  },
+  "masters/colors/shelters/omarchy-shelter-015-laundry-terrace-2K.webp": {
+    "sha256": "170af2d482238eb8cd64acc759d4cf0025b872624fa5e11192378c6001b45f04",
+    "size": 3627632
+  },
+  "masters/colors/shelters/omarchy-shelter-016-rooftop-noodle-cart-2K.webp": {
+    "sha256": "6ca0452ce7fd5a4930265ecf5527c7ad7c1d7a036c816459b3c85f63e36d1ad4",
+    "size": 3837778
+  },
+  "masters/colors/shelters/omarchy-shelter-019-the-guard-hut-2K.webp": {
+    "sha256": "61d9940d618271cd6638acbddf7a885b5087ec3e7a422c48779642216233a55e",
+    "size": 3405914
+  },
+  "masters/colors/shelters/omarchy-shelter-017-the-tea-corner-2K.webp": {
+    "sha256": "ea4cc2d7b4f0fb82d22278052b7c8f508f642fbd0f02aba7ac40e6d3cbc3e127",
+    "size": 4018176
+  },
+  "masters/colors/shelters/omarchy-shelter-021-airstream-under-the-overpass-2K.webp": {
+    "sha256": "3b92166e53c5d84648fa9947b98cbeb11aa9332d87f5c15aae176bcdb1162861",
+    "size": 3428986
+  },
+  "masters/colors/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-2K.webp": {
+    "sha256": "2f40e49e215a9ae89ff2ee1187fc50ce236cb87be74ac755b75e19a9aa763d56",
+    "size": 3810158
+  },
+  "masters/colors/shelters/omarchy-shelter-020-stadium-under-seats-2K.webp": {
+    "sha256": "c803397153daae8922a259cd1c9342126bbd52a3edbc6bee9e0aa48f9dc2eea1",
+    "size": 3702068
+  },
+  "masters/colors/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
+    "sha256": "23401eb8fdfafd6ac8b97a45bcd3cf1b6d6f2bf56a6a2db68af872df43292c7e",
+    "size": 3661644
+  },
+  "masters/colors/shelters/omarchy-shelter-023-the-satellite-dish-den-2K.webp": {
+    "sha256": "aded2597113d9964f467482a4d384891d5dab6888f17ab365c1f1c1faca0c6d4",
+    "size": 3796218
+  },
+  "masters/colors/shelters/omarchy-shelter-024-the-elevator-machine-room-2K.webp": {
+    "sha256": "72f33322462d179c74d67aa563a763ded1ef40cc3c6c62faab46cc1f3065e5b8",
+    "size": 3766806
+  },
+  "masters/colors/shelters/omarchy-shelter-025-aerial-walkway-hut-2K.webp": {
+    "sha256": "df011a66e8f2ef38cdae8145722186769ae31cd763dbad82c2cf803f2a4d5cb1",
+    "size": 3525666
+  },
+  "masters/colors/shelters/omarchy-shelter-026-rooftop-hammock-deck-2K.webp": {
+    "sha256": "e3928df0a752b6b0a883b31399fc4ae73ed52666f1497ee62fe9967da501923d",
+    "size": 3736128
+  },
+  "masters/colors/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-2K.webp": {
+    "sha256": "05bfb89634647ca7d28bafd204f974a927c6afe382377c17dd1c9862c2d75686",
+    "size": 3592410
+  },
+  "masters/colors/shelters/omarchy-shelter-027-attic-of-maps-2K.webp": {
+    "sha256": "da9566ea34c8b40b950d39bf4cc28f5d884631bbceae709868b78865d249e09d",
+    "size": 3585892
+  },
+  "masters/colors/shelters/omarchy-shelter-029-the-fishmonger-ice-2K.webp": {
+    "sha256": "7350635a35bfd996ba2d79f9088a6c7721f76448770bcbc7db382472e04b45b5",
+    "size": 3427686
+  },
+  "masters/colors/shelters/omarchy-shelter-030-crane-cabin-home-2K.webp": {
+    "sha256": "9f7533c8e0bdf83b79d451d4584c00b0010edf0be40e0caf59e383125fb7b724",
+    "size": 3407700
+  },
+  "masters/colors/shelters/omarchy-shelter-032-rooftop-orchard-2K.webp": {
+    "sha256": "18e9f78f2a3d80fa0a174ad11b9ca3a14ea58f0de048447091cbb6da969fcef4",
+    "size": 3787396
+  },
+  "masters/colors/shelters/omarchy-shelter-031-sewing-machine-row-2K.webp": {
+    "sha256": "0d3ec11104a1d052c0a751b42b425db7de134349f7a2406420cac327f77a6e98",
+    "size": 3840128
+  },
+  "masters/colors/shelters/omarchy-shelter-033-the-battery-yard-camp-2K.webp": {
+    "sha256": "69233978da4f17cd4c13309be87116354565d8e3cc249e13a723eef51919fab0",
+    "size": 3696050
+  },
+  "masters/colors/shelters/omarchy-shelter-037-capsule-hotel-pod-2K.webp": {
+    "sha256": "10dcf49f062fb156d3978d38a85c2b3aefc4af0ebd7897b803bc849b8bd13b8d",
+    "size": 3879668
+  },
+  "masters/colors/shelters/omarchy-shelter-034-boat-on-a-trailer-2K.webp": {
+    "sha256": "1840819e302dc81e704b4b550e1a85e8f63ad50d5d1317dcfbf47c68b80fd6d0",
+    "size": 3757688
+  },
+  "masters/colors/shelters/omarchy-shelter-035-caravan-on-the-ledge-2K.webp": {
+    "sha256": "40b3d4353ac8e7735a4fdeac2a23a6ed61f07bebce2dbcb06a735adbb1f970d3",
+    "size": 3582478
+  },
+  "masters/colors/shelters/omarchy-shelter-036-the-armoured-greenhouse-2K.webp": {
+    "sha256": "fdf104b18db8c9a57eff1aa7e44b38eccae7a8333dc1d72fe127a31ed3cdf5df",
+    "size": 3660296
+  },
+  "masters/colors/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp": {
+    "sha256": "b1b30d3b433705fd6ba782b017c0b73f6c90c74a69c93b3f6b8d6b8d388c2191",
+    "size": 3577094
+  },
+  "masters/colors/shelters/omarchy-shelter-040-bicycle-workshop-2K.webp": {
+    "sha256": "790e42fd2e75a447bc87ae3a44473de2d710e86d4ad798114d5c160ab6d223f4",
+    "size": 3438708
+  },
+  "masters/colors/shelters/omarchy-shelter-039-the-recording-booth-2K.webp": {
+    "sha256": "b944f898ba27ed43e7d9fdf63375201b4223dc375c3d9a1eac84b9223bbc4c53",
+    "size": 3905284
+  },
+  "masters/colors/shelters/omarchy-shelter-041-the-ferry-cabin-2K.webp": {
+    "sha256": "044a4beffc2d358d9347c533aa9ed57b9a5034cd181b045a8af91e41fbd31abe",
+    "size": 3948562
+  },
+  "masters/colors/shelters/omarchy-shelter-043-the-map-shop-2K.webp": {
+    "sha256": "8e765dc784811ce868f73760cb19165ae6b11439aebb74b59877ed326b170a16",
+    "size": 3594176
+  },
+  "masters/colors/shelters/omarchy-shelter-042-the-aquarium-shop-2K.webp": {
+    "sha256": "70f2cb1e5a967e9d1927c9b36ccfb8111cb482af71d9ca9a5615a55ae8050851",
+    "size": 3835458
+  },
+  "masters/colors/shelters/omarchy-shelter-044-nursery-of-seedlings-2K.webp": {
+    "sha256": "ea13725d2a813bdd7eed5fcefc4b93fdb4570e7f4ffe26848ff10f4faec33e33",
+    "size": 3948214
+  },
+  "masters/colors/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-2K.webp": {
+    "sha256": "164e7d07ba2d4f8920f7da7de1277a846dfac3d5ae58281bfec28ebdd4c7975f",
+    "size": 3949640
+  },
+  "masters/colors/shelters/omarchy-shelter-047-pedestrian-bridge-hut-2K.webp": {
+    "sha256": "0195dc3e43d83c29b41388bd93be506e7bb126a0b0143d38333104a2a564c0a1",
+    "size": 3660640
+  },
+  "masters/colors/shelters/omarchy-shelter-046-the-toy-hospital-2K.webp": {
+    "sha256": "12385e7fce5eb363151985f31216fe92968c3ce17b0cc8f4871e0492dab637a0",
+    "size": 4031722
+  },
+  "masters/colors/shelters/omarchy-shelter-048-pontoon-greenhouse-2K.webp": {
+    "sha256": "d47b7faa7011567681652d153203f6eb1e2551313a09739ddced1963c0f57f74",
+    "size": 3451056
+  },
+  "masters/colors/shelters/omarchy-shelter-049-flooded-street-boat-2K.webp": {
+    "sha256": "53925a4abef21b42041982728b1b474c4026415e57c56559da05eaf4e35a07b3",
+    "size": 3338700
+  },
+  "masters/colors/shelters/omarchy-shelter-051-ice-cream-truck-winter-2K.webp": {
+    "sha256": "3abd2a560b3a07901dda65ce447eb7fd538e00876aba3f4a383c55dfa1b5e150",
+    "size": 3696842
+  },
+  "masters/colors/shelters/omarchy-shelter-050-the-freight-depot-2K.webp": {
+    "sha256": "84419b1718d27b5903ebc586ee7375a97109e5462968330857fb526c3c729cfb",
+    "size": 3550104
+  },
+  "masters/colors/shelters/omarchy-shelter-052-grounded-fuselage-2K.webp": {
+    "sha256": "ed1e07ec24bc65dea447a32551bdaef0ceb460f308486f0d82f6037e78dfc127",
+    "size": 3390194
+  },
+  "masters/colors/shelters/omarchy-shelter-053-the-projection-booth-2K.webp": {
+    "sha256": "ee559cb79861da7c1aa191f018c4db1e6674da8a1bb2ee91422e549c41838128",
+    "size": 3704302
+  },
+  "masters/colors/shelters/omarchy-shelter-054-the-midnight-bus-2K.webp": {
+    "sha256": "e9f44221bc3e5e16d5ded1b65a4160c774f1a1738ed646a0de771f33ce61a3a6",
+    "size": 3515096
+  },
+  "masters/colors/shelters/omarchy-shelter-055-the-server-room-bed-2K.webp": {
+    "sha256": "214b28dab53f4b4a6c4cd3e5bf8a4240f8b14c43336a1f07f4159074aba18afc",
+    "size": 3641744
+  },
+  "masters/colors/shelters/omarchy-shelter-056-the-bell-tower-2K.webp": {
+    "sha256": "55aa376fce648aeb1127d18eb6769a5be46439c65f79bcf003ab924ee32a13b0",
+    "size": 3349380
+  },
+  "masters/colors/shelters/omarchy-shelter-057-sampan-kitchen-2K.webp": {
+    "sha256": "0f1911c5d6c6fed6edaf52c3acb17e91d65ac141a07a7f840419ecdc35ebd076",
+    "size": 3433800
+  },
+  "masters/colors/shelters/omarchy-shelter-060-rooftop-koi-pond-2K.webp": {
+    "sha256": "cd383ee8e0282c086982b0c6ffd66549e732d81947027f690f7b27d57e41e46c",
+    "size": 3635290
+  },
+  "masters/colors/shelters/omarchy-shelter-059-the-sluice-house-2K.webp": {
+    "sha256": "e150d19ca9568043ce6e0e1f482ee2cce0b5e6be833ef4715843297c6a0602e3",
+    "size": 3560826
+  },
+  "masters/colors/shelters/omarchy-shelter-058-armoured-van-archive-2K.webp": {
+    "sha256": "3b28e5def50d18c66fd9241fc3e65bbc7080c6165807476577c725b9a1315b3f",
+    "size": 3646410
+  },
+  "masters/colors/shelters/omarchy-shelter-061-combine-harvester-house-2K.webp": {
+    "sha256": "25faa9dda09e62c4cda49c923c5d7f30bdda0d8762ad58395a5107c6985fb435",
+    "size": 3400816
+  },
+  "masters/colors/shelters/omarchy-shelter-064-the-petrol-station-2K.webp": {
+    "sha256": "0a92210c657bd68470b45f3c2b28bb45e7e6bee735d5f453abf2a5725d0b66a2",
+    "size": 3482238
+  },
+  "masters/colors/shelters/omarchy-shelter-063-the-camera-shop-2K.webp": {
+    "sha256": "6c55c3db73760de3601f49eb3963903315988e8a18af098199ce63c1858b9d55",
+    "size": 3762282
+  },
+  "masters/colors/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-2K.webp": {
+    "sha256": "2a0731380d263b77d72325fa2c6530c8fe441363b36446fda0b90931586b78f9",
+    "size": 3915862
+  },
+  "masters/colors/shelters/omarchy-shelter-065-the-ferry-waiting-room-2K.webp": {
+    "sha256": "4c812cbe6074d0dcc85c70e62ed577eb433370162b9f50576fd006769d228aa5",
+    "size": 3597916
+  },
+  "masters/colors/shelters/omarchy-shelter-067-the-one-room-with-a-view-2K.webp": {
+    "sha256": "9eee307448d7a3601ea93eaa37a14db358240cf7dc14251cbed100b8898fb205",
+    "size": 3720634
+  },
+  "masters/colors/shelters/omarchy-shelter-068-electronics-repair-shop-2K.webp": {
+    "sha256": "5de55a203c8bac3e256e8386604a95ede6e7ea365e2ecf7fab56eb33eeac53a7",
+    "size": 3680110
+  },
+  "masters/colors/shelters/omarchy-shelter-066-the-rooftop-greenhouse-2K.webp": {
+    "sha256": "c917857a8529b5b447266cc82e3250d417c2f73d9b0b4f0b4a7f8c36ee8eaf4e",
+    "size": 4017128
+  },
+  "masters/colors/shelters/omarchy-shelter-069-the-underpass-room-2K.webp": {
+    "sha256": "f6a03a66965a74e2bb3f74ec9598d01e4d1b4fcdaec3c47a495cd88b6520a849",
+    "size": 3855566
+  },
+  "masters/colors/shelters/omarchy-shelter-070-water-tower-lantern-2K.webp": {
+    "sha256": "3d4d025fc4e2c637bf1c76ffe23bf9b542b81a51f93c2477c9a79570bc91bfaa",
+    "size": 3287262
+  },
+  "masters/colors/shelters/omarchy-shelter-071-archive-of-tapes-2K.webp": {
+    "sha256": "5940d71af4eaff684a8410c104aedef8a1afd0a33a3a327defce3681f43480d8",
+    "size": 3708572
+  },
+  "masters/colors/shelters/omarchy-shelter-072-hacker-loft-of-monitors-2K.webp": {
+    "sha256": "36974a7b7156719167c603af95629c1b7ca026591ad7a46ed00808ee79e5a13c",
+    "size": 3835626
+  },
+  "masters/colors/shelters/omarchy-shelter-073-rooftop-onsen-2K.webp": {
+    "sha256": "0ed108a23d9114906fd039c7f3ce298cb2d3a6e700173be207cecd44322f097c",
+    "size": 3587598
+  },
+  "masters/colors/shelters/omarchy-shelter-074-postal-van-darkroom-2K.webp": {
+    "sha256": "b6da22d9a7a272951a31094ab2ab3a06ae783a3acaa848d2579fdb202a04478e",
+    "size": 3760204
+  },
+  "masters/colors/shelters/omarchy-shelter-075-the-apiary-in-the-park-2K.webp": {
+    "sha256": "5edd0d0393cb6086d4a4b041cdcc2053b90418dcf39197fb49f213eb15d4c4dd",
+    "size": 3694562
+  },
+  "masters/colors/shelters/omarchy-shelter-076-the-cable-car-station-2K.webp": {
+    "sha256": "c211e70ad469bcdf29264998b2f58df476da12a5996cc44d775e6b89802347e0",
+    "size": 3607862
+  },
+  "masters/colors/shelters/omarchy-shelter-078-dormer-window-desk-2K.webp": {
+    "sha256": "47ca4a781ef7132a1a56266900f364b18f4bd13663eb5d5d27f427f8f4a91b04",
+    "size": 3765146
+  },
+  "masters/colors/shelters/omarchy-shelter-077-the-clockmakers-window-2K.webp": {
+    "sha256": "180a803da85821d037d030660dd36e61ef1ca288d7bcb07affdbacf98c36a69e",
+    "size": 3851262
+  },
+  "masters/colors/shelters/omarchy-shelter-079-candle-and-circuit-2K.webp": {
+    "sha256": "636cb34f9f5c96bb8a4aa0d7849728b2c4af5b17c96125113e9d0c68475b39b2",
+    "size": 3480870
+  },
+  "masters/colors/shelters/omarchy-shelter-080-tunnel-mouth-camp-2K.webp": {
+    "sha256": "ed3ae7d37073170537a37355b7757ad5e6cfbae6836159b0b2eba7a03936f4b5",
+    "size": 3773178
+  },
+  "masters/colors/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-2K.webp": {
+    "sha256": "0b1742d832b8ed30d01864b16fede9d5cd1f86b89877245fb93f91dce9058236",
+    "size": 3708660
+  },
+  "masters/colors/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-2K.webp": {
+    "sha256": "81bfef9b4b1cf54ec12b08713e7e2febd2a7828bcead6638b5b330215510ed56",
+    "size": 3879496
+  },
+  "masters/colors/shelters/omarchy-shelter-083-the-pier-shack-2K.webp": {
+    "sha256": "b18aebd987cc73b15413f1ac0d11e585141d7046dd28d8fdc04a6fbe71164576",
+    "size": 3746940
+  },
+  "masters/colors/shelters/omarchy-shelter-084-tea-house-and-server-rack-2K.webp": {
+    "sha256": "f7eb911f9e33fc7119c944c513b0da9b6e4adc9327b58c4af98b3e24d457e21c",
+    "size": 3609144
+  },
+  "masters/colors/shelters/omarchy-shelter-085-the-beekeeper-terrace-2K.webp": {
+    "sha256": "681a0db2514c3d937a6ab3669e10632f4beafbfc5248f9fec6244cd59b3881a6",
+    "size": 3396476
+  },
+  "masters/colors/shelters/omarchy-shelter-086-the-tea-and-modem-2K.webp": {
+    "sha256": "3efb6954c7144a67b67a45e9b5acc36c4f2b32bba368e1bad7a6a1f91565678b",
+    "size": 3517300
+  },
+  "masters/colors/shelters/omarchy-shelter-087-zeppelin-gondola-2K.webp": {
+    "sha256": "8799006d8cbac53bf8a2278290958b87ca5fb1d39e605caff039102ef9966271",
+    "size": 3632284
+  },
+  "masters/colors/shelters/omarchy-shelter-088-shack-above-the-neon-2K.webp": {
+    "sha256": "d3105e9dec57d5a69b1cc6b36b8b184151ebae1838f6837aa8ad0ddb8d10d685",
+    "size": 3600742
+  },
+  "masters/colors/shelters/omarchy-shelter-089-server-farm-bedroom-2K.webp": {
+    "sha256": "98076d5e8e5a2da67fd95206abd426782246823f81d961d96a44483ea43ac6c9",
+    "size": 3781130
+  },
+  "masters/colors/shelters/omarchy-shelter-091-water-tower-loft-2K.webp": {
+    "sha256": "cf5f3d050c6d3574f18508b1f5bee98554374859d16dd522912d16cc2196459d",
+    "size": 3614540
+  },
+  "masters/colors/shelters/omarchy-shelter-090-solar-panel-garden-2K.webp": {
+    "sha256": "3d6c304cd4bd7cc6a2e0e323f85d9b69e627c57ed0e1bb49b7f15d65ca536013",
+    "size": 3761470
+  },
+  "masters/colors/shelters/omarchy-shelter-093-the-penthouse-shanty-2K.webp": {
+    "sha256": "b4c86fdb3bad2da7c9d2c0bcaba1cc9821d84a34ac930810bc796a804e1dcd42",
+    "size": 3511652
+  },
+  "masters/colors/shelters/omarchy-shelter-092-the-weighbridge-office-2K.webp": {
+    "sha256": "ce0e47fdb707b1dca5f2ece4ebe18a451add1ce96c2d569801335cef703f3cf2",
+    "size": 4014690
+  },
+  "masters/colors/shelters/omarchy-shelter-094-bathtub-with-a-skyline-2K.webp": {
+    "sha256": "6ca2c70006a76525e0028b15ba0f0a00e744a1b3aef0f5eca82d3c597487e4fc",
+    "size": 4050796
+  },
+  "masters/colors/shelters/omarchy-shelter-095-late-night-copy-shop-2K.webp": {
+    "sha256": "e1d6a6908ad519d4613afca3d6256f254b92f442f0a98fdf5c202f3abe5930ec",
+    "size": 3583134
+  },
+  "masters/colors/shelters/omarchy-shelter-096-the-lamp-shop-2K.webp": {
+    "sha256": "6cd8f061fd4ffde6c678b535ef54318542e670794a35a7992098b29d91b0bb7b",
+    "size": 3802656
+  },
+  "masters/colors/shelters/omarchy-shelter-097-the-canal-lock-house-2K.webp": {
+    "sha256": "9c16f8a6e057d073702ae505c8db856a02fae2fdadbe08af2cc67cbde4bb2d12",
+    "size": 3632784
+  },
+  "masters/colors/shelters/omarchy-shelter-098-billboard-scaffold-camp-2K.webp": {
+    "sha256": "7df0fe0dee96034cf98e113cd5f511960ddeae14ebe7bb562c51da23df341da6",
+    "size": 3871236
+  },
+  "masters/colors/shelters/omarchy-shelter-099-stairwell-landing-desk-2K.webp": {
+    "sha256": "3634ef9e605dc44bedc7ad0a5491de371e0bff692e7d75bc4f363f939b705d9f",
+    "size": 3728476
+  },
+  "masters/colors/shelters/omarchy-shelter-101-the-allotment-shed-2K.webp": {
+    "sha256": "3bee5be37f2437dd7c3ab8425b227db82397eeb21573be109a1f519aa8ae5c0a",
+    "size": 3851880
+  },
+  "masters/colors/shelters/omarchy-shelter-100-the-bookmobile-2K.webp": {
+    "sha256": "6ebc9aa6792e71af136c73bcb6491f11ef4b2f24f4e5281c20158367c07be036",
+    "size": 3721816
+  },
+  "masters/colors/shelters/omarchy-shelter-102-the-bookbinder-2K.webp": {
+    "sha256": "1aec8fa1eb821a1f66afdd1997fe7f894318d4c7c1cc28d187b315e42152e00e",
+    "size": 3707102
+  },
+  "masters/colors/shelters/omarchy-shelter-103-stairwell-hut-2K.webp": {
+    "sha256": "dac276e71b0a41494a1a12e9801860068d61b6853a87aa31c7336c5ee6358788",
+    "size": 3692004
+  },
+  "masters/colors/shelters/omarchy-shelter-104-laundromat-at-3am-2K.webp": {
+    "sha256": "354a3f8c703341c0f103de5b473065ac66db0ea8de2ca29124f4a533489b7b05",
+    "size": 3753784
+  },
+  "masters/colors/shelters/omarchy-shelter-105-the-cable-junction-hut-2K.webp": {
+    "sha256": "dd240e0ba2c359a14f079699a028ffb8369f94ac5b2fcbc6ee0718d53f0d0319",
+    "size": 3669786
+  },
+  "masters/colors/shelters/omarchy-shelter-106-the-tattoo-parlour-2K.webp": {
+    "sha256": "ab5caa75923fd59f66b4cd5e3ab5ce7ae193a6358bf6f83c6d5a52ebea6c948e",
+    "size": 3403048
+  },
+  "masters/colors/shelters/omarchy-shelter-107-rooftop-radio-station-2K.webp": {
+    "sha256": "a2f19210a120e14b94fb7e7226a7b33087116a27a8b31f396210652add4387a3",
+    "size": 3586862
+  },
+  "masters/colors/shelters/omarchy-shelter-109-library-in-the-fog-2K.webp": {
+    "sha256": "cb2c2f7b7a5dc9512770bfa513a860b6574a8f49be95178a419f495ade7feb4b",
+    "size": 3640864
+  },
+  "masters/colors/shelters/omarchy-shelter-108-the-ruined-arch-2K.webp": {
+    "sha256": "a5f316f8fb0ef1eacd1ab6f8242fea2db654a3b11106e89da07bb8b93e72545a",
+    "size": 3558328
+  },
+  "masters/colors/shelters/omarchy-shelter-110-harbour-crane-cabin-2K.webp": {
+    "sha256": "70dec3aaa7ef4eee5d1ffa368d2a1a5ce00b8828533318678a43e6c636c63dac",
+    "size": 3469480
+  },
+  "masters/colors/shelters/omarchy-shelter-111-the-sewing-room-2K.webp": {
+    "sha256": "f82e9f7b19499d62ce46d836704aee5c1d76cdf8ec05923f6b18dbc7608e0e7b",
+    "size": 3719222
+  },
+  "masters/colors/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-2K.webp": {
+    "sha256": "a23274a4abf4a8f8c0b0d749fe85c7bc2c5a65543e97e978f42d5fb106a50640",
+    "size": 3445076
+  },
+  "masters/colors/shelters/omarchy-shelter-113-canal-side-flower-barge-2K.webp": {
+    "sha256": "33fa8d1bb7f14fef49d023524853d341c4e9806cf1b8aacc88bef13369f68114",
+    "size": 3772260
+  },
+  "masters/colors/shelters/omarchy-shelter-114-the-ski-lift-shed-2K.webp": {
+    "sha256": "2d226b5860bc213ecc7547333a62998f18d79a3aaa0ad2342600cb75496cf7a4",
+    "size": 3591818
+  },
+  "masters/colors/shelters/omarchy-shelter-115-the-empty-office-home-2K.webp": {
+    "sha256": "b5b6033e435c175baa6d2ae4512fdb015568934c1f9e4845e2acd98b05955138",
+    "size": 3589734
+  },
+  "masters/colors/shelters/omarchy-shelter-116-datacenter-noodle-bar-2K.webp": {
+    "sha256": "cfac1bfd44f620a629cd7ffb4c107f668c45e2c9969605c0d595065062d7aec2",
+    "size": 3650354
+  },
+  "masters/colors/shelters/omarchy-shelter-117-loft-of-open-cases-2K.webp": {
+    "sha256": "f853f26aa859767bf389cddb265d8e59ee53c063604734093214fa76fc6b711d",
+    "size": 3738768
+  },
+  "masters/colors/shelters/omarchy-shelter-118-the-rooftop-bar-2K.webp": {
+    "sha256": "7db7a297c09ad9cc7bc9630d72cc226e9e10411b5de5c84ca44e3918111a613c",
+    "size": 3753332
+  },
+  "masters/colors/shelters/omarchy-shelter-119-rooftop-bathhouse-2K.webp": {
+    "sha256": "e3363831fcfdc5efef3bf1a889f426f1a703754096200418aac24b4c62dd09ca",
+    "size": 3462046
+  },
+  "masters/colors/shelters/omarchy-shelter-120-airfield-hangar-corner-2K.webp": {
+    "sha256": "f59cdbb6445d89ed78a2f918842a1b217d94ae958320e169a091b441f5a89eaa",
+    "size": 3731840
+  },
+  "masters/colors/shelters/omarchy-shelter-122-mechanics-loft-2K.webp": {
+    "sha256": "2828aa5f9584c73699eed73af7cfc0049bfdcb223bee675cb4fda8a1f1b861b5",
+    "size": 3887732
+  },
+  "masters/colors/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp": {
+    "sha256": "46b8992263a0faa82d8ae5975b0ad569834fcedddb0a9d3b008d622144754f93",
+    "size": 3787510
+  },
+  "masters/colors/shelters/omarchy-shelter-123-the-shipwreck-room-2K.webp": {
+    "sha256": "6cf9b1efc0f9f1055d1f33d95354bea1e4e9a5e324605996b984d2ad2572ed06",
+    "size": 3653532
+  },
+  "masters/colors/shelters/omarchy-shelter-124-grain-silo-home-2K.webp": {
+    "sha256": "53428cbee1f254a1b16ab055f6210af78150aadaed16f7ad8fd772b202ce8978",
+    "size": 3513044
+  },
+  "masters/colors/shelters/omarchy-shelter-125-study-with-two-chairs-2K.webp": {
+    "sha256": "74a432d912625b003dc1395cc61bebd587040c06159bbf00b29c3ea7ca214860",
+    "size": 3766674
+  },
+  "masters/colors/shelters/omarchy-shelter-126-ambulance-refuge-2K.webp": {
+    "sha256": "a8c2fe20bbf2356a421afd8787b5736d45b0b4c3440e0c4e4768c7583f2ab7fa",
+    "size": 3821068
+  },
+  "masters/colors/shelters/omarchy-shelter-127-floating-market-stall-2K.webp": {
+    "sha256": "785fb9a9743259195e0577f3147fc418c8207f73e845cb4043ff83c9f6abff46",
+    "size": 3787120
+  },
+  "masters/colors/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp": {
+    "sha256": "da20b7780a9508e2563ae4b85c8e4ff254492d9b7bd290e305969dcd5cdc5d72",
+    "size": 3406098
+  },
+  "masters/colors/shelters/omarchy-shelter-129-the-milk-float-2K.webp": {
+    "sha256": "e87f5c0066b87ff2d9bb2673e9000fda525213044c11a509db5db756dea71fa2",
+    "size": 3648288
+  },
+  "masters/colors/shelters/omarchy-shelter-130-bulldozer-den-2K.webp": {
+    "sha256": "7d1d60e5092adbeb9d50abe97997caa11f0ca7cc8120395a595e55fdaaa7edf2",
+    "size": 3446646
+  },
+  "masters/colors/shelters/omarchy-shelter-131-urban-vineyard-hut-2K.webp": {
+    "sha256": "bb7de1a7f7c55f783144c1705ff7b4ae52bc6314ff55c7e6b4baae0803598e78",
+    "size": 3795256
+  },
+  "masters/colors/shelters/omarchy-shelter-132-the-freight-nest-2K.webp": {
+    "sha256": "9c0cfa050e3815d4d005e9bbe1f664262c27a58d2d7c41fa43ed769b75bdabe0",
+    "size": 3896136
+  },
+  "masters/colors/shelters/omarchy-shelter-133-flower-stall-rain-2K.webp": {
+    "sha256": "9bde4b808ac6c180ffe9b19130ab4123f971a53fbf066c3189fa8b7bd6e1648b",
+    "size": 3680122
+  },
+  "masters/colors/shelters/omarchy-shelter-134-houseboat-of-lanterns-2K.webp": {
+    "sha256": "f48ff4f6b49cf6447be3c650e7f379243352d737b34af6651370cd2e8bc93741",
+    "size": 3748550
+  },
+  "masters/colors/shelters/omarchy-shelter-135-limousine-lounge-2K.webp": {
+    "sha256": "9f1790a9bc26dcd2cedfa82b6859dc634a2e7d83097ce9f70515dd333ce5ce3e",
+    "size": 3734560
+  },
+  "masters/colors/shelters/omarchy-shelter-136-snowplough-shelter-2K.webp": {
+    "sha256": "0ec14caaa4d4c142ebd16cc09304d982cc9eb420a6836bc830ccc35f5de9ba07",
+    "size": 3725666
+  },
+  "masters/colors/shelters/omarchy-shelter-137-crane-yard-office-2K.webp": {
+    "sha256": "c73afebd1ad9099be44141f44e3521c23095de9712425241a882d2fa167e3098",
+    "size": 3569350
+  },
+  "masters/colors/shelters/omarchy-shelter-138-control-room-of-nothing-2K.webp": {
+    "sha256": "e280e5bc123ea7bc874ecafa411876151c3a84db9301aab1b1d26975d0adca42",
+    "size": 3749086
+  },
+  "masters/colors/shelters/omarchy-shelter-139-the-last-terrace-2K.webp": {
+    "sha256": "6f1820788d7ae9d9a570bd8edd02ed0c2412fa1ee42bd1ce4b68bfff23061959",
+    "size": 3671740
+  },
+  "masters/colors/shelters/omarchy-shelter-140-the-clocktower-room-2K.webp": {
+    "sha256": "07fd48d6767ad6c088c8f46003d4fb13f3724430c6dbbcabf85f5fb890486b6e",
+    "size": 3748482
+  },
+  "masters/colors/shelters/omarchy-shelter-142-the-boiler-room-home-2K.webp": {
+    "sha256": "2bc1a98e2cce5ae81544936775be3a21da8458ec7c65bcf79080fe61d1c70e8c",
+    "size": 3724170
+  },
+  "masters/colors/shelters/omarchy-shelter-141-subway-entrance-kiosk-2K.webp": {
+    "sha256": "edd396ff9073df156bdc694a15a9e173ccc3c8e9a10ed2016f6487d4e4ee439d",
+    "size": 3712488
+  },
+  "masters/colors/shelters/omarchy-shelter-143-the-observatory-shed-2K.webp": {
+    "sha256": "2be3770bc5f71c11b98edf8b92483f91edbedc8893eb8ac170ef0cefebcd3577",
+    "size": 3594384
+  },
+  "masters/colors/shelters/omarchy-shelter-144-dry-dock-home-2K.webp": {
+    "sha256": "191d60ca2cff42843b857362bca971cf653bd4a028041ccc35545dca14f253c6",
+    "size": 3379776
+  },
+  "masters/colors/shelters/omarchy-shelter-145-dam-keepers-house-2K.webp": {
+    "sha256": "5cc5fdd499f5f9e54359901ed90449300d67453450217fea30094c36a9344854",
+    "size": 3528948
+  },
+  "masters/colors/shelters/omarchy-shelter-146-bakery-back-room-2K.webp": {
+    "sha256": "610cbc9e0005bb4fe3cbfed077fcd9d8fa0a4a4b9bbddd445c519a4ff36d7cee",
+    "size": 3735820
+  },
+  "masters/colors/shelters/omarchy-shelter-147-the-window-seat-2K.webp": {
+    "sha256": "02481a1a5fc13635282d81975972882ce2b25d40987837dfca8c21dc1f844097",
+    "size": 3876402
+  },
+  "masters/colors/shelters/omarchy-shelter-148-pigeon-loft-lantern-2K.webp": {
+    "sha256": "9e96ae3fdf919b86943f47efe50c59dfc843737754fa1ebf59b635b6e00990ad",
+    "size": 3567374
+  },
+  "masters/colors/shelters/omarchy-shelter-149-the-last-westfalia-2K.webp": {
+    "sha256": "8604dcd9c471cd1d63f6e056228409738b2919ee05c7c04894f4420f8dfadad3",
+    "size": 3622092
+  },
+  "masters/colors/shelters/omarchy-shelter-151-the-terminal-at-the-end-2K.webp": {
+    "sha256": "3234ad8ead1df52110b0b61d64e647886ab5e89b858d03167a689461ef4bc07c",
+    "size": 3746414
+  },
+  "masters/colors/shelters/omarchy-shelter-150-greenhouse-bedroom-2K.webp": {
+    "sha256": "557823da3a91441f1dd341d64a5d43a815d4369969dd6167c347f3f1c3304515",
+    "size": 4244492
+  },
+  "masters/colors/shelters/omarchy-shelter-152-skylight-studio-2K.webp": {
+    "sha256": "86d6d4649039467b93f3b55c70a558cd50eb9b4862ff7f42da78cd33420b09c4",
+    "size": 3893652
+  },
+  "masters/colors/shelters/omarchy-shelter-153-the-kitchen-at-four-2K.webp": {
+    "sha256": "85fa8f360717bf76b971ed84a75893dc66e4ede4fcc5e5a479dd68a799bf1d0c",
+    "size": 3626080
+  },
+  "masters/colors/shelters/omarchy-shelter-154-fire-truck-kitchen-2K.webp": {
+    "sha256": "20d776fca96ef212189da17348a162683b71ca0f66f3837e506f2ed45a3e44cb",
+    "size": 3730662
+  },
+  "masters/colors/shelters/omarchy-shelter-155-the-scaffold-shack-2K.webp": {
+    "sha256": "733baf7e3506fb648c638df01081488466f0881fe22f88465087136f91f735c9",
+    "size": 3839528
+  },
+  "masters/colors/shelters/omarchy-shelter-156-bakery-before-dawn-2K.webp": {
+    "sha256": "eac810ef1e5e3f9471ed688de563b5058eb8fa736f72cb788a40a1c09f15872e",
+    "size": 3728094
+  },
+  "masters/colors/shelters/omarchy-shelter-157-prosthetics-workshop-2K.webp": {
+    "sha256": "545028e381a5c80bddd29f0675282472dd5ff1e89d630b4c161ea9e0d37a8fb7",
+    "size": 3753252
+  },
+  "masters/colors/shelters/omarchy-shelter-160-pigeon-race-roof-2K.webp": {
+    "sha256": "068df7d36930630bd3b16e5b64e25ed0a0a6ac9e437d4f98ea41be63b3cc260c",
+    "size": 3133090
+  },
+  "masters/colors/shelters/omarchy-shelter-158-the-ramen-alley-2K.webp": {
+    "sha256": "34b36664b58fa0f8cdbdadbd95734b8f9a881d64d88fcc5b0e0e3286eae7f51a",
+    "size": 3596880
+  },
+  "masters/colors/shelters/omarchy-shelter-159-dovecote-tower-2K.webp": {
+    "sha256": "9b102108b9c05fd2b9f010744e30b0ba1adef32f507ea737c7f02c7117064a07",
+    "size": 3462010
+  },
+  "masters/colors/shelters/omarchy-shelter-161-the-kite-workshop-2K.webp": {
+    "sha256": "76238288f04b00741789111885ada4955fe0824101c709bc353b10e192d2c4e2",
+    "size": 3583418
+  },
+  "masters/colors/shelters/omarchy-shelter-162-signal-tower-cabin-2K.webp": {
+    "sha256": "62240fa6295f2f95bd6a9449ede5b5f98fea62735caa6f539b6e9c16aec72359",
+    "size": 3391478
+  },
+  "masters/colors/shelters/omarchy-shelter-163-rooftop-tent-camp-2K.webp": {
+    "sha256": "54bcca0d42d002cf56e07ba63752d0fce8d374356792dfec8cd65e133e2be57b",
+    "size": 3537158
+  },
+  "masters/colors/shelters/omarchy-shelter-164-cockpit-library-2K.webp": {
+    "sha256": "1b3c5956f067defb786498b1710ce27a2c722de3de605ef4d1392954c21dd200",
+    "size": 3787350
+  },
+  "masters/colors/shelters/omarchy-shelter-165-rooftop-vineyard-2K.webp": {
+    "sha256": "7e4bab89096d36f468e5de9f0575134966d934c43aa9c8dcfa8a7d21cadc4fc7",
+    "size": 3605420
+  },
+  "masters/colors/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp": {
+    "sha256": "517f73987f74e25ed782ebd36b38c8b24b2a20ce76721eb65eb6483e2a97c43a",
+    "size": 3825426
+  },
+  "masters/colors/shelters/omarchy-shelter-167-the-guitar-luthier-2K.webp": {
+    "sha256": "f28a0ffde4f6c348835c4c3c22779d1704fe5d04fe9194fa44195dacc3705b9c",
+    "size": 3630696
+  },
+  "masters/colors/shelters/omarchy-shelter-166-the-glasshouse-library-2K.webp": {
+    "sha256": "2e116626911bad321886b51453d2419bbe4bef0e089705a71376ec72702a05be",
+    "size": 3880580
+  },
+  "masters/colors/shelters/omarchy-shelter-169-the-cinema-marquee-dark-2K.webp": {
+    "sha256": "251220cd1d3d09adef25ab390d9b62ce44267b8433f557c76ef1895c27f3d01a",
+    "size": 3637602
+  },
+  "masters/colors/shelters/omarchy-shelter-170-fire-escape-garden-2K.webp": {
+    "sha256": "b4d2a9c03d786a1cc0439ded979f6fbe6d2dd0be65adf3bf47fa900f9d19aa64",
+    "size": 3720140
+  },
+  "masters/colors/shelters/omarchy-shelter-171-rooftop-chapel-2K.webp": {
+    "sha256": "252b1bdd5814f7ffca0075488cfff625d3ffd9c01d22cc10ca07a7dbb205e814",
+    "size": 3714756
+  },
+  "masters/colors/shelters/omarchy-shelter-172-the-watch-repair-bench-2K.webp": {
+    "sha256": "ebf4c3e4766f20d53b0bae678c80cf93483aa82bbd50c4ed16b2f8e737d6b04a",
+    "size": 3602672
+  },
+  "masters/colors/shelters/omarchy-shelter-173-the-gatekeepers-lodge-2K.webp": {
+    "sha256": "bd75c4823b87abecb038b09a38de323a31ef68ce40f517196af9f91bef9ed821",
+    "size": 3747438
+  },
+  "masters/colors/shelters/omarchy-shelter-174-the-quarry-hut-2K.webp": {
+    "sha256": "bd485073626e5315ba3dfc8d8704192635e5795243e58e732f6a1f75c415c03f",
+    "size": 3540472
+  },
+  "masters/colors/shelters/omarchy-shelter-175-newsstand-island-2K.webp": {
+    "sha256": "b037df5484d9866b2581ce519103d0b658717a30bcefa64729669c850ac3f6d6",
+    "size": 3614644
+  },
+  "masters/colors/shelters/omarchy-shelter-176-the-taxi-garden-2K.webp": {
+    "sha256": "b6bca5f9cfaf6a995a4819848628ed68b86ac05a4b99ce3f7ebfe7fc07204ced",
+    "size": 3552038
+  },
+  "masters/colors/shelters/omarchy-shelter-177-dumpling-window-2K.webp": {
+    "sha256": "c41f05b5676eafb5e2be8bf850a3d49f10767339198d55de787435507ca964c7",
+    "size": 3734952
+  },
+  "masters/colors/shelters/omarchy-shelter-178-stilt-house-over-water-2K.webp": {
+    "sha256": "26a77a362cc3a895363f9b71d7d07d2a63db4dbcb6f6b13bf1202d2d1f977d73",
+    "size": 3344634
+  },
+  "masters/colors/shelters/omarchy-shelter-179-the-radio-pirate-2K.webp": {
+    "sha256": "b1ae3a40499a8aa67e6fe0872c110af28f59bb322dcfb8aba209273dcafe6e59",
+    "size": 3399004
+  },
+  "masters/colors/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp": {
+    "sha256": "d999d107d6afb89c3c37c9585f703cca233bfab2c6c0fd4360f3c15ef7e95868",
+    "size": 3707590
+  },
+  "masters/colors/shelters/omarchy-shelter-183-pigeon-post-office-2K.webp": {
+    "sha256": "4c15dbd61a8eb97b25f705cea2d5a4c8990bb1a504af432b89eca26fb35db69a",
+    "size": 3434476
+  },
+  "masters/colors/shelters/omarchy-shelter-182-the-drone-port-shack-2K.webp": {
+    "sha256": "bc27a2607e6878e184a38f2a563630fff101606eb797208c30284180b99f0cf9",
+    "size": 3756282
+  },
+  "masters/colors/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-2K.webp": {
+    "sha256": "0d3f3a2fba9690f7b6036e219169dbb07e3dc8dd7c468e5b58e1ec0cadc0f419",
+    "size": 3789810
+  },
+  "masters/colors/shelters/omarchy-shelter-184-the-piano-in-the-dark-2K.webp": {
+    "sha256": "d985be8dec17e08fb5024b6735f3da0ff8e4278e64be3c82bce9c990cf2b23dd",
+    "size": 3704616
+  },
+  "masters/colors/shelters/omarchy-shelter-185-sleeper-car-atelier-2K.webp": {
+    "sha256": "e58c6835876d769f81311ce6d546782f4d9ed4724ee9c0cd5531fcf823a1705a",
+    "size": 3716180
+  },
+  "masters/colors/shelters/omarchy-shelter-186-seed-bank-room-2K.webp": {
+    "sha256": "1b97defb8723c0940089638b5b12cbd19acab0601faea0807d28bd192c40149a",
+    "size": 3838412
+  },
+  "masters/colors/shelters/omarchy-shelter-187-empty-pool-camp-2K.webp": {
+    "sha256": "680049c206041888457b035f8956bc6ae3c1e4be113d0493e9b670dce55e3c1a",
+    "size": 3649750
+  },
+  "masters/colors/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-2K.webp": {
+    "sha256": "eeafff92f2010e2019d9447fa381e4619c3d49b29a58c902d801757447982a56",
+    "size": 3476998
+  },
+  "masters/colors/shelters/omarchy-shelter-189-submarine-hatch-home-2K.webp": {
+    "sha256": "8466e048a402f9bfe137bfa9c13a7f4e90ba7b74fe6bd964778e70b2f6219dc9",
+    "size": 3411116
+  },
+  "masters/colors/shelters/omarchy-shelter-191-workshop-of-clocks-2K.webp": {
+    "sha256": "1421c8d17a012e2434e9d24cf983cf5752cb89b2a8ef455ab1ec06e54086b91b",
+    "size": 3528668
+  },
+  "masters/colors/shelters/omarchy-shelter-190-drawbridge-cabin-2K.webp": {
+    "sha256": "ca757043a04f411612df67f01c6180e2268969d249a8dd5b043dbd4c27a5930d",
+    "size": 3638550
+  },
+  "masters/colors/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp": {
+    "sha256": "1b98e47b105b0d459c50caa9d708485e50008f31c381d4862c4278e32d04f9a0",
+    "size": 3593316
+  },
+  "masters/colors/shelters/omarchy-shelter-193-laundry-room-blue-2K.webp": {
+    "sha256": "e6d8af009dfc96be9320bcae590038067fbf184d314c7cc2a1e7c925629172a7",
+    "size": 3626658
+  },
+  "masters/colors/shelters/omarchy-shelter-194-record-press-workshop-2K.webp": {
+    "sha256": "f102dc13a68623e9f4ad596dc4aac6a378d997bff0a2dd494a7d2a6b59e5d850",
+    "size": 3745386
+  },
+  "masters/colors/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp": {
+    "sha256": "cb5dbfcf8ae46ade1ba047730463cc838cd42eb185204630aa0cc6be8780f35a",
+    "size": 3708242
+  },
+  "masters/colors/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp": {
+    "sha256": "9efbb2adf39e09a22af2ce9302aa26a644d465ad3e115181c79cf2cf60d02b3a",
+    "size": 3554968
+  },
+  "masters/colors/shelters/omarchy-shelter-199-the-key-cutter-2K.webp": {
+    "sha256": "6989ad6de2eb59d1f52ac611d5b9e766408c4bd86f3758bf3dd548787c785c8f",
+    "size": 3649840
+  },
+  "masters/colors/shelters/omarchy-shelter-197-chimney-side-hut-2K.webp": {
+    "sha256": "e71027a5994c2ed8de8b507325fbbbffc95d7dfe1952fd4fa354adad0bdc04f6",
+    "size": 3685580
+  },
+  "masters/colors/shelters/omarchy-shelter-200-rooftop-ramen-2K.webp": {
+    "sha256": "54ffc95706158f9c55cbd3604215b567511aa322b30ae288a6fe9f07f850cc2d",
+    "size": 3651082
+  },
+  "masters/colors/shelters/omarchy-shelter-198-curtain-of-cables-2K.webp": {
+    "sha256": "04df7a89f87e46b9a2462de39fc8a3d2a7f39613049ef851791734119ba262fb",
+    "size": 4053350
+  },
+  "masters/colors/shelters/omarchy-shelter-201-the-rooftop-forge-2K.webp": {
+    "sha256": "9759cb9ae901a50544883773276c1ebd4a24089c7116060ddac429595d26aecd",
+    "size": 3511232
+  },
+  "masters/colors/shelters/omarchy-shelter-202-whisky-bar-one-seat-2K.webp": {
+    "sha256": "6ab4b4368fb028aea84da823f152b195d576a7fab60fbe0d547ceb9d5b3bd2b3",
+    "size": 3989740
+  },
+  "masters/colors/shelters/omarchy-shelter-203-the-telescope-window-2K.webp": {
+    "sha256": "5b038de04ce0157b058c485289d5964a5a5426e4c756c59f7e49a0a59ccceb64",
+    "size": 3487884
+  },
+  "masters/colors/shelters/omarchy-shelter-204-the-barge-garden-2K.webp": {
+    "sha256": "7772f3149544dd3096984be05943852471d90ffee2d8c8b690cce0872f505827",
+    "size": 3537326
+  },
+  "masters/colors/shelters/omarchy-shelter-206-the-mail-train-caboose-2K.webp": {
+    "sha256": "e1e911fdfdd4f2362063fac0242054765edec5ab4926050cdd9cafc976c9da5c",
+    "size": 3387366
+  },
+  "masters/colors/shelters/omarchy-shelter-205-coffee-roastery-night-2K.webp": {
+    "sha256": "e0888523af41d51440beefa245a4dda683353fe351cdf2a2adf60dbbf4ed90d6",
+    "size": 3636472
+  },
+  "masters/colors/shelters/omarchy-shelter-207-shoe-repair-and-solder-2K.webp": {
+    "sha256": "c7a9f9d96b663114efcbeaa3c4aa556351163b2160fbb13f29d5a31e7f83ffec",
+    "size": 3893464
+  },
+  "masters/colors/shelters/omarchy-shelter-208-transformer-station-home-2K.webp": {
+    "sha256": "26ac30c7270ad433aa1eaa7851c4f343e8944f9378dc77a7f21cb0c2578ac0a2",
+    "size": 3581962
+  },
+  "masters/colors/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp": {
+    "sha256": "1f3f034662f26dd14c3f31752574d7c7cbbcdfc16683e812fd50e4abdd2d28c1",
+    "size": 3916016
+  },
+  "masters/colors/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp": {
+    "sha256": "d9b5d49c431936629eb6e19f7c8cc741afc0e143c44762280b9ecade251432f2",
+    "size": 3800760
+  },
+  "masters/colors/shelters/omarchy-shelter-211-deconsecrated-chapel-2K.webp": {
+    "sha256": "dd814ac40f30498944feedfdf014b57dc10d8b58f09b0a4bedb2754eb9667061",
+    "size": 3740954
+  },
+  "masters/colors/shelters/omarchy-shelter-212-the-radio-parts-stall-2K.webp": {
+    "sha256": "d0524c8a16604d8bc14e5d107f62abb3cda635b38de321d65f8a142c215bdd05",
+    "size": 3727926
+  },
+  "masters/colors/shelters/omarchy-shelter-213-monorail-capsule-2K.webp": {
+    "sha256": "44cc5081cd666fc617612e54818d665e7ca2d1d90bc00b39714865889c9650a2",
+    "size": 3641652
+  },
+  "masters/colors/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-2K.webp": {
+    "sha256": "e820dfc5e7a251814ff156e3f72b03432eec919d91c41cb1bc18b35c7d6b7d27",
+    "size": 3750204
+  },
+  "masters/colors/shelters/omarchy-shelter-216-the-oyster-shed-2K.webp": {
+    "sha256": "e99d76a6ea14455a531e5e19b37c96d6ed7ce784eb937402903cae29cde0a93a",
+    "size": 3537170
+  },
+  "masters/colors/shelters/omarchy-shelter-215-the-typewriter-hospital-2K.webp": {
+    "sha256": "2b3fac088f41d557f3a69bb5b70765cd0d2f8901a1baafe0356d967f5149b0e2",
+    "size": 3834554
+  },
+  "masters/colors/shelters/omarchy-shelter-217-lighthouse-lamp-room-2K.webp": {
+    "sha256": "8c23f6ce91d5aefc06cf5949298c817c1b23304d3b5d6e4cfd5e705531e7e6de",
+    "size": 3751670
+  },
+  "masters/colors/shelters/omarchy-shelter-218-the-chess-table-2K.webp": {
+    "sha256": "60e54086e15616295252daa430db8d5cc02254891fe4ac4b0b4479d0c35c213c",
+    "size": 3863062
+  },
+  "masters/colors/shelters/omarchy-shelter-219-the-barber-and-the-cat-2K.webp": {
+    "sha256": "a286d7a6afd287695495a6c0fa486cade37d1777120f84fc76c90d64f61605a0",
+    "size": 3846548
+  },
+  "masters/colors/shelters/omarchy-shelter-220-the-forklift-camp-2K.webp": {
+    "sha256": "da99e2626c5539683b71ba116fb396058a3da54bef70fa6063798efe48f9bfc6",
+    "size": 3531286
+  },
+  "masters/colors/shelters/omarchy-shelter-221-hotel-room-forever-2K.webp": {
+    "sha256": "3f7a2c74df1e030fc80a7cf57c1acf2af62b58de4ba64bd8a9624000e47eaab4",
+    "size": 3646054
+  },
+  "masters/colors/shelters/omarchy-shelter-223-tractor-and-awning-2K.webp": {
+    "sha256": "0fa5326fae2508929f9ea7311b9d3996556a3f112d7b97e32369f25e14ffb6e9",
+    "size": 3601408
+  },
+  "masters/colors/shelters/omarchy-shelter-224-tugboat-galley-2K.webp": {
+    "sha256": "66f261216bc35f20bb548d0f048eff4768844c5fc406fee9604cfc0cf4e46623",
+    "size": 3546574
+  },
+  "masters/colors/shelters/omarchy-shelter-222-vertical-farm-corner-2K.webp": {
+    "sha256": "130aaec84acd00ff51d7e489c49e649ace28f3af9976aa2188f5e8a219ec277c",
+    "size": 4004488
+  },
+  "masters/colors/shelters/omarchy-shelter-225-bus-shelter-alone-2K.webp": {
+    "sha256": "356b3f11d08eeeafd1bb3fc9848b61af53297913355eeadfecdd84849b856cf9",
+    "size": 3516080
+  },
+  "masters/colors/shelters/omarchy-shelter-226-bamboo-grove-hut-2K.webp": {
+    "sha256": "d08a5f4561e4f4518fa1c2a4256045f3a9d2a4fdcaae14f80d56ca961eff2c66",
+    "size": 3728370
+  },
+  "masters/colors/shelters/omarchy-shelter-227-the-billboard-back-room-2K.webp": {
+    "sha256": "87bd00d60ca991c3c516f66cda2db883244345064249f8d3b3ea75017f44c7e0",
+    "size": 3485444
+  },
+  "masters/colors/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp": {
+    "sha256": "346b8a0766501b4793621a6bce36388e87f23a64cd9298ae6b13e49f4a166a32",
+    "size": 3750606
+  },
+  "masters/colors/shelters/omarchy-shelter-229-signal-box-on-the-line-2K.webp": {
+    "sha256": "17dd7630ab898d8485fb795b4d564396e951ad812364c6ceaa8b67916cebbc4a",
+    "size": 3793050
+  },
+  "masters/colors/shelters/omarchy-shelter-230-the-last-phone-box-2K.webp": {
+    "sha256": "44743d07e46840dd454fcc46cfcaefda110fa020c03fbe4c9913c7f5b2888cb9",
+    "size": 3566114
+  },
+  "masters/colors/shelters/omarchy-shelter-232-sidecar-repair-shop-2K.webp": {
+    "sha256": "fefa866c9cc8645b5f41bb6c430c9400069655136983deb182571cf3660408f4",
+    "size": 3703112
+  },
+  "masters/colors/shelters/omarchy-shelter-231-the-antenna-farm-shack-2K.webp": {
+    "sha256": "13d0d6552f5cb94098ff3687aa6abfad65d4fcc21580a00b3a06d8fe193abc24",
+    "size": 3562826
+  },
+  "masters/colors/shelters/omarchy-shelter-233-the-antenna-keeper-2K.webp": {
+    "sha256": "38f800cd090a8798b0b7cebf791a820909e344714045b8f2fc40378d7a352bf5",
+    "size": 3497044
+  },
+  "masters/colors/shelters/omarchy-shelter-234-the-terrarium-wall-2K.webp": {
+    "sha256": "8b0d5e5717a486995761b0067e98a7363cf6e42dc05a1dd6ef8d9d1649e972ae",
+    "size": 3823976
+  },
+  "masters/colors/shelters/omarchy-shelter-235-the-rickshaw-kitchen-2K.webp": {
+    "sha256": "12d13faaca9ac9e339ece84034867ba195390c6eca5f534c7b2fed4754e4791f",
+    "size": 3648834
+  },
+  "masters/colors/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp": {
+    "sha256": "ca381d63632a7b6d5a6b736be12ea1989eecddc2c803c37e7b0fbd0fa1aca751",
+    "size": 3508474
+  },
+  "masters/colors/shelters/omarchy-shelter-236-the-drone-clinic-2K.webp": {
+    "sha256": "f988655198db834d941a388831cd2f6c341d659bebd769a6e3d9c46bcde55b4f",
+    "size": 3972036
+  },
+  "masters/colors/shelters/omarchy-shelter-238-the-pawn-shop-window-2K.webp": {
+    "sha256": "3da07c2488e5845c6bd11576cfabe32114d4fd44816bd22b1ff7d042f1b9bc9c",
+    "size": 3860304
+  },
+  "masters/colors/shelters/omarchy-shelter-239-the-clinic-after-hours-2K.webp": {
+    "sha256": "ab35fc63c385288dbf7cde3487e21c42fcb171ad183911488e13cc8d56aef444",
+    "size": 3720862
+  },
+  "masters/colors/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-2K.webp": {
+    "sha256": "e143b71315b200487d929b86869a386a46070fb55352f08a2569b7b4cbd17098",
+    "size": 4023076
+  },
+  "masters/colors/shelters/omarchy-shelter-241-the-fern-house-2K.webp": {
+    "sha256": "87aa33c03a6c0220ca725d93ecb45c18ed84ad1fc7f7339ee9bcfd6aa4b0aa00",
+    "size": 3881560
+  },
+  "masters/colors/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-2K.webp": {
+    "sha256": "4613105d8a6948ea4187fd26cf271466f588990b2c24a4f44cf129d330e98853",
+    "size": 3274774
+  },
+  "masters/colors/shelters/omarchy-shelter-242-comic-shop-back-issues-2K.webp": {
+    "sha256": "fb0f96456a390c51304ff8c4272acf240c982013c93752836dd6a88035dc88c7",
+    "size": 3828538
+  },
+  "masters/colors/shelters/omarchy-shelter-246-the-nursery-tunnel-2K.webp": {
+    "sha256": "21c17db922157c78ba85d57adc79cd19c8f6b157177fe1a861c7a909b5b50df1",
+    "size": 3585498
+  },
+  "masters/colors/shelters/omarchy-shelter-245-hovercraft-skirt-camp-2K.webp": {
+    "sha256": "cbb0a5e7aab7468b5bc0e3409f3222dc889b88e502bae530afba2cf7baeca09e",
+    "size": 3445782
+  },
+  "masters/colors/shelters/omarchy-shelter-244-water-tank-house-2K.webp": {
+    "sha256": "0c88bedaebe77a9ec7a801c5a88403015084a1bf26a1d44a5e0389c5ec06282a",
+    "size": 3455894
+  },
+  "masters/colors/shelters/omarchy-shelter-247-painters-studio-north-light-2K.webp": {
+    "sha256": "ec0318dd2562952c41d1070fd5126001f25df9b3665520c23ccdf8656ed57720",
+    "size": 3942710
+  },
+  "masters/colors/shelters/omarchy-shelter-248-observatory-dome-inside-2K.webp": {
+    "sha256": "a12ef8c4a069a685469c29aadb27c2f71b87b95df494890ffa5552e365cc9a52",
+    "size": 3512382
+  },
+  "masters/colors/shelters/omarchy-shelter-249-tailor-with-a-terminal-2K.webp": {
+    "sha256": "8ee5b38a8d79667c202515c4624e1ad1d44994a62b8e04b890f9a1ab98c8a736",
+    "size": 3666140
+  },
+  "masters/colors/shelters/omarchy-shelter-250-rooftop-cinema-2K.webp": {
+    "sha256": "9f9a1e56ba9bc754343277d760022f09d4603ed8e52f62dca16eb56f424f7c31",
+    "size": 3733430
+  }
+}

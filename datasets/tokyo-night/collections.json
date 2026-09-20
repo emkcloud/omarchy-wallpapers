@@ -1,0 +1,56 @@
+{
+  "generated_at": "2026-09-20T17:40:34.325296+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "theme": "tokyo-night",
+  "kind": "theme",
+  "count": 500,
+  "total_size_bytes": 172548210,
+  "collections": [
+    {
+      "collection": "countries",
+      "count": 250,
+      "total_size_bytes": 111492424,
+      "directory": "images/tokyo-night/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/tokyo-night/countries",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 111492424,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Countries",
+      "description": "Panoramas and iconic scenery inspired by individual countries.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/tokyo-night/countries/omarchy-country-GY-Guyana-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/tokyo-night/countries/omarchy-country-GY-Guyana-2K.webp"
+    },
+    {
+      "collection": "shelters",
+      "count": 250,
+      "total_size_bytes": 61055786,
+      "directory": "images/tokyo-night/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/tokyo-night/shelters",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 61055786,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Shelters",
+      "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/tokyo-night/shelters/omarchy-shelter-237-the-cable-car-room-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/tokyo-night/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp"
+    }
+  ],
+  "palette": [
+    "#13141c",
+    "#1a1b26",
+    "#414868",
+    "#a9b1d6",
+    "#7aa2f7"
+  ]
+}

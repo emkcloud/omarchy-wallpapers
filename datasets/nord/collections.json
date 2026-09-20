@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-09-20T07:06:33.538168+00:00",
+  "repo": "emkcloud/omarchy-wallpapers",
+  "branch": "main",
+  "theme": "nord",
+  "kind": "theme",
+  "count": 250,
+  "total_size_bytes": 40864066,
+  "collections": [
+    {
+      "collection": "countries",
+      "count": 250,
+      "total_size_bytes": 40864066,
+      "directory": "images/nord/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/nord/countries",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 40864066,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Countries",
+      "description": "Panoramas and iconic scenery inspired by individual countries.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/nord/countries/omarchy-country-IO-British-Indian-Ocean-Territory-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/nord/countries/omarchy-country-IO-British-Indian-Ocean-Territory-2K.webp"
+    }
+  ],
+  "palette": [
+    "#222730",
+    "#2e3440",
+    "#4c566a",
+    "#d8dee9",
+    "#81a1c1"
+  ]
+}

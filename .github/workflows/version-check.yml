@@ -1,0 +1,26 @@
+name: Version check
+
+on:
+  push:
+    tags:
+      - '[0-9]*'
+
+jobs:
+  check-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Tag must match __version__
+        run: |
+          tag="${GITHUB_REF_NAME}"
+          ver="$(grep -Po '^__version__ = "\K[^"]+' scripts/wallpapers.py)"
+          echo "tag=$tag script=$ver"
+          if [ -z "$ver" ]; then
+            echo "::error::Could not find __version__ in scripts/wallpapers.py"
+            exit 1
+          fi
+          if [ "$tag" != "$ver" ]; then
+            echo "::error::Tag $tag does not match __version__ $ver in scripts/wallpapers.py"
+            exit 1
+          fi
