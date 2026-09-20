@@ -175,7 +175,7 @@ datasets/
 ## Available collections
 
 - **Countries** — panoramas and iconic scenery inspired by individual countries.
-- **Shelters** — cozy improvised refuges tucked into the city. Currently available for Osaka Jade and Tokyo Night.
+- **Shelters** — cozy improvised refuges. Osaka Jade and Tokyo Night only.
 
 ## Listing wallpapers
 
