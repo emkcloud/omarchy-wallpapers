@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:24:52.747810+00:00",
+  "generated_at": "2026-09-21T03:27:01.810808+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 104568626,
       "directory": "images/solitude/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/solitude/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/solitude/countries/omarchy-country-JM-Jamaica-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/solitude/countries/omarchy-country-JM-Jamaica-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/countries/omarchy-country-SN-Senegal-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries/omarchy-country-SN-Senegal-2K.webp"
     }
   ],
   "palette": [

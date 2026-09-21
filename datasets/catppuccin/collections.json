@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:24:52.082667+00:00",
+  "generated_at": "2026-09-21T03:27:01.146992+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "catppuccin",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 81991752,
       "directory": "images/catppuccin/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/catppuccin/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/catppuccin/countries/omarchy-country-SZ-Eswatini-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/catppuccin/countries/omarchy-country-SZ-Eswatini-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/catppuccin/countries/omarchy-country-MC-Monaco-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/countries/omarchy-country-MC-Monaco-2K.webp"
     }
   ],
   "palette": [

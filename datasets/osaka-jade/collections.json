@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:24:52.831122+00:00",
+  "generated_at": "2026-09-21T03:27:01.882243+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 83891820,
       "directory": "images/osaka-jade/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/osaka-jade/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/osaka-jade/countries/omarchy-country-GM-Gambia-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/countries/omarchy-country-GM-Gambia-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/osaka-jade/countries/omarchy-country-LI-Liechtenstein-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/osaka-jade/countries/omarchy-country-LI-Liechtenstein-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 65930816,
       "directory": "images/osaka-jade/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/osaka-jade/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/osaka-jade/shelters/omarchy-shelter-121-the-bonsai-workshop-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/osaka-jade/shelters/omarchy-shelter-034-boat-on-a-trailer-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/osaka-jade/shelters/omarchy-shelter-034-boat-on-a-trailer-2K.webp"
     }
   ],
   "palette": [

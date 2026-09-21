@@ -45,7 +45,7 @@ Usage:
     python3 wallpapers.py list tokyo-night countries
 
 It can also be run straight from the repository without cloning:
-    curl -fsSL https://content.emkcloud.com/wallpapers/1.1.0/scripts/wallpapers.py | python3 - install osaka-jade
+    curl -fsSL https://content.emkcloud.com/wallpapers/1.2.0/scripts/wallpapers.py | python3 - install osaka-jade
 """
 
 import argparse
@@ -59,7 +59,7 @@ import sys
 import urllib.error
 import urllib.request
 
-DATASETS_URL = "https://content.emkcloud.com/wallpapers/1.1.0/datasets/datasets.json"
+DATASETS_URL = "https://content.emkcloud.com/wallpapers/1.2.0/datasets/datasets.json"
 DEST_BASE = os.path.expanduser("~/.config/omarchy/backgrounds")
 STATE_BASE = os.path.expanduser("~/.local/state/omarchy")
 CONFIG_BASE = os.path.expanduser("~/.config/omarchy")
@@ -74,7 +74,7 @@ BACKGROUND_EXTS = {
 
 USER_AGENT = "omarchy-wallpapers-installer"
 
-__version__ = "1.1.0"
+__version__ = "1.2.0"
 
 
 def fetch_json(url):

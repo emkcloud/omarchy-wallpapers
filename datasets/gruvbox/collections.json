@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:24:52.249092+00:00",
+  "generated_at": "2026-09-21T03:27:01.307142+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 252550058,
       "directory": "images/gruvbox/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/gruvbox/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/gruvbox/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/gruvbox/countries/omarchy-country-CM-Cameroon-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/gruvbox/countries/omarchy-country-CM-Cameroon-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/gruvbox/countries/omarchy-country-TJ-Tajikistan-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/gruvbox/countries/omarchy-country-TJ-Tajikistan-2K.webp"
     }
   ],
   "palette": [

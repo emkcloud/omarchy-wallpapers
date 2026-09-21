@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:24:52.378698+00:00",
+  "generated_at": "2026-09-21T03:27:01.450014+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 40864066,
       "directory": "images/nord/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/nord/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/nord/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/nord/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/nord/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/nord/countries/omarchy-country-ST-Sao-Tome-and-Principe-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/nord/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp"
     }
   ],
   "palette": [
