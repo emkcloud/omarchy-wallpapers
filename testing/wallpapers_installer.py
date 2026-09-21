@@ -9,7 +9,7 @@ non-zero if any phase fails.
 The sandbox lives in the repository's scratch area (working/generate-temp/,
 gitignored) so no system paths are touched; it is deleted before the test runs.
 The real Omarchy configuration is never touched. Real wallpapers are downloaded
-from GitHub, so network access is required.
+from the CDN, so network access is required.
 
 It can run every step in one shot, or a single step at a time (recommended when
 driving the test from an agent, so each step can be tracked separately):
@@ -272,22 +272,25 @@ def step_install(results):
     for theme in theme_list:
         code, out, err = run("install", theme)
         count = count_webp(theme)
+        n = len(catalog(theme))
         check(
             results,
             f"install {theme}",
-            "250 files, exit 0",
+            f"{n} files, exit 0",
             f"{count} files, exit {code}",
-            code == 0 and "Installed 250 wallpapers" in out and count == 250,
+            code == 0 and f"Installed {n} wallpapers" in out and count == n,
         )
+    total = len(catalog("tokyo-night"))
     col = sorted({w["collection"] for w in catalog("tokyo-night")})[0]
+    ncol = sum(1 for w in catalog("tokyo-night") if w["collection"] == col)
     code, out, err = run("install", "tokyo-night", col)
     count = count_webp("tokyo-night")
     check(
         results,
         f"install tokyo-night {col} (collection)",
-        "250 files",
+        f"Installed {ncol} wallpapers, {total} files",
         f"{count} files",
-        code == 0 and "Installed 250 wallpapers" in out and count == 250,
+        code == 0 and f"Installed {ncol} wallpapers" in out and count == total,
     )
     sel = next(w for w in catalog("tokyo-night") if w.get("code"))
     code, out, err = run("install", "tokyo-night", sel["code"])
@@ -295,18 +298,18 @@ def step_install(results):
     check(
         results,
         f"install {sel['code']} (selector)",
-        "Installed 1 wallpapers, 250 files",
+        f"Installed 1 wallpapers, {total} files",
         f"{count} files, exit {code}",
-        code == 0 and "Installed 1 wallpapers" in out and count == 250,
+        code == 0 and "Installed 1 wallpapers" in out and count == total,
     )
     code, out, err = run("install", "tokyo-night", sel["collection"], sel["code"])
     count = count_webp("tokyo-night")
     check(
         results,
         f"install tokyo-night {sel['collection']} {sel['code']} (collection+wallpaper)",
-        "Installed 1 wallpapers, 250 files",
+        f"Installed 1 wallpapers, {total} files",
         f"{count} files, exit {code}",
-        code == 0 and "Installed 1 wallpapers" in out and count == 250,
+        code == 0 and "Installed 1 wallpapers" in out and count == total,
     )
     last = sorted(catalog("tokyo-night"), key=lambda w: w["filename"])[-1]
     write_active_background("tokyo-night", last["filename"])
@@ -331,14 +334,15 @@ def step_verify(results):
 
 def step_update(results):
     require_sandbox()
+    total = len(catalog("tokyo-night"))
     code, out, err = run("update", "tokyo-night")
     count = count_webp("tokyo-night")
     check(
         results,
         "update tokyo-night",
-        "250 files (no dup), exit 0",
+        f"{total} files (no dup), exit 0",
         f"{count} files, exit {code}",
-        code == 0 and count == 250,
+        code == 0 and count == total,
     )
     return results
 
@@ -422,6 +426,8 @@ def omarchy_calls():
 
 def step_remove(results):
     require_sandbox()
+    total_tn = len(catalog("tokyo-night"))
+    total_oj = len(catalog("osaka-jade"))
     sel = next(w for w in catalog("tokyo-night") if w.get("code"))
     col = sel["collection"]
     write_active_background("tokyo-night", sel["filename"])
@@ -430,9 +436,9 @@ def step_remove(results):
     check(
         results,
         f"remove tokyo-night {col} {sel['code']} (collection+wallpaper)",
-        "249 files",
+        f"{total_tn - 1} files",
         f"{count} files",
-        code == 0 and count == 249,
+        code == 0 and count == total_tn - 1,
     )
     check(
         results,
@@ -450,9 +456,9 @@ def step_remove(results):
     check(
         results,
         f"remove tokyo-night {sel2['code']} (by code)",
-        "248 files",
+        f"{total_tn - 2} files",
         f"{count} files",
-        code == 0 and count == 248,
+        code == 0 and count == total_tn - 2,
     )
     check(
         results,
@@ -469,9 +475,9 @@ def step_remove(results):
     check(
         results,
         f"remove osaka-jade {sel3['code']} (by code)",
-        "249 files",
+        f"{total_oj - 1} files",
         f"{count} files",
-        code == 0 and count == 249,
+        code == 0 and count == total_oj - 1,
     )
     code, out, err = run("remove", "gruvbox")
     check(
