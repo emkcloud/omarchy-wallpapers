@@ -1998,5 +1998,2005 @@
   "previews/osaka-jade/countries/omarchy-country-ZW-Zimbabwe-preview.webp": {
     "sha256": "a0006a650b51eea9f450fa6233db7bd5dfc44d9b85c6cfe253c49d49a0a4440f",
     "size": 17536
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-050-the-freight-depot-2K.webp": {
+    "sha256": "d07483950fefef2b0ea199f36375623c28183c58fe86cd7926d816b914830c7c",
+    "size": 217710
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-099-stairwell-landing-desk-2K.webp": {
+    "sha256": "b8cff016e753aeeb33c096eba652ea5bf2b8bb2b07af6142b8976d1416c47c5c",
+    "size": 307798
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-152-skylight-studio-2K.webp": {
+    "sha256": "35f9ef1caf3d2e47d2913ad0658b3d03132a6c5d187a77c44d1ad519686461bc",
+    "size": 165724
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-200-rooftop-ramen-2K.webp": {
+    "sha256": "b9f82cf02c13191c4c413604f46ef2d4947680b4c892856e6aaaec3fb14ab7a7",
+    "size": 268374
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-005-rooftop-sauna-preview.webp": {
+    "sha256": "981bd0061cf4891f8717bba6854fa5dbecbf67b306943eac46f2b1bd23f31252",
+    "size": 16778
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-051-ice-cream-truck-winter-preview.webp": {
+    "sha256": "37cae4527ee80c1671bad756738742d805f8ec5f80597827fcd634f06f059081",
+    "size": 18886
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-100-the-bookmobile-preview.webp": {
+    "sha256": "4fb22e042943def65f6290f5195e7f9ff1a658627b0bd04f9db9d04f18cb632d",
+    "size": 19978
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-151-the-terminal-at-the-end-preview.webp": {
+    "sha256": "2a8f9be97f24f07f2f78c21b4ced570443ab16d7b3ba02bbe95c61a3532a6949",
+    "size": 19058
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-200-rooftop-ramen-preview.webp": {
+    "sha256": "e7b06055ad6f97eea56a9fc62b0bcb05719dee6e3283f16a45379e43a68fa754",
+    "size": 18816
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-250-rooftop-cinema-preview.webp": {
+    "sha256": "0e090074a36b4bb6d3a489beb652b5edc6b4a57670b04a703ae2c9c5893daa94",
+    "size": 20194
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-003-the-old-windmill-2K.webp": {
+    "sha256": "cd97a74d12b331169a54a4f9b1a34da54bcaf864ddabba083b8efd4aabd6d02a",
+    "size": 168886
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-005-rooftop-sauna-2K.webp": {
+    "sha256": "b4a481554d6de6d686bb33624d7d4d5515e418f42d743e58d402552485dad34c",
+    "size": 201846
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-001-helicopter-on-the-roof-2K.webp": {
+    "sha256": "768dcd7f818b8a8ef3793d6141cf4580764c7b747f458f9322f14506715efe85",
+    "size": 208302
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-006-moss-garden-teahouse-2K.webp": {
+    "sha256": "67571b77f96f939b1d694d99574d811d925ab43ee3c6b6f47c9917136528c61e",
+    "size": 257508
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp": {
+    "sha256": "a706b545f5c4491c513bc00520ae80174cc04b3d4e74fc83567fcf98df10abb3",
+    "size": 256620
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-007-the-map-room-2K.webp": {
+    "sha256": "5f12dd0f20ec7eb2505b29ba2ee6cad446ec01eba845c93bcd3b47cf738b913d",
+    "size": 334084
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-008-pinball-repair-2K.webp": {
+    "sha256": "9e27e151da4ec48f06ebbee3c4562cc1b3ce7a1d9ccdf0567cd424893cae9b70",
+    "size": 336756
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-002-the-instrument-rental-2K.webp": {
+    "sha256": "71881ea8f707f3840463b9bcf158bc832caa26f5bd0a4356edb75b424c877c9d",
+    "size": 377730
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-009-fire-lookout-tower-2K.webp": {
+    "sha256": "a318f560200a598d08885fb6475581eaa3fcbc2995291775c5211e0454c486dd",
+    "size": 172624
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-012-the-fish-tank-room-2K.webp": {
+    "sha256": "3a859738fb5dddd27e7e9896c4ed7424d16cf2e692637b49f7b95ba5409d42ae",
+    "size": 219062
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-015-laundry-terrace-2K.webp": {
+    "sha256": "a1fcee311b05e411fd92c80d10970ffb3c88fa6ce0a4d37c41086c23ccc84521",
+    "size": 192814
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-016-rooftop-noodle-cart-2K.webp": {
+    "sha256": "9f00b45b36934c49f8aa76e5073e25836adab2f18e569c69a71a9678e376ea33",
+    "size": 226430
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-011-vending-machine-corner-2K.webp": {
+    "sha256": "20aaf59895ffbca5f1b93c72b0358438825479413f0d029cabe781340c1e517d",
+    "size": 297904
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp": {
+    "sha256": "a894be3015348702abb46010aae8e64502bf0acb688537b62a59b4eff4b2a79c",
+    "size": 263940
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-010-control-tower-abandoned-2K.webp": {
+    "sha256": "f11c1c0b5ced57075638258e9e82ea2b3f92a803af4aaabc9da5b60a0fac7400",
+    "size": 313182
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-013-the-vinyl-basement-2K.webp": {
+    "sha256": "6e281db69647f12e70bce5a9e6a657fccb23dd6390435c42e4adac622f2df55c",
+    "size": 353730
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-017-the-tea-corner-2K.webp": {
+    "sha256": "0f82bed91ea94541e27a76c6a4dd197a4c5f927f4658d200262a1f724319b736",
+    "size": 321002
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-019-the-guard-hut-2K.webp": {
+    "sha256": "893aefca47ede38bc91dd53d6b49bd3ac58c370632db80749bb528af2d8a439d",
+    "size": 183860
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-2K.webp": {
+    "sha256": "3ec7690cd4351700099d93985a481d07b0fa89da42bd1b48a94a88260b0a45eb",
+    "size": 313206
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-020-stadium-under-seats-2K.webp": {
+    "sha256": "8df50526b01ed7f2a6b8b69465cfa6be44fd8304b4fa40161fb5231afa4b1231",
+    "size": 232324
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-021-airstream-under-the-overpass-2K.webp": {
+    "sha256": "d39476f13ef84f46a134e2eaf3cade6da672eb07e5a58bd88416f4b805cdc860",
+    "size": 201772
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-023-the-satellite-dish-den-2K.webp": {
+    "sha256": "9693d34e93c958447dffe47f9b2aebe0b72b762e3bbed35248af8c83cd5d5fb5",
+    "size": 252932
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
+    "sha256": "715782ffe5286b05bd241134be0d9ba9d25f77f9069882b2020b30d4d50d5c36",
+    "size": 292018
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-024-the-elevator-machine-room-2K.webp": {
+    "sha256": "c7fbfa300f659457bd55e6fd1a9c1ebef70ea9777e48b40b2b52c6d737740621",
+    "size": 263244
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-025-aerial-walkway-hut-2K.webp": {
+    "sha256": "56ee1e5f7c6eceee6b0dcce7f3d38ec0dc3e044362bfd896cc0682f53667419f",
+    "size": 206298
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-026-rooftop-hammock-deck-2K.webp": {
+    "sha256": "ec90388d3610a4300a45535bfeb0eb97b0621d8dda5d48b451f87610f3de4d2e",
+    "size": 325920
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-030-crane-cabin-home-2K.webp": {
+    "sha256": "2c3ef2cdac7302e335bd3a3b575384f223416bc440f542dfbf0992f8fb673bba",
+    "size": 235430
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-027-attic-of-maps-2K.webp": {
+    "sha256": "bca3727da203f4215b94453656228da4f5e73e7ef4a518aa159c820c5aa0a6c9",
+    "size": 311202
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-2K.webp": {
+    "sha256": "dad0d10911f02d947ab8e98555cbedabe5ea91036845a354153263f9f0bf2a26",
+    "size": 268322
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-029-the-fishmonger-ice-2K.webp": {
+    "sha256": "bb138930489e19edcbcb70c33fbe98b0b162f5b9a07e6b6ee8dfe735cad638ba",
+    "size": 249544
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-031-sewing-machine-row-2K.webp": {
+    "sha256": "8c39f16797919a64560847988f5ca2d9d9fde77c6275601be90188b19db7ec8b",
+    "size": 380340
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-032-rooftop-orchard-2K.webp": {
+    "sha256": "d7c2eb803a5ba84873fb50aa4d5abace196db91c2dd97681a9e79ba02991a32c",
+    "size": 306904
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-033-the-battery-yard-camp-2K.webp": {
+    "sha256": "7ae02d5b63e098072968e81af272d93adb6595f79ec750eb625d60eb530273f5",
+    "size": 240924
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-035-caravan-on-the-ledge-2K.webp": {
+    "sha256": "998464eefd5b6fe2ca1ea320d7efa55a74868e1d3924a435a8bcaebd132e77e2",
+    "size": 136550
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-037-capsule-hotel-pod-2K.webp": {
+    "sha256": "08fa188b0892ae7b7b5ef8e2713ff348072a0ef7033b5bde71b516c7131b9605",
+    "size": 151674
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp": {
+    "sha256": "874e70477b6bbb695201750de8b2e4709e654a19e8dd0317476bf45cdb3a0f48",
+    "size": 205244
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-034-boat-on-a-trailer-2K.webp": {
+    "sha256": "2a3bb35db8d4058a499b50684f3e974c08a361b0ab855fe700576b45227b8751",
+    "size": 379618
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-036-the-armoured-greenhouse-2K.webp": {
+    "sha256": "082a93f0e7ca5f9141fbeb748e534b2c12d410f3d92873eff55301b10ad6bff5",
+    "size": 382306
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-039-the-recording-booth-2K.webp": {
+    "sha256": "d2aac8a4abd2028fd910ed3c3507291d86d2c23ba83532e366e7b626e07be2ae",
+    "size": 235316
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-041-the-ferry-cabin-2K.webp": {
+    "sha256": "ff0fc8bb0ab842d1850c305ac9d2142b53f535a9ff1a7401581223256339eaad",
+    "size": 291266
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-040-bicycle-workshop-2K.webp": {
+    "sha256": "be1721386042b1a8fdcc086bbbb1c5ae566372e28e61b25ff789fa4ea86ef786",
+    "size": 338852
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-042-the-aquarium-shop-2K.webp": {
+    "sha256": "e0bd869a26b0fec5b94aeb053c5df0916908ffa522a753127bc8ee14f5db479c",
+    "size": 373672
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-044-nursery-of-seedlings-2K.webp": {
+    "sha256": "ca74ea7f73f19a2da51bae3c06bfbda2118b84ecd68ef300f404b57e3a0f40d9",
+    "size": 303226
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-043-the-map-shop-2K.webp": {
+    "sha256": "5423be1212af14fa2ebd277efb800f0626deedab57dc5d06b82d26718082da6d",
+    "size": 392520
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-2K.webp": {
+    "sha256": "6a7874c3939498b07c61af8e897c2935733fd58a1c2035879859f618021cf492",
+    "size": 235150
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-047-pedestrian-bridge-hut-2K.webp": {
+    "sha256": "fd9569c0544b53c6fbdbdc16e11ce1d13323d129bd0dbc41299355cdd00259eb",
+    "size": 260596
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-046-the-toy-hospital-2K.webp": {
+    "sha256": "728c14365ba053093ba72cbe1fb303d51488b6e8386f1fb48e2166a9cd9f7046",
+    "size": 474618
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-048-pontoon-greenhouse-2K.webp": {
+    "sha256": "14098fb3feb70883f3182331e50b194879ca8588053aa4148e9b53a18bc3c837",
+    "size": 188656
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-049-flooded-street-boat-2K.webp": {
+    "sha256": "214b02577b7a96a94cbc9c06553303187db8f67a59c1f9d25944f1552466e996",
+    "size": 134660
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-052-grounded-fuselage-2K.webp": {
+    "sha256": "3dfebb29661cf60552a52381d30560c1f94897fcd282b555705a03e00c547963",
+    "size": 223526
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-051-ice-cream-truck-winter-2K.webp": {
+    "sha256": "47c7e0bb4b3dd471bcdaea11915601fd9cbc6c2e852029ed18bc9bed0f826786",
+    "size": 265418
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-053-the-projection-booth-2K.webp": {
+    "sha256": "c0d3f8b5c853dbec964316b35c4ca5742300d05f1063b6ecb5b3c9cb9a4f053a",
+    "size": 218856
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-056-the-bell-tower-2K.webp": {
+    "sha256": "8b35f2fb8c4a72965ec918f3e8dc27e651b6a0e2a676cd5c7bea202df1f72354",
+    "size": 175396
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-054-the-midnight-bus-2K.webp": {
+    "sha256": "a367695cdbe432d8ddd9a4f78afe6bd45e8b475876635aac9529f6a0f6ab75a1",
+    "size": 243276
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-055-the-server-room-bed-2K.webp": {
+    "sha256": "c3b1b84f2fe47ed2ed7787886dd727708231ea8948b897fbd031b1d5040f217a",
+    "size": 239248
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-057-sampan-kitchen-2K.webp": {
+    "sha256": "54847ea905e0c2d3bc5e070f7ad55cd3d96de64a70b016001fe6af69829aaaee",
+    "size": 259784
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-058-armoured-van-archive-2K.webp": {
+    "sha256": "85676c849344888029ebb019a1b140b46758bf08d3b612e5b58963474e155648",
+    "size": 281490
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-059-the-sluice-house-2K.webp": {
+    "sha256": "c31427b85745c3573b342f442b6d2af338015c964fc0d1230bc48db9a7c7db6f",
+    "size": 262702
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-060-rooftop-koi-pond-2K.webp": {
+    "sha256": "b727d2464871b883c6fa8656f604594491df719477535d240155c448e35420a8",
+    "size": 249004
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-061-combine-harvester-house-2K.webp": {
+    "sha256": "79ed5946e77e56a80adcddb4a9f0d130d856ecdd614dbfc685650fe0a962bfd4",
+    "size": 244524
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-064-the-petrol-station-2K.webp": {
+    "sha256": "83d7b7c6a046f245850a4abdad2889ab84daa980682aa783c4942a672d8a8131",
+    "size": 181186
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-2K.webp": {
+    "sha256": "e116f5ecce6f820f9b4c22b053c3ddfa49f2e83fc9bb6ea6f714c45f7e48c7f9",
+    "size": 347358
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-065-the-ferry-waiting-room-2K.webp": {
+    "sha256": "aba7a969a198eba23d68452e5c277dd296875315e2622e580a98e7763781fb47",
+    "size": 221810
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-063-the-camera-shop-2K.webp": {
+    "sha256": "ebdc1eea8cfaecd296023730803792bba4d3a2a95a399827126dd108abf078d6",
+    "size": 440854
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-067-the-one-room-with-a-view-2K.webp": {
+    "sha256": "3e29b176b5314e24113995766a77a74c7bb096dd02f8e3bf46651fd8e2b2dbb7",
+    "size": 224066
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-070-water-tower-lantern-2K.webp": {
+    "sha256": "34be7764781637ec357a1d797ccf13f0c2f02e5f305fc46ebf75cd7022b24be1",
+    "size": 179654
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-066-the-rooftop-greenhouse-2K.webp": {
+    "sha256": "8a923d0bc51ae00501494584feb4b5c6a67b80245be131ad3a8f03c5bfd58cef",
+    "size": 434912
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-068-electronics-repair-shop-2K.webp": {
+    "sha256": "fa411f50d2873b4d985eb2ca5c8522955a6bcc36149577558f23e556bdfc3814",
+    "size": 315102
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-069-the-underpass-room-2K.webp": {
+    "sha256": "b92204353cdaaae9982c5fb03d98d2aa2e7238c3a1c786d6ff9fb2e95b5639d7",
+    "size": 296906
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-071-archive-of-tapes-2K.webp": {
+    "sha256": "bf26b6796ec233bf761066725a6fbe6f1329ba1034b9051927b28416cbaa5e7a",
+    "size": 338484
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-072-hacker-loft-of-monitors-2K.webp": {
+    "sha256": "ab8c330a0561b2f8ba9dcee6253df076e4f5cebc45a90fd42e98e21965e8dbcf",
+    "size": 232628
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-073-rooftop-onsen-2K.webp": {
+    "sha256": "90a43bd3dab6ce477494afbb550286c645b3a3eafa6e429430043c9c8b03a975",
+    "size": 239536
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-074-postal-van-darkroom-2K.webp": {
+    "sha256": "babbecf41866efb3bd25793b44f90cdae2267bbf8fa62f82a42189eeb6c92d96",
+    "size": 324410
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-076-the-cable-car-station-2K.webp": {
+    "sha256": "0720c242107a62f963fc83bf2f433d5c01f8010cc2dbd73bb5db2f57e550c4bc",
+    "size": 239294
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-075-the-apiary-in-the-park-2K.webp": {
+    "sha256": "e66d1d5141131c7a2662c9cf64603fb2004e26b9a53dc7ac7932281b6b81682e",
+    "size": 284878
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-078-dormer-window-desk-2K.webp": {
+    "sha256": "59eaefd24e38b7a994fb28f8c04bb478895644c5b4be82ab5c46c4e17dde8683",
+    "size": 255776
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-077-the-clockmakers-window-2K.webp": {
+    "sha256": "cc1b4264c72c7ad47e92c93381b07bf21b2a3219e302a5de02b968958421f14e",
+    "size": 336028
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-080-tunnel-mouth-camp-2K.webp": {
+    "sha256": "e1be853a0e68085a60a502a0f905ae038bbd6a05df45d68d150328d94bdb6fff",
+    "size": 181420
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-079-candle-and-circuit-2K.webp": {
+    "sha256": "55e2224ead252b48f04cced590cbfc0f85fe25c1fa7e1084588a26ca66bc9549",
+    "size": 312994
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-2K.webp": {
+    "sha256": "6e08499720bcfdc85788ca680673373cb292debd43bbd28dc5f64c6134f3f6d6",
+    "size": 294746
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-083-the-pier-shack-2K.webp": {
+    "sha256": "7052e503605c4f5960a56972520bd01350fa6fe503d7d642ad98cc46d0858a1f",
+    "size": 221946
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-085-the-beekeeper-terrace-2K.webp": {
+    "sha256": "45902c468349ee1758f6c592467dc99317984672db2524453324c26b4b3c0458",
+    "size": 179588
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-084-tea-house-and-server-rack-2K.webp": {
+    "sha256": "2310064067d85da9f83d1454a2ec10c051b518b7f8efc1ee6c0130a517fd2480",
+    "size": 244158
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-2K.webp": {
+    "sha256": "47b811230d03161d22153851799919df64a312ec1e759e6a99b5927b753e5658",
+    "size": 382690
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-088-shack-above-the-neon-2K.webp": {
+    "sha256": "7c82a7f86d0590f8ea2b978f5182e3a7bd945f027e5d0a4ba02ec8e01bbd0917",
+    "size": 147172
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-087-zeppelin-gondola-2K.webp": {
+    "sha256": "0107204a606dc47ee1a02e56d8ace7fff8d9dff79226c323d60433cd30ff6b11",
+    "size": 245702
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-086-the-tea-and-modem-2K.webp": {
+    "sha256": "f9d6b910312d89c15204ddd82776a1f3ed62423fa1dcb70ad16b182775bf0a02",
+    "size": 236572
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-089-server-farm-bedroom-2K.webp": {
+    "sha256": "76a349efd5a13c443ddcf52950f7eb51af10ec940d5bb00bcaca543d5cc4442c",
+    "size": 237682
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-093-the-penthouse-shanty-2K.webp": {
+    "sha256": "c440cfea52c4694b0e709394547d207a9a0d1a146f1c25352f8afe7bb8ee6368",
+    "size": 209748
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-091-water-tower-loft-2K.webp": {
+    "sha256": "f2703ec363ede3ff5406d74d64f5130f45f921e0ca78138de12d5b1c03f66ac2",
+    "size": 267772
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-092-the-weighbridge-office-2K.webp": {
+    "sha256": "c8f8ff3a28d612521a9fe1475c1275a319cdca6067163aa85ad3532b9f79080f",
+    "size": 300292
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-094-bathtub-with-a-skyline-2K.webp": {
+    "sha256": "8975e075fdf7f98dc8faca025e5ab28bad002b0967e259215de3b5af0b92e293",
+    "size": 273706
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-095-late-night-copy-shop-2K.webp": {
+    "sha256": "6ada457b4c74d2d37343c0ac486f54ce42229924133b4055a176fa206568af0f",
+    "size": 268918
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-090-solar-panel-garden-2K.webp": {
+    "sha256": "432fea12e271ae13e9b61525035889f5ad79d8d80ffe9c609675eeb9e006b10d",
+    "size": 430816
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-096-the-lamp-shop-2K.webp": {
+    "sha256": "c86197ec06a96cfa1c162047a5ec3a77e2e8228ed3706fca08da45ef79160f59",
+    "size": 414000
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-097-the-canal-lock-house-2K.webp": {
+    "sha256": "55b1776afe79f98f34ba6907dad67c6c445166ce53397b66fcacb66e94e410fe",
+    "size": 259278
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-100-the-bookmobile-2K.webp": {
+    "sha256": "eb1ad1d70b7e1a2132433fce3d0053acebf14e391b1c66145660419e808e8ad2",
+    "size": 257462
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-098-billboard-scaffold-camp-2K.webp": {
+    "sha256": "638b8a267da1506f67935d6de1c129910073c04e9e6ae35fa04fa52bdc5f205c",
+    "size": 240060
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-103-stairwell-hut-2K.webp": {
+    "sha256": "7ba923146ceeb3dfbfec2b2d03d33415c9e922a560eaa9b4e2d5465e9c5255c5",
+    "size": 171954
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-102-the-bookbinder-2K.webp": {
+    "sha256": "6584b13110cb02af743dd4139769dafd6c9fab7cc23e087188c95f7dda0fd474",
+    "size": 260908
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-104-laundromat-at-3am-2K.webp": {
+    "sha256": "5452a9d1958e1cce9369cb90b253a548746e24c0c23446a5a608be86c2aa92fd",
+    "size": 345856
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-101-the-allotment-shed-2K.webp": {
+    "sha256": "9a23d52d434b01833ecdc71a5e9feb0bf1c0886d4697ca8b0f3ced5db0eb80ca",
+    "size": 457262
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-105-the-cable-junction-hut-2K.webp": {
+    "sha256": "922be25384a137cf32665a71cf41401db3306c29b4e9ae3f0ebf9abf66e5458f",
+    "size": 282862
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-110-harbour-crane-cabin-2K.webp": {
+    "sha256": "3ef1527552684216650126e5a15000f091f52796f876e71ee4c84f13540b79ea",
+    "size": 194094
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-106-the-tattoo-parlour-2K.webp": {
+    "sha256": "da37602167f752cbd125f428657df51f8aa619a27c56a65a7f4a38a7dd4fcbbb",
+    "size": 279182
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-108-the-ruined-arch-2K.webp": {
+    "sha256": "09eeb6d78dc30bc8fa6e7ad9662febe7772af8b3542d213524febb64df6b229f",
+    "size": 183224
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-2K.webp": {
+    "sha256": "55f9fc4a8bffe30bb3569459c94a1bcd63f35e1649b4e03a8e04811adb3e09e7",
+    "size": 118088
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-107-rooftop-radio-station-2K.webp": {
+    "sha256": "3c5b559417d8dc86ac3cb5275e184eb90633a9f25160ef42273dee8db706941e",
+    "size": 385492
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-109-library-in-the-fog-2K.webp": {
+    "sha256": "126d0efd3625b90c362d958d0928ea85dcea5905ba9b28e688fc819e9aa7193a",
+    "size": 362952
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-111-the-sewing-room-2K.webp": {
+    "sha256": "2ada460186769655408f4f4ecd22dcf41eab6739e2844af9c25aa6c8e3eb6ced",
+    "size": 234214
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-113-canal-side-flower-barge-2K.webp": {
+    "sha256": "66098516b2a712e3f998615c04195d6a98620c46f5d05f673ed3276e11ba1cca",
+    "size": 284256
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-114-the-ski-lift-shed-2K.webp": {
+    "sha256": "c51dc2015ebddaf5a09149b2fc053dc6532545d632da1d39b6da3d381113a5a3",
+    "size": 224214
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-115-the-empty-office-home-2K.webp": {
+    "sha256": "62249010202de74490003a5fe23b911f1ff2b60af7980645acc4084410b895b5",
+    "size": 248102
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-116-datacenter-noodle-bar-2K.webp": {
+    "sha256": "cb4cbc5d4e31c8447faf64fbdac2f7cea53fe1932dbc3c935b4aeb4c2301af59",
+    "size": 308294
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-119-rooftop-bathhouse-2K.webp": {
+    "sha256": "d79b35f6633d3733ee212091a42338c1242ff0a04da2d186d0eb235821e53660",
+    "size": 165594
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-117-loft-of-open-cases-2K.webp": {
+    "sha256": "42e78eed9cdf8bd76b158d44fa003eca13f29cee7f307c7670093681339270b6",
+    "size": 326894
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-118-the-rooftop-bar-2K.webp": {
+    "sha256": "e94324291b19bbcfde8cb55d4f4d022bcb540d7f814c7720265d8c4291d2655c",
+    "size": 349814
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-120-airfield-hangar-corner-2K.webp": {
+    "sha256": "2a817936c2ef87b3f00196f96e7475c75d71138237d27db54a8384d044d1c739",
+    "size": 244858
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp": {
+    "sha256": "503a08f64632327a7055e59d4a3428b73d4f70ff923f54df12c72ba4a3f4d080",
+    "size": 247846
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-122-mechanics-loft-2K.webp": {
+    "sha256": "134ebbb815eec97b6f23868e0afa50f3e53772216b8e49384dc85b23118832be",
+    "size": 196664
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-124-grain-silo-home-2K.webp": {
+    "sha256": "20af388c53b2024700b20e7b13349ad137f61200266b9c48ce27ef424a1d4aaa",
+    "size": 196364
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-123-the-shipwreck-room-2K.webp": {
+    "sha256": "21b9a3c432f09795cda0b64cbbdcca451e60c285ee3860a50ec0be2b1b026aff",
+    "size": 383234
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-125-study-with-two-chairs-2K.webp": {
+    "sha256": "5d0a56e28d8a74326c67daf6854343f89242fc6f64ad919bc4455ace219fa973",
+    "size": 252576
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-127-floating-market-stall-2K.webp": {
+    "sha256": "fcfa05195aa34b72ada26334be54834883799db8da56e5baa82bdd07e1d34f99",
+    "size": 271816
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-126-ambulance-refuge-2K.webp": {
+    "sha256": "8a6c024dffadd37f60a4bc7489c2b079dbd00a31ae575d75970a36b45d1aeddb",
+    "size": 454876
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp": {
+    "sha256": "064b294a2549b25c854e782b41ec1fa4ffcbfad3424ec8aa250109ea970c0485",
+    "size": 225838
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-129-the-milk-float-2K.webp": {
+    "sha256": "ec97b8785561ccdbfa402e4a1406d7d5b442a98c90feae6ebd4d707abcedbfd1",
+    "size": 217790
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-130-bulldozer-den-2K.webp": {
+    "sha256": "af4ef2971abe6b5b1da627497a26f09a4cd84effd16125c2c8a5b10778167892",
+    "size": 210498
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-131-urban-vineyard-hut-2K.webp": {
+    "sha256": "8b5c1dde678811eb2e2622071c22dee76a1d48cc983dd101b3c64a24e9846414",
+    "size": 339942
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-132-the-freight-nest-2K.webp": {
+    "sha256": "6057a7b304ad40e9020cc2e642c722e7afd7bd646109c68f7dce272647b6f8db",
+    "size": 291456
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-133-flower-stall-rain-2K.webp": {
+    "sha256": "469011cbe83de4bebbca2229914eeeb551dd3c014f9076194833eb359b092ded",
+    "size": 275236
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-135-limousine-lounge-2K.webp": {
+    "sha256": "7347dc9d95ad35c41d647964c83c72acfd483527cfdb0c0958e8fda1b3b21669",
+    "size": 251690
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-136-snowplough-shelter-2K.webp": {
+    "sha256": "80890f96d70d41d9e4fa12ed7b520dc452faee2927f1dc5c3a68108efc03d544",
+    "size": 145186
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-137-crane-yard-office-2K.webp": {
+    "sha256": "381c677e01d659bbdc188ad69e63e9c9cd59cee556de75c917bfb3db33d1d9a8",
+    "size": 261208
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-134-houseboat-of-lanterns-2K.webp": {
+    "sha256": "540f5e3230c83efc090cdd0280ae7854330cb27eaf5b8c53afa9ffb1665b176f",
+    "size": 364600
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-138-control-room-of-nothing-2K.webp": {
+    "sha256": "a63e486bf2feba96e595c81fc00f1d0fa673a3f43272cbe3c710af8b0de3b8a4",
+    "size": 288158
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-139-the-last-terrace-2K.webp": {
+    "sha256": "671d0341b36b20bc241e82e2e4960df43a85b98cfc36a6d033a4bb5ad664c9ca",
+    "size": 233044
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-141-subway-entrance-kiosk-2K.webp": {
+    "sha256": "52d8b4e6d6d66ec48b502833f998c38da8a570c1d1d84dc669d312884472b1fe",
+    "size": 147446
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-140-the-clocktower-room-2K.webp": {
+    "sha256": "660ee13ef868848a220dffda116eb2c40fedc79c4c2c16e371e3388a61b60067",
+    "size": 266466
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-142-the-boiler-room-home-2K.webp": {
+    "sha256": "f560a323bf0865502ba016c2d16fc6427231db318cb35415ded9e87f7a85530c",
+    "size": 265838
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-145-dam-keepers-house-2K.webp": {
+    "sha256": "7882e64a94eaf94cf930589f626d4200f825d052b34d8aadde73ce7eeffa4a56",
+    "size": 121596
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-143-the-observatory-shed-2K.webp": {
+    "sha256": "e3820806ba4cc2e80a61c16c6b5ab6493de5afa6927730236442b433895faaf6",
+    "size": 291706
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-144-dry-dock-home-2K.webp": {
+    "sha256": "91aaf8283893b6c0a4081f02e03cd96b7ac94de02cec9c86285ec86d8fbb866b",
+    "size": 168690
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-146-bakery-back-room-2K.webp": {
+    "sha256": "4096305cd1c41fd2f129d612665534d51303676c70c657026bd278fdbef68c56",
+    "size": 262816
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-147-the-window-seat-2K.webp": {
+    "sha256": "37217085f5893d8e0f9f0be3a02082a57ee577205b2bbc72e90d205bb8752500",
+    "size": 244760
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-148-pigeon-loft-lantern-2K.webp": {
+    "sha256": "27da696dbfabc0b2ef0143f594ca39045454b51522454d15ee8fa8db0892237a",
+    "size": 191472
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-149-the-last-westfalia-2K.webp": {
+    "sha256": "789e37a6383857ccf3cb52d0ed0ad68a25d8e5ea741e58f635d945f9d08c13b0",
+    "size": 188164
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-153-the-kitchen-at-four-2K.webp": {
+    "sha256": "51a13cd51566a13011b31b337a832b7232e9ae39de509eeb09d998e6c00283e1",
+    "size": 197250
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-150-greenhouse-bedroom-2K.webp": {
+    "sha256": "25e8d708338bf080301125e8274a9ff88715f1339bc6b1f582c2b1cf79955e1b",
+    "size": 593888
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-151-the-terminal-at-the-end-2K.webp": {
+    "sha256": "5148ee179dfd24bc127c3379086bea38e0df23f1e0630e419a6097d617e493dd",
+    "size": 352226
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-154-fire-truck-kitchen-2K.webp": {
+    "sha256": "125f32b866b84b23771bc3c5143806cf03ff1fc9edfc1201299cc82c6bc8946d",
+    "size": 308700
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-155-the-scaffold-shack-2K.webp": {
+    "sha256": "3c74c3daf8458a0b25bdb19b6670d697d058dac8f1c6a1cc0da1a0bfb810013e",
+    "size": 263376
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-156-bakery-before-dawn-2K.webp": {
+    "sha256": "80e996f14ef6a0ac20896e4246ecd6bf80f31dca5347f3358e27e0e564fdbb08",
+    "size": 329084
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-157-prosthetics-workshop-2K.webp": {
+    "sha256": "4f37a0d06b6b915cb3eb9585a2495b4bd0d497be46772bc600e43d0bd7c2ac37",
+    "size": 375482
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-158-the-ramen-alley-2K.webp": {
+    "sha256": "805774175f5a21148b1a96ea2ab5ea8cc3d249f073e9432a27cffcccd7a9756e",
+    "size": 228728
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-160-pigeon-race-roof-2K.webp": {
+    "sha256": "6bb41f74390349fc086615277996a9ce21461eb86ce7c1e171b2b353cec8a65a",
+    "size": 170948
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-161-the-kite-workshop-2K.webp": {
+    "sha256": "efa3d3bd86c79f03a004842f1e3abf653d6fb2fd7dac60238a1a35bf0d9d2bb7",
+    "size": 182876
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-159-dovecote-tower-2K.webp": {
+    "sha256": "bb2f74b8325c036607b826fc245cc5c66d2d966e9ed7fa4861e9812ffded3ece",
+    "size": 258326
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-163-rooftop-tent-camp-2K.webp": {
+    "sha256": "039b94fda1fc22d04d92d7a151d7c93ca2e47d6fb5e55d4a164e883737410071",
+    "size": 184134
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-162-signal-tower-cabin-2K.webp": {
+    "sha256": "b6abfb985db5f6b201bfe651f9658da7d1fb9e6b20a9079089cd655cc6402d20",
+    "size": 211932
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-164-cockpit-library-2K.webp": {
+    "sha256": "ffc2cfa5f90d2d3468b7b337f8326a867443e3904a029703a3c81ff1f4f3c7d1",
+    "size": 433574
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-165-rooftop-vineyard-2K.webp": {
+    "sha256": "3ef52db93e472aa3264d61117bf5a3e8102014ac907a7fa1f9b76b122a6279c0",
+    "size": 305000
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp": {
+    "sha256": "31ed4db2ece54f6ae044bb7a2c08b16d0d0f270d486606e6b89341bbc2e6b002",
+    "size": 152150
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-166-the-glasshouse-library-2K.webp": {
+    "sha256": "5e7c3e45a5779ce8d149e6967e2fc2e64e8b9e6a040db3ab99326c5d1e754863",
+    "size": 316336
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-167-the-guitar-luthier-2K.webp": {
+    "sha256": "4c42ce5ac2cd2d664fb21d2f9cbe3a998c0e4d082cf4dd23c45fd4eb3ae08cfb",
+    "size": 414458
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-171-rooftop-chapel-2K.webp": {
+    "sha256": "d4d72d7b334f98f8b228e527e8e4a35c9db61036ee10fde80e63e6185a69a824",
+    "size": 172696
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-169-the-cinema-marquee-dark-2K.webp": {
+    "sha256": "084cbfdd7c96c90decd32b3670cf14eb2e1984f7d6c1632596b94b710164a04e",
+    "size": 240724
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-170-fire-escape-garden-2K.webp": {
+    "sha256": "c388bdeaf9585ed21791770b63b05c49ef2cccaa996caeee0af8c9ec916a4e8e",
+    "size": 252330
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-172-the-watch-repair-bench-2K.webp": {
+    "sha256": "b32f0577bef9df601774575b17afc257caa0e144f4a1b322bd565c6a2e15d62c",
+    "size": 246812
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-174-the-quarry-hut-2K.webp": {
+    "sha256": "eea230100e4b1a0c66f887ce1be18ffe102be182a57d77d3452245a661d04a6e",
+    "size": 131380
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-173-the-gatekeepers-lodge-2K.webp": {
+    "sha256": "b0cce6b72b02a56795fac0d0f413b8c092dbdfb5a29c386fd02c31d13c4ab18d",
+    "size": 276006
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-175-newsstand-island-2K.webp": {
+    "sha256": "8ed263836a8e0a72d38ab7951af497162b7ae202b34bf5e6882cd7ccb99e53fd",
+    "size": 193406
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-179-the-radio-pirate-2K.webp": {
+    "sha256": "a603d8bec8e623119859bcd09b2df959a50b02cc036bdf943e8fa771f8649ea5",
+    "size": 236796
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-178-stilt-house-over-water-2K.webp": {
+    "sha256": "0513667d27fe1ce8275314dc2df7cf99641d0a1ff121196fbb79c20971d9672c",
+    "size": 210640
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-177-dumpling-window-2K.webp": {
+    "sha256": "bcb98fc628cc6cf829d6306bdb82887336be29270ebf735c50523c0e159d42b4",
+    "size": 340428
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-176-the-taxi-garden-2K.webp": {
+    "sha256": "f33f2b52fabc5c3c00f25a363c85c98eb08e764388c22b1fa1a99584cb691f2a",
+    "size": 384188
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-2K.webp": {
+    "sha256": "5ca2e96e6f653c036f11b217fbe84bcb37aba3f6db31d7145036a611dacadd27",
+    "size": 245002
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp": {
+    "sha256": "27972cf39b149d587084a4f7ef0f31b7d5ecdb4e944ad9fb07bd2252dc21ecde",
+    "size": 294032
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-183-pigeon-post-office-2K.webp": {
+    "sha256": "2e4aed09d10a915d7c730c5e0fadaf1350a75f03976a6859dc1339aceb05d8c6",
+    "size": 201806
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-184-the-piano-in-the-dark-2K.webp": {
+    "sha256": "cb5de7537a4f27125c3a946b31a8a8775b1e642c58e6570dcf022352fd5a9c03",
+    "size": 165452
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-182-the-drone-port-shack-2K.webp": {
+    "sha256": "b88d2f6723abfa80a33bda394de28772ec1f244864baad780af1c40ee2c5b211",
+    "size": 244870
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-185-sleeper-car-atelier-2K.webp": {
+    "sha256": "62effd1529a31215f12fae6cde09c431951afc6c1356126ccd4626c9c48ee3aa",
+    "size": 158140
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-186-seed-bank-room-2K.webp": {
+    "sha256": "fe9dc601f6de1b5d77fb0ce639c5170b652487c24742c1d969e928ac0a7889a9",
+    "size": 296748
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-187-empty-pool-camp-2K.webp": {
+    "sha256": "90c459bd5add0f9568685b6534988b83132c0d65780b8a3d0801aef82494fff5",
+    "size": 239298
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-189-submarine-hatch-home-2K.webp": {
+    "sha256": "6848516f6bb2e7055763730ba34cf35b4f34e0c07cd2d124b7f0e84de51b12ad",
+    "size": 124310
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-2K.webp": {
+    "sha256": "abae73240ac0f2cdf2d0148d54e0a03b7f8c2cae4ff66f53ffef29dad7560099",
+    "size": 248604
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-191-workshop-of-clocks-2K.webp": {
+    "sha256": "f125039f7ca2e3a6623571e3fbc2e184e6885c6e0f949f3d0215d6391d77e52f",
+    "size": 207060
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-193-laundry-room-blue-2K.webp": {
+    "sha256": "f401236ae60e2386bd60976c41f21d5f37099132c6161aeb9f646185a1a985b3",
+    "size": 173012
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-190-drawbridge-cabin-2K.webp": {
+    "sha256": "b6cecd3d15ad181308d9716d67848fefceff9bed7148e383ec387ee5417cda53",
+    "size": 266466
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp": {
+    "sha256": "4db8d2906ea4b073261b06bc1124072a09db5e25b132e9eee24ce12d2b22c3d4",
+    "size": 299998
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-194-record-press-workshop-2K.webp": {
+    "sha256": "7e69a4b8a9d41014c03705a6fbd1a9ca16b109279fe04bf75119c3b86c25ca64",
+    "size": 307194
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp": {
+    "sha256": "555c3f93e981a49cafd26c756427f6823c1094595efb0d8f105b9882b309fbb5",
+    "size": 275118
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp": {
+    "sha256": "47c75ae22742016223e592ea9946a7c289be212b01531b64d3b53004abf20a20",
+    "size": 164448
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-197-chimney-side-hut-2K.webp": {
+    "sha256": "8b3aa946fabbbf3173fca260fd083dee5b62ea2330b57d451d3f26a953a8b0be",
+    "size": 256790
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-198-curtain-of-cables-2K.webp": {
+    "sha256": "b62e71229f58507142af90cd34c6f37000f2085b38057c841787390285300e93",
+    "size": 227330
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-199-the-key-cutter-2K.webp": {
+    "sha256": "d643e58bfbd15c95aa943035b4eff3d5f9f4b11deba9fe8502562e9bb587bee0",
+    "size": 247072
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-201-the-rooftop-forge-2K.webp": {
+    "sha256": "c911ad7760b0c69dcf198d5bd2d50a677713ce5ad47bb91ac1401784bb617c0c",
+    "size": 178826
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-202-whisky-bar-one-seat-2K.webp": {
+    "sha256": "889ed0abd25370ebec8a2607f469bbae158a327694e2f7e84a912e573a9b657d",
+    "size": 291402
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-203-the-telescope-window-2K.webp": {
+    "sha256": "05d4b93d49372d1a2b140fd64c314c8fcb7dd78163a7cc950f74cad5a007ec49",
+    "size": 243422
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-204-the-barge-garden-2K.webp": {
+    "sha256": "20f908254e4275ed5da833504d893be0dddd6318c6c837016cb835794713c233",
+    "size": 256978
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-205-coffee-roastery-night-2K.webp": {
+    "sha256": "fb5ae899bf88ff99904cfe1690b21a2b37acb709911638c1bb16f10814f5002e",
+    "size": 274864
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-206-the-mail-train-caboose-2K.webp": {
+    "sha256": "456ad09c6d0192329967c492ae9a6186b1ff8dfd3462f76dc12a889df92e21e4",
+    "size": 143024
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-208-transformer-station-home-2K.webp": {
+    "sha256": "7d3c6981addc16d2ddb4374467220f587745237da92c653d8025d05790056d03",
+    "size": 207826
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp": {
+    "sha256": "a3b126fed4bbae60f49f99127fa0776df5b7a302f36ee3310fb25166ff68bd6f",
+    "size": 185636
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-207-shoe-repair-and-solder-2K.webp": {
+    "sha256": "4346a45f489250084fa2ad0b57aed646d8ac6342d635c2e186e0daa0db099943",
+    "size": 422762
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp": {
+    "sha256": "1d45ee4261eb6de3bab84843507c7a22a7f24bda66104ffed33c3766d7e85870",
+    "size": 376664
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-211-deconsecrated-chapel-2K.webp": {
+    "sha256": "fbd0ec94a483e4dafb82b8c94034db412786beae3dc755e4b522d4302554910c",
+    "size": 345844
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-212-the-radio-parts-stall-2K.webp": {
+    "sha256": "222a5c2386731c1118442198a3c8e0ced35e7c36c0d73b55e744afa5ded80277",
+    "size": 307856
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-213-monorail-capsule-2K.webp": {
+    "sha256": "91d64bf83848ede9b67e0933559b9192dd2bf9c70d850042d41184ccfdb52949",
+    "size": 271328
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-2K.webp": {
+    "sha256": "256b83904a5c2a478634894d5bb56d199f5474da3cced33b707caa2cd8b19a5c",
+    "size": 389644
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-216-the-oyster-shed-2K.webp": {
+    "sha256": "36693562816cd293adfefb953c65c87dc675b2c5129e4db6c2264984ef49a6ee",
+    "size": 142380
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-217-lighthouse-lamp-room-2K.webp": {
+    "sha256": "3058dbdf143452703294532ccddf2d21533a8031eac6541e8e7e5ee357016fc8",
+    "size": 226528
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-215-the-typewriter-hospital-2K.webp": {
+    "sha256": "214d4e0a29055a2547217d0bfd6ca430cf41b3ac6e573d711ed57decfd89f767",
+    "size": 364822
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-218-the-chess-table-2K.webp": {
+    "sha256": "945638e3ef3d03325220f7072cfe78050758e95134f4fa722b6a43d6b3167742",
+    "size": 225414
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-221-hotel-room-forever-2K.webp": {
+    "sha256": "d8ad507c3fa74afb63f37c1e610a166a4ee385a3279f16c53abe7d46e0442740",
+    "size": 251970
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-219-the-barber-and-the-cat-2K.webp": {
+    "sha256": "7a39bea92fce8a024191d9e40c3e6b87e4f52adc25ea28c0215611ba97ed09b7",
+    "size": 374574
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-220-the-forklift-camp-2K.webp": {
+    "sha256": "04d6b1f75c45492993e226dd7b7629239c561e0029ef21338a4f16e1099644ad",
+    "size": 225296
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-222-vertical-farm-corner-2K.webp": {
+    "sha256": "8b7cab71bc35905bedeb371911bb5be870dec6850b1f3e6a7de1bb0af6b7d35d",
+    "size": 296354
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-223-tractor-and-awning-2K.webp": {
+    "sha256": "70693808520017093c991473022e032e578b0cd8d9df7e541b2773fb0f240eed",
+    "size": 163654
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-225-bus-shelter-alone-2K.webp": {
+    "sha256": "b082408e3f742ef0786c633ca2774a3f221847d28950430613ee73b3f82ebaea",
+    "size": 210110
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-224-tugboat-galley-2K.webp": {
+    "sha256": "e18f6153ae74810d7e1a47f88857c703fa645f49237619ff04d1625d94c1e77a",
+    "size": 185748
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-226-bamboo-grove-hut-2K.webp": {
+    "sha256": "54f8455ce4044cd5d3d7bdda175fa24ea47973c29f7ef227c38646356948d68a",
+    "size": 287584
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-227-the-billboard-back-room-2K.webp": {
+    "sha256": "e4d457794f7c2a8be416a3ce7cb94a4a71d0e0c50ce53efc67fefac9adf6dc7c",
+    "size": 306740
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-229-signal-box-on-the-line-2K.webp": {
+    "sha256": "d63cdc4316ef55c8b3df17aba615c1db8a3c0d6a1cda726abc86dc9507af850c",
+    "size": 174556
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp": {
+    "sha256": "af30122597910ee31db9ffd30e0eff965b50b3b1e37d0bd9cb6e18a071419a68",
+    "size": 269460
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-230-the-last-phone-box-2K.webp": {
+    "sha256": "4d05dc3c2d95e08237bc94b80c4de5aadb1cb7ddae02735d248df824ef80e66a",
+    "size": 266332
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-231-the-antenna-farm-shack-2K.webp": {
+    "sha256": "83356342d930ba071cb08bc0b56460547966459f4220c6c54afb32333d64ea13",
+    "size": 334052
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-233-the-antenna-keeper-2K.webp": {
+    "sha256": "a72b3481aa7ba91ed71698436af56de697ad6c744baa9450e275b1e3ec55e699",
+    "size": 166450
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-232-sidecar-repair-shop-2K.webp": {
+    "sha256": "cdbc3d981840aff4a8d64dd67ba4bd54c1a4eae9bd609b3630e823636e44271d",
+    "size": 261198
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp": {
+    "sha256": "b9afabf41276dd4e7cd31cba56328204443cf06cae03aa2f203103ffbe23ff06",
+    "size": 200144
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-236-the-drone-clinic-2K.webp": {
+    "sha256": "f33642145e4d2fd81f4b11c15c7ffc7fe22d9bae1e4d28ab2e8a228a4fd38ada",
+    "size": 246868
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-235-the-rickshaw-kitchen-2K.webp": {
+    "sha256": "4bb52424b575f66a6a2badfd9bea093747cee06472ab92df890d38fcf6915b41",
+    "size": 290270
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-234-the-terrarium-wall-2K.webp": {
+    "sha256": "b56e1a8b233f4a8cef3d2e5353e3df1d8a6e1934555d7fb91532929b6ca56c1d",
+    "size": 309768
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-238-the-pawn-shop-window-2K.webp": {
+    "sha256": "a0e9c80093a5ec78f53dddef3f2588efef471c2a39562e6743bce3158779606a",
+    "size": 430860
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-239-the-clinic-after-hours-2K.webp": {
+    "sha256": "be0ec74d9327e45287cc7e3d8de06c73660f320a8229ef2eb6b67a7b76c39aad",
+    "size": 238084
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-2K.webp": {
+    "sha256": "decc5b1acd8d45bdac85a66ff6a6f3f3c07043b16732a335992e67e081fdd871",
+    "size": 151628
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-244-water-tank-house-2K.webp": {
+    "sha256": "712330b5a83aceb141dcea6afe0665224de206baa875b671339a3385972c8f46",
+    "size": 141278
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-2K.webp": {
+    "sha256": "081461bb1d50b989b061b9f7d8afcdef59f495ac2144395d2fd810023a1e51de",
+    "size": 564868
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-242-comic-shop-back-issues-2K.webp": {
+    "sha256": "760a1ec890434878185b76c7ca58b6323643f127620cb566d3c4c42794a9e5cd",
+    "size": 286700
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-241-the-fern-house-2K.webp": {
+    "sha256": "f87d67846a9376d3888f788283379421b625ff9ec400984fd804cecf29c898fe",
+    "size": 396952
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-245-hovercraft-skirt-camp-2K.webp": {
+    "sha256": "84b9960ef423c4fb9e22328fab10dd88febd4e49a88e91d1278348474e44d5ee",
+    "size": 210360
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-001-helicopter-on-the-roof-preview.webp": {
+    "sha256": "6c58b75c48c144d3fd235285486a8c55e238238537faaf24d4bd6ffb950baf82",
+    "size": 18800
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-002-the-instrument-rental-preview.webp": {
+    "sha256": "3918a3c3ade1ec41f478fa9b4da4466d690cb8dcd76a7d52dc6f06c4923c953a",
+    "size": 23566
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-003-the-old-windmill-preview.webp": {
+    "sha256": "27c4f28e75fe97cb7fe8715b239500eb4c3aea6632a5be1760ebd5201f46ebeb",
+    "size": 14772
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-004-mahjong-parlour-window-preview.webp": {
+    "sha256": "afbb8c7ebd595e78a0cecaf109cf920481b191e418717cc483655dc59edce4f7",
+    "size": 17724
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-006-moss-garden-teahouse-preview.webp": {
+    "sha256": "4abb8e7463dfe72b2fee2232adc6395e1bc7c34236607d89c1e5caea3d996b92",
+    "size": 20770
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-007-the-map-room-preview.webp": {
+    "sha256": "96a34329dc835fe035395fd5cc32f5f3beb004a0ee65736e51c44f5b4fafdcfb",
+    "size": 23532
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-008-pinball-repair-preview.webp": {
+    "sha256": "dda1e0492792a7d3c6a952567e723a376de5a0e83752fb4ef9d1e3857a76baa5",
+    "size": 21738
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-247-painters-studio-north-light-2K.webp": {
+    "sha256": "aaf878bd2e8bd7df74f8459a162e768706bf8a5f213c1468bd38681eabcefd9c",
+    "size": 254824
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-009-fire-lookout-tower-preview.webp": {
+    "sha256": "9ca96979a58db7ed7eb2f637a0b2fcb17c9b61d4727d4bc5262d2059ae7c2189",
+    "size": 17826
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-246-the-nursery-tunnel-2K.webp": {
+    "sha256": "4657a01fbc4681b3c2ff6036aff125cbbc318d3c461a612ef652c36891841965",
+    "size": 271842
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-010-control-tower-abandoned-preview.webp": {
+    "sha256": "19a7007333b6ffa9e9c37c2baa61e7bdd8b729f8aa5c8b3d9361527a093dddb4",
+    "size": 19518
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-011-vending-machine-corner-preview.webp": {
+    "sha256": "c9a2e0c6e056dcdb72e7f2b71164a362889a04e4bf6106697545db75a8149ded",
+    "size": 21478
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-248-observatory-dome-inside-2K.webp": {
+    "sha256": "841a1e451a2c3a3c529144f0fa1a843679491bb199f91adf10bbf7c198c19e45",
+    "size": 179936
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-249-tailor-with-a-terminal-2K.webp": {
+    "sha256": "efcef63c641885b1847a125f185dd437d80e4705c6ad3f30901e4561ff95ecb6",
+    "size": 240006
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-012-the-fish-tank-room-preview.webp": {
+    "sha256": "c0ef5b97cabcb4b74e49f96e8b02b5a4f6c893cd10b4f304f5290f585c248b1a",
+    "size": 19678
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp": {
+    "sha256": "3e129a84fd209aba355f2af75a0f4adbb696e4ffbf89e5fed237cb2fe5d44da3",
+    "size": 19056
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-013-the-vinyl-basement-preview.webp": {
+    "sha256": "99b80052066f46bde93a426bc82b170ea90e98fbd423fd4f3098da1b8a94fe49",
+    "size": 21962
+  },
+  "images/osaka-jade/shelters/omarchy-shelter-250-rooftop-cinema-2K.webp": {
+    "sha256": "617121bf671f6a6e5a676dec44a3c3dbd32e383a712ec6f677eebc01ce0dc1c3",
+    "size": 222398
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-015-laundry-terrace-preview.webp": {
+    "sha256": "aa35c1156cf921d5d0c48ab97ef5edc0ac73083750a557250820a09a6d0fd94c",
+    "size": 16914
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-016-rooftop-noodle-cart-preview.webp": {
+    "sha256": "4136574ba162fedae7c226aa85e0932251074d726e1f65f86a7450128380c0aa",
+    "size": 19492
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-017-the-tea-corner-preview.webp": {
+    "sha256": "d856b8a00372290943db9b4015cc88cbe72b40172ad8d977b46856b26a0e8f93",
+    "size": 21212
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-019-the-guard-hut-preview.webp": {
+    "sha256": "732035cdf005ec963f02cfc95ccd90b4e0f8c1b7713bd4c56587a78d1ee647d3",
+    "size": 14862
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-021-airstream-under-the-overpass-preview.webp": {
+    "sha256": "8610fe24fe229c6f12d07c18f59ba555138931db835b342adb14c4fd7aead280",
+    "size": 16498
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-preview.webp": {
+    "sha256": "f806d6cc66fbda5c8daa1376abd1f2056b91e8a058ea2cdc0905dd5f7c56073a",
+    "size": 26198
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-020-stadium-under-seats-preview.webp": {
+    "sha256": "320688b043153fdaf178569b85421f06e6c26960be91d186b822494ebb6671f3",
+    "size": 21436
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-022-parking-garage-level-nine-preview.webp": {
+    "sha256": "3cd995837ce3bc3dcfe76ba43ff6ae7b5541607ad1583b2f724c56445cbf8506",
+    "size": 17974
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-023-the-satellite-dish-den-preview.webp": {
+    "sha256": "67e20afd0781960da5a0fbc2c30b6a5be3592f124c4d2dc63fc4e62952aede2f",
+    "size": 23424
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-024-the-elevator-machine-room-preview.webp": {
+    "sha256": "d012d79bb05a3941d455783a38835946f38e22af4a7b4f6c47a26a89692e3cf3",
+    "size": 20486
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-025-aerial-walkway-hut-preview.webp": {
+    "sha256": "24478f0d323ce723e639a19049e9210ff7cbb24eba7c78aa0777d48cd7206fa1",
+    "size": 21008
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-026-rooftop-hammock-deck-preview.webp": {
+    "sha256": "6893d4b6b3d08b2dd8def33a3adebc68770f66d520bc2f385fd8babcf20d0187",
+    "size": 23234
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-027-attic-of-maps-preview.webp": {
+    "sha256": "06d818679e68cbe677030a65e689516007522604940270a7dbf3b0c16bf356e7",
+    "size": 21914
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-preview.webp": {
+    "sha256": "053a8d3363b95ff374c85c7420e9d2c403d16c67c12bf37fcef9f6504f8aeff8",
+    "size": 18874
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-029-the-fishmonger-ice-preview.webp": {
+    "sha256": "c4e32e4cf90beb1b99ef4cd407e3f1175b0a78f4096d5294cabb6e596cf9d79d",
+    "size": 20228
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-030-crane-cabin-home-preview.webp": {
+    "sha256": "e9bb08b42c3ddaad7a188aef20f5d9c578f48646f25ddd8aa658cf5f07e731a0",
+    "size": 24012
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-031-sewing-machine-row-preview.webp": {
+    "sha256": "d36740eb0957f7661c5762c8f7ac29aa6c3fb3ff65493f240a397206f7cf1969",
+    "size": 22658
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-032-rooftop-orchard-preview.webp": {
+    "sha256": "5655a1a29e194ee8e80d25c8e1a294c63d4c3a9ada7d637ae9bc4265e2741967",
+    "size": 19838
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-033-the-battery-yard-camp-preview.webp": {
+    "sha256": "df336c23918c22d71c7707e8a90d764c0da6be09b28805cabe3309fe645dc2c6",
+    "size": 19468
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-035-caravan-on-the-ledge-preview.webp": {
+    "sha256": "0a8d15c7827db988ff032553a290d6364f5b341bb3d0ad01795093be9de96d1f",
+    "size": 10154
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-034-boat-on-a-trailer-preview.webp": {
+    "sha256": "4c6b3ceffb096e9540a2d0f3a662d1bf359dc5d504c1242883a7f9b9d2b5b574",
+    "size": 15658
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-037-capsule-hotel-pod-preview.webp": {
+    "sha256": "dfe6cf12beec29a973bed9981d315924414da6bd0e81b5775538d0dc1728dfac",
+    "size": 16128
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-036-the-armoured-greenhouse-preview.webp": {
+    "sha256": "a29c2a07294af799b77b719d4067218a9f67e77cdbe9eaf2a545de2799c56c29",
+    "size": 22926
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-038-the-old-toll-bridge-preview.webp": {
+    "sha256": "9286b51618bbf95d51a12b35c4b40ae76c9f5e97720849590d8c834edbc81233",
+    "size": 16092
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-039-the-recording-booth-preview.webp": {
+    "sha256": "7b327f456958b451290e92cc37e13b1d049f74463cf5a35288308d989f821163",
+    "size": 20074
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-040-bicycle-workshop-preview.webp": {
+    "sha256": "34097f2b0c177a9e7adf12e215b076ef53336c7a75b60e8ff59a79aecdeb3443",
+    "size": 20612
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-041-the-ferry-cabin-preview.webp": {
+    "sha256": "bcc136180901196e46ef2fa61e95bcf35016f9bf609d1383c29b61d073c8a3f5",
+    "size": 17854
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-042-the-aquarium-shop-preview.webp": {
+    "sha256": "30f4ef787d835ebde81d705ea1d35d539a91dad7d0af95b29e19c52a54071633",
+    "size": 23702
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-043-the-map-shop-preview.webp": {
+    "sha256": "ace7bcc8791f6f95758d6785b7bf24b0246f9cd303a235ca55e956084c740fd1",
+    "size": 25796
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-044-nursery-of-seedlings-preview.webp": {
+    "sha256": "1d84ea7427ab0a3740ef8c3f1ef4bc6ec6f8443d4fe37f699afbd8546aa28e2c",
+    "size": 21464
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-preview.webp": {
+    "sha256": "0bb94326b8bfba68c56c2bea49c6d6034b68810dcabb4c0401ad1812f352dc2d",
+    "size": 19640
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-046-the-toy-hospital-preview.webp": {
+    "sha256": "fffb10857ce6484bd103e0030539ea19da46fc7f80c3af92b01f0b77ed033911",
+    "size": 24914
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-047-pedestrian-bridge-hut-preview.webp": {
+    "sha256": "3f328e160e1a52e0c80037a84d914764a73374c3eef34493465d61f49a27276f",
+    "size": 20286
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-049-flooded-street-boat-preview.webp": {
+    "sha256": "a1986e140d67ae3d766647f0ff37e43317448b455c6bc668d5245cafcf38d4ac",
+    "size": 13158
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-048-pontoon-greenhouse-preview.webp": {
+    "sha256": "5af7f5bffbbea82428b5493cea920ad963e4d1bcf26e750f29d56cbadd1811f3",
+    "size": 18060
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-050-the-freight-depot-preview.webp": {
+    "sha256": "e6847393b2e6a169b3aa86244754903ac122b99a64466f875190764cb59fef5f",
+    "size": 17464
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-052-grounded-fuselage-preview.webp": {
+    "sha256": "5c273f82efce3e8c14e9b2c2cece61b0d1851e7493751070f840e7c1caedd0e4",
+    "size": 19172
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-053-the-projection-booth-preview.webp": {
+    "sha256": "c4cfb03f0095a6636c6b480672d28271f8b7e8bb4614d8007d3748c97cb30f04",
+    "size": 17832
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-054-the-midnight-bus-preview.webp": {
+    "sha256": "715a9cfed076ad2330bfd0dbb16bc88a8ec0dd4f271b411919f96a58363bb97b",
+    "size": 16024
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-055-the-server-room-bed-preview.webp": {
+    "sha256": "8d3def23da0147929a95494bcd63ef270c899a1af1c53bea7e97c13abd9e4972",
+    "size": 20458
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-056-the-bell-tower-preview.webp": {
+    "sha256": "4c3d5b04f202c8ff18d43209fdbff97f4f4a253aa71deb29dadd8dc0a392605e",
+    "size": 17036
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-057-sampan-kitchen-preview.webp": {
+    "sha256": "5f61bdf239c342b22a89726887be980330f6159c4e013e69b2d8a3a42a19a8f9",
+    "size": 17838
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-058-armoured-van-archive-preview.webp": {
+    "sha256": "2a4078836e1b64ac155e9b35959f0f2b0f06a4992ad6acc9be86b97627dcbb60",
+    "size": 18928
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-059-the-sluice-house-preview.webp": {
+    "sha256": "16cd0e929fd50102b057ed66b500dc1f7268b9646e29d1fc73511f1e7266cc11",
+    "size": 19558
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-060-rooftop-koi-pond-preview.webp": {
+    "sha256": "167804d8f5eecc85134397dc771866d75cfecb5c66c9af99d60b930714be7d7c",
+    "size": 17074
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-061-combine-harvester-house-preview.webp": {
+    "sha256": "b1d8caa55df7c39a183ad32a3a50507da1d4ae420fe2de12517129932a24b033",
+    "size": 15704
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-preview.webp": {
+    "sha256": "230f975ba16ac726c710e60d666821a29874eeece5e55625d8b9c8f7aeecc97c",
+    "size": 22760
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-063-the-camera-shop-preview.webp": {
+    "sha256": "e35ec36d6216fdc3e2e1bbf66e925e2a8a12a3f850c382b6660bfd0625f3d5a0",
+    "size": 25156
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-064-the-petrol-station-preview.webp": {
+    "sha256": "8a99f883a1ee5a4ea1465e87bcd38263d19769119fe68c073e5aff1107ae8a8d",
+    "size": 14836
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-065-the-ferry-waiting-room-preview.webp": {
+    "sha256": "fdd5e66c245ebae519a6af9097aa7b8ff5e0c314fbd58d3bdb4d7b46594d8a19",
+    "size": 13338
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-067-the-one-room-with-a-view-preview.webp": {
+    "sha256": "faf9ae68686a11132ba2b1d28ee055b437be6385a8c7b670208ad07f1287cad9",
+    "size": 15452
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-069-the-underpass-room-preview.webp": {
+    "sha256": "bddcb5b3dfc10140ee1a1dd4051f4637648b3161cb5592be86ff36968a319a68",
+    "size": 18862
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-066-the-rooftop-greenhouse-preview.webp": {
+    "sha256": "fb46f2978f15c36ce5e20b67a090669885192f6d49822d7b7f042b2d0faadffd",
+    "size": 29388
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-068-electronics-repair-shop-preview.webp": {
+    "sha256": "212279731bb106e8314617b0c5b10866442ff7a415c79bb334d4e6242f9dec47",
+    "size": 21582
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-070-water-tower-lantern-preview.webp": {
+    "sha256": "0f3ad0cb678506ad4a1f58ca03a27dbea356b23dce4d0059862cb73cbe5d292b",
+    "size": 17026
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-071-archive-of-tapes-preview.webp": {
+    "sha256": "562d5ef57da6a6673232e9ad508e8e7bbd99169b47e0c74a6b96bcc98bb5ba42",
+    "size": 26756
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-072-hacker-loft-of-monitors-preview.webp": {
+    "sha256": "480fe982b5ebee2cf5867e903bd968a6c72f688021048b9d17771c9eb51c095d",
+    "size": 20354
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-073-rooftop-onsen-preview.webp": {
+    "sha256": "5f88c726055e4e6f93ec95b88c33bca21050df4f8207928d8bc76084bc98be7f",
+    "size": 20124
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-074-postal-van-darkroom-preview.webp": {
+    "sha256": "8f2c17e933305dabe0922085f7189d4d6ed1c4f0935d2f989adcf332d00650c0",
+    "size": 17822
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-076-the-cable-car-station-preview.webp": {
+    "sha256": "850d86f181cad68e86d6b0ed1745f224a7881b129866cc9cea1a6cc33dd0ae8c",
+    "size": 18872
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-075-the-apiary-in-the-park-preview.webp": {
+    "sha256": "6ccc7dff8c97ef7b35b4629414ac5c6cfc62e48efc70fc0fad20211d63f0e108",
+    "size": 17578
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-077-the-clockmakers-window-preview.webp": {
+    "sha256": "105df9cdb64f565c81b498621f162ff984c542ba674b58b13a5a35808128fbca",
+    "size": 19428
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-078-dormer-window-desk-preview.webp": {
+    "sha256": "569a6b8b9156f4242314a20b387e6dcb06eb4a65988dc41b0eaccb2e5b68aac7",
+    "size": 21378
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-079-candle-and-circuit-preview.webp": {
+    "sha256": "b2c3c333f90015e66d524f835621d979855ae7d7c25d57ecdda1c0acf3f8b900",
+    "size": 19844
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-080-tunnel-mouth-camp-preview.webp": {
+    "sha256": "6b6f71e12d40d79616bfd11aea7c48d81b24cd26d29253baebc81d59a1a3bee5",
+    "size": 11992
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-preview.webp": {
+    "sha256": "73b33bb84e7241140894a2d9b6fabdbbf1212374438f83f9bff8623d06c6d725",
+    "size": 22404
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-084-tea-house-and-server-rack-preview.webp": {
+    "sha256": "0d1f23f4c644476a9459e46a3df3850abce1f79b5e67d9f670b33c4aeceb3de6",
+    "size": 17866
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-083-the-pier-shack-preview.webp": {
+    "sha256": "8d6e91a3a860cdec428b0e66b50ea75710c66e67a1d2d0ee4ac1e47118823688",
+    "size": 16600
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-085-the-beekeeper-terrace-preview.webp": {
+    "sha256": "2324d4bb932800dc7247b4610edb3499bb245a3fdbb44f78b0ba269bbf34d8cf",
+    "size": 16294
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-preview.webp": {
+    "sha256": "1e03c27f7810b22a1f86814064195ae9e226b4ba397a5317c04ef594f4fd45e0",
+    "size": 31526
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-086-the-tea-and-modem-preview.webp": {
+    "sha256": "e0ffd6541cfbb88c3ae67719d594ba803cfb650654326d53d1113d946f2eb293",
+    "size": 19854
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-087-zeppelin-gondola-preview.webp": {
+    "sha256": "61797f91b4976f1a59b214ddc4a939c55db07effb4dcbd91d766c2e697fd73ae",
+    "size": 16646
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-088-shack-above-the-neon-preview.webp": {
+    "sha256": "82f17e0514728caa0691aef46a3d6f0df4cf6992666aa49df30707bf60425031",
+    "size": 13250
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-091-water-tower-loft-preview.webp": {
+    "sha256": "98b72ae1d3eeaa589992ee1c86cd56835cb6e70e0db9adc1475082edb35f5c89",
+    "size": 19342
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-089-server-farm-bedroom-preview.webp": {
+    "sha256": "47c7e59ea4181eec9d4021a45355c606f981a5663d288b3619c5e0551b21ddd8",
+    "size": 20740
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-090-solar-panel-garden-preview.webp": {
+    "sha256": "816096437391200e16d9b3c0d0cb976c0637e90def4d9892d5aed91e68d8b849",
+    "size": 20036
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-092-the-weighbridge-office-preview.webp": {
+    "sha256": "d277d7bceb03dfe510aa28dfda4e46e7128de64760f765504a15e284d4e113dd",
+    "size": 20668
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-093-the-penthouse-shanty-preview.webp": {
+    "sha256": "b49581f2bcef35bff4ad15d11e13a525057d784b48a07b38b076bc550094f091",
+    "size": 19172
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-094-bathtub-with-a-skyline-preview.webp": {
+    "sha256": "3c1abd9694215cbc21aa10bc0789263ee7609751fd11d3ab015db5157d4bed2b",
+    "size": 20170
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-095-late-night-copy-shop-preview.webp": {
+    "sha256": "9430c9a13576055c50c3821ea08e627cab94ed8c0bc1700be15fdd8fd20206d3",
+    "size": 17252
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-096-the-lamp-shop-preview.webp": {
+    "sha256": "4b8551ee18ed5ab18bf4331649fb01b1c7b3d2a7bb1de505ecc543c9fdfbdf68",
+    "size": 26190
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-098-billboard-scaffold-camp-preview.webp": {
+    "sha256": "c7f39079680af9be4c3ef89f7a7bbe80f9d8e63979a98b23a281512accf48ecb",
+    "size": 17522
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-097-the-canal-lock-house-preview.webp": {
+    "sha256": "7af40b084b4a9ed5674c964fd17f7c4963ad0574d6af9895c8cae0587633b6bd",
+    "size": 18356
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-099-stairwell-landing-desk-preview.webp": {
+    "sha256": "08fc26fe0a5a0482ebb6a12ae225ab2ab832da17e24d8bac283e5e50ea869c8d",
+    "size": 22070
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-102-the-bookbinder-preview.webp": {
+    "sha256": "b6dba74e7994186b1733c9961ba85802233cba9f85937c05559c600482b8d177",
+    "size": 17026
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-101-the-allotment-shed-preview.webp": {
+    "sha256": "13cd93104e436f87f30094fcf5f7fb8a01691a7f23f45a22095dc9ea3e4a4bf9",
+    "size": 24494
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-103-stairwell-hut-preview.webp": {
+    "sha256": "400b7fea8beb9859ce41c332f4e71370852b1be2d1d8ddcfdea0af0797de5db0",
+    "size": 15002
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-104-laundromat-at-3am-preview.webp": {
+    "sha256": "497b364ad8651430be220bb7ff01308a6f550e77a9b4adbd890e6658032c5c78",
+    "size": 20736
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-108-the-ruined-arch-preview.webp": {
+    "sha256": "e76e632fac66c91217f3da7fd3b17cab869b240cdda8aaf66efd647f91c0f7da",
+    "size": 13368
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-106-the-tattoo-parlour-preview.webp": {
+    "sha256": "a665d5bc69bd655916eb01a1603ef7164148472c3361e89a04949e823d4ba8e8",
+    "size": 21216
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-105-the-cable-junction-hut-preview.webp": {
+    "sha256": "adbf9a284aeb3559278021918a211e3d1aaada2d25814f6357922bb703362a92",
+    "size": 21206
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-107-rooftop-radio-station-preview.webp": {
+    "sha256": "9372a007e2d1905e003986cb0a0dd50b751c7f1c05663274048653bf8ea59ee3",
+    "size": 24660
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-109-library-in-the-fog-preview.webp": {
+    "sha256": "0fe914026b98fe6b5c956057dd19ed2cd013f2fede8a3774241b67eb72d5945b",
+    "size": 18702
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-110-harbour-crane-cabin-preview.webp": {
+    "sha256": "a826242ab968259dcbaa96437af82c06ca34bb2b0a36ce5fa125d6d918251152",
+    "size": 17188
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-111-the-sewing-room-preview.webp": {
+    "sha256": "45be9dcab92245e5ea03106a8e3889470ae171df9a7d6d3e6a75e94991f31018",
+    "size": 17830
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-preview.webp": {
+    "sha256": "f18ceecd7236db9913ec0a20bc29848015edf2635f535e3bda600140013e13b8",
+    "size": 10044
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-115-the-empty-office-home-preview.webp": {
+    "sha256": "2720e07b0d26006922fd4b56fa8c62a76822b394438f7a8534dd97e7d47c700a",
+    "size": 17470
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-116-datacenter-noodle-bar-preview.webp": {
+    "sha256": "7099a5a8d8b07f6466949b4031e4afad8fca72afa81a80084fe214bd4ad0e628",
+    "size": 22810
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-114-the-ski-lift-shed-preview.webp": {
+    "sha256": "bc6e3729b78988b0089b162f3c9194303058ab1cc60d1959a0b30bbb83c18ef9",
+    "size": 18622
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-113-canal-side-flower-barge-preview.webp": {
+    "sha256": "d1f64078fd6711332b5eba75ec7c99dd40a19634c60a06f00377ef7a57434cfe",
+    "size": 21790
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-117-loft-of-open-cases-preview.webp": {
+    "sha256": "8d9601d788b2eed8b97a4e912ff1879d9bc0367e4c2d9d0ad005a74ba698e3e1",
+    "size": 23644
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-118-the-rooftop-bar-preview.webp": {
+    "sha256": "1ea2edd553578f3a598ca8f9bcf38edc00ff955dc25bc3ec43b2e03308a3a94e",
+    "size": 25824
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-119-rooftop-bathhouse-preview.webp": {
+    "sha256": "94ee81e4a47d4eac4af9e2e5e403d91fc16797cb14b51a7073f6cb7081f292f8",
+    "size": 13814
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-120-airfield-hangar-corner-preview.webp": {
+    "sha256": "27b091231af8217bb29234546e870d835daaa756431af5753201ff31a8910b4a",
+    "size": 18076
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-121-the-bonsai-workshop-preview.webp": {
+    "sha256": "f9bb503f6ee811e91d07e20c6fbe76a70dce29a7064104aa1a950da9e37610d1",
+    "size": 18966
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-124-grain-silo-home-preview.webp": {
+    "sha256": "0bd18b0300d27808641bb20bf6cc404a0fd40464cd162ce3ffd279c6d749a87a",
+    "size": 14460
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-122-mechanics-loft-preview.webp": {
+    "sha256": "6bf497a4c18685706a86f1d379b7ae168123944b1aa5bf7f61aa2c1f5b0147e1",
+    "size": 16670
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-123-the-shipwreck-room-preview.webp": {
+    "sha256": "801cd60b1af0ff2b81138930472c931aaad1016f44ed6a7a2aba1b0122045d07",
+    "size": 18224
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-125-study-with-two-chairs-preview.webp": {
+    "sha256": "825f00c3b4279bbe0f108946dbf87912816d7e84d4b63f23a56216dc3a73163f",
+    "size": 19580
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-126-ambulance-refuge-preview.webp": {
+    "sha256": "47f47edaf79735837a8b0368378a6127c0a901e2d191c557d577e7732a8b6bfa",
+    "size": 19530
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-127-floating-market-stall-preview.webp": {
+    "sha256": "2a8845ad84ea499c3380d9dce579d0fe267be603d101a44463a85795d442af99",
+    "size": 21256
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-128-checkpoint-of-no-border-preview.webp": {
+    "sha256": "075251f02403e1c2e4f2af6f6abd808a1832de7ce96e917d065966b37a6619dc",
+    "size": 16778
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-130-bulldozer-den-preview.webp": {
+    "sha256": "2dbe20787c8f367b71495894be83a09c5731b0c466720077e2c2480d0551afc0",
+    "size": 16842
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-131-urban-vineyard-hut-preview.webp": {
+    "sha256": "335da79d2aca34b8c7644e506c3d524954d100ed07f16b32ff726bd063d0e60d",
+    "size": 18758
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-129-the-milk-float-preview.webp": {
+    "sha256": "f4c3834232a1fc98f1ba8f4e00a88f9f6ac25e7e254a2f139e130be246dcf957",
+    "size": 22728
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-132-the-freight-nest-preview.webp": {
+    "sha256": "fcc7e9e475816315a8187cd72450f3366fc74812670bd22c632576bbcbec01ab",
+    "size": 18232
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-133-flower-stall-rain-preview.webp": {
+    "sha256": "10856a6b3d384fda2826af7363190f153b9905ef5b8b83f83e14a937c610373f",
+    "size": 20290
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-134-houseboat-of-lanterns-preview.webp": {
+    "sha256": "4f5f6eabdf407fd87ca225fcbd4c951f1a93cd590c341c38947862a78537a790",
+    "size": 18950
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-135-limousine-lounge-preview.webp": {
+    "sha256": "f88fd2011cc585b8278809072ceaaaf2eaeffdddaee8ce86264f3d54e14b9e46",
+    "size": 21608
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-136-snowplough-shelter-preview.webp": {
+    "sha256": "ca3e93cc86c196b3aba12a91098b368f7947ed16f2c57fea9ade4c899c1dac5f",
+    "size": 13560
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-138-control-room-of-nothing-preview.webp": {
+    "sha256": "197c6450780d47a87876d025b22b04a5636af4448084f44ed95effaf843e7a3f",
+    "size": 16762
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-137-crane-yard-office-preview.webp": {
+    "sha256": "72647c5d11348e0536a04359267d19b5f3853adc362b6f0658eb1caf1bbf54bb",
+    "size": 17812
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-139-the-last-terrace-preview.webp": {
+    "sha256": "a4e34a537e8b59f11420ed7ac71ffe14326936145da5f2a344ea317b5bfbcaf6",
+    "size": 21322
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-140-the-clocktower-room-preview.webp": {
+    "sha256": "e8cc1dea1aae43649e036dc0ca2165f7a6f47bf877fd7a387c5d1c8046132eeb",
+    "size": 21368
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-141-subway-entrance-kiosk-preview.webp": {
+    "sha256": "d6bb17d5028a51a7c56161a606ba0df0e02bc692a78755fe0962ad18e4d14e79",
+    "size": 14486
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-142-the-boiler-room-home-preview.webp": {
+    "sha256": "886e71340335af31a457e62a81323df395ec6b43b2d375c6fc4c64f1d08e102a",
+    "size": 20402
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-143-the-observatory-shed-preview.webp": {
+    "sha256": "3c397a7461c01197e99b0d5ca72821c18cf049f27263c0b1fa13ed0d9194389d",
+    "size": 22050
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-144-dry-dock-home-preview.webp": {
+    "sha256": "607a138c891dbb6cf0684345fde98795aeb5f46362358108ef82a9634249264c",
+    "size": 13298
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-145-dam-keepers-house-preview.webp": {
+    "sha256": "2d1b868e5c7019177e4ac9607c48b2638e6b62f09b6e59606d9af33ed522ddbe",
+    "size": 10120
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-146-bakery-back-room-preview.webp": {
+    "sha256": "1dc89384d801e02d62ed3cd19e7eb14edc275d9ca4407e95028f3fba6ecfb29f",
+    "size": 18322
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-148-pigeon-loft-lantern-preview.webp": {
+    "sha256": "7752dc5484a9047e0d62494c389e354a78e98aac482f06c33d8fad2c5fb2f541",
+    "size": 14734
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-147-the-window-seat-preview.webp": {
+    "sha256": "a211c20ea95d710d09f160a1d1c9f2a975e1e7e1022b70bf4c13141c1d628d4e",
+    "size": 19160
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-149-the-last-westfalia-preview.webp": {
+    "sha256": "08bb11bc13fe3ae86779a6d2962f9948ec8670b897c6a9c378e05e1069786f4a",
+    "size": 13606
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-150-greenhouse-bedroom-preview.webp": {
+    "sha256": "db5692f10aeec8b7426b43f98002cfdab82959ac10b1c710a67f27380f105cde",
+    "size": 33404
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-152-skylight-studio-preview.webp": {
+    "sha256": "caa11e8c18da7e86b3eaff610e119aa0ce8b6a8e142db3288a637c976d16712a",
+    "size": 16688
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-153-the-kitchen-at-four-preview.webp": {
+    "sha256": "9347dd90b0d8d6a95f483db255b0fc59c96044f5a6cef88c085abbe60b7dfc01",
+    "size": 16946
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-154-fire-truck-kitchen-preview.webp": {
+    "sha256": "bc0c5be70143213db8cd6e5ab493f9cef52d99e1529b2a56d20732209173e9b1",
+    "size": 19358
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-155-the-scaffold-shack-preview.webp": {
+    "sha256": "e8806fd8ca288f867df1ec8eb9fd3a08fe96ef432a332dc043cd09c1bcbe474c",
+    "size": 25248
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-156-bakery-before-dawn-preview.webp": {
+    "sha256": "2de1307d78d1aaefbdf8e8a877ec280a7819f89346db8ddf9556ad4ad9e5ed53",
+    "size": 18878
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-157-prosthetics-workshop-preview.webp": {
+    "sha256": "e32f3decfe35ee3b129f953c3e07ac03da785cf93fbb3ec303b5a348e9e6d20e",
+    "size": 23668
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-159-dovecote-tower-preview.webp": {
+    "sha256": "d2e249356e298383fa6540a6fbde2092f10cb355c5b061556acdca273561614a",
+    "size": 13804
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-158-the-ramen-alley-preview.webp": {
+    "sha256": "3fd47435c32b869f8babeba25578ed32b8eb07519d468cb204b8a3762d459ce3",
+    "size": 21570
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-160-pigeon-race-roof-preview.webp": {
+    "sha256": "3449ef0457617ba798ed9a7967e63205e481ad0dbdfb2fef2becbc6f47f6342b",
+    "size": 17264
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-161-the-kite-workshop-preview.webp": {
+    "sha256": "d81a7dc5303b3353078c827170d642bce2c0dd40c08e31abac2cc425a1a441f5",
+    "size": 16398
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-162-signal-tower-cabin-preview.webp": {
+    "sha256": "8249db7143b1edae43fbd3c22db0f9bf26a63abd35ccf853e27132e92c4dee0b",
+    "size": 16940
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-163-rooftop-tent-camp-preview.webp": {
+    "sha256": "128685ca26b4ee2d0ebd0ceb40934cad0c62317130047027444567dd67d1bf6b",
+    "size": 13882
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-164-cockpit-library-preview.webp": {
+    "sha256": "b286ac5b68412d024316935128f0a7d3c43e7739ae1aea47a9b0ccfa0f079063",
+    "size": 26444
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-165-rooftop-vineyard-preview.webp": {
+    "sha256": "6e8164063c6465585ad786e3a9888954073de9df6b4371fddea443fede525484",
+    "size": 24638
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-166-the-glasshouse-library-preview.webp": {
+    "sha256": "088563effbc01b4f33e7696d0f89169fffd850a4c631030a1049e59fd8e2f0da",
+    "size": 25330
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-168-fishing-boat-galley-preview.webp": {
+    "sha256": "8c657cb947fe1e69aac43445d7ca663049ebe0334816918724f5fd14b4d43e6c",
+    "size": 13312
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-167-the-guitar-luthier-preview.webp": {
+    "sha256": "cf06fcd39092c48b31c1b24174b09c71530bbd1058890d1df340ecb04d01ac8e",
+    "size": 21934
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-169-the-cinema-marquee-dark-preview.webp": {
+    "sha256": "e5f8b9f9db9d1a0c3f8a214c603ba6af066f94f46bcf450539f08e4dcfea1f4c",
+    "size": 15040
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-171-rooftop-chapel-preview.webp": {
+    "sha256": "5742617dc669e95357ded84570fc95045fda2d162a04605a586056520bbc6c24",
+    "size": 16932
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-170-fire-escape-garden-preview.webp": {
+    "sha256": "2c37751356bf030b614e2dbcbbf592c51ee105b1eba1fca2d1a57f243145e4d2",
+    "size": 22750
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-172-the-watch-repair-bench-preview.webp": {
+    "sha256": "5799a0cde664aec5ad375018251da5ce91ea8e1d6ffb1260e518448d1f4b22bf",
+    "size": 19642
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-174-the-quarry-hut-preview.webp": {
+    "sha256": "3aa8682274b64cd683a59729ac145f3637e45a9edaff5f764938c5ac25758faa",
+    "size": 11016
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-173-the-gatekeepers-lodge-preview.webp": {
+    "sha256": "de8e16f84f5856d2fff3353699e43fb988cede4b28aa9fbf8d9fef4b7ef4284f",
+    "size": 17556
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-176-the-taxi-garden-preview.webp": {
+    "sha256": "b19942c54e0f42f127c159e53054917dad1a8deb2e21df27daf74f132e752d39",
+    "size": 19086
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-175-newsstand-island-preview.webp": {
+    "sha256": "8219107ed3d995712c3aac7cf00f7f5cea11b38ba7173c7f0fb0cb87f965e74c",
+    "size": 16650
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-177-dumpling-window-preview.webp": {
+    "sha256": "a5985abe92c7291519eac10b48227c45f88957115b6e057b5945f0d1ac66fbac",
+    "size": 19284
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-178-stilt-house-over-water-preview.webp": {
+    "sha256": "cd957303c1cdb009c39eb55b187bd44053f7b63fb977752e017dca760b6eabb5",
+    "size": 17364
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-179-the-radio-pirate-preview.webp": {
+    "sha256": "fe7f6777ae5830c5f0fabfaef36f6b118cdf0809ecadaa535d14f04dc91b32b1",
+    "size": 19348
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-180-the-model-railway-room-preview.webp": {
+    "sha256": "36417d0d976056ab05223a645f6e5ae0c71e4d7f07fc1e3775a02587d0642025",
+    "size": 24002
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-preview.webp": {
+    "sha256": "15d42759cb30eadc7a40e3edb10223478a9f906d3100dbb2dec5b05c48fd0c08",
+    "size": 19260
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-182-the-drone-port-shack-preview.webp": {
+    "sha256": "a4ea6c3a813404038a993f1563d7812271c1f524550e909e7e0dc052bb9faf13",
+    "size": 19000
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-184-the-piano-in-the-dark-preview.webp": {
+    "sha256": "d608e6fed842191cd246c4f072a62ef1c81dfbe747da103ccfd14b6c319a9f59",
+    "size": 13750
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-183-pigeon-post-office-preview.webp": {
+    "sha256": "f86f59afa7dd4c69831bf5991086f31610ef097b2d734356607ea70841f2b216",
+    "size": 17548
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-185-sleeper-car-atelier-preview.webp": {
+    "sha256": "87cd405dafec0444d0152255f6480c0e79d58776e23090eb0c813e9719b2cb63",
+    "size": 15610
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-186-seed-bank-room-preview.webp": {
+    "sha256": "5f1bed50d77846c7bb1ac39edff74b1b333e390f296beb56083096f0c28d4a9a",
+    "size": 23628
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-187-empty-pool-camp-preview.webp": {
+    "sha256": "c00f6a6ede2c42db34cada54e54a8653cd1195310dcbab3af6ecfb70920723be",
+    "size": 18006
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-preview.webp": {
+    "sha256": "d911dab0fb2c01c2a6477f368cd4d0501e8d2abe24307d1148de1cbd7032f6fe",
+    "size": 21702
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-189-submarine-hatch-home-preview.webp": {
+    "sha256": "74907e30cfd5bdd88acb152eeec80e85f3f5ea0bfa5eb4a9096a41cabba3799f",
+    "size": 12956
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-191-workshop-of-clocks-preview.webp": {
+    "sha256": "23803936a19558f05b0c4cf47d4994d61c349d44eccaa629c7617b3523ad079b",
+    "size": 19152
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-192-cargo-bike-coffee-preview.webp": {
+    "sha256": "3c6cbb7c8d957c1ee30f403ecdf92bd8b60044ce9937da82e713daab5166393c",
+    "size": 19812
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-190-drawbridge-cabin-preview.webp": {
+    "sha256": "738daa5385b1429182ed404bf74050000089e05c67594380f5fb125fb0e112c5",
+    "size": 17128
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-193-laundry-room-blue-preview.webp": {
+    "sha256": "4103cba463f2c04dc94cd1807ae2eeae7e8fdf758dbee985967feb68fae2ecb6",
+    "size": 14548
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-194-record-press-workshop-preview.webp": {
+    "sha256": "331e4c4a4a09ad57a12e254ef76412bc64cae5c27da06e0ec4dc7571057a0a1d",
+    "size": 19826
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-195-subway-carriage-home-preview.webp": {
+    "sha256": "208b8c94e380b46b2685724e2c1b52c99454e65689e5fac06d7b7d9318df0f71",
+    "size": 24136
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-196-photo-lab-red-light-preview.webp": {
+    "sha256": "b5c0022a20ed3748e96bf7f73dc60b6b8e739bcdf3d1443e01ec31464a5ef733",
+    "size": 15614
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-197-chimney-side-hut-preview.webp": {
+    "sha256": "398dcbe68045748bf4ebb732e666fd984a66f8cef00e6c9900edf7c1ef43f000",
+    "size": 21286
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-198-curtain-of-cables-preview.webp": {
+    "sha256": "a74126d58952b025abd9de5b87ff7b126a5a397a12097daf52d8430ce21fd533",
+    "size": 19300
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-199-the-key-cutter-preview.webp": {
+    "sha256": "671864854c827c56b5fde0f55af66b24000f7407f524a102bdd59ac627e44b23",
+    "size": 17972
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-201-the-rooftop-forge-preview.webp": {
+    "sha256": "79f956d6a37eff0f615a364290b5a89f7a20857aac6173197b0f2433a2b5cbdd",
+    "size": 16834
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-202-whisky-bar-one-seat-preview.webp": {
+    "sha256": "3f9390c0e592a92654b8d2e8e05b7d0bdf0202eaf8bfae601e77c11d6cc23ced",
+    "size": 21268
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-203-the-telescope-window-preview.webp": {
+    "sha256": "20e1c77709b9aaa9569ca93532f8691c0e1ff5444bfd123ce8f776eb7495c2bc",
+    "size": 19954
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-204-the-barge-garden-preview.webp": {
+    "sha256": "f0c148639a428e0e64dadf36aae0c1a94aecc6eee868fb3927dcf01c4c03e7cf",
+    "size": 18818
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-205-coffee-roastery-night-preview.webp": {
+    "sha256": "dbac3e83786662eea892b7a55ee052504ccdcad475b18c00609354f8d1df9f7e",
+    "size": 19376
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-206-the-mail-train-caboose-preview.webp": {
+    "sha256": "193310e7771ee4be1c83457fb8c7f48e195624fa20b351d68449a12d1a3f0c8a",
+    "size": 13228
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-207-shoe-repair-and-solder-preview.webp": {
+    "sha256": "48140f8c3e5605f9d4e7174913601230dcc93502d6dacc0b4b884c92a6bf3e41",
+    "size": 24236
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-208-transformer-station-home-preview.webp": {
+    "sha256": "4e9f4a49ee7efd257d49f5e232d9f6fdd0d765722ccac3d9ed36fef3969e3545",
+    "size": 18890
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-209-repair-bay-of-machines-preview.webp": {
+    "sha256": "e29bf525907a5db437b1ff4d179b60ba2d36d170a887dcf9b81eb343461299f6",
+    "size": 26968
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-210-the-mushroom-cellar-preview.webp": {
+    "sha256": "bf69e379182984e290b79187a509c3c2c66b458930962824ec619919bd7f8abe",
+    "size": 15746
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-211-deconsecrated-chapel-preview.webp": {
+    "sha256": "b3c67836591644b4a7611ba81c3c7caebbb74e6d453255f97dcff17e36b8fc14",
+    "size": 23590
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-212-the-radio-parts-stall-preview.webp": {
+    "sha256": "b2b4ecf9687efb3d7f28b8b3274b0efad92bf694402d58aa4e885227b05a907b",
+    "size": 24712
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-216-the-oyster-shed-preview.webp": {
+    "sha256": "007ffeb1d1d2886f1caa5ba8eeae88a2ff737395fc7c12f90ad613a586441587",
+    "size": 11580
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-preview.webp": {
+    "sha256": "b208cc06b113ca321ad2323e882c853c5eeb9bd2f617c24d48471c1e3ef3e65f",
+    "size": 23368
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-213-monorail-capsule-preview.webp": {
+    "sha256": "70b6fac68c78a49004b5c9f5d961832fea29051f895ef06cfb203b1d2be7471b",
+    "size": 27624
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-215-the-typewriter-hospital-preview.webp": {
+    "sha256": "42344ada3505d03edd664abe13bf0708f1898bbaf081e3379eda65968f7bac15",
+    "size": 21670
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-217-lighthouse-lamp-room-preview.webp": {
+    "sha256": "fecb593f35228980146933cf04f99d237431ec00bccf9ae99dc92927093941e6",
+    "size": 17904
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-218-the-chess-table-preview.webp": {
+    "sha256": "c1b95e8f92c58eae83023257e837c2af58f49777a83bc5d2f68658e2ccee90fb",
+    "size": 23590
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-219-the-barber-and-the-cat-preview.webp": {
+    "sha256": "0ef15b47769e9afe08640948ab7c4393328f7826d5ee4536215e6dd3fbeab290",
+    "size": 20144
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-220-the-forklift-camp-preview.webp": {
+    "sha256": "3de689ab3341965272510cfbc62c77d9cd3f6c6f28de6d217d131f1faeb1f929",
+    "size": 17106
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-221-hotel-room-forever-preview.webp": {
+    "sha256": "b54050da82be68269f4674cb6cbeb24ab4b6649c10d9acdb246b7c641b9c14f0",
+    "size": 13980
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-223-tractor-and-awning-preview.webp": {
+    "sha256": "4d9875e5146b5b639085cfef742e0bcc0dc513903913de5bb608ec7af7b94dd3",
+    "size": 16896
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-222-vertical-farm-corner-preview.webp": {
+    "sha256": "967b9b0b9d02e33dcc0cccb6475a2856c42a9e9bf0565c2ef6f52da8266ce7b6",
+    "size": 23212
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-224-tugboat-galley-preview.webp": {
+    "sha256": "c167148f03feceea43615a2b65085d681f085b2f872b0c388cbac9d905583e85",
+    "size": 18548
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-225-bus-shelter-alone-preview.webp": {
+    "sha256": "cffa42da5778023e47c4e92862d6091cabe6acf2d9c8065c364d8db863e75ab5",
+    "size": 19186
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-226-bamboo-grove-hut-preview.webp": {
+    "sha256": "18cf63d498606871f4054ec2a3203b22646761ae1a5575fa64a9add83b5dc48c",
+    "size": 23902
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-227-the-billboard-back-room-preview.webp": {
+    "sha256": "c48c07d78d7819a5e6c3867ca748c39848cf26f085af198902eca50b09b6f393",
+    "size": 17666
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-229-signal-box-on-the-line-preview.webp": {
+    "sha256": "c25e58a7b8dcaf19abeb7a068f81e15394686d521a79930d6a60b909712afe7b",
+    "size": 16686
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-228-the-plant-and-cable-shop-preview.webp": {
+    "sha256": "e73a97ec02024e274ae3fc823b69ca60ee185feb44d5deff0d66bb37c905c01b",
+    "size": 24154
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-233-the-antenna-keeper-preview.webp": {
+    "sha256": "e6ef39ffdbf17b9de333887dffc6941167f8a778f5f3557dc2fdec3661cb9c23",
+    "size": 16976
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-232-sidecar-repair-shop-preview.webp": {
+    "sha256": "9fe88c5a5a0e8d2fbebea365738bbfd80302f43cef6c8ee6554ea25b502a344c",
+    "size": 19218
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-230-the-last-phone-box-preview.webp": {
+    "sha256": "82b6c56c8e75f5917456df0ee1b73211b5a5032d78892d66ee2ceaceea5d3d47",
+    "size": 20998
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-231-the-antenna-farm-shack-preview.webp": {
+    "sha256": "eeb908c11680ba1bdafe00ed7be84a32f25fe5d5f699fcecd4bc9f4657d8a95b",
+    "size": 22842
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-234-the-terrarium-wall-preview.webp": {
+    "sha256": "65caf3f5ee534c432fea362e10b08151309cb980a3414971f382f7f1f7c8e344",
+    "size": 22550
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-235-the-rickshaw-kitchen-preview.webp": {
+    "sha256": "e54b41511d367ddffe42fb3012f23c793a81cb42385fbb1394d00dfca419c343",
+    "size": 22618
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-237-the-cable-car-room-preview.webp": {
+    "sha256": "41d1dd93b0054f654a73ec710468c87b5fc7980792f0204f96603c7afa4e2985",
+    "size": 15348
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-236-the-drone-clinic-preview.webp": {
+    "sha256": "d9c77fedd17ac4f088efb67a3fb586b2732f09c9864ad93cb0fdbf857964495f",
+    "size": 17642
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-239-the-clinic-after-hours-preview.webp": {
+    "sha256": "24024c514acfab950787fa45e738d0f18bc456121b22d5e0862ea5f8801998ba",
+    "size": 17702
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-241-the-fern-house-preview.webp": {
+    "sha256": "d666a6bfd141d6810cf83a9927b66f8ecb2378e5ad9864b137cf2d623e960197",
+    "size": 18014
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-238-the-pawn-shop-window-preview.webp": {
+    "sha256": "7e106e3e79af866a39256033cdba2042573bc7fb3439757cd189bf130c55dc66",
+    "size": 28360
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-preview.webp": {
+    "sha256": "0d7fb0ae5f7891a96395ef7f2438f3404c5238ce615c08b8d0f3f9c02a5879bb",
+    "size": 29488
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-preview.webp": {
+    "sha256": "976ad925c4620572794197768ebcd30a0186a939c59fc9dc5808823b3c90e620",
+    "size": 12626
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-242-comic-shop-back-issues-preview.webp": {
+    "sha256": "c6bd701197d5190e526612202e8a8b3c3294d5a1afa999441e9d42ad6efde4f9",
+    "size": 20710
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-244-water-tank-house-preview.webp": {
+    "sha256": "917c82ca5d34e44d88d5fe8eda4182fab5384bafb5edb40dbe5d6be97f2f7c62",
+    "size": 15902
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-245-hovercraft-skirt-camp-preview.webp": {
+    "sha256": "3328dcd26ceb727f4935f2d385b28944e0b9c27e585e64eb35db7ee08e1e4626",
+    "size": 17658
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-246-the-nursery-tunnel-preview.webp": {
+    "sha256": "74c6f186dc0c4265c5ef2c2cf36c1f4b89c635d3f3ce9c50398dba0b215ceefb",
+    "size": 20178
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-248-observatory-dome-inside-preview.webp": {
+    "sha256": "b8aa566843fe5d5fdc949f75eb497f426712e31983d1b374590fae4572de8e55",
+    "size": 17110
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-249-tailor-with-a-terminal-preview.webp": {
+    "sha256": "b2813eb32aed1de70eed1f68ad98fc8f3145d10dff32edfc9c6ce61490ceab89",
+    "size": 17372
+  },
+  "previews/osaka-jade/shelters/omarchy-shelter-247-painters-studio-north-light-preview.webp": {
+    "sha256": "1b536edaf52823a98fcc178c18450504c445020d1c7766be424e132f5ae5493b",
+    "size": 24882
   }
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T07:06:33.581488+00:00",
+  "generated_at": "2026-09-21T03:24:52.831122+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
   "kind": "theme",
-  "count": 250,
-  "total_size_bytes": 83891820,
+  "count": 500,
+  "total_size_bytes": 149822636,
   "collections": [
     {
       "collection": "countries",
@@ -23,8 +23,27 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/osaka-jade/countries/omarchy-country-AW-Aruba-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/countries/omarchy-country-AW-Aruba-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/osaka-jade/countries/omarchy-country-GM-Gambia-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/countries/omarchy-country-GM-Gambia-2K.webp"
+    },
+    {
+      "collection": "shelters",
+      "count": 250,
+      "total_size_bytes": 65930816,
+      "directory": "images/osaka-jade/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/shelters",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 65930816,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Shelters",
+      "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.1.0/previews/osaka-jade/shelters/omarchy-shelter-121-the-bonsai-workshop-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.1.0/images/osaka-jade/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp"
     }
   ],
   "palette": [
