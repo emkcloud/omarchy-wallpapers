@@ -95,6 +95,12 @@ Previews are **lossy** (WebP q80, 640x360) derived from the themed wallpapers, n
 - Branch: `main`.
 - Remote: `git@github.com:emkcloud/omarchy-wallpapers.git`.
 
+## S3 publishing (content CDN)
+
+`images/`, `masters/` and `previews/` are gitignored and served from S3 (`s3://emkcloud.content.us/wallpapers/<version>`); `datasets/` is tracked in git but is published there too. Publish with the `omarchy-wallpapers-to-s3` skill (`scripts/sync-to-s3.sh <version> --dry-run` first, then without). The version prefix lives in `datasets/config.json` (`url_base`) and is mirrored in `scripts/wallpapers.py` (`DATASETS_URL`, `__version__`); after changing it, regenerate the datasets.
+
+**Iteration model.** The version currently in progress (e.g. `1.2`) is a **dev-only preview**: developers see it, end users still see the previously published version. While a version is dev-only it is acceptable to overwrite its S3 prefix (re-sync the same version), so the `immutable` cache is not a concern. When the work is finished, the dev-only version is published to everyone and development moves on to the next version (e.g. `1.3`). Never overwrite a version that has already been announced to end users.
+
 ## Safety net (read before changing anything)
 
 Every change must be explainable and reversible. Follow these rules without exception:
