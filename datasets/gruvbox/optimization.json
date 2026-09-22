@@ -1998,5 +1998,2005 @@
   "previews/gruvbox/countries/omarchy-country-ZW-Zimbabwe-preview.webp": {
     "sha256": "b682f8d3eb71f24885049cc2d6a6cc36edb1ad81810234020e46c933f409228e",
     "size": 59210
+  },
+  "images/gruvbox/shelters/omarchy-shelter-049-flooded-street-boat-2K.webp": {
+    "sha256": "a5247ca89f73b47fe832d614f209bc35cd38b10d04c85b36777b14c0406b970e",
+    "size": 788236
+  },
+  "images/gruvbox/shelters/omarchy-shelter-100-the-bookmobile-2K.webp": {
+    "sha256": "c02d70ce78d7a9c7bc25f5f0b544c72b76a76636c4f1c283e6191f3a42f93536",
+    "size": 536198
+  },
+  "images/gruvbox/shelters/omarchy-shelter-150-greenhouse-bedroom-2K.webp": {
+    "sha256": "6a75f87d8b9ce4cbb0e66a80dc866686c8dc270f3fc6dd02ee75b11bc94b2bc6",
+    "size": 724580
+  },
+  "images/gruvbox/shelters/omarchy-shelter-200-rooftop-ramen-2K.webp": {
+    "sha256": "8f2ac25421f58a38ef4fb5c2ad4a1a6c238c6c9340182d9f3e2ef5393515e8b6",
+    "size": 636922
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-005-rooftop-sauna-preview.webp": {
+    "sha256": "918697c475e26f449cc27ee3860bec660cabd1416088d54e324cb839d32e463a",
+    "size": 45638
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-052-grounded-fuselage-preview.webp": {
+    "sha256": "cec82b42bf406a129bdaa07600d3c8a6f635d292e8f6f582ecb55b1c7f6750ac",
+    "size": 30176
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-100-the-bookmobile-preview.webp": {
+    "sha256": "0391b4849e4243fe241268fa8d06f92cdaf09f501270c7d61bba6f1bc865b920",
+    "size": 36010
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-151-the-terminal-at-the-end-preview.webp": {
+    "sha256": "675f7c7ac0b7b2d79e0eece46fa79f80f169af39c6440271386f7da317ad498a",
+    "size": 44464
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-200-rooftop-ramen-preview.webp": {
+    "sha256": "e205877ba610c36fb6376c168f032f6c299e1f9c2fd28731473b1ec494ab05f4",
+    "size": 38568
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-250-rooftop-cinema-preview.webp": {
+    "sha256": "f60858036ce21516fbd89deae638440ed3a793443d0094d4f22d47cee351c323",
+    "size": 41728
+  },
+  "images/gruvbox/shelters/omarchy-shelter-007-the-map-room-2K.webp": {
+    "sha256": "7b8f74baef9f1485474a207accd2f319ac3e4c6fd1d046d498a9e89551881063",
+    "size": 539280
+  },
+  "images/gruvbox/shelters/omarchy-shelter-008-pinball-repair-2K.webp": {
+    "sha256": "ad2a5465be36119e079ef142cef2e70c944cce4b9b7b7f6c9b9ebb7781c7c652",
+    "size": 668636
+  },
+  "images/gruvbox/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp": {
+    "sha256": "8b4879c30c725b9cc4bb9e5d22a116e85c1c9af39478c655b56ffbc4792f352d",
+    "size": 697240
+  },
+  "images/gruvbox/shelters/omarchy-shelter-006-moss-garden-teahouse-2K.webp": {
+    "sha256": "676c29b808ac24ccf8b0fb02d9005f9cf7b5adad428e26027f7fa587080ca7d1",
+    "size": 883130
+  },
+  "images/gruvbox/shelters/omarchy-shelter-005-rooftop-sauna-2K.webp": {
+    "sha256": "0c478fc717cf423f5d152a66fd320684c68c233d58aaef4c77d98cdbb6ad1170",
+    "size": 650214
+  },
+  "images/gruvbox/shelters/omarchy-shelter-001-helicopter-on-the-roof-2K.webp": {
+    "sha256": "a85d33ecb26359042a8af61fa50852bd9d746209cc951f75bed159c248d90305",
+    "size": 576498
+  },
+  "images/gruvbox/shelters/omarchy-shelter-002-the-instrument-rental-2K.webp": {
+    "sha256": "5f1e09f03d83b05c9395fb7148b580a2564656ddb985025b70801a5b9c4d6f1d",
+    "size": 859442
+  },
+  "images/gruvbox/shelters/omarchy-shelter-003-the-old-windmill-2K.webp": {
+    "sha256": "03e5932be21030ea3c0118295a8126f68e7f0af9b9c8ff29e200a1c84193e053",
+    "size": 497346
+  },
+  "images/gruvbox/shelters/omarchy-shelter-009-fire-lookout-tower-2K.webp": {
+    "sha256": "7c603c1d0ee0b31fd7b3b14eac2865e1980c6f52e2bf16331dc516eae9ec4d8b",
+    "size": 712054
+  },
+  "images/gruvbox/shelters/omarchy-shelter-011-vending-machine-corner-2K.webp": {
+    "sha256": "2837154574599dc5ff0d3a1a14da60c0dfe15703ab559774745a9bbeef6dd0ab",
+    "size": 678112
+  },
+  "images/gruvbox/shelters/omarchy-shelter-012-the-fish-tank-room-2K.webp": {
+    "sha256": "3856ae0511ea70471e7bca9652956750ea3181c4527baaff14a85d7f1225bba1",
+    "size": 572406
+  },
+  "images/gruvbox/shelters/omarchy-shelter-010-control-tower-abandoned-2K.webp": {
+    "sha256": "69a37a9925a1dfb002775a5654bdf0a80c21b4e817174a9b6ca994f2889af5e7",
+    "size": 651978
+  },
+  "images/gruvbox/shelters/omarchy-shelter-013-the-vinyl-basement-2K.webp": {
+    "sha256": "8df993c63512bd7e4edd3d9a5b547f61902688c1eddfa46baf9a9cb4c555edb4",
+    "size": 680260
+  },
+  "images/gruvbox/shelters/omarchy-shelter-016-rooftop-noodle-cart-2K.webp": {
+    "sha256": "97a747784607529b77fa7a184192497d15802cd5589659c892791effc7c95345",
+    "size": 573446
+  },
+  "images/gruvbox/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp": {
+    "sha256": "9e57775d8a15affc2138ecd60cab7d99fb0950103ce2438501834ab00821f758",
+    "size": 734070
+  },
+  "images/gruvbox/shelters/omarchy-shelter-015-laundry-terrace-2K.webp": {
+    "sha256": "ea50e1a96f0ce0a45b4ab7a644e82f1ff475a9c5ade57d9880f3569903a4d2e1",
+    "size": 689602
+  },
+  "images/gruvbox/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-2K.webp": {
+    "sha256": "a3b1332c9615cbcd00436026932ceaa19d28e02fe0f3e955e55458b2873183a4",
+    "size": 740536
+  },
+  "images/gruvbox/shelters/omarchy-shelter-017-the-tea-corner-2K.webp": {
+    "sha256": "4c0c8c22a9614adb3c7fb27f613bc11f57be37ed6d226e423512ad8163ac6a86",
+    "size": 753610
+  },
+  "images/gruvbox/shelters/omarchy-shelter-021-airstream-under-the-overpass-2K.webp": {
+    "sha256": "04339d0318d4b6b09944052cf8e8e1657c9b2a331adaeaaca0e9204c3b4e41a7",
+    "size": 446190
+  },
+  "images/gruvbox/shelters/omarchy-shelter-020-stadium-under-seats-2K.webp": {
+    "sha256": "bf38e1795eb8524d93c6ef19e60e1ec6484f9de8a877fc1285a45e7f14f4720d",
+    "size": 738942
+  },
+  "images/gruvbox/shelters/omarchy-shelter-019-the-guard-hut-2K.webp": {
+    "sha256": "efb0d48daa034362d489f7f2a90666cff5ce350bde70195533c1b21359d96cd0",
+    "size": 639558
+  },
+  "images/gruvbox/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
+    "sha256": "72bd442f023246f902d5b77245f9184c4d5627f8e38fd90a7f55665b4fbcb9c2",
+    "size": 671154
+  },
+  "images/gruvbox/shelters/omarchy-shelter-024-the-elevator-machine-room-2K.webp": {
+    "sha256": "3e4c6b468659778fbf3444be34a80c089f630ff1a4f5ce33bef2b30dcbcc0e60",
+    "size": 630816
+  },
+  "images/gruvbox/shelters/omarchy-shelter-023-the-satellite-dish-den-2K.webp": {
+    "sha256": "4fe0faff97a0fdc8e480f57c0bc7e18ca5722c1f182f76e3ab02d32ac6e64754",
+    "size": 551112
+  },
+  "images/gruvbox/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-2K.webp": {
+    "sha256": "9349ec9a90c654fc6972b9cb6558c59f681694d321b1d10cac35ce2096320937",
+    "size": 423276
+  },
+  "images/gruvbox/shelters/omarchy-shelter-026-rooftop-hammock-deck-2K.webp": {
+    "sha256": "45183dc39e6e3557d93ae4a74e59a1388b0f4322d77cf6e3f1bd6f6e09006cf0",
+    "size": 496938
+  },
+  "images/gruvbox/shelters/omarchy-shelter-027-attic-of-maps-2K.webp": {
+    "sha256": "ea59039d4242b307aa0dc7af4917fff0c6c4aa0adc474a7d0771316aeca0fde6",
+    "size": 518002
+  },
+  "images/gruvbox/shelters/omarchy-shelter-025-aerial-walkway-hut-2K.webp": {
+    "sha256": "556fe7ca1bef347d63cdc9916931f605a34cf63b7334ed6af904c80ec6ebb996",
+    "size": 781154
+  },
+  "images/gruvbox/shelters/omarchy-shelter-029-the-fishmonger-ice-2K.webp": {
+    "sha256": "9e601fc7ea62d1a90120dacea94a2b325019049d34a189e48e0c3d7e4c01c4ce",
+    "size": 630796
+  },
+  "images/gruvbox/shelters/omarchy-shelter-030-crane-cabin-home-2K.webp": {
+    "sha256": "31ffeb673867422e898fcdab8161f3c56b9a19636861b5153a26f88078a05de5",
+    "size": 591036
+  },
+  "images/gruvbox/shelters/omarchy-shelter-031-sewing-machine-row-2K.webp": {
+    "sha256": "2f0f9d53ef3dffb5f6472c45fd64e58c525cdb47d20d1bbf2ecb8f9d39c31e4e",
+    "size": 621994
+  },
+  "images/gruvbox/shelters/omarchy-shelter-032-rooftop-orchard-2K.webp": {
+    "sha256": "1823922d10e93a3b17ff6adbb662060accbd1395ef3c96174858d5781703ba59",
+    "size": 862950
+  },
+  "images/gruvbox/shelters/omarchy-shelter-034-boat-on-a-trailer-2K.webp": {
+    "sha256": "00b985ab6bd1fe121ebb0fc30be53feafacde035f8ce355335680322b8efa57d",
+    "size": 651922
+  },
+  "images/gruvbox/shelters/omarchy-shelter-033-the-battery-yard-camp-2K.webp": {
+    "sha256": "e41bdea61d708adcb938d02c5471ce16e7a6bf10186b573e6b787cd2d7b9e132",
+    "size": 932578
+  },
+  "images/gruvbox/shelters/omarchy-shelter-035-caravan-on-the-ledge-2K.webp": {
+    "sha256": "d85add42649b7c98ea54be31bbe61dfa3b77a22f78e1b52c6867a568628db2f1",
+    "size": 818294
+  },
+  "images/gruvbox/shelters/omarchy-shelter-036-the-armoured-greenhouse-2K.webp": {
+    "sha256": "0221cd489a96d701aa6a2f722bc1a60b92bd9daa909fac45d067c6cf469b09d1",
+    "size": 742900
+  },
+  "images/gruvbox/shelters/omarchy-shelter-037-capsule-hotel-pod-2K.webp": {
+    "sha256": "436700cd02ec2187987e2a9e3caab6c188a993ad4e960d14d910bd840985c992",
+    "size": 680984
+  },
+  "images/gruvbox/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp": {
+    "sha256": "f99d8a6e77d592278da27f2fffd3c612ae1a8d25d74144247f6cdaa1d5ed094a",
+    "size": 658732
+  },
+  "images/gruvbox/shelters/omarchy-shelter-039-the-recording-booth-2K.webp": {
+    "sha256": "8921ad82eced7bbf41a6314e21c6a10c6b7fde62a8c2a431c9d4be5acd1cae64",
+    "size": 607790
+  },
+  "images/gruvbox/shelters/omarchy-shelter-040-bicycle-workshop-2K.webp": {
+    "sha256": "a9e7103efaa6dbdcd73061cbc6d4d5a727ecf7e4434ad6faa5cb0a5cf0fd6291",
+    "size": 711664
+  },
+  "images/gruvbox/shelters/omarchy-shelter-042-the-aquarium-shop-2K.webp": {
+    "sha256": "1133a57da0280af8276d2c470ec3d9acbadefc7bff5e113d3e1a303a56187d06",
+    "size": 509978
+  },
+  "images/gruvbox/shelters/omarchy-shelter-043-the-map-shop-2K.webp": {
+    "sha256": "cafdf10b4858b50298a14fd2d5faaf40b5573d51d9ab1fe991b5e4128c83bf42",
+    "size": 398576
+  },
+  "images/gruvbox/shelters/omarchy-shelter-041-the-ferry-cabin-2K.webp": {
+    "sha256": "6a7dc82e3dac08646ba92acdb59472ded19bb385d38106a236ae5564121bcf45",
+    "size": 635934
+  },
+  "images/gruvbox/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-2K.webp": {
+    "sha256": "44db28510dbe5cdb0e68acb0d222a49579ffa22b4fd6c48ef4588b12b88fd814",
+    "size": 875660
+  },
+  "images/gruvbox/shelters/omarchy-shelter-044-nursery-of-seedlings-2K.webp": {
+    "sha256": "cb818e55e0d18661a9af76e40aa358d007e0528ce2a2c209d0f6b3f190a9b429",
+    "size": 625400
+  },
+  "images/gruvbox/shelters/omarchy-shelter-046-the-toy-hospital-2K.webp": {
+    "sha256": "7ee3ebfd086841a68bf53c4a34bedde40932f5881924b9899174038f11b05e58",
+    "size": 779092
+  },
+  "images/gruvbox/shelters/omarchy-shelter-048-pontoon-greenhouse-2K.webp": {
+    "sha256": "f5ea9e7a1403614e5cb4842052fa5afff1011fa1988d20718c41169b92c5bb7e",
+    "size": 633376
+  },
+  "images/gruvbox/shelters/omarchy-shelter-047-pedestrian-bridge-hut-2K.webp": {
+    "sha256": "df1ba5f9e0fceb3d5d4f1bf0205c2a9daf27a2710a52663463be75bb25d3a043",
+    "size": 775578
+  },
+  "images/gruvbox/shelters/omarchy-shelter-050-the-freight-depot-2K.webp": {
+    "sha256": "19740d4f47e3d5f36351527fcb72528d6df3da1d3278f1d35960130a5c2e02f2",
+    "size": 540466
+  },
+  "images/gruvbox/shelters/omarchy-shelter-051-ice-cream-truck-winter-2K.webp": {
+    "sha256": "796d8b312af15cd04c6425bddd3555ffe6d25d099af634722c1cff39dc9debb8",
+    "size": 548998
+  },
+  "images/gruvbox/shelters/omarchy-shelter-052-grounded-fuselage-2K.webp": {
+    "sha256": "e3ae7f08c50f2134083d88df1ffbab457c27791eb6c6b451bda0a86bea3fe4b9",
+    "size": 355326
+  },
+  "images/gruvbox/shelters/omarchy-shelter-053-the-projection-booth-2K.webp": {
+    "sha256": "74091d9e4259ba6909a79f72b85c583bfdb9d7bc653bd0d671962b77bb042b6a",
+    "size": 486774
+  },
+  "images/gruvbox/shelters/omarchy-shelter-054-the-midnight-bus-2K.webp": {
+    "sha256": "816451053eb010c5d654e37d7abf7b7b40fa2473d25e963ba1db2992607562ee",
+    "size": 639618
+  },
+  "images/gruvbox/shelters/omarchy-shelter-055-the-server-room-bed-2K.webp": {
+    "sha256": "e49f16e9ee9fd5c5b3db87d919b352c5cdc1cf8d729e6acf67fe23d45cf37438",
+    "size": 507478
+  },
+  "images/gruvbox/shelters/omarchy-shelter-056-the-bell-tower-2K.webp": {
+    "sha256": "dd6be9110de4a04252b4c0b3063d301b6f7b21024525e09552d69693feb7c44b",
+    "size": 692310
+  },
+  "images/gruvbox/shelters/omarchy-shelter-058-armoured-van-archive-2K.webp": {
+    "sha256": "fbdd0e00d87b2b8790145563a42379d51d9b33af3935fc2f1721ea217ed1e8f8",
+    "size": 611296
+  },
+  "images/gruvbox/shelters/omarchy-shelter-057-sampan-kitchen-2K.webp": {
+    "sha256": "8aa8215d4f1e96b3713b372618a24bedfc6c177257c6844330ca3c2b4cdf17be",
+    "size": 798854
+  },
+  "images/gruvbox/shelters/omarchy-shelter-060-rooftop-koi-pond-2K.webp": {
+    "sha256": "b64e424a81914d3f98c3c6da212d56c0da767f5f8ccf211735f12dfe850a91e5",
+    "size": 932212
+  },
+  "images/gruvbox/shelters/omarchy-shelter-059-the-sluice-house-2K.webp": {
+    "sha256": "2f62844377edb78451c2d4f894b76df24ca39064c085d798532211620e89b657",
+    "size": 869782
+  },
+  "images/gruvbox/shelters/omarchy-shelter-061-combine-harvester-house-2K.webp": {
+    "sha256": "867084e8fbdd710aa56badada0c888d7f65f4287ebaefcfffc6f2500cfa854e1",
+    "size": 866104
+  },
+  "images/gruvbox/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-2K.webp": {
+    "sha256": "5ee4862213764b966b89ece34f705efd9f55fa78501c414e3025ec80167a9785",
+    "size": 561052
+  },
+  "images/gruvbox/shelters/omarchy-shelter-063-the-camera-shop-2K.webp": {
+    "sha256": "05f08acc3a66c8757972e5354717e44e683d302cec3be2486778cf457dc39eb5",
+    "size": 715744
+  },
+  "images/gruvbox/shelters/omarchy-shelter-065-the-ferry-waiting-room-2K.webp": {
+    "sha256": "7a5e0d74aa996e113e34f7c1009c6119d158c0b0e754f2d97fcacd653749df71",
+    "size": 800104
+  },
+  "images/gruvbox/shelters/omarchy-shelter-067-the-one-room-with-a-view-2K.webp": {
+    "sha256": "dd45b0ed88da96bf4d5a862bbbf5798e8ced89cec4fcf7688e241f8dc330a383",
+    "size": 359468
+  },
+  "images/gruvbox/shelters/omarchy-shelter-068-electronics-repair-shop-2K.webp": {
+    "sha256": "387a21b2a02893f65db1d1863f50296445a99a78f64f1b3bd4429befbc6a6246",
+    "size": 427258
+  },
+  "images/gruvbox/shelters/omarchy-shelter-066-the-rooftop-greenhouse-2K.webp": {
+    "sha256": "444a8cbd4305992d50789aa3b39913d7335901bd670154819b87083edf31bd4d",
+    "size": 705402
+  },
+  "images/gruvbox/shelters/omarchy-shelter-064-the-petrol-station-2K.webp": {
+    "sha256": "e4eb89aac4b36f76424c4c27d8313cc6393206f33fae54aea761ac0f799c8488",
+    "size": 743022
+  },
+  "images/gruvbox/shelters/omarchy-shelter-069-the-underpass-room-2K.webp": {
+    "sha256": "bd53cf56403b617739b59a0c2fb503bc734c7fed9fe814e30ef52d6ff6dac907",
+    "size": 757462
+  },
+  "images/gruvbox/shelters/omarchy-shelter-070-water-tower-lantern-2K.webp": {
+    "sha256": "bc0ff796832912c8e5aa2bb4e2a455327b8d584c264692f33970e4e2c2d4ff08",
+    "size": 768832
+  },
+  "images/gruvbox/shelters/omarchy-shelter-071-archive-of-tapes-2K.webp": {
+    "sha256": "61f34028eebc2fedbdefb313a96afe74992a1a515b190712885aa23fea6d5790",
+    "size": 664738
+  },
+  "images/gruvbox/shelters/omarchy-shelter-072-hacker-loft-of-monitors-2K.webp": {
+    "sha256": "de4f234291e995a2751761c841fa4aab4b27ae57010e1097599fc86daacaf3b9",
+    "size": 501868
+  },
+  "images/gruvbox/shelters/omarchy-shelter-075-the-apiary-in-the-park-2K.webp": {
+    "sha256": "31cd6cbe8a2a1449637121bf8eb9d41e69c2ca0a5e119db152acb08ce5e02f97",
+    "size": 647092
+  },
+  "images/gruvbox/shelters/omarchy-shelter-073-rooftop-onsen-2K.webp": {
+    "sha256": "042c90ab09ff171306dc173f5c6e366b74c1f88f299bc8c4e4fc312af28d9bd9",
+    "size": 752638
+  },
+  "images/gruvbox/shelters/omarchy-shelter-076-the-cable-car-station-2K.webp": {
+    "sha256": "7175e1adaac325580af100f7ba2d546eb7eaf8e05bb6ad21b305ae57873dc2bc",
+    "size": 1139552
+  },
+  "images/gruvbox/shelters/omarchy-shelter-074-postal-van-darkroom-2K.webp": {
+    "sha256": "26a359b4b44234bfd740ef5b70f840b18bd581ff0f72866ebb3fc03a9c53e83b",
+    "size": 774958
+  },
+  "images/gruvbox/shelters/omarchy-shelter-077-the-clockmakers-window-2K.webp": {
+    "sha256": "bd20201cc240df586250b8c8d5d97c85b8a33f9e24180585c1cd80b06fdd6a76",
+    "size": 440692
+  },
+  "images/gruvbox/shelters/omarchy-shelter-078-dormer-window-desk-2K.webp": {
+    "sha256": "b0f42710a9ed046700c492d783e66211bd0b411653d719646ebccdfa9dcd647f",
+    "size": 604716
+  },
+  "images/gruvbox/shelters/omarchy-shelter-079-candle-and-circuit-2K.webp": {
+    "sha256": "d50142922998c7171af088960b48341f4eb2a9ad1442e0fc49ffcbdce45c66b5",
+    "size": 601794
+  },
+  "images/gruvbox/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-2K.webp": {
+    "sha256": "6076d0211ac9ef05e79b522657ff157d1b54ad30d4376c780698c24a81ebf448",
+    "size": 413458
+  },
+  "images/gruvbox/shelters/omarchy-shelter-080-tunnel-mouth-camp-2K.webp": {
+    "sha256": "1195334c0e10c4a0c158efad6032b885ccf41be9c91e97df699b972362c8549b",
+    "size": 818770
+  },
+  "images/gruvbox/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-2K.webp": {
+    "sha256": "4aa5f93c1b1489c103b90d1bdd1c0742b9ece51177f6e604b3501356267dd088",
+    "size": 637074
+  },
+  "images/gruvbox/shelters/omarchy-shelter-084-tea-house-and-server-rack-2K.webp": {
+    "sha256": "490fdb6773b3f8ba27b4af9b204a1fbfcef01acd0088786deb995117c6c941a0",
+    "size": 640252
+  },
+  "images/gruvbox/shelters/omarchy-shelter-083-the-pier-shack-2K.webp": {
+    "sha256": "f94729a7f49ca46340ffcd5fd677ef24bc2a6e672a1d0affd8bf295dbd479882",
+    "size": 726784
+  },
+  "images/gruvbox/shelters/omarchy-shelter-085-the-beekeeper-terrace-2K.webp": {
+    "sha256": "0a7aded043b33d5848e99f039f76ab474ffc849f16cef085bffd6e4763d6c3bd",
+    "size": 616342
+  },
+  "images/gruvbox/shelters/omarchy-shelter-086-the-tea-and-modem-2K.webp": {
+    "sha256": "7e19a00b760518fb60a71ec9300791a7e1c0576fe70089aad3eca9fe4e8eba8a",
+    "size": 364278
+  },
+  "images/gruvbox/shelters/omarchy-shelter-089-server-farm-bedroom-2K.webp": {
+    "sha256": "1c9aa4dedf066282fd235ae1789d98168d812161254a02a09ac92cfa7c66e967",
+    "size": 475006
+  },
+  "images/gruvbox/shelters/omarchy-shelter-088-shack-above-the-neon-2K.webp": {
+    "sha256": "a1689e7449f627859823129127700a4902e3853550e6fe5dee1b9885f1008e97",
+    "size": 682326
+  },
+  "images/gruvbox/shelters/omarchy-shelter-087-zeppelin-gondola-2K.webp": {
+    "sha256": "31366f3856866e1f143a9ed460b9a80070d0a459d8be242c71d1255ceae230f8",
+    "size": 617730
+  },
+  "images/gruvbox/shelters/omarchy-shelter-090-solar-panel-garden-2K.webp": {
+    "sha256": "9a9b5fbe7c162c93a109b2deacc05e6e384f0d6ede4807aeffa91a8c7dfca707",
+    "size": 928498
+  },
+  "images/gruvbox/shelters/omarchy-shelter-091-water-tower-loft-2K.webp": {
+    "sha256": "615d8ebd2c46a2867b72b48d6e37397390f9a11b2aad31f3addef31ef55ea3ba",
+    "size": 653906
+  },
+  "images/gruvbox/shelters/omarchy-shelter-092-the-weighbridge-office-2K.webp": {
+    "sha256": "9bd3aa901f5efae198a60c0aec0eec0dff81bfeb9c894d80ec497bca9bdc5480",
+    "size": 781646
+  },
+  "images/gruvbox/shelters/omarchy-shelter-093-the-penthouse-shanty-2K.webp": {
+    "sha256": "19910e85c45cdb59c19dd3a491f04f12c076935252d1c86001abe090a9d46505",
+    "size": 688826
+  },
+  "images/gruvbox/shelters/omarchy-shelter-094-bathtub-with-a-skyline-2K.webp": {
+    "sha256": "4e5c0730dd56410e8353ac14c657896c456e083bdd3c722b9814bb3590402d40",
+    "size": 766568
+  },
+  "images/gruvbox/shelters/omarchy-shelter-096-the-lamp-shop-2K.webp": {
+    "sha256": "741fb3123d439f0fbe4398ce27a545da14660721027eb14a487c98e0d0078998",
+    "size": 560366
+  },
+  "images/gruvbox/shelters/omarchy-shelter-095-late-night-copy-shop-2K.webp": {
+    "sha256": "4ab9fcff1e1a83e477394bd0b652911d0d8ebb66bec90a8f9037e7a43133f547",
+    "size": 696686
+  },
+  "images/gruvbox/shelters/omarchy-shelter-097-the-canal-lock-house-2K.webp": {
+    "sha256": "f98d9eead00174ed44b36c78c9b68f48e0eafb33105e2fe0fbfed5687324047d",
+    "size": 867080
+  },
+  "images/gruvbox/shelters/omarchy-shelter-098-billboard-scaffold-camp-2K.webp": {
+    "sha256": "914107330955a9edd24fd1e2783da67caa10d9f8bb0f881322b9672f549f1395",
+    "size": 618132
+  },
+  "images/gruvbox/shelters/omarchy-shelter-099-stairwell-landing-desk-2K.webp": {
+    "sha256": "a3724bc93470cd2d14e19fff17808ac4cb03f26a23c273051cd266802a187b18",
+    "size": 619714
+  },
+  "images/gruvbox/shelters/omarchy-shelter-101-the-allotment-shed-2K.webp": {
+    "sha256": "3443434d30f4a1c89382031d59c6b95856ffa1f7bfbf82a2ac7645d932bdfda2",
+    "size": 716276
+  },
+  "images/gruvbox/shelters/omarchy-shelter-102-the-bookbinder-2K.webp": {
+    "sha256": "64be00a6d7a115e4c2cfaeb56b513fea8a0b091074880454465638d89cb03c6d",
+    "size": 802466
+  },
+  "images/gruvbox/shelters/omarchy-shelter-103-stairwell-hut-2K.webp": {
+    "sha256": "f60491b4d5bcad2fa842f302baa504ef21dbd518c92662ed3ff20405cbce5ec6",
+    "size": 769844
+  },
+  "images/gruvbox/shelters/omarchy-shelter-104-laundromat-at-3am-2K.webp": {
+    "sha256": "09ce5cc8550303a61e009087ddfd344fa81c46ac32d08d600e96282d565d0610",
+    "size": 1000562
+  },
+  "images/gruvbox/shelters/omarchy-shelter-105-the-cable-junction-hut-2K.webp": {
+    "sha256": "3c854a31d3e4e0c3d3ca8f0de515ef2da15409bdd324263c7a54ff967dbb1ddb",
+    "size": 494888
+  },
+  "images/gruvbox/shelters/omarchy-shelter-106-the-tattoo-parlour-2K.webp": {
+    "sha256": "7e647da69ed307c792117a1e3fb9dbc30829bb53dedb97d68886be7f39764aa6",
+    "size": 844840
+  },
+  "images/gruvbox/shelters/omarchy-shelter-107-rooftop-radio-station-2K.webp": {
+    "sha256": "ab4d37fae2e55a5bcd1c0babc8768724e4bd60c24d16a2aa02715174f8031e1c",
+    "size": 570116
+  },
+  "images/gruvbox/shelters/omarchy-shelter-108-the-ruined-arch-2K.webp": {
+    "sha256": "fc270015ef945e423b0276a052a8896dae4da412bd9a80884aded55d63985df1",
+    "size": 606790
+  },
+  "images/gruvbox/shelters/omarchy-shelter-109-library-in-the-fog-2K.webp": {
+    "sha256": "408133a474f7278eb976bdc78636764c38eea19386a64ec4373009423450dc01",
+    "size": 767022
+  },
+  "images/gruvbox/shelters/omarchy-shelter-110-harbour-crane-cabin-2K.webp": {
+    "sha256": "67840810d65e3e394943d206916d328b1855e4a3835b714a5aad6eb0ca52cb0e",
+    "size": 668480
+  },
+  "images/gruvbox/shelters/omarchy-shelter-113-canal-side-flower-barge-2K.webp": {
+    "sha256": "0cacca3ba80899c4aeccb65d23b37d055a66b5111f6671f00237b751cf359474",
+    "size": 842668
+  },
+  "images/gruvbox/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-2K.webp": {
+    "sha256": "b7b9b40f1ff18156000c3534952ede43971972313e09979582da105685147220",
+    "size": 697868
+  },
+  "images/gruvbox/shelters/omarchy-shelter-115-the-empty-office-home-2K.webp": {
+    "sha256": "e0a401a5865204a5a460c3a5d223dc801c3825c0af831a93ba17354fecd6e177",
+    "size": 557206
+  },
+  "images/gruvbox/shelters/omarchy-shelter-111-the-sewing-room-2K.webp": {
+    "sha256": "c1461a4c9208112f366491739375dfd2b8c1e158bb911826a63b5dbd335f5299",
+    "size": 728860
+  },
+  "images/gruvbox/shelters/omarchy-shelter-114-the-ski-lift-shed-2K.webp": {
+    "sha256": "651246900f0e9b6b12fc66cda58847088f1a0e373bafa4f319ca99017a3b778e",
+    "size": 770168
+  },
+  "images/gruvbox/shelters/omarchy-shelter-117-loft-of-open-cases-2K.webp": {
+    "sha256": "fdcaeea58aa25773b15b3d0f6028e484b6bd317fd1e92bae62f07896d45e91a9",
+    "size": 471662
+  },
+  "images/gruvbox/shelters/omarchy-shelter-116-datacenter-noodle-bar-2K.webp": {
+    "sha256": "97591ea554f2e4dd4855fa4dea121f4278a1cfcaeb749761251a51de7aa16b1b",
+    "size": 707976
+  },
+  "images/gruvbox/shelters/omarchy-shelter-118-the-rooftop-bar-2K.webp": {
+    "sha256": "d3fd66f7abe185b23e665265f31c1ee5e45b60e90c4d348d1e1d058d2bbb8fd1",
+    "size": 1166688
+  },
+  "images/gruvbox/shelters/omarchy-shelter-120-airfield-hangar-corner-2K.webp": {
+    "sha256": "4e51ce7f6ca3be46e00c144b4e4a81a95af2e3dba3ba5d065a33f8839337fdff",
+    "size": 513796
+  },
+  "images/gruvbox/shelters/omarchy-shelter-122-mechanics-loft-2K.webp": {
+    "sha256": "1722c1834ce2a07bb9b23fd04dd0a7903e7a8a60c534d289087e32257dddc456",
+    "size": 561256
+  },
+  "images/gruvbox/shelters/omarchy-shelter-119-rooftop-bathhouse-2K.webp": {
+    "sha256": "0bc7c89ab5ec2a46add2ddb34f3bff16c1423173d83f89bd1b06b48bd37c8067",
+    "size": 558796
+  },
+  "images/gruvbox/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp": {
+    "sha256": "035e6f7e21acf273f99cfa890f4707b624b2778fbc0ba0fa7093e693956f13f9",
+    "size": 576610
+  },
+  "images/gruvbox/shelters/omarchy-shelter-125-study-with-two-chairs-2K.webp": {
+    "sha256": "bcef5545b6ff6b19a4b56921ba40fe80ac0bb19c68c10bb93b77c874be8994f9",
+    "size": 596184
+  },
+  "images/gruvbox/shelters/omarchy-shelter-123-the-shipwreck-room-2K.webp": {
+    "sha256": "825f4a8c4e85c8fa78390e004bb2fd55c5ae4d9d14513f0591105e4a63a8886f",
+    "size": 688876
+  },
+  "images/gruvbox/shelters/omarchy-shelter-124-grain-silo-home-2K.webp": {
+    "sha256": "bb1bf6375a0cfa0cc51345b2a330c6bd5adf1d9cb63bae7673ebba5c2b518ac2",
+    "size": 457460
+  },
+  "images/gruvbox/shelters/omarchy-shelter-126-ambulance-refuge-2K.webp": {
+    "sha256": "e129ae2f8f7e235d84f54c860abdf4d5a1f2d2a647dcc83f97023ea4cddadf48",
+    "size": 1065798
+  },
+  "images/gruvbox/shelters/omarchy-shelter-127-floating-market-stall-2K.webp": {
+    "sha256": "e9336e2d8fd91efda6a59ec7e5bbba35f16004d14c138d3724dbb26e7a679c88",
+    "size": 886202
+  },
+  "images/gruvbox/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp": {
+    "sha256": "370bd6c9a30ac356292318f4bced9251415a9c3c767dd82ba837c3d4b97c4736",
+    "size": 486352
+  },
+  "images/gruvbox/shelters/omarchy-shelter-129-the-milk-float-2K.webp": {
+    "sha256": "ee0fcdc2efa7fd2ccab4d43f937eda0acf36454bb45afcb603db28f60fcd08a3",
+    "size": 711158
+  },
+  "images/gruvbox/shelters/omarchy-shelter-133-flower-stall-rain-2K.webp": {
+    "sha256": "a9669b251f09692bc8bb01d1ed9600b3defc11773e0c96a92f58878ea8aa0b1e",
+    "size": 500354
+  },
+  "images/gruvbox/shelters/omarchy-shelter-131-urban-vineyard-hut-2K.webp": {
+    "sha256": "81996d6ee990711adea10cc39419b2d6caa1cbf6210e5cf3ca93e8579c7f8782",
+    "size": 842210
+  },
+  "images/gruvbox/shelters/omarchy-shelter-130-bulldozer-den-2K.webp": {
+    "sha256": "0b8e4244d106f8251620560ca42b6933a2cc9a45f15cd74ad90d86d48c78f3d8",
+    "size": 730090
+  },
+  "images/gruvbox/shelters/omarchy-shelter-132-the-freight-nest-2K.webp": {
+    "sha256": "bb1748b7ad05f6b37a118d49d84e42234a43627036c8893c52717439866efbbe",
+    "size": 758464
+  },
+  "images/gruvbox/shelters/omarchy-shelter-134-houseboat-of-lanterns-2K.webp": {
+    "sha256": "4888ab7b0d0d7b5b74501fc5a2422d00e0d08f1cdadeaf498c43e32063eb2096",
+    "size": 690760
+  },
+  "images/gruvbox/shelters/omarchy-shelter-135-limousine-lounge-2K.webp": {
+    "sha256": "862ba3b7d5b8b625eefb16f69ccedeba276d9367631a55113c2d603213fd416b",
+    "size": 562050
+  },
+  "images/gruvbox/shelters/omarchy-shelter-136-snowplough-shelter-2K.webp": {
+    "sha256": "0f12d859aea620f7892d7bdd09543f847b724362f472c22c618d67a5f43b01a8",
+    "size": 763764
+  },
+  "images/gruvbox/shelters/omarchy-shelter-139-the-last-terrace-2K.webp": {
+    "sha256": "c77aec0e9fb49886200c27788f1a305c247a132472ee82e44be80570b239992d",
+    "size": 627070
+  },
+  "images/gruvbox/shelters/omarchy-shelter-137-crane-yard-office-2K.webp": {
+    "sha256": "78f95440de6fdb173d0f97bce8025249103cb770fd7d84900978b6234b992aa9",
+    "size": 709476
+  },
+  "images/gruvbox/shelters/omarchy-shelter-141-subway-entrance-kiosk-2K.webp": {
+    "sha256": "eb35d04898156d905bd49a7a89b1e2c3ac1064b81c0749d847ab09e74d36735a",
+    "size": 683482
+  },
+  "images/gruvbox/shelters/omarchy-shelter-138-control-room-of-nothing-2K.webp": {
+    "sha256": "8aae07aa4de2d3112a7fcf9fff2d0c3c4230fd878b37dc54d554dc0a2b719694",
+    "size": 514386
+  },
+  "images/gruvbox/shelters/omarchy-shelter-140-the-clocktower-room-2K.webp": {
+    "sha256": "eb2469759b5d3a517fb6285c6f4ee5746d932bec788f9b828d6c3351f3be6511",
+    "size": 707132
+  },
+  "images/gruvbox/shelters/omarchy-shelter-143-the-observatory-shed-2K.webp": {
+    "sha256": "0e85462fa5ca1bf451e4c8959bfb6f61dbf4280b18d7f2ce95c2626e127bbbed",
+    "size": 510858
+  },
+  "images/gruvbox/shelters/omarchy-shelter-144-dry-dock-home-2K.webp": {
+    "sha256": "c4ccf8cab5b5bdbf30c3a2111a19a3014493ac98fa1425aceb8b69fcff7e74b6",
+    "size": 708320
+  },
+  "images/gruvbox/shelters/omarchy-shelter-142-the-boiler-room-home-2K.webp": {
+    "sha256": "8a037fa4a894ef6763565e7d174bbfec74889de0050bea6d15cd73a9d636e02b",
+    "size": 819748
+  },
+  "images/gruvbox/shelters/omarchy-shelter-145-dam-keepers-house-2K.webp": {
+    "sha256": "ad8a3354a132d668608fdff13f3bda764c7a0ef8157964b81bf29f2a99865133",
+    "size": 660034
+  },
+  "images/gruvbox/shelters/omarchy-shelter-147-the-window-seat-2K.webp": {
+    "sha256": "be3c45dfc3a5ade46df59a6ce60835faec17f5ec9cd2e4cb9a2275c704f16a29",
+    "size": 606424
+  },
+  "images/gruvbox/shelters/omarchy-shelter-146-bakery-back-room-2K.webp": {
+    "sha256": "d69e9ca9ffa1ca4a8f0434802a1aec1b070eaa15617599da70863244a533a7b1",
+    "size": 606584
+  },
+  "images/gruvbox/shelters/omarchy-shelter-149-the-last-westfalia-2K.webp": {
+    "sha256": "8213c4843b7103dc2203a5af02c246d9072f3f81211ab058ac89a5ed7f2e7e0d",
+    "size": 497716
+  },
+  "images/gruvbox/shelters/omarchy-shelter-148-pigeon-loft-lantern-2K.webp": {
+    "sha256": "d6bd4cbd5ddb2baa15cd55ab424d90008bb5ccb6c7a3568b581a50d16c553893",
+    "size": 688860
+  },
+  "images/gruvbox/shelters/omarchy-shelter-151-the-terminal-at-the-end-2K.webp": {
+    "sha256": "1417b7937a9b40d9e75c37c9a9fd991263ec131b7951d03f21d3f7cd5067a632",
+    "size": 751168
+  },
+  "images/gruvbox/shelters/omarchy-shelter-152-skylight-studio-2K.webp": {
+    "sha256": "9e557ef8d38f4d8da301b1acc2d340415026ea6566e064c0b2a882e1446a8fef",
+    "size": 912428
+  },
+  "images/gruvbox/shelters/omarchy-shelter-153-the-kitchen-at-four-2K.webp": {
+    "sha256": "a828ac3714a93d64d80ff349f469a298e83004bf8b80b6e4219e5bdcdadac86e",
+    "size": 598130
+  },
+  "images/gruvbox/shelters/omarchy-shelter-154-fire-truck-kitchen-2K.webp": {
+    "sha256": "618d7b45f87f806c54dc1f6bf129242337ba02f4d320d62d2b5ef11c9353846d",
+    "size": 594456
+  },
+  "images/gruvbox/shelters/omarchy-shelter-155-the-scaffold-shack-2K.webp": {
+    "sha256": "ce2529bd42b7b9e77bf0337215b224d265da9c192667efabbd28dbd975753181",
+    "size": 578442
+  },
+  "images/gruvbox/shelters/omarchy-shelter-156-bakery-before-dawn-2K.webp": {
+    "sha256": "a34639c3904d76853a1f054389bf2e30559409741d5a067f45d75542234e2105",
+    "size": 931674
+  },
+  "images/gruvbox/shelters/omarchy-shelter-157-prosthetics-workshop-2K.webp": {
+    "sha256": "056dbdcd9f80a73ab741b47ca413f00c0fc89f4abbd6ee6f90b29f26d79bce34",
+    "size": 778738
+  },
+  "images/gruvbox/shelters/omarchy-shelter-158-the-ramen-alley-2K.webp": {
+    "sha256": "05b5784036d68b61efdbdc89e7d1fdca7016ecace3f24c7c352759d85f349eca",
+    "size": 464684
+  },
+  "images/gruvbox/shelters/omarchy-shelter-159-dovecote-tower-2K.webp": {
+    "sha256": "e7fcc599421cc3bc08dd8f0e3c86205f5308f78d868e94a2f53961beb4f366ba",
+    "size": 859140
+  },
+  "images/gruvbox/shelters/omarchy-shelter-160-pigeon-race-roof-2K.webp": {
+    "sha256": "b43b6480a1bca949649efe4ade1b8546ec540a718c5a7ab7e3d77a12d7ed1f91",
+    "size": 596064
+  },
+  "images/gruvbox/shelters/omarchy-shelter-161-the-kite-workshop-2K.webp": {
+    "sha256": "4f40aa2b20c260988f240f292dc1da27c5c0ec7f03da2133eadd3ccf83a6bc7c",
+    "size": 541852
+  },
+  "images/gruvbox/shelters/omarchy-shelter-162-signal-tower-cabin-2K.webp": {
+    "sha256": "96ed320b7f49542dbf44a35e805cac55d4cf077321bd6db5f7fd5853ba31f7aa",
+    "size": 836582
+  },
+  "images/gruvbox/shelters/omarchy-shelter-163-rooftop-tent-camp-2K.webp": {
+    "sha256": "ecd0dfc3b602c80826840f58cf81e5f4ca7cc4ec3b6df1d9de09b60c4951be23",
+    "size": 538844
+  },
+  "images/gruvbox/shelters/omarchy-shelter-164-cockpit-library-2K.webp": {
+    "sha256": "69e19a8e60dddd3b79af6b6254267cbef54d33aebc1c5e150d872ff871305be4",
+    "size": 585310
+  },
+  "images/gruvbox/shelters/omarchy-shelter-166-the-glasshouse-library-2K.webp": {
+    "sha256": "41dfb990a628f3f6c2365c761641262485e9acf0333927b480bcaea129769988",
+    "size": 677862
+  },
+  "images/gruvbox/shelters/omarchy-shelter-165-rooftop-vineyard-2K.webp": {
+    "sha256": "2901c146186c36cdb5c9fb2ffe02ba5690f96cbfd014b415d05ce74af264499a",
+    "size": 651474
+  },
+  "images/gruvbox/shelters/omarchy-shelter-167-the-guitar-luthier-2K.webp": {
+    "sha256": "7d071599ebc0534237e402c1974662a5cce2e9a04378ffe5f7f6b2ff371fe699",
+    "size": 780202
+  },
+  "images/gruvbox/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp": {
+    "sha256": "842ab0074c370c2a3fbf01dbccaa94b989c85545f836575672865e4975b875f3",
+    "size": 571396
+  },
+  "images/gruvbox/shelters/omarchy-shelter-169-the-cinema-marquee-dark-2K.webp": {
+    "sha256": "a1b1e3bbd7a17b5c083df50800d569558dd3f4a0f937a0aff32a3dbd8c9b2b90",
+    "size": 782830
+  },
+  "images/gruvbox/shelters/omarchy-shelter-170-fire-escape-garden-2K.webp": {
+    "sha256": "4b8a22eb419a73ef069751d4da7edc7dedb59a8fd679c769b8eee5110610780e",
+    "size": 594684
+  },
+  "images/gruvbox/shelters/omarchy-shelter-171-rooftop-chapel-2K.webp": {
+    "sha256": "083487b6bb433eacd25c6c837201563b41605ba2ce3665acc616665145317bb6",
+    "size": 1102250
+  },
+  "images/gruvbox/shelters/omarchy-shelter-172-the-watch-repair-bench-2K.webp": {
+    "sha256": "51bca55ce9b2023c5c0fa229bee137bc996379b8e90cb4abfa37e1acd49e272b",
+    "size": 578660
+  },
+  "images/gruvbox/shelters/omarchy-shelter-173-the-gatekeepers-lodge-2K.webp": {
+    "sha256": "8cf1c4243cc861da153d0654601ae90b9daab7a1fc86cbc23f62e0e88f6876f4",
+    "size": 761252
+  },
+  "images/gruvbox/shelters/omarchy-shelter-174-the-quarry-hut-2K.webp": {
+    "sha256": "01d3586b20169b16571124ce760b0fb908f6febcbb2ee1453d5d5b5082931280",
+    "size": 731928
+  },
+  "images/gruvbox/shelters/omarchy-shelter-175-newsstand-island-2K.webp": {
+    "sha256": "a76087c80ec8aff99690c7461a0f80b84b5430f6d6be33018913cd2bb0a8a6be",
+    "size": 602810
+  },
+  "images/gruvbox/shelters/omarchy-shelter-177-dumpling-window-2K.webp": {
+    "sha256": "a64e1f4da720898bd210164d1f93908aab180250732a101abfefe70095cbbe90",
+    "size": 572424
+  },
+  "images/gruvbox/shelters/omarchy-shelter-176-the-taxi-garden-2K.webp": {
+    "sha256": "d7ee4fff3ac513d7f66f30ae8074f98ecff0aa16c9631338e1cd3ccb40694a90",
+    "size": 623400
+  },
+  "images/gruvbox/shelters/omarchy-shelter-178-stilt-house-over-water-2K.webp": {
+    "sha256": "ddd0317bb740458062f5b375e8e29e9a8bc9b924090ed07bee2e0fd2a7338f38",
+    "size": 737192
+  },
+  "images/gruvbox/shelters/omarchy-shelter-179-the-radio-pirate-2K.webp": {
+    "sha256": "b117eb0259c3ac076b31f23271a1fbf3b97c32e367c88cd9ee0a54f150ccf9f4",
+    "size": 513458
+  },
+  "images/gruvbox/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-2K.webp": {
+    "sha256": "3f6b5c538ad0ba2e0e4448a6f8f4de6591fc790acad2517a9f64376a7e0cc853",
+    "size": 532548
+  },
+  "images/gruvbox/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp": {
+    "sha256": "9ebdba9efb27968e68af5d655586643b8e4571da11ad804794aeae5a73d4ad25",
+    "size": 757360
+  },
+  "images/gruvbox/shelters/omarchy-shelter-182-the-drone-port-shack-2K.webp": {
+    "sha256": "525a1da9827f9b38a642c08e0a3ec2a55a80d597ed16f5c2d5a67e64140b78e5",
+    "size": 484404
+  },
+  "images/gruvbox/shelters/omarchy-shelter-183-pigeon-post-office-2K.webp": {
+    "sha256": "7b4914b89ddbff6b5637b77a13b957eb0da51966a6780bfc3ef3490cf3a00f71",
+    "size": 751882
+  },
+  "images/gruvbox/shelters/omarchy-shelter-184-the-piano-in-the-dark-2K.webp": {
+    "sha256": "a22f197bdd21a7a065fdb7f2f5d916298266c3fbf568c182e58a405f43824c07",
+    "size": 540494
+  },
+  "images/gruvbox/shelters/omarchy-shelter-186-seed-bank-room-2K.webp": {
+    "sha256": "a868e11aa4f30d1f28f205626f79977734bb09cd5c32368c0fc6f31469933ffb",
+    "size": 649650
+  },
+  "images/gruvbox/shelters/omarchy-shelter-185-sleeper-car-atelier-2K.webp": {
+    "sha256": "1a3612b9275b499c3625474bf88d174d604fce9de5549fd4b0ae6f8da64e7373",
+    "size": 654924
+  },
+  "images/gruvbox/shelters/omarchy-shelter-187-empty-pool-camp-2K.webp": {
+    "sha256": "86f13508b342bc44b481d1dc904634e83aa81fe3ee98797e08121232691eb3ea",
+    "size": 638682
+  },
+  "images/gruvbox/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-2K.webp": {
+    "sha256": "51308d2753456d877ab2b5387ab75b86800c5d49bd93f27a82bdf105b4bba24f",
+    "size": 730870
+  },
+  "images/gruvbox/shelters/omarchy-shelter-189-submarine-hatch-home-2K.webp": {
+    "sha256": "c623e7da8da94c6a555252006fdcac6c9d36fe66d1e24021c4cb320906787137",
+    "size": 837328
+  },
+  "images/gruvbox/shelters/omarchy-shelter-190-drawbridge-cabin-2K.webp": {
+    "sha256": "bd1a8b80a7be74912f71bc80ece0c2e5a9b7a9dd8645ef443c9513d16c6d4c71",
+    "size": 680882
+  },
+  "images/gruvbox/shelters/omarchy-shelter-191-workshop-of-clocks-2K.webp": {
+    "sha256": "fec5538f8529b009bfa7f1c8eea5fca2b6479a25e9725e8d4c37c8e52a6d8775",
+    "size": 548598
+  },
+  "images/gruvbox/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp": {
+    "sha256": "554ded4e882e5263b4490ac055419b237c7112ce6031e3686947b92e5ba5eeb9",
+    "size": 716112
+  },
+  "images/gruvbox/shelters/omarchy-shelter-193-laundry-room-blue-2K.webp": {
+    "sha256": "8201cbc47d8098a28e8343b0df042f01ca2c6a099fcc2046b5bd40028cb75b74",
+    "size": 767520
+  },
+  "images/gruvbox/shelters/omarchy-shelter-194-record-press-workshop-2K.webp": {
+    "sha256": "cb763b5c8ceb9ade3bd990fa17791ec3f39729a1a68367ec964719c792530fea",
+    "size": 712398
+  },
+  "images/gruvbox/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp": {
+    "sha256": "0e88c784aee5750e62bfe06bbf3125f1030a4ea3e0b8f3fd8e1fed275853d07e",
+    "size": 477464
+  },
+  "images/gruvbox/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp": {
+    "sha256": "16b942c78ac3303aa7962b06098199e5fc51b018af9b27f127f4ccd4b1f10173",
+    "size": 474294
+  },
+  "images/gruvbox/shelters/omarchy-shelter-199-the-key-cutter-2K.webp": {
+    "sha256": "37ff5361e09b43b0287e607e0cadcda112323ce96ef0b0a29028b38d1e3c4c5d",
+    "size": 553312
+  },
+  "images/gruvbox/shelters/omarchy-shelter-197-chimney-side-hut-2K.webp": {
+    "sha256": "89b4befdfc150f66864bf89a9e63eb35e639df1bdd8a01b33c6e6d26967bc506",
+    "size": 881144
+  },
+  "images/gruvbox/shelters/omarchy-shelter-198-curtain-of-cables-2K.webp": {
+    "sha256": "da0b7be10ba39079bd9449468062ed848ac378e313e2ab5950d6ab9c0e6a625f",
+    "size": 655380
+  },
+  "images/gruvbox/shelters/omarchy-shelter-201-the-rooftop-forge-2K.webp": {
+    "sha256": "4c69b5237a00e38a59a71401aa362306c9d79dbacfe9e4b539c0051dfad0dcbb",
+    "size": 436690
+  },
+  "images/gruvbox/shelters/omarchy-shelter-202-whisky-bar-one-seat-2K.webp": {
+    "sha256": "03d60bcc9f7902e5b892eb642df6bd5e90fcad95ab1907b0252958130173f1ad",
+    "size": 610904
+  },
+  "images/gruvbox/shelters/omarchy-shelter-203-the-telescope-window-2K.webp": {
+    "sha256": "0a8dc4ed1e1c5bf925b089a7b2065f813e20964abc2057bff75f1a03cda8ee8c",
+    "size": 570220
+  },
+  "images/gruvbox/shelters/omarchy-shelter-204-the-barge-garden-2K.webp": {
+    "sha256": "568c96285f5de4868b591b83fe89995353cd7ae97d551b56a7ef99020b40b38f",
+    "size": 983742
+  },
+  "images/gruvbox/shelters/omarchy-shelter-205-coffee-roastery-night-2K.webp": {
+    "sha256": "ec9351d64576a2ba3f9ab9b077711bcf62333aaf161da0a61adb973620905433",
+    "size": 575110
+  },
+  "images/gruvbox/shelters/omarchy-shelter-206-the-mail-train-caboose-2K.webp": {
+    "sha256": "b39f6c434edace144f91727f6e3b3263c986b37f818d7b1cfe0d3122b0d366c3",
+    "size": 780304
+  },
+  "images/gruvbox/shelters/omarchy-shelter-207-shoe-repair-and-solder-2K.webp": {
+    "sha256": "8e53a76587f43e5e887da22cc5253350e4da256613e300672b2eeb51454031c2",
+    "size": 725676
+  },
+  "images/gruvbox/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp": {
+    "sha256": "d75fe5b947a176a539c8b141ec64418996b6f1ba70949bfafad83ef2a78e1a89",
+    "size": 546736
+  },
+  "images/gruvbox/shelters/omarchy-shelter-208-transformer-station-home-2K.webp": {
+    "sha256": "139ccac8018011f0994dcd0017cbf2ff75d580ecc4887d1252a40a7e86f6901b",
+    "size": 804460
+  },
+  "images/gruvbox/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp": {
+    "sha256": "a055cc688debe8089e247735f677748915197a8211611f3bc4c529af127daf97",
+    "size": 607240
+  },
+  "images/gruvbox/shelters/omarchy-shelter-211-deconsecrated-chapel-2K.webp": {
+    "sha256": "a4a7f4edb79ae88fa5ba16d4ef7326b3b569b1e7d20f7cb49ca6c37e4574b0f8",
+    "size": 549446
+  },
+  "images/gruvbox/shelters/omarchy-shelter-212-the-radio-parts-stall-2K.webp": {
+    "sha256": "750228e2d459ab9f713f458dc21f92a20399c1562003b8ca27c9f1b64418a15a",
+    "size": 701956
+  },
+  "images/gruvbox/shelters/omarchy-shelter-213-monorail-capsule-2K.webp": {
+    "sha256": "f36f290c8ee119c552813f645851863c524604cfa2faefd4e6efef5af667e197",
+    "size": 638976
+  },
+  "images/gruvbox/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-2K.webp": {
+    "sha256": "096c04f938739498aff3ced4704f9dbf4e7e3eb26314c65b284efcb8f0b649bb",
+    "size": 561964
+  },
+  "images/gruvbox/shelters/omarchy-shelter-215-the-typewriter-hospital-2K.webp": {
+    "sha256": "bd71e62e7c76c326d78518a1de2b6733c863224d3e9fe7f4bfad69eecb9cee61",
+    "size": 623804
+  },
+  "images/gruvbox/shelters/omarchy-shelter-217-lighthouse-lamp-room-2K.webp": {
+    "sha256": "fcccf9a3d2950467394d4af8db4df3d56df50376e868ea195eec62c1e4edac49",
+    "size": 544972
+  },
+  "images/gruvbox/shelters/omarchy-shelter-216-the-oyster-shed-2K.webp": {
+    "sha256": "476acfb877c3ef77eea4f0bb5f4e1f1a4cc21b209960aa00d8fcd2940036534a",
+    "size": 664356
+  },
+  "images/gruvbox/shelters/omarchy-shelter-218-the-chess-table-2K.webp": {
+    "sha256": "16de1efef51e2940b6692f52204821de4d5b41f78b0d00385d64ce5521feba7d",
+    "size": 737162
+  },
+  "images/gruvbox/shelters/omarchy-shelter-220-the-forklift-camp-2K.webp": {
+    "sha256": "61d8c4fc691db9b9783ee7cb7b727265c68a887774b0d25c6e5658df5efcd618",
+    "size": 555514
+  },
+  "images/gruvbox/shelters/omarchy-shelter-219-the-barber-and-the-cat-2K.webp": {
+    "sha256": "4c2b8207cc396d9b85873c68489c8e1ba9a0148c9eda8f418f50dce4b4395e1f",
+    "size": 674638
+  },
+  "images/gruvbox/shelters/omarchy-shelter-221-hotel-room-forever-2K.webp": {
+    "sha256": "bbc7f0d3c3687158e66f2859adda40c0e028559dd6f87a6b40aeaeb307def172",
+    "size": 907948
+  },
+  "images/gruvbox/shelters/omarchy-shelter-222-vertical-farm-corner-2K.webp": {
+    "sha256": "6b58f3e1560c11420de7a82394ffc6b0a5a975190c92524a0c0b9004f09c4e22",
+    "size": 569952
+  },
+  "images/gruvbox/shelters/omarchy-shelter-224-tugboat-galley-2K.webp": {
+    "sha256": "e43c7e550f631fd95a9f454dacd5e16152d452865e62e61585c270ab2698a682",
+    "size": 535772
+  },
+  "images/gruvbox/shelters/omarchy-shelter-223-tractor-and-awning-2K.webp": {
+    "sha256": "f9118384310271a780a0c6cf88b8e9919f8553b62c346e711d048556dc4ddb3e",
+    "size": 570780
+  },
+  "images/gruvbox/shelters/omarchy-shelter-225-bus-shelter-alone-2K.webp": {
+    "sha256": "4c224c32a26c7a243fd25d284353f5bd3935d7c0cc7c912a5bb34bae0caa4e4d",
+    "size": 734478
+  },
+  "images/gruvbox/shelters/omarchy-shelter-227-the-billboard-back-room-2K.webp": {
+    "sha256": "3704c1d3e9b99b7d95a52ba0841c623a3a7f47a04786c238e6508f72d7a7a6b3",
+    "size": 516952
+  },
+  "images/gruvbox/shelters/omarchy-shelter-226-bamboo-grove-hut-2K.webp": {
+    "sha256": "4fa6153d77ab04a3f7ac748592f7ae2ef345069613b5609ce6d1b68972d3abe3",
+    "size": 786500
+  },
+  "images/gruvbox/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp": {
+    "sha256": "93e17348a397450dcb0a275fde823dc5faa6d17e081d2bed06ce9504855595e8",
+    "size": 856122
+  },
+  "images/gruvbox/shelters/omarchy-shelter-229-signal-box-on-the-line-2K.webp": {
+    "sha256": "815fc794668753dff80f93641b4f5016f345323d8c4ff620f76bcda2c7547e69",
+    "size": 519546
+  },
+  "images/gruvbox/shelters/omarchy-shelter-230-the-last-phone-box-2K.webp": {
+    "sha256": "ec6e24ccd45d64021796a33ad73370915082253e05320c37d3340f328669b121",
+    "size": 526556
+  },
+  "images/gruvbox/shelters/omarchy-shelter-231-the-antenna-farm-shack-2K.webp": {
+    "sha256": "a23c8c341b57b7e6f23d90333eafc12ca795124609d5dd962e7de3164af1a2b5",
+    "size": 742946
+  },
+  "images/gruvbox/shelters/omarchy-shelter-232-sidecar-repair-shop-2K.webp": {
+    "sha256": "63680946f463f0df5e6a273df643ccbe954298264c64b11ad0e692a74da0f0e9",
+    "size": 798788
+  },
+  "images/gruvbox/shelters/omarchy-shelter-233-the-antenna-keeper-2K.webp": {
+    "sha256": "cd49ae18bbbf387e18f67c97d2091f4bd4f07fda47e6e565a064468728d65282",
+    "size": 995014
+  },
+  "images/gruvbox/shelters/omarchy-shelter-234-the-terrarium-wall-2K.webp": {
+    "sha256": "805ac4cd38ade61dfd4799533444ad84e8b382b539c78118bff6f33325fc6591",
+    "size": 755156
+  },
+  "images/gruvbox/shelters/omarchy-shelter-235-the-rickshaw-kitchen-2K.webp": {
+    "sha256": "f7010c06a3fef902bea377138f17a3d56ef63aee93d385eb68c8001306962532",
+    "size": 555588
+  },
+  "images/gruvbox/shelters/omarchy-shelter-236-the-drone-clinic-2K.webp": {
+    "sha256": "1b3d2d757f923aad89c9f5412d6ad9b2e911489e0593f59e450f1e13180ae092",
+    "size": 538492
+  },
+  "images/gruvbox/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp": {
+    "sha256": "341c26f33250e00ec053552d26f0032febb9539eed3aac66e3b7dffb3ab3f71f",
+    "size": 488822
+  },
+  "images/gruvbox/shelters/omarchy-shelter-238-the-pawn-shop-window-2K.webp": {
+    "sha256": "78692e62a2fd328cbe51e90a29a140cd3d69db37b7fd84b55b241806f926820d",
+    "size": 611874
+  },
+  "images/gruvbox/shelters/omarchy-shelter-239-the-clinic-after-hours-2K.webp": {
+    "sha256": "fbd293eabebbbac53c70f6acce81a20780e0daf15ebf5d4f38f50e2fec2381b8",
+    "size": 682518
+  },
+  "images/gruvbox/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-2K.webp": {
+    "sha256": "ca43e62e5b5253c893949335d96f9c67e1bfa468d0e9384b372a27f9c372cf23",
+    "size": 809966
+  },
+  "images/gruvbox/shelters/omarchy-shelter-241-the-fern-house-2K.webp": {
+    "sha256": "1c0485534f7315f9168b7e33b547a7532f8d5f5e60f2734f9f3fa4c843094c53",
+    "size": 717196
+  },
+  "images/gruvbox/shelters/omarchy-shelter-242-comic-shop-back-issues-2K.webp": {
+    "sha256": "810769e8bd2a8cc98196225ecba6d8b41ae57304c9f3e26340337792ef44ba4a",
+    "size": 559302
+  },
+  "images/gruvbox/shelters/omarchy-shelter-244-water-tank-house-2K.webp": {
+    "sha256": "f346a0611f343338e89042c05196e156b208b0ec841d5aea5258903bc9fab95e",
+    "size": 677096
+  },
+  "images/gruvbox/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-2K.webp": {
+    "sha256": "465d7901e98019e7a325acd0c83e8bfeda98e1a357bee54cc272e84183c927a9",
+    "size": 605094
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-001-helicopter-on-the-roof-preview.webp": {
+    "sha256": "a2698ae4a7477f8079466dadb2763a057e57efe28466b43beb3fe48780d02b81",
+    "size": 37496
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-003-the-old-windmill-preview.webp": {
+    "sha256": "63769fd86920be98dcd08d00e9a3dc961c21241a8bf7095947adbd424f65a81f",
+    "size": 34648
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-002-the-instrument-rental-preview.webp": {
+    "sha256": "efbc2845c4b4ae96ae9c0f31e85dcc44f58131059839db9c55f9dec9cb7896af",
+    "size": 51740
+  },
+  "images/gruvbox/shelters/omarchy-shelter-245-hovercraft-skirt-camp-2K.webp": {
+    "sha256": "b133ab25e67f1651d6941d4cdfb6f28947bd9f687b9f54325c05acf5ed13a975",
+    "size": 814206
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-004-mahjong-parlour-window-preview.webp": {
+    "sha256": "6c290eff3b894423999afe44937e8fc387f3668069cfba3cf39ab61a96586108",
+    "size": 44086
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-006-moss-garden-teahouse-preview.webp": {
+    "sha256": "468cfa9ca5ba927f3f3bba68217a80c313cd27134d3570d9bdff53a0d4920112",
+    "size": 56774
+  },
+  "images/gruvbox/shelters/omarchy-shelter-246-the-nursery-tunnel-2K.webp": {
+    "sha256": "ceb4a237dc27f92fc124f41969650f21cb4afbcffd6c4246a68643d2fff73bfc",
+    "size": 676222
+  },
+  "images/gruvbox/shelters/omarchy-shelter-247-painters-studio-north-light-2K.webp": {
+    "sha256": "5f0064cc77314d55bf0785074502e832b66764b33f1c0e8f69b3aae6e46d7846",
+    "size": 899186
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-007-the-map-room-preview.webp": {
+    "sha256": "89a908167003f6974d52983537cf484aaeee5360aae035d52f990766a24307fd",
+    "size": 41178
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-008-pinball-repair-preview.webp": {
+    "sha256": "194a42aaa5ce6247372230e8ed123f21815490a60c30eda53cb99d696d7657af",
+    "size": 39928
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-009-fire-lookout-tower-preview.webp": {
+    "sha256": "1d2ee4a9551d19bf1cd6a408c32e6ca3770ebf6fefa3142c97253b00bfdd17a8",
+    "size": 46204
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-010-control-tower-abandoned-preview.webp": {
+    "sha256": "269a73eefa43b45a66a8f39767bef123be2f111b5ef48576f9f814a04fcf1f44",
+    "size": 43838
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-011-vending-machine-corner-preview.webp": {
+    "sha256": "140ccce4280f868070e1840fe36687e2b5a7bc679da3d498888eb049c4861c60",
+    "size": 47872
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-012-the-fish-tank-room-preview.webp": {
+    "sha256": "34fd4239bafd0a78359085715e4a07338f348e6f9afb1fadc1e2e6e04fcb55fa",
+    "size": 37470
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-013-the-vinyl-basement-preview.webp": {
+    "sha256": "d954010846dd60206a4c1965aedc3c9fca21598f9c58838aa3befa632b4deb1d",
+    "size": 44386
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp": {
+    "sha256": "43fec9d50d451a22ecf140df918a12060ea7eb211e398078bcd9647cc53045f4",
+    "size": 46420
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-015-laundry-terrace-preview.webp": {
+    "sha256": "828acd9d25a03dabc1f55dfa89c802e01f201e14355c9eb41a068fa6f1971f2d",
+    "size": 43326
+  },
+  "images/gruvbox/shelters/omarchy-shelter-248-observatory-dome-inside-2K.webp": {
+    "sha256": "3c227be2ca262d86f04aa69d72247b6b3fef703c177d63f2e29235c04d3d4bde",
+    "size": 786440
+  },
+  "images/gruvbox/shelters/omarchy-shelter-250-rooftop-cinema-2K.webp": {
+    "sha256": "1442a43a0ebeaf97e3401b9aedfa80e42164a30261ec84159c58731b54bbc9d4",
+    "size": 681314
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-016-rooftop-noodle-cart-preview.webp": {
+    "sha256": "66d0bf0994c00f28787d44a48f0a54440e282e1a1cbdc74d3868ea60855860f5",
+    "size": 38846
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-017-the-tea-corner-preview.webp": {
+    "sha256": "4c33be594882cfcb9d49a36fda2629849e3a620e7deb95e0831bec29bdb7e41c",
+    "size": 50910
+  },
+  "images/gruvbox/shelters/omarchy-shelter-249-tailor-with-a-terminal-2K.webp": {
+    "sha256": "16dfbb8a0fb0d03134cfa735928408c36fca328316e7a73b76870f40cf13af5b",
+    "size": 630608
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-preview.webp": {
+    "sha256": "7d66d84e3916054f77414425418eda2efb0ffaa06930667e25450ad447256b5e",
+    "size": 57326
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-019-the-guard-hut-preview.webp": {
+    "sha256": "39ac8ba517e0fa8905303eb32cb2f6ccc47ebab92886f9b2336de0a18d1720b4",
+    "size": 45858
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-020-stadium-under-seats-preview.webp": {
+    "sha256": "8f1971006b6fba4cb386242e9da9110a00f8d50d1076285d209bc2e23459ca8d",
+    "size": 46306
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-021-airstream-under-the-overpass-preview.webp": {
+    "sha256": "0b71f35ca9786abe721c66d8e93379a1072fd1cab1b0cd01fe9548874644849f",
+    "size": 34250
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-023-the-satellite-dish-den-preview.webp": {
+    "sha256": "d07a00b524a33633a5eb39862bb0e2cecbcd61f8a1762af6eda9cfba2ac1356e",
+    "size": 32686
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-022-parking-garage-level-nine-preview.webp": {
+    "sha256": "194a2d883ba3b5c9df049687c3993816f9ec692925e55f74630fd0a228ff73ed",
+    "size": 51318
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-024-the-elevator-machine-room-preview.webp": {
+    "sha256": "fcb3cac12cb8399ff1c1aff0dd339962d8c870f19ae83e1a35830f849feb9b8c",
+    "size": 42502
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-025-aerial-walkway-hut-preview.webp": {
+    "sha256": "ff186872436440d2d6c87b64f54881519ff9b2764c5200155f9664dc60dc3ead",
+    "size": 41228
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-026-rooftop-hammock-deck-preview.webp": {
+    "sha256": "d8d10314a26c16485a4dfeb124e7dd8c2240d8c506e1ecc7e1fac15e2105d431",
+    "size": 39698
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-027-attic-of-maps-preview.webp": {
+    "sha256": "58135a69f40e469ff69e6bbcacd653e13950e1b159f1ddabf2e1494f90ce9ded",
+    "size": 33490
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-preview.webp": {
+    "sha256": "e5df923cd3cd40b209760c298cc376f8efd148824572a957ad4552a71c1fd4ec",
+    "size": 30728
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-029-the-fishmonger-ice-preview.webp": {
+    "sha256": "65fa9d819b9fb58ddf5a7067b9e2d711899827737349c25090e3d182320539f9",
+    "size": 37846
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-030-crane-cabin-home-preview.webp": {
+    "sha256": "06b719c4ab6747f6d5e0b5c4b1dca7f058304fdb34a209cf1a7cfa67773a417c",
+    "size": 38560
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-031-sewing-machine-row-preview.webp": {
+    "sha256": "3ed6b4da2e9df965634cc5f61bec309fc8a0bf73e417584e6cf915c59279cf20",
+    "size": 38010
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-032-rooftop-orchard-preview.webp": {
+    "sha256": "91a835756ebec8483b1518d943d17f320feb8d8aeed50c467a213c840dda209e",
+    "size": 61264
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-033-the-battery-yard-camp-preview.webp": {
+    "sha256": "b9af70967d67df31c11f9b100ef7eaf3022386fd05d63f11d5cad751e6842a62",
+    "size": 56104
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-034-boat-on-a-trailer-preview.webp": {
+    "sha256": "9b9e172290b56cad9b95ef714adf80e5426868fccbaff239ef5384b55e880074",
+    "size": 44942
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-035-caravan-on-the-ledge-preview.webp": {
+    "sha256": "a3e2072533d8ff3e91be4f407456eb68be92e63a7ce4bdcb20cf12cc33c74c10",
+    "size": 56832
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-036-the-armoured-greenhouse-preview.webp": {
+    "sha256": "1c8f83386ee9d3a29cf6b50ab5c310b93b8529001bc9d26f9728635aa4e19da7",
+    "size": 46236
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-037-capsule-hotel-pod-preview.webp": {
+    "sha256": "78b8d6f2a1809807a1a51c0d4d2ae66700a4d6f526f67bc2af7d43f6291be6db",
+    "size": 39524
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-038-the-old-toll-bridge-preview.webp": {
+    "sha256": "36674674c12dad57451f78a7dde2b976e64424beafb8d5416438c885ffc0f8b9",
+    "size": 41950
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-039-the-recording-booth-preview.webp": {
+    "sha256": "5eba5276e14a4e592de31dae3defb30cd5cfc4dc843ed80ba1ba4fb9960c807e",
+    "size": 37930
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-040-bicycle-workshop-preview.webp": {
+    "sha256": "877689567aafc6bc441515b45f6b74fb786877e5d47572c78d31212a236240b7",
+    "size": 47224
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-042-the-aquarium-shop-preview.webp": {
+    "sha256": "3a155c84c1e8045f8af27ed3e7d99bf761a3b31cf1a79c4e61fcd71622f2bc34",
+    "size": 36370
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-041-the-ferry-cabin-preview.webp": {
+    "sha256": "d834849fadec219da0fc7b1139a655a830a4007c86f1bd60ae666c02b04c1958",
+    "size": 39444
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-043-the-map-shop-preview.webp": {
+    "sha256": "76c48793a625ae5b127afa4628f0878c1a003c783a04f0433d2e4f03dd696100",
+    "size": 33720
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-044-nursery-of-seedlings-preview.webp": {
+    "sha256": "0f8855abe75191bba2bb12a28cf9c3b17fdaacf60b0d887deb6c406b5058d28e",
+    "size": 40024
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-preview.webp": {
+    "sha256": "8a9a5c26722a3e8e33c252e517a426dfd033d321afd8504e3a2b71da63051071",
+    "size": 53166
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-046-the-toy-hospital-preview.webp": {
+    "sha256": "29fdb4d18aaf82db7ba9bb61cd6d41f91eaba8759fff436a422c76f5ff334ca0",
+    "size": 40868
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-047-pedestrian-bridge-hut-preview.webp": {
+    "sha256": "15c34538936beaee5759d215c8005894bf85cd469c08122ad64e5bf4e524e55d",
+    "size": 35704
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-048-pontoon-greenhouse-preview.webp": {
+    "sha256": "ef15dab4993454911b24a5d1876d7869a97b2d8406f4c39127d524ed1f4abc03",
+    "size": 50220
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-049-flooded-street-boat-preview.webp": {
+    "sha256": "bcaab6b5633d9526e48b5e8fd564b344b505cd9f05e20375d0e3d137f8e73837",
+    "size": 48590
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-050-the-freight-depot-preview.webp": {
+    "sha256": "2ee04bc297d5c7cf98e8775220063c0865548fd6cdbec0a48bbba05bc2aeb4ff",
+    "size": 45246
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-051-ice-cream-truck-winter-preview.webp": {
+    "sha256": "89fae06003166705d3a0b96bdea3190e8092724fdee80a899e126e62c4c8323e",
+    "size": 37468
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-053-the-projection-booth-preview.webp": {
+    "sha256": "81807841a8514e6ff1fde99212fd12518d8de6566796ed5aa2a3d322ea86e4f9",
+    "size": 37438
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-055-the-server-room-bed-preview.webp": {
+    "sha256": "99b4f4b2d782f287083e3e56a33db32cf9929c94c5576d2b0eacce1d4cc136aa",
+    "size": 37094
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-054-the-midnight-bus-preview.webp": {
+    "sha256": "8c9dad8a537d32028daaef95bb2881c8fce6be8b2a69fa00331d854b97c461b4",
+    "size": 52276
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-056-the-bell-tower-preview.webp": {
+    "sha256": "1a2f448b9bbc1a86e11aac623a7f5912144214f95cfb8edd7ca78a1b1254e529",
+    "size": 49134
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-058-armoured-van-archive-preview.webp": {
+    "sha256": "806d77814bb6e055e3ffc39ec0f46af9b4da5952e860a5d11f816561114aa596",
+    "size": 29900
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-059-the-sluice-house-preview.webp": {
+    "sha256": "843664939fef6853319147509ffcf462bca56eb204424d08219196604b83c673",
+    "size": 38564
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-057-sampan-kitchen-preview.webp": {
+    "sha256": "ec4b248d19f375494e70491640bfc3a9c2116ff1f7aa3a8740f9b2988f6e4388",
+    "size": 39822
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-060-rooftop-koi-pond-preview.webp": {
+    "sha256": "c07f05bc24d684c280a2ab596ea2de659fe2b4aabe9b6bcc8cceb2c347fa610a",
+    "size": 46858
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-061-combine-harvester-house-preview.webp": {
+    "sha256": "9ebdf25381d069322d11a22e3f3b6d8b31c9252de08c8ac07e6789aeed31ad71",
+    "size": 52594
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-063-the-camera-shop-preview.webp": {
+    "sha256": "925ce4b355417fdb8943d58da4900820417e3069e57f624a1f35e318fc37136e",
+    "size": 41068
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-preview.webp": {
+    "sha256": "ab137c427cf9d6d824ef30cdd4888104de5be25783d54abff079e8934bd1c609",
+    "size": 41676
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-064-the-petrol-station-preview.webp": {
+    "sha256": "daf51268356e05ee9f23826ce2767c9dd0d752513ceb14fd582c84a61bcb6155",
+    "size": 31710
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-065-the-ferry-waiting-room-preview.webp": {
+    "sha256": "e23998965b1102b7a67b94bccd2d3e81fec64633bd59928f365119cf073e2adb",
+    "size": 41998
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-067-the-one-room-with-a-view-preview.webp": {
+    "sha256": "e161796a3279e9a733635c9767d3a43d8b611efd72bceb14daee5058ad6b3371",
+    "size": 23652
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-066-the-rooftop-greenhouse-preview.webp": {
+    "sha256": "4c1dd2eda570af58b3a6c448c5aa9e5cc8bf138a533f64564ac88d41f46b0130",
+    "size": 46290
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-068-electronics-repair-shop-preview.webp": {
+    "sha256": "4e94a7d7bbb56c7508903a597860728e68c072f3b3de8809fafdfec709649de5",
+    "size": 35258
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-069-the-underpass-room-preview.webp": {
+    "sha256": "e69dbb05a2d9615a71f3bf78a0cafa0055a42466c33d1dd1d1a98d45b45772ff",
+    "size": 42958
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-070-water-tower-lantern-preview.webp": {
+    "sha256": "f419ca0c99e240d04850812baebaca4a1880ba630549e329aac0aadc23ae6086",
+    "size": 39310
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-071-archive-of-tapes-preview.webp": {
+    "sha256": "bf485ed7569963c1788d0270e2b45040b1273c822941ed60ff9161cee7356398",
+    "size": 47376
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-072-hacker-loft-of-monitors-preview.webp": {
+    "sha256": "ad73d6a7a79ef5396f6497fb2585d0d95d6552b447df3ded7d7121847f166305",
+    "size": 35684
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-073-rooftop-onsen-preview.webp": {
+    "sha256": "a93e9b4ede090a5c1ed3bb24da843cc8374876e7e24e4697ca63e16e2ebbfbf8",
+    "size": 48432
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-074-postal-van-darkroom-preview.webp": {
+    "sha256": "aecfdb8451fcf027b9541b33b54f4544ee9883d0f3d15e84d32b14f133d40404",
+    "size": 46826
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-076-the-cable-car-station-preview.webp": {
+    "sha256": "a937671e467f62559eadbd1066a74da2498c4fb496d3aaca3eadc5215ebe4f39",
+    "size": 54050
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-075-the-apiary-in-the-park-preview.webp": {
+    "sha256": "9fb9609b8f512be1c1e557f29f6400af86cfcf01e0347873fd38d3b2cb93d652",
+    "size": 49464
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-077-the-clockmakers-window-preview.webp": {
+    "sha256": "bea901a7408d1f1e3b7a4ab87bbf4a60cd183cea45daf5c9eff79c0d06c924d7",
+    "size": 34230
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-078-dormer-window-desk-preview.webp": {
+    "sha256": "b3e500197c4129133b4965a6fd549715cd380df570bde10231324e81d67604f7",
+    "size": 43520
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-079-candle-and-circuit-preview.webp": {
+    "sha256": "dc5ea308ecab0d99bf009ba270fbbaf79f39238eea6bdf730d8266fc2b8ee15d",
+    "size": 35340
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-080-tunnel-mouth-camp-preview.webp": {
+    "sha256": "5929d59932c6d7fbf4b7b7ef883839b4256160caa90c03de5447167b929091b9",
+    "size": 51734
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-preview.webp": {
+    "sha256": "d72ad6f2e4e393a1cdc3af7683cd08ced7cd86e30e9388fca5a5945f99e63ec6",
+    "size": 36206
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-preview.webp": {
+    "sha256": "328866267ca8e47a79f1de5b1f46f8901d327c239f5318477516749429b51415",
+    "size": 50146
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-083-the-pier-shack-preview.webp": {
+    "sha256": "2297593f1994d59e0e5ccd19815c614c26b9c7c8b4c62b830f9ee62acdc7b0c8",
+    "size": 46146
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-084-tea-house-and-server-rack-preview.webp": {
+    "sha256": "549e9d26b60b406a973d4e778e29b417095b85b32a5617198c417e8da9e2abbf",
+    "size": 40200
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-085-the-beekeeper-terrace-preview.webp": {
+    "sha256": "f7843fce7a808a2ed31d7c0303b943bbb4899c5e3274a915da15fb52725d71dc",
+    "size": 49950
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-086-the-tea-and-modem-preview.webp": {
+    "sha256": "f31aa79a608ae5c3038bc15701aa7c4dcd0e64a4b4a6ef5fd621d437819010e3",
+    "size": 30980
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-087-zeppelin-gondola-preview.webp": {
+    "sha256": "ac9afda432a8510fdbb4b88f38b2c442c4dd51bafa4d08b4717eaab2745f1580",
+    "size": 45000
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-088-shack-above-the-neon-preview.webp": {
+    "sha256": "a38e48806b969fbe874eb85329570044748e86d44c3a1df3acce05dd01cf97b6",
+    "size": 42150
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-089-server-farm-bedroom-preview.webp": {
+    "sha256": "cb1375b484613f6c4487c841cde8b5ef13c63e9c214cfb13cd46d960afd12ed7",
+    "size": 37842
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-091-water-tower-loft-preview.webp": {
+    "sha256": "1a023ef5f58d35ae3b6b6fb44ac3747a09682ecfed07d06a3594756cd307ec3f",
+    "size": 44678
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-092-the-weighbridge-office-preview.webp": {
+    "sha256": "970f6af860393568097b9abd2f4717e89c3f9f351d0f6676c4233c09d43302a2",
+    "size": 38414
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-090-solar-panel-garden-preview.webp": {
+    "sha256": "3cee60bdbd63baab5077ac7a2c63d18453c4ee410f288a9c8fa0e72938437590",
+    "size": 51840
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-093-the-penthouse-shanty-preview.webp": {
+    "sha256": "4b83ebc0513cdd5844c9ed8b012ee12580b796ef70b481fad59e370286f65c64",
+    "size": 47318
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-094-bathtub-with-a-skyline-preview.webp": {
+    "sha256": "c09666622f8f0188ffa5690f0d2c4f0785f5a7b60fbc26cc618b427bfb3f5669",
+    "size": 39084
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-096-the-lamp-shop-preview.webp": {
+    "sha256": "e30d29c0156a895928242124fb7ba7143c158843b198bb919fd91f767a3bebab",
+    "size": 39150
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-095-late-night-copy-shop-preview.webp": {
+    "sha256": "b4e9f170a475b2c8b0dfa96b60dc22f7861560b3ef83acfdd58bd75a9396e44a",
+    "size": 47782
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-097-the-canal-lock-house-preview.webp": {
+    "sha256": "752c5d1f7e19d530e67934f1d11f6bd03b23ff5a0c2fd692b856d91426398fd5",
+    "size": 57756
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-099-stairwell-landing-desk-preview.webp": {
+    "sha256": "09e5526dc3825924fa68f4178de93a6bf3b0705938f1d78a08611c43f8c95c0b",
+    "size": 32962
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-098-billboard-scaffold-camp-preview.webp": {
+    "sha256": "5663c13e2ddab6b4a4a3fc3c84f6138cd9a18cb1ad86d72e914a550052025e29",
+    "size": 42074
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-101-the-allotment-shed-preview.webp": {
+    "sha256": "b49815831f2338b147a80f0874e3bd61fccfc7531435779f6b2c5f7bbd0b9a4a",
+    "size": 49608
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-102-the-bookbinder-preview.webp": {
+    "sha256": "b155649a673c3d3390aa0ef74e38f9075cf60bb02dbb2029836aa4e7558f934b",
+    "size": 42990
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-103-stairwell-hut-preview.webp": {
+    "sha256": "2f282163aa5195fb7a6e3899403b2480f66013db9adc68d4573acb08687cccee",
+    "size": 53524
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-104-laundromat-at-3am-preview.webp": {
+    "sha256": "7ef152d284579496a451a00224412acb9cafe2ad092986c1c8905b43e1388d24",
+    "size": 37994
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-105-the-cable-junction-hut-preview.webp": {
+    "sha256": "779e538857890cdd9050fc698422200cc771857f4701d7e728f79aeaeaaddc31",
+    "size": 35832
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-107-rooftop-radio-station-preview.webp": {
+    "sha256": "0ea4fea297006c0a299a1c242e11d63c8fcccac89b99ffcf3d41e420fa497c29",
+    "size": 42712
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-106-the-tattoo-parlour-preview.webp": {
+    "sha256": "18bf3fec2a6c36929fdabf397cea12f52b582a2cc2def2c4df7caab19b9d85ec",
+    "size": 40502
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-108-the-ruined-arch-preview.webp": {
+    "sha256": "a51c528a11271e5e4e94bc90f61c403c912664179335288b8e8d3392da600ca5",
+    "size": 48604
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-109-library-in-the-fog-preview.webp": {
+    "sha256": "345a5cc0c678fa95c1f3155653cccaee4e2b076fce670bb676544100d4395e3a",
+    "size": 43588
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-110-harbour-crane-cabin-preview.webp": {
+    "sha256": "1db0bdbef32e03f24e25f9118eea82ef68ae614ba2c04bf20bfeded682bf7d9a",
+    "size": 42202
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-111-the-sewing-room-preview.webp": {
+    "sha256": "922d0bac0451b8bdfc6e332806009a7e36af4cc2c48b9d51f4bc94c574d726fc",
+    "size": 44002
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-preview.webp": {
+    "sha256": "0031700b7ec72d7e5c055b17fd4f12c557600472ccd5e829c36afbfabfc29c1a",
+    "size": 53454
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-115-the-empty-office-home-preview.webp": {
+    "sha256": "fff33ac9894385cdbd04ee9ae54daf1151c66017bb19aee5fffe5d9c191db9bf",
+    "size": 38252
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-113-canal-side-flower-barge-preview.webp": {
+    "sha256": "d74e962b324e8ec7edecaaf776bd72e394d72de6545a38892193868897cc08de",
+    "size": 59488
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-114-the-ski-lift-shed-preview.webp": {
+    "sha256": "92f78150924d3c5cdb8d87bcc3ab5036fe040326a9cdc909251514b744dc59b0",
+    "size": 44072
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-116-datacenter-noodle-bar-preview.webp": {
+    "sha256": "cdc98cc88e49f970690f98dd77b71e02763fd7a96ffb7360344b28f1d2840dab",
+    "size": 42996
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-117-loft-of-open-cases-preview.webp": {
+    "sha256": "f612a3da1702b5bd1ad4fb5d6fc49eb3f8242663ff07a3f3bb36a3682148ac6a",
+    "size": 37266
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-118-the-rooftop-bar-preview.webp": {
+    "sha256": "f0588b8e79c7ec1f1c95ce63a071d1bdaf6319bab9547ad75cd7500dff8e07c9",
+    "size": 57056
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-119-rooftop-bathhouse-preview.webp": {
+    "sha256": "1c11c1448859b565c7f07bcbb220f41ffb692075b9b30a32192a58876fdcf92e",
+    "size": 36536
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-120-airfield-hangar-corner-preview.webp": {
+    "sha256": "dd7c3fa217bb08cbf4f52e7595453711508c72b80b2d4027aac9d08232482d46",
+    "size": 38318
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-122-mechanics-loft-preview.webp": {
+    "sha256": "930a7e715440da736c96397bebe2093579e04990eb19a464ecf6eebe1303df9e",
+    "size": 42166
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-121-the-bonsai-workshop-preview.webp": {
+    "sha256": "29de94065f8bb5bced452500031a9cf646cd970d130b9db5252df29afddfaf70",
+    "size": 43584
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-123-the-shipwreck-room-preview.webp": {
+    "sha256": "b9e7964ba6efac466371c9d05f80bcd6ec0002e6eefaabdcc0d761dbe8c6ec0c",
+    "size": 43628
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-124-grain-silo-home-preview.webp": {
+    "sha256": "4ffd514f62fd31a05be5a9f5d987c754893dda8467e95df0a0093d2054f3e4ba",
+    "size": 30694
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-125-study-with-two-chairs-preview.webp": {
+    "sha256": "fd1345cc4c49ac28ce22a48e2b3857d2abdb6860609f567790e7af380472c52f",
+    "size": 41972
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-126-ambulance-refuge-preview.webp": {
+    "sha256": "90c7803b689b13a8012554d5ec42cbcb8d9e977f1d5a50c7fc73c321684e45bf",
+    "size": 47070
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-127-floating-market-stall-preview.webp": {
+    "sha256": "a9e596a4a8b4482ec3559dc652dc06c3342a1d0616e53a3305260fbf0049fa56",
+    "size": 41338
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-128-checkpoint-of-no-border-preview.webp": {
+    "sha256": "92e7e13121f927d42601903e7fbf9308923da33a3a31c7f80175b482d7753802",
+    "size": 39054
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-129-the-milk-float-preview.webp": {
+    "sha256": "dc56bcd3c38b45c7e6e05774433175dbf297c94d18d859e67ba70b4a122a075a",
+    "size": 35568
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-130-bulldozer-den-preview.webp": {
+    "sha256": "8b5f2efef37a632f53737085526d877c9377df0eda6db3199ab91cbe2cf418e0",
+    "size": 34900
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-131-urban-vineyard-hut-preview.webp": {
+    "sha256": "90e871911f4bb036c083c665e11c72bbaa9ec33369aa30573396441c5a7a76a1",
+    "size": 45294
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-132-the-freight-nest-preview.webp": {
+    "sha256": "39473c86d40148e05e6a706cdaa076110302cb6dd618ee243f9e1e0575030bef",
+    "size": 38032
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-133-flower-stall-rain-preview.webp": {
+    "sha256": "f4a59dd5b5964875e490973bbc2b5fed906afac46d403c6fe79408990dbe55c9",
+    "size": 38108
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-134-houseboat-of-lanterns-preview.webp": {
+    "sha256": "0967e4ace25a27f56f5c34df64a624864b425065ff5cae05110252941a4494cf",
+    "size": 38282
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-136-snowplough-shelter-preview.webp": {
+    "sha256": "9dfcc464de63286c0b4e3a5a811239ad377e072ea52414c6caa873543ccbc8c5",
+    "size": 39962
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-135-limousine-lounge-preview.webp": {
+    "sha256": "ef976bfe0a50f82088bab5301b814cc3decd677b2b56fcb8f5c32af828060651",
+    "size": 41506
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-137-crane-yard-office-preview.webp": {
+    "sha256": "f8551c37ab33940eed0f40e5f95bbee689055be4ad413bafc99a03a07624033f",
+    "size": 37020
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-138-control-room-of-nothing-preview.webp": {
+    "sha256": "d6f7a762b00aadb30c6d723d4548b70707bd38b2ae6998fec0b221c9ef59b387",
+    "size": 32602
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-139-the-last-terrace-preview.webp": {
+    "sha256": "c80b766ec3e06f0a11dd6b9a0dfe1fea584419df1e0c980a84c4c17b36a7741b",
+    "size": 44122
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-140-the-clocktower-room-preview.webp": {
+    "sha256": "d6c2e3918a0988453a07f3277e478ad5e5f4252d4023e50454e2821902711113",
+    "size": 51740
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-141-subway-entrance-kiosk-preview.webp": {
+    "sha256": "a5a3a000a54177ccfc1cb56b0a385d149ca43dcd478438866826264dc7ea85c2",
+    "size": 46510
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-142-the-boiler-room-home-preview.webp": {
+    "sha256": "33d7a2f6214629eadff85b78210344299375b3bf8c26bb519b1c8680800f5e19",
+    "size": 42640
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-144-dry-dock-home-preview.webp": {
+    "sha256": "cd6a1a984c3e518c270738e7896096bbda476f81712f6241bf3c8c8fe953719a",
+    "size": 45738
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-143-the-observatory-shed-preview.webp": {
+    "sha256": "12eb20c55ad2fd4e439bb13fa9f628d129c4aefe3674af8fa9a4357c88215576",
+    "size": 36878
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-145-dam-keepers-house-preview.webp": {
+    "sha256": "c7cddc2fe97ab5acb782914c87912e0ff3070fe4bc12bdb33f9b678808176878",
+    "size": 50450
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-146-bakery-back-room-preview.webp": {
+    "sha256": "0843ec81b15a47189bdfe804246bbc5d21912e31e4b1ccc6193339996112b29a",
+    "size": 42016
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-147-the-window-seat-preview.webp": {
+    "sha256": "b494e9a4037f712c14a0001a9532f7578461edbf62b4b4afbefc9acc7cb74b24",
+    "size": 33824
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-148-pigeon-loft-lantern-preview.webp": {
+    "sha256": "7a69ff9e35990d8206148d44dd6ebf6fe82c385c20ebce9ac306d4850952c1c4",
+    "size": 44972
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-149-the-last-westfalia-preview.webp": {
+    "sha256": "3a9abed26abb5b5d5cd48228e6a9892f1fe79d915b3fe20a08de3c46b454bd0b",
+    "size": 35260
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-150-greenhouse-bedroom-preview.webp": {
+    "sha256": "32e680ae5b8c167cfcf695ba5594e4f33e78e916d3d555270b93d1a29aa0ca52",
+    "size": 51064
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-152-skylight-studio-preview.webp": {
+    "sha256": "341f238e59aa5ec95daf4b1b9aeba80127bb6088370524a83686b71f16ae3837",
+    "size": 56902
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-153-the-kitchen-at-four-preview.webp": {
+    "sha256": "5f51d85b8e06a7818e376bcdc71deca329903f9ba78829a6abb5507c4c3447cf",
+    "size": 40478
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-154-fire-truck-kitchen-preview.webp": {
+    "sha256": "931e3fcf9f0949ef80b84d6f6a5863b9a55cd6cb9d7848626a4cccdc7361124b",
+    "size": 41032
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-155-the-scaffold-shack-preview.webp": {
+    "sha256": "d728b180c01f32152aec87295c025328ca86bd4fce516b2c8da0519e57eebcd4",
+    "size": 45178
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-156-bakery-before-dawn-preview.webp": {
+    "sha256": "eb3961b2d0b83d8952b8fea09fbf4071c8dc60d4690c884783b35b7a3fd0cd6e",
+    "size": 50466
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-157-prosthetics-workshop-preview.webp": {
+    "sha256": "a52e94cf212246e89595654431fe23c96545989fa8d8c87ce350a63e89a8215e",
+    "size": 45750
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-158-the-ramen-alley-preview.webp": {
+    "sha256": "6caf62a82ef7c5c2d27b5f9efcd630e148f1cdab79d92c47bfd039dfa7108d8c",
+    "size": 30832
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-159-dovecote-tower-preview.webp": {
+    "sha256": "8f60caad99431509eb15dac9c2c11f47956fdbdcc5d7b6fe8c1bec1f39158966",
+    "size": 33786
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-160-pigeon-race-roof-preview.webp": {
+    "sha256": "58bef3e5a6e4da7777fe52b6296d7d52f087116943b7024e7a2c0c95f4c1583d",
+    "size": 33492
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-161-the-kite-workshop-preview.webp": {
+    "sha256": "71a4f3bb38e17d3e5d8aa84d9f429eef14c423ba6861e0782f899eb9ad544d98",
+    "size": 42294
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-163-rooftop-tent-camp-preview.webp": {
+    "sha256": "0282545c74dd7e4126c1937eb9856076c3ef44a6a4e1655cc1a18564b0595427",
+    "size": 33392
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-162-signal-tower-cabin-preview.webp": {
+    "sha256": "bcc9af91e9ce6284cc96a1f538ad78128f2336bb4c689ffa9458e7de4bf856e8",
+    "size": 49714
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-164-cockpit-library-preview.webp": {
+    "sha256": "0a21c1aef170413c206b276114a89945df5bddc9f6d17cdb9f607e4a44bb91e8",
+    "size": 43486
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-165-rooftop-vineyard-preview.webp": {
+    "sha256": "01a487bf2e211e0448541404986347ef6ecf8c8dd17ea3feb5308fba5263cf9c",
+    "size": 38848
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-166-the-glasshouse-library-preview.webp": {
+    "sha256": "567ed5aee3f9ce6169ceb34d4ef0cba7c280210bc83533851b473a087ccb53d9",
+    "size": 48894
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-167-the-guitar-luthier-preview.webp": {
+    "sha256": "90bb734c2be9f0a56595d624f34b606a02494571cc38c31f8dd1a5dc1809bf8a",
+    "size": 44980
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-168-fishing-boat-galley-preview.webp": {
+    "sha256": "60b4fd8d4e76fefb70f4996739a455598c118d6e1d08786dcc6c0bbe7a1af1f3",
+    "size": 38376
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-169-the-cinema-marquee-dark-preview.webp": {
+    "sha256": "6fde88823b90cfaa2c92524d8b5bc86789051163ccdeb0b2b18e4f781c8bde35",
+    "size": 44826
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-170-fire-escape-garden-preview.webp": {
+    "sha256": "0b182d087b1e39ec36bfe6a1124d7035488130d524e017589161d968e7c1e1d9",
+    "size": 42192
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-171-rooftop-chapel-preview.webp": {
+    "sha256": "750ef60d4b37c24da44d32557cdf9da41e0603e0bf6c5ba78162d37d5eca3580",
+    "size": 46366
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-172-the-watch-repair-bench-preview.webp": {
+    "sha256": "7926364c9efff81a696125e41ff6ce6b7cec1a77e4c54ac2e7733187c59fb0ac",
+    "size": 44772
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-173-the-gatekeepers-lodge-preview.webp": {
+    "sha256": "d6e2d15ce34ad0104fe12d435808f215af672c8d789d7d9403d9755dfd274753",
+    "size": 46016
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-174-the-quarry-hut-preview.webp": {
+    "sha256": "83872f1bc0bbd866d42926163ecc342bfd04c824ccf68eff4ed6850a1d077754",
+    "size": 50554
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-175-newsstand-island-preview.webp": {
+    "sha256": "3b1eaa68a0c372c4df43c7f47d47fe5a6e51dde5c104b77f569c3cab948ed005",
+    "size": 37272
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-176-the-taxi-garden-preview.webp": {
+    "sha256": "7fbe1a4efbeb2222838db6afc9a3025ab2b3e4381b47f430cbd6acad52005585",
+    "size": 44832
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-177-dumpling-window-preview.webp": {
+    "sha256": "b761666878f4aa53012dcef2c69b763b90c76030dee1f91a79f58ed09d9701ce",
+    "size": 39668
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-179-the-radio-pirate-preview.webp": {
+    "sha256": "a9a468880be97204ef34151888f759d17aafbd9aafb988f04a5a6a7c5f924ba9",
+    "size": 35724
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-178-stilt-house-over-water-preview.webp": {
+    "sha256": "1650d99cbd1fd33d932eb959ef51195edccb735d5784d64c3e3c80b664be64e0",
+    "size": 46244
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-180-the-model-railway-room-preview.webp": {
+    "sha256": "35e73967125c2e2a40420b2b3aa97260ad7e00503ccd9ac61956ff425c4112c3",
+    "size": 51568
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-preview.webp": {
+    "sha256": "9db68d113e2fbecf51910e15f800faacecf2ba26bcd4de6f995445784d6f13d8",
+    "size": 30360
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-182-the-drone-port-shack-preview.webp": {
+    "sha256": "6edd834baa7485c1ac4d38621c764b7567c8efa05db0bb29d27b636d62908ea8",
+    "size": 33026
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-184-the-piano-in-the-dark-preview.webp": {
+    "sha256": "498dad3c079ee7fdfa3089f24d7b2fbb3a01ee34b666b06f6273bba978a3b697",
+    "size": 35786
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-183-pigeon-post-office-preview.webp": {
+    "sha256": "0ccc48ae4474e0432f66a94108563e3c955466eb962a4a74ef914fdc56333ccc",
+    "size": 42902
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-185-sleeper-car-atelier-preview.webp": {
+    "sha256": "1c8056862644ca0046309e09e42a0c01055434b5374694f2555ea183d9592f44",
+    "size": 38864
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-186-seed-bank-room-preview.webp": {
+    "sha256": "d41f4eb9343a2c55d434b7d4b5def1c070dfb08367d824c833b6d79f5c78ce56",
+    "size": 44460
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-187-empty-pool-camp-preview.webp": {
+    "sha256": "050a3ec30c045f1a918c9393fc44343394ba828459e434288eb4b705b865336f",
+    "size": 37802
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-preview.webp": {
+    "sha256": "6ac9faffd2eb03101ed510696731e7ed0f72e803e4e6f7120f1b50fedeca1f15",
+    "size": 36662
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-189-submarine-hatch-home-preview.webp": {
+    "sha256": "71a7120d9ae5ec361199911bc6f809dca66d808a4724c393566cc8c99ff7cce8",
+    "size": 52010
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-190-drawbridge-cabin-preview.webp": {
+    "sha256": "2ab92b2eb47f98ba8a28635496baade46ccdb9eb7410e7c524d7f7233cc7b9f2",
+    "size": 46760
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-191-workshop-of-clocks-preview.webp": {
+    "sha256": "056698890f8bd1d0d46ac3d8eaabef836ceafe640fe0de03384295deaf274c90",
+    "size": 44498
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-193-laundry-room-blue-preview.webp": {
+    "sha256": "e56f215463a2bd2c99ce72ecd6240a33e1b07e0544a05d7a96b2a3da6ea627aa",
+    "size": 48660
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-192-cargo-bike-coffee-preview.webp": {
+    "sha256": "7a44fb040913922887d2d53cae13db7f75f87873c03119b973b10ae2a1bd7cec",
+    "size": 47924
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-195-subway-carriage-home-preview.webp": {
+    "sha256": "f2e70136a78c76be6ce44705d9b7f4df6bc28128d2adba743b6f70e6b2e4b75e",
+    "size": 38096
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-194-record-press-workshop-preview.webp": {
+    "sha256": "005d02f019d06eaaabf369a1af285b9f0304708f6a8c9543234bdb5cd2bbe558",
+    "size": 43866
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-196-photo-lab-red-light-preview.webp": {
+    "sha256": "b204b3966aaf7d72186b587d21017b8b003302480310e3a77a84478d0cd49d37",
+    "size": 38026
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-197-chimney-side-hut-preview.webp": {
+    "sha256": "94d0592d1f7880848f87d55f153606106c383a3950ca07db5b023c9cf35d9299",
+    "size": 45830
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-198-curtain-of-cables-preview.webp": {
+    "sha256": "fa62eb4c92b6e1ecc2270799d3c748139e4afd1e01cfe34ea6231621ffbfe40b",
+    "size": 45880
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-199-the-key-cutter-preview.webp": {
+    "sha256": "afbc175fe72cc9e59ad0475e86c4e099011ad490b37a3fa08811068ab3bb5325",
+    "size": 42430
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-201-the-rooftop-forge-preview.webp": {
+    "sha256": "c95f5a803d639afa4dfdfaa2849ba9d58f06a8d2ca4138c9e70d771e432bb9e5",
+    "size": 32632
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-202-whisky-bar-one-seat-preview.webp": {
+    "sha256": "aa425ea30792a3aebabbb4037b1d7151a2b82ea3924609f19140acf2015ce3a0",
+    "size": 35246
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-203-the-telescope-window-preview.webp": {
+    "sha256": "6da41d35e0c06132ed64b2f345d30bdf0775545dbc278bf5ae751ebe022828ba",
+    "size": 40894
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-204-the-barge-garden-preview.webp": {
+    "sha256": "54b758e22dca98018af897241b603fd34e511d44e2a2a7251a1e10644991a361",
+    "size": 48488
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-205-coffee-roastery-night-preview.webp": {
+    "sha256": "4ea7cc018a2879db482748959760f221fce1c73d0b9d277fecfdb46db3f10ed4",
+    "size": 39734
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-206-the-mail-train-caboose-preview.webp": {
+    "sha256": "9ff71d1579ba17630ed7b4add55e8cf9500f3ee1407d4d617695106c46432377",
+    "size": 38156
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-208-transformer-station-home-preview.webp": {
+    "sha256": "4d394971c8a5332ae52bee35c3ebf24067165df9b57c617854d1b55f4110d972",
+    "size": 45804
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-207-shoe-repair-and-solder-preview.webp": {
+    "sha256": "39c3299f0295abb650f200cb072c8824255b1af25445a3aa14571ecf628363c6",
+    "size": 40576
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-209-repair-bay-of-machines-preview.webp": {
+    "sha256": "7fb962efecc466a8015242299bd20387b43d5ac8e90dd8ac8db39931d8b936ba",
+    "size": 36490
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-211-deconsecrated-chapel-preview.webp": {
+    "sha256": "d5787bff6d43940062963f67ca2960d335b6abaf7983863f6a2599b844642ad2",
+    "size": 34452
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-210-the-mushroom-cellar-preview.webp": {
+    "sha256": "837b42e40b1ead8412956d36a4221f80d716bfbcc8a7797c540152b488198382",
+    "size": 40290
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-212-the-radio-parts-stall-preview.webp": {
+    "sha256": "88a9aeed492a647657144a90598f0f839472e39cd297d57053be84c212acf689",
+    "size": 50666
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-213-monorail-capsule-preview.webp": {
+    "sha256": "0b687e16dbaba35c4e03ebdf54e5eaa5ae7e3e8decfa5b621cec81a6c1560a06",
+    "size": 38902
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-preview.webp": {
+    "sha256": "cf603549b3ef45c34761e91b7e34121e094395ab55e632cf6c2d056a760d3892",
+    "size": 41344
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-215-the-typewriter-hospital-preview.webp": {
+    "sha256": "626b69fc4fa1e93d712e75d27f8dafd16d5198ad5fa9c64366f3658164eac71b",
+    "size": 47152
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-216-the-oyster-shed-preview.webp": {
+    "sha256": "1219acdf6f75f43a8cc68cd58cb5614ebf0734e14796039a36d83442a67f5240",
+    "size": 48152
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-217-lighthouse-lamp-room-preview.webp": {
+    "sha256": "d72ea01d2da5a5998d460cd66e7749d0d26294630b7a33bc5e3b9eb6d31c60ae",
+    "size": 39158
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-218-the-chess-table-preview.webp": {
+    "sha256": "471be7860f08073821b7b98d7e1e1e446179d5448422698248a50aea91af6426",
+    "size": 43644
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-219-the-barber-and-the-cat-preview.webp": {
+    "sha256": "41d34f5f7ba54307be5e8f5ea3efa56d363cac395557867470e6e4ee01a2080e",
+    "size": 40604
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-220-the-forklift-camp-preview.webp": {
+    "sha256": "7a64f0b74a9fa0e014f6de4b9c59f943788436705b5532a93c22436be5aab89e",
+    "size": 39876
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-221-hotel-room-forever-preview.webp": {
+    "sha256": "32089b5162c446efd12f269fb800c38936aaafb147e638b3c26fdb1f5f7948ee",
+    "size": 50154
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-222-vertical-farm-corner-preview.webp": {
+    "sha256": "5417b8d87854550f7f3e8256de38c96abe0135033813feae22484e09a18e68f2",
+    "size": 40952
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-223-tractor-and-awning-preview.webp": {
+    "sha256": "e760584d1d67c5a7d801e652108338eff57330326c31d74771fb4ceb288a5aff",
+    "size": 37048
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-224-tugboat-galley-preview.webp": {
+    "sha256": "0bd0cd97e44a425da0af90f0fc10ec61462e1155864fe8ea93a09d979fe386b3",
+    "size": 40636
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-225-bus-shelter-alone-preview.webp": {
+    "sha256": "17b3d794199b595674552bccb014eb99409196b1c4276ce6fab03bfddb8c4835",
+    "size": 51848
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-227-the-billboard-back-room-preview.webp": {
+    "sha256": "30ed9885ecfab6f73e5436605211370e8c7b5ac00f8f9858001ffd2f91cb22f6",
+    "size": 43650
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-226-bamboo-grove-hut-preview.webp": {
+    "sha256": "08c77e4d03deb56d2c6ae3230918f9aa9aae2bb8d8d7ffe4a5f36bd46c3f0aa1",
+    "size": 44462
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-228-the-plant-and-cable-shop-preview.webp": {
+    "sha256": "f1f25602c88538e296815dffc3b41037b6997185faa44d6590566e593ae4db14",
+    "size": 42404
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-229-signal-box-on-the-line-preview.webp": {
+    "sha256": "c1f2859ab57d13663cc26235c47c6854a3e85fcd31d9df0d7d452c8043ae811a",
+    "size": 37168
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-230-the-last-phone-box-preview.webp": {
+    "sha256": "f9691f69413cfaf7af3de3e55b610599da5b7985c187f71a451700f242144158",
+    "size": 36750
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-231-the-antenna-farm-shack-preview.webp": {
+    "sha256": "1f2aea34df15d78d7528e73763ea4dd60d1e7045435c1e61777ff576eb1e474b",
+    "size": 52140
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-232-sidecar-repair-shop-preview.webp": {
+    "sha256": "2f74968c681a091549010053898cc1844869a0bdaa98f02255ea3a21778a76ff",
+    "size": 51228
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-233-the-antenna-keeper-preview.webp": {
+    "sha256": "864e0810852d80973ddc1828d63a13676aacc239259d2400e457b64d9e2a11c0",
+    "size": 65036
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-234-the-terrarium-wall-preview.webp": {
+    "sha256": "244eaa701383508e546c6372c844fd3a890aea0f6ebf8d1ab91393e01c88d70f",
+    "size": 43442
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-235-the-rickshaw-kitchen-preview.webp": {
+    "sha256": "b53b40132b87a10b585c78555f8596bff8c9cdbda4504228024378b5926e759d",
+    "size": 43020
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-237-the-cable-car-room-preview.webp": {
+    "sha256": "453f6d103fbd4f2ec6fb46a87f3612b94de1f0ebca29d40347a509f6f418fb04",
+    "size": 37932
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-238-the-pawn-shop-window-preview.webp": {
+    "sha256": "e20575cada63e6c1ec28cd8db88560085eda5b5566ab12110b62c0c5e7b9581c",
+    "size": 43628
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-236-the-drone-clinic-preview.webp": {
+    "sha256": "98f7f5573c0daa9a8013e49d727a1867d46c47ee640904958f7c770dd3143210",
+    "size": 35998
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-239-the-clinic-after-hours-preview.webp": {
+    "sha256": "81127ab9c40dbd015218aa75c3e89c06f1b3e710545e144ca5e5e76fbc4813d0",
+    "size": 43194
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-preview.webp": {
+    "sha256": "b899c6b1fd31ad916a8cf13602177b435d5fb447a27dd51bb61b074205e9a8e5",
+    "size": 44380
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-241-the-fern-house-preview.webp": {
+    "sha256": "d375ec315984aea996683d84e197019660d94df750a36a0f46efac83586fa8a3",
+    "size": 37946
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-preview.webp": {
+    "sha256": "2a2499f26a03be502fbb0d4f0ec665baaf7bf60368955b62734323fd33fd5c1f",
+    "size": 35908
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-242-comic-shop-back-issues-preview.webp": {
+    "sha256": "a4f80fbe3a15c731e150cacefdc4b960336426c26e3c4a5b99208e08c8dd0947",
+    "size": 40150
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-244-water-tank-house-preview.webp": {
+    "sha256": "fc5ae4d3ff5280a75ae692ca7ed10780f559d83f671db43b5e0a240bbd8f20b0",
+    "size": 46688
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-246-the-nursery-tunnel-preview.webp": {
+    "sha256": "fea84a379d960007f828522cecc713dc2769a2c58a5282bedae9f59e245d7de5",
+    "size": 39426
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-245-hovercraft-skirt-camp-preview.webp": {
+    "sha256": "27d47c2cbae05e8bad5aa0d5b92131e122254ef67aa746e748bdd2c3b1902378",
+    "size": 53452
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-247-painters-studio-north-light-preview.webp": {
+    "sha256": "b8cf2b033fe9890df371b8dd22b609ea1827cb7a5b9b8e17b305fa24421a9bf9",
+    "size": 51890
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-248-observatory-dome-inside-preview.webp": {
+    "sha256": "1ed1e6a1d0a92c3ef5286331ab7be6f3ccba7a9f60baf3639e4d655e3ac005bc",
+    "size": 45752
+  },
+  "previews/gruvbox/shelters/omarchy-shelter-249-tailor-with-a-terminal-preview.webp": {
+    "sha256": "60b4c9f8069887d7d2a14ab46cec46ab5d796d1b3a5937c38646d22f0734216f",
+    "size": 41192
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:27:04.215884+00:00",
+  "generated_at": "2026-09-22T20:21:59.537393+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "count": 500,
@@ -5435,8 +5435,8 @@
       "filename": "omarchy-shelter-022-parking-garage-level-nine-2K.webp",
       "path": "masters/colors/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp",
       "url": "https://content.emkcloud.com/wallpapers/1.2.0/masters/colors/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp",
-      "size_bytes": 3661644,
-      "sha256": "23401eb8fdfafd6ac8b97a45bcd3cf1b6d6f2bf56a6a2db68af872df43292c7e",
+      "size_bytes": 384132,
+      "sha256": "befe787b8275f89fe04eedfc0dc457c44428d0d4c30b0539fab07b37b376212b",
       "width": 2560,
       "height": 1440,
       "format": "webp",

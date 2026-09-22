@@ -2112,8 +2112,8 @@
     "size": 3810158
   },
   "masters/colors/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
-    "sha256": "23401eb8fdfafd6ac8b97a45bcd3cf1b6d6f2bf56a6a2db68af872df43292c7e",
-    "size": 3661644
+    "sha256": "befe787b8275f89fe04eedfc0dc457c44428d0d4c30b0539fab07b37b376212b",
+    "size": 384132
   },
   "masters/colors/shelters/omarchy-shelter-021-airstream-under-the-overpass-2K.webp": {
     "sha256": "3b92166e53c5d84648fa9947b98cbeb11aa9332d87f5c15aae176bcdb1162861",
@@ -3104,8 +3104,8 @@
     "size": 1236692
   },
   "masters/grayscale/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
-    "sha256": "4a7f9cd32ef20bb3977aa02d12bc5381171edfbb550128b238214c3d22dee354",
-    "size": 1551504
+    "sha256": "36da85d8c13afb26fbb25487720bd589034106bd202705045f44e9e784ddc3f4",
+    "size": 1051298
   },
   "masters/grayscale/shelters/omarchy-shelter-023-the-satellite-dish-den-2K.webp": {
     "sha256": "6b2004c838de98c5c02e4cd8453b67962489bd096efd95e119b7922b5c4a4053",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T03:27:04.227493+00:00",
+  "generated_at": "2026-09-22T20:21:59.556169+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "masters",
   "kind": "masters",
   "count": 500,
-  "total_size_bytes": 1789456024,
+  "total_size_bytes": 1786178512,
   "collections": [
     {
       "collection": "countries",
@@ -27,13 +27,13 @@
     {
       "collection": "shelters",
       "count": 250,
-      "total_size_bytes": 917933434,
+      "total_size_bytes": 914655922,
       "directory": "masters/colors/shelters",
       "url": "https://content.emkcloud.com/wallpapers/1.2.0/masters/colors/shelters",
       "variants": {
         "2K": {
           "count": 250,
-          "size_bytes": 917933434,
+          "size_bytes": 914655922,
           "width": 2560,
           "height": 1440
         }

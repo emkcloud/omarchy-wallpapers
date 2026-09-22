@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:27:02.336995+00:00",
+  "generated_at": "2026-09-22T20:21:57.670995+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/countries/omarchy-country-PL-Poland-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/countries/omarchy-country-PL-Poland-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/countries/omarchy-country-BD-Bangladesh-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/countries/omarchy-country-BD-Bangladesh-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/shelters/omarchy-shelter-122-mechanics-loft-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/shelters/omarchy-shelter-122-mechanics-loft-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/shelters/omarchy-shelter-170-fire-escape-garden-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/shelters/omarchy-shelter-170-fire-escape-garden-2K.webp"
     }
   ],
   "palette": [
