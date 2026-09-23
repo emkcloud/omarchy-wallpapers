@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:40:43.190690+00:00",
+  "generated_at": "2026-09-23T22:01:35.141929+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/countries/omarchy-country-SX-Sint-Maarten-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries/omarchy-country-SX-Sint-Maarten-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/countries/omarchy-country-NZ-New-Zealand-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries/omarchy-country-NZ-New-Zealand-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/shelters/omarchy-shelter-017-the-tea-corner-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/shelters/omarchy-shelter-017-the-tea-corner-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp"
     }
   ],
   "palette": [

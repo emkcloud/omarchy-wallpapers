@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:40:44.203185+00:00",
+  "generated_at": "2026-09-23T22:01:35.079728+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/countries/omarchy-country-PF-French-Polynesia-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/countries/omarchy-country-PF-French-Polynesia-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/countries/omarchy-country-NA-Namibia-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/countries/omarchy-country-NA-Namibia-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/shelters/omarchy-shelter-192-cargo-bike-coffee-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/shelters/omarchy-shelter-228-the-plant-and-cable-shop-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp"
     }
   ],
   "palette": [
