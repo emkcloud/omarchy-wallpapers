@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:21:56.870942+00:00",
+  "generated_at": "2026-09-23T21:40:43.075511+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/gruvbox/countries/omarchy-country-MC-Monaco-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/gruvbox/countries/omarchy-country-MC-Monaco-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/gruvbox/countries/omarchy-country-US-USA-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/gruvbox/countries/omarchy-country-US-USA-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/gruvbox/shelters/omarchy-shelter-156-bakery-before-dawn-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/gruvbox/shelters/omarchy-shelter-156-bakery-before-dawn-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/gruvbox/shelters/omarchy-shelter-133-flower-stall-rain-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/gruvbox/shelters/omarchy-shelter-133-flower-stall-rain-2K.webp"
     }
   ],
   "palette": [

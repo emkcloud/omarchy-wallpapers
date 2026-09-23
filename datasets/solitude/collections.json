@@ -1,30 +1,49 @@
 {
-  "generated_at": "2026-09-22T20:21:57.324813+00:00",
+  "generated_at": "2026-09-23T21:40:43.190690+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
   "kind": "theme",
-  "count": 250,
-  "total_size_bytes": 104568626,
+  "count": 500,
+  "total_size_bytes": 368032620,
   "collections": [
     {
       "collection": "countries",
       "count": 250,
-      "total_size_bytes": 104568626,
+      "total_size_bytes": 185111212,
       "directory": "images/solitude/countries",
       "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries",
       "variants": {
         "2K": {
           "count": 250,
-          "size_bytes": 104568626,
+          "size_bytes": 185111212,
           "width": 2560,
           "height": 1440
         }
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/countries/omarchy-country-BH-Bahrain-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries/omarchy-country-BH-Bahrain-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/countries/omarchy-country-SX-Sint-Maarten-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries/omarchy-country-SX-Sint-Maarten-2K.webp"
+    },
+    {
+      "collection": "shelters",
+      "count": 250,
+      "total_size_bytes": 182921408,
+      "directory": "images/solitude/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/shelters",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 182921408,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Shelters",
+      "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/shelters/omarchy-shelter-017-the-tea-corner-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/shelters/omarchy-shelter-017-the-tea-corner-2K.webp"
     }
   ],
   "palette": [

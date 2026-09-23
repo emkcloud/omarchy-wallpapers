@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:21:56.592810+00:00",
+  "generated_at": "2026-09-23T21:40:40.512600+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "catppuccin",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/catppuccin/countries/omarchy-country-JM-Jamaica-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/countries/omarchy-country-JM-Jamaica-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/catppuccin/countries/omarchy-country-VI-US-Virgin-Islands-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/countries/omarchy-country-VI-US-Virgin-Islands-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/catppuccin/shelters/omarchy-shelter-206-the-mail-train-caboose-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/shelters/omarchy-shelter-206-the-mail-train-caboose-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/catppuccin/shelters/omarchy-shelter-091-water-tower-loft-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/shelters/omarchy-shelter-091-water-tower-loft-2K.webp"
     }
   ],
   "palette": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:21:59.592339+00:00",
+  "generated_at": "2026-09-23T21:40:47.710244+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://content.emkcloud.com/wallpapers/1.2.0",
@@ -36,7 +36,7 @@
       "collections_info": {
         "path": "datasets/catppuccin/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/catppuccin/collections.json",
-        "size_bytes": 1967,
+        "size_bytes": 1975,
         "collections": 2
       },
       "count": 500,
@@ -90,7 +90,7 @@
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/gruvbox/collections.json",
-        "size_bytes": 1934,
+        "size_bytes": 1926,
         "collections": 2
       },
       "count": 500,
@@ -144,7 +144,7 @@
       "collections_info": {
         "path": "datasets/matte-black/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/matte-black/collections.json",
-        "size_bytes": 1974,
+        "size_bytes": 1966,
         "collections": 2
       },
       "count": 500,
@@ -198,7 +198,7 @@
       "collections_info": {
         "path": "datasets/nord/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/nord/collections.json",
-        "size_bytes": 1916,
+        "size_bytes": 1906,
         "collections": 2
       },
       "count": 500,
@@ -252,7 +252,7 @@
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/osaka-jade/collections.json",
-        "size_bytes": 1951,
+        "size_bytes": 1979,
         "collections": 2
       },
       "count": 500,
@@ -282,35 +282,36 @@
       "images_dir": "images/solitude",
       "images_url": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude",
       "collections": [
-        "countries"
+        "countries",
+        "shelters"
       ],
       "catalog": {
         "path": "datasets/solitude/catalog.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/solitude/catalog.json",
-        "size_bytes": 219330,
-        "entries": 250
+        "size_bytes": 456665,
+        "entries": 500
       },
       "optimization": {
         "path": "datasets/solitude/optimization.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/solitude/optimization.json",
-        "size_bytes": 89851,
-        "entries": 500
+        "size_bytes": 184248,
+        "entries": 1000
       },
       "previews": {
         "path": "datasets/solitude/previews.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/solitude/previews.json",
-        "size_bytes": 73427,
-        "entries": 250
+        "size_bytes": 149126,
+        "entries": 500
       },
       "collections_info": {
         "path": "datasets/solitude/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/solitude/collections.json",
-        "size_bytes": 1102,
-        "collections": 1
+        "size_bytes": 1947,
+        "collections": 2
       },
-      "count": 250,
-      "optimized": 500,
-      "total_size_bytes": 104568626,
+      "count": 500,
+      "optimized": 1000,
+      "total_size_bytes": 368032620,
       "resolutions": [
         [
           2560,
@@ -359,7 +360,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.0/datasets/tokyo-night/collections.json",
-        "size_bytes": 1976,
+        "size_bytes": 1986,
         "collections": 2
       },
       "count": 500,
