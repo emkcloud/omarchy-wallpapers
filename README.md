@@ -56,7 +56,7 @@ To install a different theme, replace `osaka-jade` with its folder name under `i
 
 ### Installing a collection
 
-Wallpapers are grouped into **collections** (content types, e.g. `countries`, `shelters`). To install only the wallpapers of one collection, pass its name as an extra argument (both the plural and singular forms work):
+Wallpapers are grouped into **collections** (content types, e.g. `countries`, `shelters`, `machines`). To install only the wallpapers of one collection, pass its name as an extra argument (both the plural and singular forms work):
 
 ```bash
 python3 wallpapers.py install tokyo-night countries
@@ -176,6 +176,7 @@ datasets/
 
 - **Countries** — panoramas and iconic scenery inspired by individual countries.
 - **Shelters** — cozy improvised refuges tucked into the city.
+- **Machines** — computing machines through the decades, from 1960s mainframes to today's AI clusters and handhelds.
 
 ## Listing wallpapers
 
