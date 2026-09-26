@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:24:01.962184+00:00",
+  "generated_at": "2026-09-26T20:33:48.876223+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/countries/omarchy-country-TO-Tonga-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/countries/omarchy-country-TO-Tonga-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/countries/omarchy-country-UG-Uganda-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/countries/omarchy-country-UG-Uganda-2K.webp"
     },
     {
       "collection": "machines",
@@ -41,9 +41,9 @@
         }
       },
       "title": "Machines",
-      "description": "Computing machines through the decades, from 1960s mainframes to today's AI clusters and handhelds.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/machines/omarchy-machine-061-brick-mobile-phone-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/machines/omarchy-machine-061-brick-mobile-phone-2K.webp"
+      "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/machines/omarchy-machine-166-green-childrens-laptop-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/machines/omarchy-machine-166-green-childrens-laptop-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/shelters/omarchy-shelter-004-mahjong-parlour-window-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/shelters/omarchy-shelter-209-repair-bay-of-machines-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp"
     }
   ],
   "palette": [

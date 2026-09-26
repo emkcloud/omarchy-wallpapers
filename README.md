@@ -176,7 +176,7 @@ datasets/
 
 - **Countries** — panoramas and iconic scenery inspired by individual countries.
 - **Shelters** — cozy improvised refuges tucked into the city.
-- **Machines** — computing machines through the decades, from 1960s mainframes to today's AI clusters and handhelds.
+- **Machines** — computing machines through the decades, from 1960s mainframes to today's AI.
 
 ## Listing wallpapers
 

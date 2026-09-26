@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:24:05.843649+00:00",
+  "generated_at": "2026-09-26T20:33:52.956746+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://content.emkcloud.com/wallpapers/1.2.1",
@@ -36,7 +36,7 @@
       "collections_info": {
         "path": "datasets/catppuccin/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/catppuccin/collections.json",
-        "size_bytes": 1985,
+        "size_bytes": 2001,
         "collections": 2
       },
       "count": 500,
@@ -90,7 +90,7 @@
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/gruvbox/collections.json",
-        "size_bytes": 1968,
+        "size_bytes": 1936,
         "collections": 2
       },
       "count": 500,
@@ -145,7 +145,7 @@
       "collections_info": {
         "path": "datasets/matte-black/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/matte-black/collections.json",
-        "size_bytes": 2863,
+        "size_bytes": 2844,
         "collections": 3
       },
       "count": 750,
@@ -199,7 +199,7 @@
       "collections_info": {
         "path": "datasets/nord/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/nord/collections.json",
-        "size_bytes": 1910,
+        "size_bytes": 1908,
         "collections": 2
       },
       "count": 500,
@@ -253,7 +253,7 @@
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/osaka-jade/collections.json",
-        "size_bytes": 1989,
+        "size_bytes": 1973,
         "collections": 2
       },
       "count": 500,
@@ -362,7 +362,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/tokyo-night/collections.json",
-        "size_bytes": 2817,
+        "size_bytes": 2804,
         "collections": 3
       },
       "count": 750,
@@ -413,7 +413,7 @@
     "collections_info": {
       "path": "datasets/masters/collections.json",
       "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/masters/collections.json",
-      "size_bytes": 1859,
+      "size_bytes": 1836,
       "collections": 3
     },
     "count": 750,

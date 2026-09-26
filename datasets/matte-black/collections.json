@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:24:01.043498+00:00",
+  "generated_at": "2026-09-26T20:33:47.978694+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "matte-black",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/countries/omarchy-country-TT-Trinidad-and-Tobago-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/countries/omarchy-country-TT-Trinidad-and-Tobago-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/countries/omarchy-country-ME-Montenegro-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/countries/omarchy-country-ME-Montenegro-2K.webp"
     },
     {
       "collection": "machines",
@@ -41,9 +41,9 @@
         }
       },
       "title": "Machines",
-      "description": "Computing machines through the decades, from 1960s mainframes to today's AI clusters and handhelds.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/machines/omarchy-machine-001-linux-phone-kill-switches-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/machines/omarchy-machine-001-linux-phone-kill-switches-2K.webp"
+      "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/machines/omarchy-machine-084-research-workstation-portrait-display-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/machines/omarchy-machine-084-research-workstation-portrait-display-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/shelters/omarchy-shelter-128-checkpoint-of-no-border-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/shelters/omarchy-shelter-209-repair-bay-of-machines-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp"
     }
   ],
   "palette": [

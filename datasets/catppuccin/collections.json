@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:24:00.325469+00:00",
+  "generated_at": "2026-09-26T20:33:47.268442+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "catppuccin",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/catppuccin/countries/omarchy-country-AG-Antigua-and-Barbuda-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/catppuccin/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/countries/omarchy-country-VC-Saint-Vincent-and-the-Grenadines-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/catppuccin/shelters/omarchy-shelter-122-mechanics-loft-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/shelters/omarchy-shelter-122-mechanics-loft-2K.webp"
     }
   ],
   "palette": [
