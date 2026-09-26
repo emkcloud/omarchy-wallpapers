@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-23T22:01:35.079728+00:00",
+  "generated_at": "2026-09-26T20:24:01.962184+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
   "kind": "theme",
-  "count": 500,
-  "total_size_bytes": 172548210,
+  "count": 750,
+  "total_size_bytes": 318301714,
   "collections": [
     {
       "collection": "countries",
       "count": 250,
       "total_size_bytes": 111492424,
       "directory": "images/tokyo-night/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,34 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/countries/omarchy-country-NA-Namibia-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/countries/omarchy-country-NA-Namibia-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/countries/omarchy-country-TO-Tonga-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/countries/omarchy-country-TO-Tonga-2K.webp"
+    },
+    {
+      "collection": "machines",
+      "count": 250,
+      "total_size_bytes": 145753504,
+      "directory": "images/tokyo-night/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/machines",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 145753504,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Machines",
+      "description": "Computing machines through the decades, from 1960s mainframes to today's AI clusters and handhelds.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/machines/omarchy-machine-061-brick-mobile-phone-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/machines/omarchy-machine-061-brick-mobile-phone-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 61055786,
       "directory": "images/tokyo-night/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/tokyo-night/shelters/omarchy-shelter-228-the-plant-and-cable-shop-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/tokyo-night/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/tokyo-night/shelters/omarchy-shelter-004-mahjong-parlour-window-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/tokyo-night/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp"
     }
   ],
   "palette": [

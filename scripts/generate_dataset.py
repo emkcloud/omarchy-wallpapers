@@ -66,6 +66,7 @@ RAW_BASE = configured_url_base() or f"https://raw.githubusercontent.com/{REPO}/{
 FILENAME_RE = re.compile(r"^omarchy-(country|city)-([A-Z]{2})-(.+)-([248]K)\.webp$", re.IGNORECASE)
 FIGURE_RE = re.compile(r"^omarchy-(figure)-(.+)-([248]K)\.webp$", re.IGNORECASE)
 SHELTER_RE = re.compile(r"^omarchy-(shelter)-([0-9]{3})-(.+)-([248]K)\.webp$", re.IGNORECASE)
+MACHINE_RE = re.compile(r"^omarchy-(machine)-([0-9]{3})-(.+)-([248]K)\.webp$", re.IGNORECASE)
 MASTER_RE = re.compile(r"^omarchy-(country|city)-([A-Z]{2})-(.+)-([248]K)\.webp$", re.IGNORECASE)
 
 
@@ -149,6 +150,9 @@ def parse_entry(filename):
         kind, name, res = m.groups()
         return kind, None, name, res
     m = SHELTER_RE.match(filename)
+    if m:
+        return m.groups()
+    m = MACHINE_RE.match(filename)
     if m:
         return m.groups()
     return None
@@ -242,11 +246,15 @@ def build_master_entry(rel_path, filename, collection):
         if m:
             kind, code, name, res = m.groups()
         else:
-            m = FIGURE_RE.match(filename)
-            if not m:
-                return None
-            kind, name, res = m.groups()
-            code = None
+            m = MACHINE_RE.match(filename)
+            if m:
+                kind, code, name, res = m.groups()
+            else:
+                m = FIGURE_RE.match(filename)
+                if not m:
+                    return None
+                kind, name, res = m.groups()
+                code = None
     variant = res.lower()
     resolution = res.upper()
     name = name.replace("-", " ")

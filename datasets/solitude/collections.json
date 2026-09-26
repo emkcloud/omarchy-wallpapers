@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:01:35.141929+00:00",
+  "generated_at": "2026-09-26T20:24:01.709933+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 185111212,
       "directory": "images/solitude/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/countries/omarchy-country-NZ-New-Zealand-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/countries/omarchy-country-NZ-New-Zealand-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/countries/omarchy-country-MF-Saint-Martin-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/countries/omarchy-country-MF-Saint-Martin-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 182921408,
       "directory": "images/solitude/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/solitude/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/solitude/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/shelters/omarchy-shelter-058-armoured-van-archive-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/shelters/omarchy-shelter-058-armoured-van-archive-2K.webp"
     }
   ],
   "palette": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:01:33.976616+00:00",
+  "generated_at": "2026-09-26T20:24:00.325469+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "catppuccin",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 81991752,
       "directory": "images/catppuccin/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/catppuccin/countries/omarchy-country-TM-Turkmenistan-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/countries/omarchy-country-TM-Turkmenistan-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/catppuccin/countries/omarchy-country-AG-Antigua-and-Barbuda-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/countries/omarchy-country-AG-Antigua-and-Barbuda-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 69708876,
       "directory": "images/catppuccin/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.0/previews/catppuccin/shelters/omarchy-shelter-229-signal-box-on-the-line-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.0/images/catppuccin/shelters/omarchy-shelter-229-signal-box-on-the-line-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp"
     }
   ],
   "palette": [

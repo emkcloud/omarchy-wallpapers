@@ -1,5 +1,5 @@
 {
-    "url_base": "https://content.emkcloud.com/wallpapers/1.2.0",
+    "url_base": "https://content.emkcloud.com/wallpapers/1.2.1",
     "themes": {
         "catppuccin": {
             "title": "Catppuccin",
@@ -102,6 +102,10 @@
         "shelters": {
             "title": "Shelters",
             "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark."
+        },
+        "machines": {
+            "title": "Machines",
+            "description": "Computing machines through the decades, from 1960s mainframes to today's AI clusters and handhelds."
         }
     }
 }

@@ -2998,5 +2998,1505 @@
     "size": 843438,
     "preview_sha256": "cb2b97992445bd73b01699a0268bdea0fd0ac00e6dc71e4a9331bcdb33b8aecb",
     "preview_size": 35608
+  },
+  "images/matte-black/machines/omarchy-machine-050-fanless-arm-laptop-mountain-hut-2K.webp": {
+    "sha256": "95e4366bcc4f5e3301a691696a9182ecd28d0e3bcb3fd8a941d0bc4ea20ce2a8",
+    "size": 1045128,
+    "preview_sha256": "faadfab6eebb242405a1c3d6ba1e89bf5d7c05ff3ef9998d7d1ce50725ec8b24",
+    "preview_size": 37932
+  },
+  "images/matte-black/machines/omarchy-machine-099-analog-computer-patch-panel-2K.webp": {
+    "sha256": "4814e2d6425e5bc6666c93b042c3928cdff012a5e954ac71ef11d1dd5cab7b26",
+    "size": 1103902,
+    "preview_sha256": "658cbc1673270c6d7d987070e328f47c1823dc87b7b5368fb3cc650e8bae87b0",
+    "preview_size": 41358
+  },
+  "images/matte-black/machines/omarchy-machine-149-lockdown-kitchen-home-office-2K.webp": {
+    "sha256": "f6443d4e18c68f9062eab3097220b04f237aae58682b61a255c43e681dba34ba",
+    "size": 948956,
+    "preview_sha256": "ee1522c8cfd772e8fe25243cb404dca96cf7f03d91540f67b2cebe32da0ea752",
+    "preview_size": 38548
+  },
+  "images/matte-black/machines/omarchy-machine-201-dot-matrix-printer-school-project-2K.webp": {
+    "sha256": "97777a3dcc5c27155f76ee10b36d522832d48bd8bc028b1514f3c62d742e2940",
+    "size": 777314,
+    "preview_sha256": "66844c7c8fbb43fc886524444d38b1090de0af5a121c584f03283b2f2238bd11",
+    "preview_size": 28198
+  },
+  "images/matte-black/machines/omarchy-machine-250-industrial-robot-controller-2K.webp": {
+    "sha256": "e3e4ce5d2130a8a569e526ea58c795bb2eecb55a83a2f497ffc47fbf1f4d9b9a",
+    "size": 983202,
+    "preview_sha256": "7aad56fbeb3c0807011cd5d064af1e1ed139dca7b8b21100b913f093bf8dab85",
+    "preview_size": 43530
+  },
+  "images/matte-black/machines/omarchy-machine-002-handheld-game-brick-1989-2K.webp": {
+    "sha256": "4122db6f620e4c4d598adaf6bebd4001d5735e76333405b61d3e89478f15e511",
+    "size": 943600,
+    "preview_sha256": "529b88135a3377314b04ee6f388d21495a4871e95ca431a4253f66a7918e5f06",
+    "preview_size": 36332
+  },
+  "images/matte-black/machines/omarchy-machine-001-linux-phone-kill-switches-2K.webp": {
+    "sha256": "26b5a65f769ff0f4d436c4d759e467b20d17d096d7f3cb234b3d132dd1ee9acb",
+    "size": 1031896,
+    "preview_sha256": "5249871462767c942281228d3c10b0541d99b80770c51e96422c452e8f31747a",
+    "preview_size": 40406
+  },
+  "images/matte-black/machines/omarchy-machine-006-c-shaped-supercomputer-2K.webp": {
+    "sha256": "39106b659b9ffbd0c725bf9bf8312d2f5ab74e6ebd2964b1626e7ec138e871dd",
+    "size": 1085936,
+    "preview_sha256": "b0dbbe5f118103c9a73aa4436c52aca3250cacc268dd77dcffe8ac35bc52b977",
+    "preview_size": 34390
+  },
+  "images/matte-black/machines/omarchy-machine-003-fiber-optic-splicing-van-2K.webp": {
+    "sha256": "1cd3d6fad5e5c886c7512baef0acfa96521a4fb13daebf3f4ea1bbabcae86df1",
+    "size": 1051418,
+    "preview_sha256": "8c0f6eae96175948444e00714f50d7a47f30e28c8fe4d030d6794890294f2ad1",
+    "preview_size": 41142
+  },
+  "images/matte-black/machines/omarchy-machine-007-soviet-home-computer-2K.webp": {
+    "sha256": "eb94485eb54051f059dbd6752db66f9bb39c979d5b503c3a0c7a8e8525efe40d",
+    "size": 922768,
+    "preview_sha256": "946efd6a7bcf9eb5c86bed9dca74dab8b33a51e69493c88a41a72f52b8c50eed",
+    "preview_size": 34216
+  },
+  "images/matte-black/machines/omarchy-machine-004-486-tower-home-office-2K.webp": {
+    "sha256": "7155f4f0171dc335897383d9606a1222e760f5ed6fd499f22269db4dbb1eef02",
+    "size": 878082,
+    "preview_sha256": "c7046aa9f1a3d0f4a12ee27e4f108b75b415754de0f789cfc37cadea0f51a087",
+    "preview_size": 31232
+  },
+  "images/matte-black/machines/omarchy-machine-008-computer-store-window-2K.webp": {
+    "sha256": "3d7f7cea63e31848c3ae63028908f66b52a03c29efa278ed7178a1622a4c2e6b",
+    "size": 857194,
+    "preview_sha256": "f2410fb0171e372989433cf5f704fe30f4cc5baca3a6d22dd8286b8a7f441187",
+    "preview_size": 28360
+  },
+  "images/matte-black/machines/omarchy-machine-005-liquid-cooled-ai-datacenter-2K.webp": {
+    "sha256": "b4569cf65aba137a485f8fc93d94b3e92ff1f9cda9438166857b626742fd1672",
+    "size": 1077936,
+    "preview_sha256": "f4bb3994f61fc135fafcd1123da73f58b3ae87487c0ea9ff96001bec43387e58",
+    "preview_size": 40916
+  },
+  "images/matte-black/machines/omarchy-machine-011-chess-supercomputer-match-2K.webp": {
+    "sha256": "fd08d66e4b7314a52f691665ab016177a3bb900369054124cf15d1da3d7dd2d7",
+    "size": 741676,
+    "preview_sha256": "130d161e5950d7424fe36089b0279154872c4b53c47ee14a83df0dd59338e33c",
+    "preview_size": 25500
+  },
+  "images/matte-black/machines/omarchy-machine-009-gpu-ai-training-cluster-2K.webp": {
+    "sha256": "9688acfd492dcd33045f5808fb4b9bb6a666aa08d0dec7f44a1b45bc9b6b2445",
+    "size": 845546,
+    "preview_sha256": "4970721e797c74b45e3c9af59a8eac62929b5e3d4424b392aecbb1906a8e60a0",
+    "preview_size": 34228
+  },
+  "images/matte-black/machines/omarchy-machine-012-usb-flash-drive-1999-2K.webp": {
+    "sha256": "72b31b9fe2b1f9275970a25daaf91dc912837a7d4f628446900ecc5108e568c6",
+    "size": 875926,
+    "preview_sha256": "b591b3b5e300b8ed25451eda7be3b7104b0e1ebfc8bca3439ca41622bf3bb448",
+    "preview_size": 41366
+  },
+  "images/matte-black/machines/omarchy-machine-013-minicomputer-where-unix-was-born-2K.webp": {
+    "sha256": "552b64261cbb7b801da87f090faa02beabe21724120ea4d61e90b09db4a247ea",
+    "size": 722542,
+    "preview_sha256": "d1677ba496fdf7c946653f89042e30cb86dcc1ce5b7897558f5c622b1a7022a9",
+    "preview_size": 29834
+  },
+  "images/matte-black/machines/omarchy-machine-010-undersea-datacenter-capsule-2K.webp": {
+    "sha256": "e79feb13eedaf2a99e4007ec9d5831dc4cf8f652d8946fb5e9d3ac1121fcc969",
+    "size": 994208,
+    "preview_sha256": "5ab9e0226262823238926f97ff98d94b34795ab30a68d5343ae5ea6e6b3d934c",
+    "preview_size": 46098
+  },
+  "images/matte-black/machines/omarchy-machine-015-wifi-router-antennas-2K.webp": {
+    "sha256": "98ddeb63c4247d4b85b44927473f776757f009b9714e26651fa2ad8a62cd6a50",
+    "size": 645398,
+    "preview_sha256": "e95c70474f340959263ecdf9171c66226907a9a383b1c84d30e8f243e2b74593",
+    "preview_size": 25428
+  },
+  "images/matte-black/machines/omarchy-machine-014-click-wheel-music-player-subway-2K.webp": {
+    "sha256": "70bee39b96a15304affeb62b2ee2fc011f9009e4aedd7719a4b42ef4d4e87cb4",
+    "size": 786692,
+    "preview_sha256": "bf2941d7ee07c457e5ea149258145e54b29544e13a8d1e41fa82de0a2fe0d69b",
+    "preview_size": 30260
+  },
+  "images/matte-black/machines/omarchy-machine-016-colocation-cage-cabling-2K.webp": {
+    "sha256": "08bbf417ddf9f1317a20f7da5135f5f37ebd33ce9205b463dea995fc87036d67",
+    "size": 1147288,
+    "preview_sha256": "a44c38784c84265aa9e1241df4716b27889022c730d52a3b11fb6b4affd7fa17",
+    "preview_size": 39464
+  },
+  "images/matte-black/machines/omarchy-machine-017-car-gps-navigator-2K.webp": {
+    "sha256": "99bd57517355707f9467e62c48f325b40ad150abd4bfa733611c6288b66f58f4",
+    "size": 918606,
+    "preview_sha256": "7a521309a7893cdc8da7f7b4e511cf7abe8314502d82c7e409770a54aa7df1bd",
+    "preview_size": 36650
+  },
+  "images/matte-black/machines/omarchy-machine-018-racing-arcade-cockpit-2K.webp": {
+    "sha256": "084ef29276bbaaf1feaeef98e8d11271099590f6c65fca60a4684658abc570bb",
+    "size": 965788,
+    "preview_sha256": "6208868594e9b31fcdcad54f18f29b55860bd6ad135218f555c10f5b624f4989",
+    "preview_size": 32354
+  },
+  "images/matte-black/machines/omarchy-machine-020-microfilm-recorder-2K.webp": {
+    "sha256": "728202a66675568ddb6917bb843c433703a62d3b0b32e2c0940d8eea630c2d88",
+    "size": 960800,
+    "preview_sha256": "c3bacf5305c2ce1bd28c0ba2ea91d0146977489f74b9d91afde8506dd1348cd3",
+    "preview_size": 35174
+  },
+  "images/matte-black/machines/omarchy-machine-019-space-shooter-arcade-2K.webp": {
+    "sha256": "bff6f366f2f44679e5e939f0bb215c6b7f2832b36d91dae4ae9e2ee107bb2df9",
+    "size": 986518,
+    "preview_sha256": "6682d1c30993f6630cccf5ddab0d990f53b766283abfc457d1b1321717bee5bb",
+    "preview_size": 42372
+  },
+  "images/matte-black/machines/omarchy-machine-021-vacuum-tube-computer-repair-2K.webp": {
+    "sha256": "a8f7a59a041b8f718f669ac1e04f6f4194bbb4f10b4444e05dc0e71a4365bffc",
+    "size": 1023626,
+    "preview_sha256": "b1891f1f67add3ea0b82a6946c74157aa3c7e31372ddff16c6dd596bd3b8d26a",
+    "preview_size": 40632
+  },
+  "images/matte-black/machines/omarchy-machine-025-cdrom-multimedia-family-pc-2K.webp": {
+    "sha256": "8f56ad80236a7d0e25b2314a732b180fb64c924d65f3bf18a74228d4c58e6013",
+    "size": 913036,
+    "preview_sha256": "97c8ae9f81bb2d16b8109126e0ff0e7adeb6a0e6d2efc20dd3020f31be27b73d",
+    "preview_size": 29256
+  },
+  "images/matte-black/machines/omarchy-machine-023-early-mp3-player-2K.webp": {
+    "sha256": "c5214ad466ee73e918da6d99b1c8083755df00cb432fd35baab789cbf0b4db07",
+    "size": 997034,
+    "preview_sha256": "17d80848c735d6fb1aca582b96591526b9ede7e14b40312015d01598298bd18d",
+    "preview_size": 35734
+  },
+  "images/matte-black/machines/omarchy-machine-022-warehouse-grid-robots-2K.webp": {
+    "sha256": "ea9fca5140e9c3870e2cc4cb458f0036badfc4499fd4d83b7331b96fe968dc5e",
+    "size": 993418,
+    "preview_sha256": "009cea5d133f881b400d43362f26b41f90ae5030bf8e1962bbd27cb859bd98cc",
+    "preview_size": 39048
+  },
+  "images/matte-black/machines/omarchy-machine-024-modular-repairable-laptop-2K.webp": {
+    "sha256": "2e1812167c9c1f18ac1f9bad570ea7b3a16395f6aed34582b449aec37e58f552",
+    "size": 1011652,
+    "preview_sha256": "9a0b8ae057305b696693bb6c5e628e37869bf0ad4f3a640d06bc27122b2a2fcd",
+    "preview_size": 40120
+  },
+  "images/matte-black/machines/omarchy-machine-028-acoustic-coupler-modem-2K.webp": {
+    "sha256": "f6cbf49f33ed66161e59e6413f92da1e247e73d322e87ff902fdfee8821c59da",
+    "size": 1009832,
+    "preview_sha256": "1290090aacd08bf81510d3560627fc094527ebe2734b697a5c18eded5833b3c8",
+    "preview_size": 38594
+  },
+  "images/matte-black/machines/omarchy-machine-027-cassette-data-storage-2K.webp": {
+    "sha256": "d33f7b060e71cbafb460858a99c14c360267330e42e4a3993109d916b593d3bc",
+    "size": 1095774,
+    "preview_sha256": "d93631d954cf53b60e056f72ac47322788cf8a1a5f79628935001ea30a42cc51",
+    "preview_size": 39728
+  },
+  "images/matte-black/machines/omarchy-machine-026-tape-library-vault-2K.webp": {
+    "sha256": "685d401083e5c7f68fbd6004011a94e6751f8f9c23073b6dc8d241828b3ad413",
+    "size": 953410,
+    "preview_sha256": "f5996d17196a94973bcc92b5b393bd856c8f1d62e732e87bc6cea627332fd1c7",
+    "preview_size": 32574
+  },
+  "images/matte-black/machines/omarchy-machine-029-lcd-gaming-pc-neon-2K.webp": {
+    "sha256": "91950db3f11665f5ff6eecb5e7f5643a0ce36c8352055f45a277c4bff1e65e44",
+    "size": 941806,
+    "preview_sha256": "31280a92ed12595aff36837b058f7e4e9ea5fc395957ff0ff77a4fe97db804a8",
+    "preview_size": 33820
+  },
+  "images/matte-black/machines/omarchy-machine-030-demoscene-party-hall-2K.webp": {
+    "sha256": "5cc815f8fd66548a877e76fb219aa3ea4dfcd8838aa42f07dbb6f8e74e1714bf",
+    "size": 934378,
+    "preview_sha256": "68a6e139051e4a86e273456aa0fd65931cec68f61eaddcdbea031d19231c6d03",
+    "preview_size": 33450
+  },
+  "images/matte-black/machines/omarchy-machine-033-early-web-browser-dorm-2K.webp": {
+    "sha256": "266062abf978392871c46245c4c00b9390bdc30c71571576c36d61437c57a7d3",
+    "size": 990136,
+    "preview_sha256": "7777bf4d32c03730ab982a09b5d6cb873dec7c4eb7b85ab8cd1dce1d815f80d9",
+    "preview_size": 32194
+  },
+  "images/matte-black/machines/omarchy-machine-037-luggable-computer-train-2K.webp": {
+    "sha256": "b26c3c89c71568c10b666a7c5e88ec3cb3eb0ea078f69bb0db4e305befb66dc4",
+    "size": 974840,
+    "preview_sha256": "dcdbd217728e2b487258abe8148a1c67583763b3d1582f2d7d97cd818f9b46ac",
+    "preview_size": 33102
+  },
+  "images/matte-black/machines/omarchy-machine-034-early-digital-camera-2K.webp": {
+    "sha256": "a3ff51e16ed3caea2ed380dbf48bce5236e157be4824843b4ada02323de2b0c4",
+    "size": 1071440,
+    "preview_sha256": "043ef222da5fe1d5b14110fd529fbeb2f5e288eebafcc45ddfbb7b5dea426a32",
+    "preview_size": 40250
+  },
+  "images/matte-black/machines/omarchy-machine-032-wooden-case-hand-built-computer-2K.webp": {
+    "sha256": "54462eab0219037d1787494f6c315646e3db96dad9831595a2ca9b084d5055ce",
+    "size": 860160,
+    "preview_sha256": "40cdae893d8066fb7666869c8c6454de505a5efc538491f1770e9c180cfbd777",
+    "preview_size": 34480
+  },
+  "images/matte-black/machines/omarchy-machine-031-warehouse-scale-datacenter-2K.webp": {
+    "sha256": "62c18ac0717eb68c557b6fde0d2cf58701bce7ce7a4c70645481e94e0462de10",
+    "size": 890138,
+    "preview_sha256": "b45812aecf66079e4f457ac925a02de9a0a91549510570cc812411888d8b9ecf",
+    "preview_size": 40696
+  },
+  "images/matte-black/machines/omarchy-machine-035-magnetic-core-memory-plane-2K.webp": {
+    "sha256": "d998471b9f898eee5df67cd2a3f13a777dd1b25289ea494561bb0b29b78fa9d1",
+    "size": 1259906,
+    "preview_sha256": "75337b1ce45803befc95d790c04c065168a8b778a3a36f3d1cb2068f08dddd19",
+    "preview_size": 54578
+  },
+  "images/matte-black/machines/omarchy-machine-036-office-cubicle-1995-2K.webp": {
+    "sha256": "2d83dcdc4c397adbf31c2de5f74c9f77acdf9db97190b59e091b6dacab33b327",
+    "size": 784122,
+    "preview_sha256": "7e2b4db063d5766e49f073a63e48f31614b1bd47c5b7fa51ae18708d50205069",
+    "preview_size": 26468
+  },
+  "images/matte-black/machines/omarchy-machine-038-all-in-one-with-cassette-1977-2K.webp": {
+    "sha256": "619e0c378ca8a6d32493fd41a05da46c3454eae42433b417c06953208c10991a",
+    "size": 834840,
+    "preview_sha256": "ad2ecf4fedf98c57ef86f8403983c649fc355337be5ab45b8cffddc9eac359ba",
+    "preview_size": 32420
+  },
+  "images/matte-black/machines/omarchy-machine-039-hard-drive-array-home-nas-2K.webp": {
+    "sha256": "da2cc5326176be8f68444ba2c735540e56bb8bf20795490b6e788c09258607db",
+    "size": 759388,
+    "preview_sha256": "2f29f7a1e854f3ace1d8166a6c649ad4f8c2cec7a75ccaae442d44b0cbfdc25a",
+    "preview_size": 26048
+  },
+  "images/matte-black/machines/omarchy-machine-040-mars-rover-panorama-2K.webp": {
+    "sha256": "3250feb8f00278d4219ca73ab5fa26b2731f801523bee047119d674a5c32797d",
+    "size": 966050,
+    "preview_sha256": "e6de6e0679314addee5b8494d2d12355fe6f9e50ad2aac90b5a0f0efe21545a2",
+    "preview_size": 36506
+  },
+  "images/matte-black/machines/omarchy-machine-041-desktop-3d-printer-maker-2K.webp": {
+    "sha256": "d19abb7445fcfe7dd95749bbe90fa3f49238d68d5d9bf726f9c1105799e64f31",
+    "size": 873580,
+    "preview_sha256": "5f52c0c8d1f298041d83b9554ba91518f3dfa2fb80fcab08ba7fb8f5d820bb92",
+    "preview_size": 34042
+  },
+  "images/matte-black/machines/omarchy-machine-044-black-cube-workstation-2K.webp": {
+    "sha256": "7240b48d4346dd99af753d7f8253c987b99145489218875690d2d6ad764a13eb",
+    "size": 1024702,
+    "preview_sha256": "2852025f11172454f0ed981aa6fdef24eae973a0d057fa2f959f57466324e0f0",
+    "preview_size": 35776
+  },
+  "images/matte-black/machines/omarchy-machine-046-text-terminal-university-2K.webp": {
+    "sha256": "f496c3fc76bb7a3ebba348a3e79f895f8b1e06241e21cec018ac8d02b6e0172d",
+    "size": 778518,
+    "preview_sha256": "19616d330cb9a0f4af60017fe1abfb5c41ee5e5aab194f929e1877e3bab65dc8",
+    "preview_size": 32232
+  },
+  "images/matte-black/machines/omarchy-machine-043-blade-server-chassis-2K.webp": {
+    "sha256": "2bfb04c8a417ec2dd0fe145fb576e5dfd2911fd99d779cf75156097d9b9c76de",
+    "size": 924610,
+    "preview_sha256": "79b9edd15dfc3da0269daadc36e225dcd13c763b0432016b6ae7993858cec440",
+    "preview_size": 41458
+  },
+  "images/matte-black/machines/omarchy-machine-042-first-tablet-2K.webp": {
+    "sha256": "847984f76a87ed0acc7b1d6bb1a83954db42bc8e21eb598ea20f6ebebcdaa000",
+    "size": 1108070,
+    "preview_sha256": "829fc80c890e03157665da539b9267905654b65f4c4977a2ba88641c8926b62a",
+    "preview_size": 37228
+  },
+  "images/matte-black/machines/omarchy-machine-045-immersion-cooled-supercomputer-2K.webp": {
+    "sha256": "65f1c210f250469671ef188fcd1bfc7c6c054e2d38fa2aec60a84caee003e26d",
+    "size": 920572,
+    "preview_sha256": "2b1cece4285cb52d67e0d5051d5cd1da0fb272741547767cf4b6713cc3071eab",
+    "preview_size": 36334
+  },
+  "images/matte-black/machines/omarchy-machine-047-3d-accelerator-card-2K.webp": {
+    "sha256": "6e4cd5bfdccb363d9fda58d23235677af7e6fd2ab455f59c7135e9db3f15a987",
+    "size": 719222,
+    "preview_sha256": "ffdb05ac3ca584d8547ece8ff0cbc53577f190a06bd8c5312e712af2d3b368a1",
+    "preview_size": 35672
+  },
+  "images/matte-black/machines/omarchy-machine-049-compact-all-in-one-1984-2K.webp": {
+    "sha256": "27337b1594c82deafd7fba2e652f0943b965e0b7297313ce28830b81dbe8c10a",
+    "size": 814822,
+    "preview_sha256": "78ed78be9f7041b61e775da5161a0e18f1798c8f204f3933bcf3d91887b4cbbd",
+    "preview_size": 31370
+  },
+  "images/matte-black/machines/omarchy-machine-048-water-cooled-overclock-pc-2K.webp": {
+    "sha256": "cf6e0be60a608f78cb220971645df5e616541a189709b41ff27b307e35070ba5",
+    "size": 1121794,
+    "preview_sha256": "f66fae1067a7afa9e894058188cff99c2e25af1e1fa4deafc427ef920f3f0e14",
+    "preview_size": 43260
+  },
+  "images/matte-black/machines/omarchy-machine-051-pda-stylus-coffee-shop-2K.webp": {
+    "sha256": "221d6433b02adf411d97a8302ac71ee3e1c170d3f93d9016c87bdf68285f19af",
+    "size": 959482,
+    "preview_sha256": "54a3c2449417f912b038e3a644f665df4af370c3fff1a4c3e8136432afc6763f",
+    "preview_size": 38518
+  },
+  "images/matte-black/machines/omarchy-machine-055-hacker-convention-laptop-2K.webp": {
+    "sha256": "4424a068505555ccabe430642025f58cad5f1c55b14a58121edb590dc8876935",
+    "size": 1114960,
+    "preview_sha256": "e3d7144ed8d1d3cf03d6694c7f4f8c083e96be832fccb5e590205ff12dab5d49",
+    "preview_size": 46368
+  },
+  "images/matte-black/machines/omarchy-machine-052-multimedia-computer-video-studio-2K.webp": {
+    "sha256": "bbd442abddc9b95650e647879d6198fa116de00c83b25fae86a812e66fa83840",
+    "size": 1041556,
+    "preview_sha256": "21cf73b7fe90a919bcceae3d7f2aa8fc9b6895cba99e49107c2561de1e82ead0",
+    "preview_size": 41822
+  },
+  "images/matte-black/machines/omarchy-machine-053-supercomputer-freon-cabinets-2K.webp": {
+    "sha256": "fad531962be2cbccbc4594fbc88619f9b4b90242626c5e6e7216834f026885ee",
+    "size": 1012236,
+    "preview_sha256": "f88ef47c6c001b541a98ab2fd8caabe055db0b28cc132b0d2d13588d69c56c71",
+    "preview_size": 33790
+  },
+  "images/matte-black/machines/omarchy-machine-054-hyperscale-datacenter-aisle-2K.webp": {
+    "sha256": "3c27365cb66fb5051b4ea68bb9022894a0bc7938a12c338fd53ba90c90e1d94d",
+    "size": 1028622,
+    "preview_sha256": "4349dc51519b2440f06a1048657acb19655d82ebd6eaf2aab63ac2f744526b4a",
+    "preview_size": 37968
+  },
+  "images/matte-black/machines/omarchy-machine-056-drum-plotter-map-2K.webp": {
+    "sha256": "083565fd151adca389281a3eeefe57e9cd3534082731d68ff31f0e4d2371d572",
+    "size": 1066806,
+    "preview_sha256": "fe68025f9e2ed1c8b696a68bf844a84d7c981c293e7a7f82f71c54a12dd4a3ea",
+    "preview_size": 39370
+  },
+  "images/matte-black/machines/omarchy-machine-057-retro-computer-restoration-workshop-2K.webp": {
+    "sha256": "edb8cb2e0d55bf91b1830d2349f5e1e718316978b4f4824f9a5a17c8de4b8faf",
+    "size": 647680,
+    "preview_sha256": "b9b2a94533624ae36f84c285b106b9ed17ebe71388c708f8ec01d3205fcc56c1",
+    "preview_size": 26604
+  },
+  "images/matte-black/machines/omarchy-machine-058-midi-computer-music-studio-2K.webp": {
+    "sha256": "080c55ece3270e0ea156f6cd78850163848bd1ce983c3ffe1b3cef93c7893818",
+    "size": 689864,
+    "preview_sha256": "c4c6be8483503c491ba416c3582a76caf8355a80082bbdd7c9a6b42f50d6a72a",
+    "preview_size": 25358
+  },
+  "images/matte-black/machines/omarchy-machine-059-hacker-modem-bedroom-2K.webp": {
+    "sha256": "c97a9a81331dc517317812f2e788833183327dc6be6a18530004cf2b6a70f1d2",
+    "size": 905158,
+    "preview_sha256": "337df1cfe350ef6227a7124a4c5b28d70877abd72b5a10897ccfc0ed2ea91e97",
+    "preview_size": 30200
+  },
+  "images/matte-black/machines/omarchy-machine-060-tennis-game-oscilloscope-2K.webp": {
+    "sha256": "441acb4c18292dba4518abbc5ffc1d1aefdfc6c268475b7a2b302d66642e719e",
+    "size": 745588,
+    "preview_sha256": "e7f0132122ff07e9e0557c4a43a78c0c0217207627dd1ee3e07ed72b38e9c927",
+    "preview_size": 27556
+  },
+  "images/matte-black/machines/omarchy-machine-065-dedicated-word-processor-2K.webp": {
+    "sha256": "31ec8ff8f271bf58b9dccce9a2f8aed2a8efa8c42c13ac4714803e121bf797d6",
+    "size": 747814,
+    "preview_sha256": "eeefa9c23661e1828ad5b46bfe5260377dc889f406559b0e4414406b46efe4ee",
+    "preview_size": 32450
+  },
+  "images/matte-black/machines/omarchy-machine-064-quadruped-robot-industrial-plant-2K.webp": {
+    "sha256": "c69732cea4b5a5e6538b300a8be21678da855afb55533544c83d9a8654ec6c5b",
+    "size": 812916,
+    "preview_sha256": "efe97e40d59366f674e59b6f53a24f60fe04930a0a6d8c2f47dc05d7bf433963",
+    "preview_size": 27734
+  },
+  "images/matte-black/machines/omarchy-machine-061-brick-mobile-phone-2K.webp": {
+    "sha256": "0c44974477955851af567abb7e5087089b6bdcb69f5d0512da86889650fc39c0",
+    "size": 889276,
+    "preview_sha256": "f9fb338c79ccdf49c907eb8e194e21a23194f7dd1f482e018a9a34742d72cc57",
+    "preview_size": 31780
+  },
+  "images/matte-black/machines/omarchy-machine-062-electromechanical-desk-calculator-2K.webp": {
+    "sha256": "b4172f3ef0f264badb2ec175ef79ef40cc4bb315a445b5d39b39d3ce19a6b358",
+    "size": 1047986,
+    "preview_sha256": "568070e05f82a87edcc17a897910352e8893abb3349e9d72466c43148a48e629",
+    "preview_size": 38678
+  },
+  "images/matte-black/machines/omarchy-machine-066-cad-pen-plotter-architect-2K.webp": {
+    "sha256": "002c01a71eb933b39940ee25f233cfd8e7172176976b22831a909ddc79cd0071",
+    "size": 806418,
+    "preview_sha256": "d5838c8401d64aca622b73a1fae44fbe83e680319a9f728b741826c21e8c7306",
+    "preview_size": 31168
+  },
+  "images/matte-black/machines/omarchy-machine-063-wifi-microcontroller-greenhouse-sensor-2K.webp": {
+    "sha256": "642a1386379183f2bccbeba4217f843fd09b5d22964b10a21e6bc2f4eaf2376f",
+    "size": 960856,
+    "preview_sha256": "71ff5bd69205c3762369eab820223aa267bcb60fd5a6575550449700097b6b09",
+    "preview_size": 39490
+  },
+  "images/matte-black/machines/omarchy-machine-068-grey-front-loader-console-2K.webp": {
+    "sha256": "4e7665d4acd31ed737fe491fa647698acee18659eb7c5d91e476a3dd9959ad10",
+    "size": 946888,
+    "preview_sha256": "8ed9c86bc0ebd9ca939887c08076c2d0d91ba4ee856e3dd4bc65da31a2cff141",
+    "preview_size": 39902
+  },
+  "images/matte-black/machines/omarchy-machine-067-space-probe-computer-cleanroom-2K.webp": {
+    "sha256": "c02f62d5c47dad3ae6907e72a06796fca79d1041fa670ce633a856ddd659a1b0",
+    "size": 1189070,
+    "preview_sha256": "5471e629c2546960d9c0180425a03e5e61d26f4fef11e22125a926b895de631f",
+    "preview_size": 47606
+  },
+  "images/matte-black/machines/omarchy-machine-069-dot-matrix-printer-1970s-2K.webp": {
+    "sha256": "39e345a1bb2b5965e401fa66249708e5ed1a5a6b05791be201e6787aa09f3557",
+    "size": 739844,
+    "preview_sha256": "e5c2cc44f03b0d219913efd6f37a9b3421c1bccd27e619db0ff204b7d1deed00",
+    "preview_size": 31208
+  },
+  "images/matte-black/machines/omarchy-machine-071-cheque-sorting-machine-2K.webp": {
+    "sha256": "46478dec8274d8cdef12d6a41f5d5450183744c2185b3d37d9b8c1d020100d8c",
+    "size": 860078,
+    "preview_sha256": "002dd83d363075e9dc1269837983696c61649a82256b37d0816755ea0e8c5f8b",
+    "preview_size": 35182
+  },
+  "images/matte-black/machines/omarchy-machine-070-early-car-trip-computer-2K.webp": {
+    "sha256": "96a1f52d2ff664641b2d1386caa7a1c3ff5312a3a9e2c510afc4e74c4d6acea0",
+    "size": 973596,
+    "preview_sha256": "da3f7907fb15dfebae81392938ccf05a9fa7dbe10433d5e87c20455de0eb5797",
+    "preview_size": 34950
+  },
+  "images/matte-black/machines/omarchy-machine-072-stock-exchange-terminals-2K.webp": {
+    "sha256": "acb7ebc315555a8c82e439af924041fb010e6fc342c7d587192bd51b5fd60405",
+    "size": 1056594,
+    "preview_sha256": "436b93c094365db39a71728d03b6467f0084da9faa8a383e7849597e53db1c98",
+    "preview_size": 45940
+  },
+  "images/matte-black/machines/omarchy-machine-073-vr-headset-living-room-2K.webp": {
+    "sha256": "79dd3e09056286f3d0a627110290d6d9f904112328a48f3b13544c0ff430dd0a",
+    "size": 1055186,
+    "preview_sha256": "a4b5edd0798dec80fc7ee471d15f790739884004e55c133c232f716fad9b9f4b",
+    "preview_size": 39342
+  },
+  "images/matte-black/machines/omarchy-machine-075-linux-cd-install-2K.webp": {
+    "sha256": "d463776af61f27d9a667461df2490e9dd70b0238bd35115239c7511731fb19a5",
+    "size": 885218,
+    "preview_sha256": "ce64cd45514137e6055c79fd8babd2e2657238054feaf38eeabf2e7dc56fa8ef",
+    "preview_size": 31844
+  },
+  "images/matte-black/machines/omarchy-machine-074-educational-talking-toy-2K.webp": {
+    "sha256": "671a020c6a7b4539936fb645086fb86d39f19b9846413e8832dcd59119ec0ad0",
+    "size": 908506,
+    "preview_sha256": "b8a81ff428daa99bc8c85b82b225b19cf2a215bc82642ccfb0471f243c8c3579",
+    "preview_size": 37188
+  },
+  "images/matte-black/machines/omarchy-machine-076-thick-coax-ethernet-tap-2K.webp": {
+    "sha256": "a5a20893b62ee57c6ab23a2698d764ca9e7e88064a523a64f02fc9a7503d86a5",
+    "size": 741558,
+    "preview_sha256": "3d98cde38ef0f7206772cd5740c930aa842c9fd1f8f43f0c45ba7d057b78dfb5",
+    "preview_size": 25036
+  },
+  "images/matte-black/machines/omarchy-machine-077-led-pocket-calculator-2K.webp": {
+    "sha256": "38dbd55aea2a449012c2a2afc0c9c33afa418c9250ce86f9f03134547c4a3b33",
+    "size": 966062,
+    "preview_sha256": "f6e8a4b7ba2f15a65451ceba3ddb386168afc9ff8715803b49bdbd52b0c37187",
+    "preview_size": 33236
+  },
+  "images/matte-black/machines/omarchy-machine-079-light-pen-vector-display-2K.webp": {
+    "sha256": "fc32b9203138da3caf6a2cf6bd937428bbe0c8914376a40306e3dfe7ebab02b8",
+    "size": 818086,
+    "preview_sha256": "a798cb75698be6272137df80da9cfb248d5969618ab87cfaf0b7fcb755829ddb",
+    "preview_size": 32496
+  },
+  "images/matte-black/machines/omarchy-machine-078-asic-mining-farm-2K.webp": {
+    "sha256": "81d0ceeb2088bf1d4638996264f900137838b809110ecdb22b1ff677bf68d8a0",
+    "size": 1003900,
+    "preview_sha256": "627f4302ddf7af4c175d189061e335def31821579c69099138b2bca2f89737f7",
+    "preview_size": 41690
+  },
+  "images/matte-black/machines/omarchy-machine-080-black-laptop-red-pointer-2K.webp": {
+    "sha256": "461591da8f87bc9dec4bfb24cdadfde6d7a04a2b83700ad06baf6f66a064754a",
+    "size": 1021924,
+    "preview_sha256": "5d245b28f2822cf82480fe6e50a1f5e0441f3490ab5314eb8a7d87b9af3b80e5",
+    "preview_size": 36254
+  },
+  "images/matte-black/machines/omarchy-machine-081-dual-screen-lcd-handheld-2K.webp": {
+    "sha256": "2ef4983fc69563c5d94616f9c170d2f952b495de0852ef9b10798dddc92f1e7c",
+    "size": 962890,
+    "preview_sha256": "2f8b3f6f45be3476e61d1a5c2e457b611f54a4640df75daa93c20d693baf444f",
+    "preview_size": 31370
+  },
+  "images/matte-black/machines/omarchy-machine-082-japanese-standard-home-computer-2K.webp": {
+    "sha256": "09ffff00027344058d97be371b9c7a20a6317fc092da8f7748b0f6b352c6ef5b",
+    "size": 1078458,
+    "preview_sha256": "360c97fc0828475e3ac0508e9c1ed22b70a9ad57a9da1b4af5a7dbbe10b772f7",
+    "preview_size": 34538
+  },
+  "images/matte-black/machines/omarchy-machine-084-research-workstation-portrait-display-2K.webp": {
+    "sha256": "e21f7ed6ee36230447f7ae937331545f5faeba8410b527f3369817c90c55efb9",
+    "size": 970166,
+    "preview_sha256": "08fdcf566cec1dbae876ff3a52e51698ce50be77afb6a29c9b859a1f6ea883d6",
+    "preview_size": 31896
+  },
+  "images/matte-black/machines/omarchy-machine-087-tape-archive-cold-storage-2K.webp": {
+    "sha256": "c410640dae0b9ea680a2aaf94d030ad981ac3f325510bd5a790aa7f79718293a",
+    "size": 774328,
+    "preview_sha256": "427cca93010c659d1bf402e60b48bb8d79ef2794e8c92a549feaa9ff9b595fec",
+    "preview_size": 27852
+  },
+  "images/matte-black/machines/omarchy-machine-085-exascale-supercomputer-rows-2K.webp": {
+    "sha256": "ad69bbb1faa47a716f5ee5ae819d6e4e117c3ec5ee0821b9e8bb995e821e4c80",
+    "size": 1088148,
+    "preview_sha256": "021cd234d1a38c62a001c77da571d9f46a35dd2b4cda3107c5a2de47eaf8c2a5",
+    "preview_size": 38372
+  },
+  "images/matte-black/machines/omarchy-machine-086-parallel-supercomputer-led-cube-2K.webp": {
+    "sha256": "7aae8041aae365506bb8d0522add0c2124a64f7282e3caa3e3767c897e2c1008",
+    "size": 1088752,
+    "preview_sha256": "af57d6ffcb029146bb50276c7755c57328c0177ddb985f6d5fc8c83de0d5fcb2",
+    "preview_size": 45030
+  },
+  "images/matte-black/machines/omarchy-machine-088-retro-handheld-emulator-2K.webp": {
+    "sha256": "be4b0a8b963e2bd340d677c3a223ce07e592e44f81258e931b63fab825cae527",
+    "size": 912802,
+    "preview_sha256": "883722ea5c96bf21da517ac53c788c4f8d6bad6a7cc31753feff867a243588a8",
+    "preview_size": 28450
+  },
+  "images/matte-black/machines/omarchy-machine-083-vr-arcade-pod-2K.webp": {
+    "sha256": "5a3a47b2ae0b0fe3ec89cc766c2710fd8479cccb9eeb934bea07a4a8d7d81df7",
+    "size": 974612,
+    "preview_sha256": "c8c599f90ccb3a12cb17997371640be30b2b2e559017d4b52ac6be4c9a232752",
+    "preview_size": 36080
+  },
+  "images/matte-black/machines/omarchy-machine-089-widescreen-handheld-umd-2K.webp": {
+    "sha256": "1d00587eaeddf9e4f5e083716cf58b90ede26cc162067124c15e38517eab7b49",
+    "size": 927238,
+    "preview_sha256": "d3a65f037879dba537f1c60c5550f5fe67ff36540d02007005ce78ef97de4571",
+    "preview_size": 32772
+  },
+  "images/matte-black/machines/omarchy-machine-090-iss-laptops-cupola-2K.webp": {
+    "sha256": "64d2de13b1f09efd4f253d54060763200363b455badf88e71a4b0afafa57f882",
+    "size": 897356,
+    "preview_sha256": "9e2996fdbd6064a52f55052421b1dabc73c2039563ff5d29ef14bd8cd750a393",
+    "preview_size": 38574
+  },
+  "images/matte-black/machines/omarchy-machine-091-robot-vacuum-2K.webp": {
+    "sha256": "46abf3b20791fdd4d4a13ae85478d28eb00ab9467bc03abd0869f2d14f39bbab",
+    "size": 949098,
+    "preview_sha256": "977b1589d3506dfb2fe4e53bdd6e0cfb205bd302a9a625325519e281e53eb27f",
+    "preview_size": 30240
+  },
+  "images/matte-black/machines/omarchy-machine-092-ar-glasses-workbench-2K.webp": {
+    "sha256": "b23198acc154639defb8e246a0ca2ff50659e5823308f35c22bc9953d34c46d7",
+    "size": 895306,
+    "preview_sha256": "242eaa470b4090d6ba49a1b0fac8ab20af69cf0f6097bf6563bb9b3d593fb21c",
+    "preview_size": 43134
+  },
+  "images/matte-black/machines/omarchy-machine-093-e-ink-distraction-free-typewriter-2K.webp": {
+    "sha256": "8ba4bd4a1b8ceb72dd55836e1dd79e18e132ecdeca615e2cb252777146bc879d",
+    "size": 1040146,
+    "preview_sha256": "4a975c15ad87bebfdb7c546c0b1c40954f1b5097aed22045f894f4d904e0cab8",
+    "preview_size": 37546
+  },
+  "images/matte-black/machines/omarchy-machine-094-wind-tunnel-data-computer-2K.webp": {
+    "sha256": "2e89eb54f36345ffd8b2043151297be283ce94d7f52838508c6f7e87ec51a3ac",
+    "size": 958842,
+    "preview_sha256": "85fc325f69356877f39368839053ff5060180d9fa67601a9fc407b43011220b5",
+    "preview_size": 35516
+  },
+  "images/matte-black/machines/omarchy-machine-095-webcam-video-call-2008-2K.webp": {
+    "sha256": "b7d8087cd81dac852788548ef5916c20d632e47ef0ca019d5d83b0890def9be5",
+    "size": 1049238,
+    "preview_sha256": "e4ea98dc3a94d7a4f15b072cf0af5a654af367ada29b1ef48046c5118410598f",
+    "preview_size": 42006
+  },
+  "images/matte-black/machines/omarchy-machine-096-white-plastic-laptop-dorm-2K.webp": {
+    "sha256": "e3a11b18461c90ed75e5871f667759d8f42efb78ebc1df81de3d95754d305dea",
+    "size": 588752,
+    "preview_sha256": "067a3fe480a83aa2d9ee40e9b8f653ade96c97b2bf462018761e34bf1ff77832",
+    "preview_size": 25990
+  },
+  "images/matte-black/machines/omarchy-machine-097-server-motherboard-macro-2K.webp": {
+    "sha256": "f72ee12ffc0c8c3b7cecd839931b2f29fc8a0042f9dc3459912a00dd78e21a9b",
+    "size": 1262520,
+    "preview_sha256": "76dba1067d71c7a4c36bb18016538407c19c92b1c52eff18fc630515e1846a85",
+    "preview_size": 53986
+  },
+  "images/matte-black/machines/omarchy-machine-098-arcade-fighting-cabinets-2K.webp": {
+    "sha256": "ebcb4883db6d35a110cfed12b9823cf378749f88e5ca67f37286e4940bc85716",
+    "size": 646696,
+    "preview_sha256": "3be6ced264f9929138242829cf99c4ac46fd999affa6a74c0d30882242b42bea",
+    "preview_size": 33222
+  },
+  "images/matte-black/machines/omarchy-machine-100-internet-cafe-2K.webp": {
+    "sha256": "cd5ca3ba9cb47ea101eb28a3751b054b3fc5a8d0a3a04154d1d20aa3a24f4ccf",
+    "size": 664034,
+    "preview_sha256": "cd959e8811bc4fd32a0ff8ae070f6f9a6167fde7923b28a4c9f32d3a9e46a8f9",
+    "preview_size": 26014
+  },
+  "images/matte-black/machines/omarchy-machine-101-cyberdeck-ammo-case-2K.webp": {
+    "sha256": "bdb2771bd342a85fb8d2e01869b00d1f6d745634ec059fb7dd6f4f6a91649b11",
+    "size": 815344,
+    "preview_sha256": "de51ae6844d09cf7902bc936130bb025433dd772143b35645a2ceb3a98cfebbe",
+    "preview_size": 36230
+  },
+  "images/matte-black/machines/omarchy-machine-102-first-microprocessor-wafer-2K.webp": {
+    "sha256": "2eb07def1138d4f27f06938eb40c9ecb889a131f7485728aff669505622cd966",
+    "size": 1006022,
+    "preview_sha256": "1b184624ff5a5b19fa93f053632cd208478bdbfa6a587e47024422506b0ba1a0",
+    "preview_size": 39378
+  },
+  "images/matte-black/machines/omarchy-machine-103-linux-desktop-3d-cube-2K.webp": {
+    "sha256": "aae90d30f002f7f13547dd1e8f4f7ab52b9b60eba7b22a4d2398b41918de6316",
+    "size": 893216,
+    "preview_sha256": "26a243315397a2087e1993c6d1cd1723755b00b8e1cd39cb0a2eafb32abc3e4c",
+    "preview_size": 32894
+  },
+  "images/matte-black/machines/omarchy-machine-105-fax-machine-office-2K.webp": {
+    "sha256": "1865e9ec3815366b0c2d73933ea92a5e3a133e4ef21ba180d310440760e32354",
+    "size": 786288,
+    "preview_sha256": "59bd5dc01affa33cd659057f0f8eb4e872d434bc503f2e40d2b5f0ab617d281e",
+    "preview_size": 36000
+  },
+  "images/matte-black/machines/omarchy-machine-106-mission-control-consoles-2K.webp": {
+    "sha256": "d34b3fca3183053fd369fcc245061d1f1a0e656fb417ed4800d7a1934640ca14",
+    "size": 761256,
+    "preview_sha256": "6f3cc706eaba45567ad03096c815e8e9b858db75795185a2d2d2350f10b72baf",
+    "preview_size": 29922
+  },
+  "images/matte-black/machines/omarchy-machine-104-shuttle-cockpit-displays-2K.webp": {
+    "sha256": "2c74211a48bbb6fe948ed5e71957d125ec4e8f05aed31b6e32a1b1bf63d3c626",
+    "size": 908308,
+    "preview_sha256": "17bf75faf531520342c9972cdcedfbda7d293f7615e5e7edbb2495e1384306a6",
+    "preview_size": 42950
+  },
+  "images/matte-black/machines/omarchy-machine-107-videotex-terminal-paris-2K.webp": {
+    "sha256": "cc3678a018e655789f817e3577aacce591210ee327b34bc152f905301698d842",
+    "size": 878648,
+    "preview_sha256": "9efc6ff72f102779e7e205c7464afc3b8bb9905a7eaf18dc82e42c36df10026a",
+    "preview_size": 36510
+  },
+  "images/matte-black/machines/omarchy-machine-108-desktop-publishing-laser-printer-2K.webp": {
+    "sha256": "20911b0d6e5e1ec7f4343659252dabebbe8fd3cd5d82199db11f149457feabc6",
+    "size": 838974,
+    "preview_sha256": "d5efa17a751a287b96c0cbf1ad4a2b982aeea058552b5a6d55502b0644b48ae1",
+    "preview_size": 36012
+  },
+  "images/matte-black/machines/omarchy-machine-109-beowulf-cluster-basement-2K.webp": {
+    "sha256": "3e67713c6ff095b38584e7f8cbb5d97ee23a789daf81f5e24a31654c9177d6d9",
+    "size": 808140,
+    "preview_sha256": "53b8c2027902daabf4be1e1a0e1d6fe832ff30cc9422a39a65772497de961a60",
+    "preview_size": 24902
+  },
+  "images/matte-black/machines/omarchy-machine-110-scientific-programmable-calculator-2K.webp": {
+    "sha256": "e92db8cfd16bcaf6f0f20b53235d9f514238a73dc2627cff6a082715d2fa489f",
+    "size": 1058518,
+    "preview_sha256": "808676c326362e3bd36ee2ba045a9d1a17740dc0b999efcbd955d9cdc59c4653",
+    "preview_size": 41574
+  },
+  "images/matte-black/machines/omarchy-machine-111-e-ink-reader-2K.webp": {
+    "sha256": "708ea39f63f92bb1b36fdb784be0b4fdd8c77d9595278e3a51b2c41a6b0347b8",
+    "size": 1242112,
+    "preview_sha256": "f91412fe5c76e58cd0a2804472cc310adb1c48dda2c74c476e59391f4df43f01",
+    "preview_size": 52918
+  },
+  "images/matte-black/machines/omarchy-machine-112-candybar-phone-snake-2K.webp": {
+    "sha256": "d2e10dba8f6d37b7d89f0f0432bcee59fbff883ac8a2744cb8b9a78bd2a7daf2",
+    "size": 947844,
+    "preview_sha256": "edca84ab26cfdd0bf6c142922eee7f8fc8cb4200fa5a8e3ae2dc0941e17aaecb",
+    "preview_size": 35758
+  },
+  "images/matte-black/machines/omarchy-machine-113-ide-hard-drive-cutaway-2K.webp": {
+    "sha256": "0aacd2f224cac73b03dc705c64e4137dd81bb55b8b2f148b3da3d3752fbaea13",
+    "size": 1054602,
+    "preview_sha256": "fc682319492c4a53939020be45fafb8c85c1c747140fa74be7c4f26adf76f0f7",
+    "preview_size": 50614
+  },
+  "images/matte-black/machines/omarchy-machine-114-home-computer-bedroom-2K.webp": {
+    "sha256": "599ac0fea0fb95da29ec17f3a5009df176e8dd223abfeda9dddcad11cc03023a",
+    "size": 978912,
+    "preview_sha256": "c0c0ec711a475ee8c5971beeb88fd75344c048b1f7ccaef77891ba6034f54136",
+    "preview_size": 30522
+  },
+  "images/matte-black/machines/omarchy-machine-115-flip-phone-camera-2K.webp": {
+    "sha256": "b1b63dad5c3da3fe157aefaccf1c69fa37a92cc2185fcec1ef0fa53329ae67d1",
+    "size": 962030,
+    "preview_sha256": "e8aa01c48f06fe947efef0aad94caadd90fddaa360fb8e99fabc02e3f66f31fb",
+    "preview_size": 43648
+  },
+  "images/matte-black/machines/omarchy-machine-116-bulletin-board-system-1978-2K.webp": {
+    "sha256": "853b4d95a5cc7380dbb465d7e04f49b6be66c1357576c86d7ebb3fab08e3e877",
+    "size": 893116,
+    "preview_sha256": "9c3cfe3984e4b9d26b3b8b5402741b884463d98fd805d21c113d9493f4320cf5",
+    "preview_size": 31532
+  },
+  "images/matte-black/machines/omarchy-machine-117-tape-drive-backup-office-2K.webp": {
+    "sha256": "82107489b82bddd4bb696995485476a9dd8978a174f7b26bb7f78f0a619b05fc",
+    "size": 773266,
+    "preview_sha256": "edf343a3685adc153e6d8a2e6802fced8bb467af401ec649964710bc2da0a812",
+    "preview_size": 27192
+  },
+  "images/matte-black/machines/omarchy-machine-118-air-traffic-control-radar-scope-2K.webp": {
+    "sha256": "081a35a12db6889e1efa35b5e482952beca37167821405007a222a21d90adaa1",
+    "size": 803234,
+    "preview_sha256": "bdadb7d2fcf222326022dac3655529e29b2e731fc2efc7d1f9456ea2281af949",
+    "preview_size": 34560
+  },
+  "images/matte-black/machines/omarchy-machine-119-home-lab-server-rack-2K.webp": {
+    "sha256": "a77cd7aacfdd3f60d26abce17a5ca778c4250ef8e908b5673c3c078e5a82a5ad",
+    "size": 671626,
+    "preview_sha256": "a4c603b9bdf9b23e431e9f592702b0fc9cc5d8663aa9fdb3bea132f28b66f5d0",
+    "preview_size": 22552
+  },
+  "images/matte-black/machines/omarchy-machine-120-japanese-family-console-2K.webp": {
+    "sha256": "f56d3d947db1819b6f98d6ff782ca1806c9c3f1a967eb4efa99bf02dbd25df02",
+    "size": 958696,
+    "preview_sha256": "ce65cd94793c08be76250abeebe9c500fe77a229bc14b9ad3ce9886bbea2cbf4",
+    "preview_size": 35034
+  },
+  "images/matte-black/machines/omarchy-machine-121-console-with-built-in-modem-2K.webp": {
+    "sha256": "0fbe1a7d2066716421c708e0a390e2b77afb350dabef5e9fa998a6890dd27337",
+    "size": 906696,
+    "preview_sha256": "381df98d068275064032f6a2d90d45da38254c7b9dac1d10e1ad5bac4be68dad",
+    "preview_size": 34924
+  },
+  "images/matte-black/machines/omarchy-machine-124-mainframe-late-80s-2K.webp": {
+    "sha256": "a7f67c4fac4c7c8f72fa0a5e51c6cfdf31402d4b7da7d5182899fa283f9dcc70",
+    "size": 895928,
+    "preview_sha256": "aae28d9075abd26654be51a8b74636373749e4413e970a9b3dd22c22dc02839a",
+    "preview_size": 29852
+  },
+  "images/matte-black/machines/omarchy-machine-122-open-source-conference-hall-2K.webp": {
+    "sha256": "5104cdce965090e2c57059031ef385e8f4a6d42f018f3d2f019a5b58f9b269ae",
+    "size": 1106506,
+    "preview_sha256": "a3487f550ff5a0a6d3fb9f0e82948d28b24ce0ab17bdfdc1a8b46d3e95a41c55",
+    "preview_size": 41708
+  },
+  "images/matte-black/machines/omarchy-machine-123-lan-party-basement-2K.webp": {
+    "sha256": "e29351d605364aa2d22b3f30dc4bc3da8e792101d17cd7929e7026693a9e27c3",
+    "size": 1114040,
+    "preview_sha256": "0bb6d00e1629a02f17bc15cba6ff9ee4f7295a09c1dfe738cd8b66b004a89c6f",
+    "preview_size": 40542
+  },
+  "images/matte-black/machines/omarchy-machine-125-network-node-cabinet-2K.webp": {
+    "sha256": "8fc8801f7c8a1998f01bad050c94a84095a36c05125c463add58839df80b86a1",
+    "size": 969358,
+    "preview_sha256": "5b7db6287efa6b1654909d80bdc3cd5a3d2b1fc436d925e4988b8682a0f7f833",
+    "preview_size": 34350
+  },
+  "images/matte-black/machines/omarchy-machine-126-three-prong-controller-console-2K.webp": {
+    "sha256": "2e230295631be6799a3b1e64112c7fa6c90b8d3893661556b6b9e3dbddcb249c",
+    "size": 1006322,
+    "preview_sha256": "899a632269ed1494cb25b7856a056cd4ef26107ac48af6852c2453422d24ff03",
+    "preview_size": 35514
+  },
+  "images/matte-black/machines/omarchy-machine-127-translucent-all-in-one-2K.webp": {
+    "sha256": "3a7c43e38ef03f807949917789077bb5d4c6b97f0d32c67d8043f4f6cb299442",
+    "size": 892034,
+    "preview_sha256": "be058bd2193b9b82f185ac7865535c1538c496ed598437f9adcd3f25ae8be31c",
+    "preview_size": 30052
+  },
+  "images/matte-black/machines/omarchy-machine-129-teleprinter-paper-tape-2K.webp": {
+    "sha256": "be769871a5471e0e8e1e93fb923fb0d346d88c9c6ef25deaa02ae2710c6dee31",
+    "size": 824060,
+    "preview_sha256": "0eb34e88b51d8a7ac2021c3286c725912b16e45e919e2a68952a7486c3b2528e",
+    "preview_size": 31190
+  },
+  "images/matte-black/machines/omarchy-machine-128-netbook-coffee-shop-2K.webp": {
+    "sha256": "5f33be551aa703cfad1f29b54d0905ca120ea374a9ccaa85b6c7790894dd9439",
+    "size": 1026620,
+    "preview_sha256": "c3081b12ef7bf2c9474996a62bf424d253997258a0edd48c798f7d20bc71b75b",
+    "preview_size": 40396
+  },
+  "images/matte-black/machines/omarchy-machine-130-handheld-led-football-game-2K.webp": {
+    "sha256": "9907820d17a3dd08904b176aea097ed9e43694df245314057fb51dda1a879cb0",
+    "size": 1017556,
+    "preview_sha256": "f91479ed7ab0207c5d1362d63215d8f389e3ebb040e36a9aff29d4d0f53307fa",
+    "preview_size": 40922
+  },
+  "images/matte-black/machines/omarchy-machine-131-mini-pc-homelab-rack-2K.webp": {
+    "sha256": "b4dd1b9c15b8d0eb349a75b57bec8e231972e39071c509c6d7b6057d924beedb",
+    "size": 1001238,
+    "preview_sha256": "db844d448a8466c17387c1f1adfa97b939c85826aa0bd503b56faa14c947082c",
+    "preview_size": 39582
+  },
+  "images/matte-black/machines/omarchy-machine-132-credit-card-sized-computer-2K.webp": {
+    "sha256": "f47d8beccf7180629a4e0f314d8499b26170f1df3b1c726edbd9364691941aa4",
+    "size": 923378,
+    "preview_sha256": "8dd6f6ccec997e8c8a17966db4484021b93b4c7a920c01bb288623fd85928fb5",
+    "preview_size": 40310
+  },
+  "images/matte-black/machines/omarchy-machine-134-zip-disk-drive-2K.webp": {
+    "sha256": "2361b794ebae36b69de1fb195e2874b4cf1bf6fa08a071e835dcb3989e0ed777",
+    "size": 740652,
+    "preview_sha256": "80f68fc7916f64f898af158084ebe5f13b6a0951406a9eb846d5ac9fe88a68e3",
+    "preview_size": 28606
+  },
+  "images/matte-black/machines/omarchy-machine-133-handheld-gaming-pc-2K.webp": {
+    "sha256": "0cbcaa84a5a81e18265536d9b6b5dda2e229a57280bd0eb45cd7ab9c1e6a2c9f",
+    "size": 955430,
+    "preview_sha256": "70447b681ce7b0742a93a3a520215e1d83d3723179e867f7ecb1afff4baa715d",
+    "preview_size": 33978
+  },
+  "images/matte-black/machines/omarchy-machine-135-linux-birth-student-room-2K.webp": {
+    "sha256": "3914e62fdc5f81b4389bcd65fff23c1c888d75d2ccad9840ca5c606cae166c79",
+    "size": 813178,
+    "preview_sha256": "be22f3c3cd3da38c29dde1d011857364d01011dc1f64aab410ddc0d4cf5a204a",
+    "preview_size": 31664
+  },
+  "images/matte-black/machines/omarchy-machine-137-trackball-laptop-2K.webp": {
+    "sha256": "9b9a68191f2f7dea890fd9a3395d2833e74c05b91bc24488aa67051856fce4f9",
+    "size": 722460,
+    "preview_sha256": "5ac389304002a296395e6924a4344f5784ea2189a9554e44f7620b06551b0bfa",
+    "preview_size": 28672
+  },
+  "images/matte-black/machines/omarchy-machine-136-transistor-minicomputer-space-game-2K.webp": {
+    "sha256": "24912cf47b710fc209bd5869a40485784fe04da7ac571441a88dc013647b7195",
+    "size": 874064,
+    "preview_sha256": "6fdeabd32665a44d1359d0577bc93a15d7c531568f49eebe664490b5077e48c5",
+    "preview_size": 36070
+  },
+  "images/matte-black/machines/omarchy-machine-138-dual-screen-handheld-stylus-2K.webp": {
+    "sha256": "883c285acb64de98dc26ac5cfa2461b1e88ff367136c3eb483999f426eac28d9",
+    "size": 1026798,
+    "preview_sha256": "303e51832a6e1b2aa10d899ff2c2eaf548a9e22efee3962f644b508e302aeb11",
+    "preview_size": 29950
+  },
+  "images/matte-black/machines/omarchy-machine-140-eight-inch-floppy-drive-2K.webp": {
+    "sha256": "2235d4b733677f2e87263d1732a87729f52dfd54e918016ed99f049a3889c8fe",
+    "size": 998974,
+    "preview_sha256": "77dcea35bc1369271617ec667baf8853c38b4e2f3c30d3b058b8fc95a10a353c",
+    "preview_size": 32004
+  },
+  "images/matte-black/machines/omarchy-machine-139-laptop-docking-station-2K.webp": {
+    "sha256": "302a55e68ea418b9b34cde0ef95193d1f304408d327c9196506ee7950be38ae9",
+    "size": 1060394,
+    "preview_sha256": "28e78cac1d74d97ccc3b457757b29548090ad2fa7961895dcd26c71c3be3cc17",
+    "preview_size": 40172
+  },
+  "images/matte-black/machines/omarchy-machine-141-computer-bulletin-board-server-2K.webp": {
+    "sha256": "5a108966dc3cd11f545ba259d8669f67a726bc76297c6d3cd6d5ba55998c26f0",
+    "size": 918542,
+    "preview_sha256": "7742b648663e5e38ba6111742924556109e95c847a3d28222d74028d50faf675",
+    "preview_size": 32280
+  },
+  "images/matte-black/machines/omarchy-machine-142-chain-line-printer-2K.webp": {
+    "sha256": "c5539b4a877ac3c81ce0cd1da6d67636509b4b64b291e60161bac135cd2a220a",
+    "size": 971896,
+    "preview_sha256": "67090cb5d3a83e02269943415481aa1c242aa3da8752785f038ae6298325c5b0",
+    "preview_size": 35368
+  },
+  "images/matte-black/machines/omarchy-machine-145-hybrid-handheld-console-2K.webp": {
+    "sha256": "4401f876db4bf64df656b93b66971f8a0606a94c10e2bad983d25a384f1377d3",
+    "size": 752048,
+    "preview_sha256": "ab05492353d619e546851f227756a91e2dae80987f12136132f1b5555601b228",
+    "preview_size": 31516
+  },
+  "images/matte-black/machines/omarchy-machine-143-led-digital-watch-2K.webp": {
+    "sha256": "c6bdc0236f41f777bcc3bbadb3b93581c5405f5eb6544bbeb295c28361426268",
+    "size": 1250878,
+    "preview_sha256": "f6f29943498d17df0fbcd9a0d3e8ff3c0959a376b42e11f3b4b1f96d4164480e",
+    "preview_size": 55276
+  },
+  "images/matte-black/machines/omarchy-machine-144-flat-pocket-television-2K.webp": {
+    "sha256": "8561f6e5ba59e7f9081d4362d9859730b2cd129645a5d65be34f98675ba79a58",
+    "size": 961652,
+    "preview_sha256": "56a5f996ebb58099330022ce1555a8ebba55d72129c1bdc7209ea2de9c58b380",
+    "preview_size": 42960
+  },
+  "images/matte-black/machines/omarchy-machine-146-fpga-retro-console-2K.webp": {
+    "sha256": "00403bc5c8e0005df24d38ba8f39183307c7092b26fba4fb3a73a87308efd26d",
+    "size": 736190,
+    "preview_sha256": "db14ac0e3a8da132e7fa2229a2117eaf2addc29b2c2a33ce72f904b3375a15f5",
+    "preview_size": 29304
+  },
+  "images/matte-black/machines/omarchy-machine-147-satellite-ground-station-console-2K.webp": {
+    "sha256": "020e2248de45d373960010d8c60236d2b3d9930bbf899632c79536d72366e869",
+    "size": 904216,
+    "preview_sha256": "62905784d9a223d36eda4987ed568b8baf1f6f92c4ca1840f9283dd7b299055d",
+    "preview_size": 28024
+  },
+  "images/matte-black/machines/omarchy-machine-148-fast-food-pos-terminal-2K.webp": {
+    "sha256": "75859aeee64ca4a3c8f9a0030b3e3bbcdffc236d833778ad9ae9a8a22ca45c9e",
+    "size": 888522,
+    "preview_sha256": "66271cda3af18d1a4660e4210477397a59b421b66eeac565660bd1c2b148a582",
+    "preview_size": 35544
+  },
+  "images/matte-black/machines/omarchy-machine-150-keypunch-office-pool-2K.webp": {
+    "sha256": "2bf8071bb18d71fa33ee7f8d1303ad5132ad3f61ad8f45975ec26edf819387e6",
+    "size": 743242,
+    "preview_sha256": "c8faa5d404dbefee1a40d32d2d2e20fd02698860836e62f0baaf32114fad386f",
+    "preview_size": 27586
+  },
+  "images/matte-black/machines/omarchy-machine-151-laserdisc-arcade-cabinet-2K.webp": {
+    "sha256": "390af52076d033aff3f9557ca2271bab864aab180c63dc4aae4a0165cf2a7ad2",
+    "size": 744760,
+    "preview_sha256": "ee8306866f44d4923c4abb3f62d451424cc26bc44a0584d26b20391e0d82c78b",
+    "preview_size": 28994
+  },
+  "images/matte-black/machines/omarchy-machine-153-airline-reservation-terminal-2K.webp": {
+    "sha256": "cb475ed5cf55660c9391edb065aeed342de77f7c5e633efab22227274e10cd8a",
+    "size": 786710,
+    "preview_sha256": "4953ecf47f27477ca5fd247b4c55ed1f9e273ec9e088937d43e9e7fb0e12b5b2",
+    "preview_size": 30918
+  },
+  "images/matte-black/machines/omarchy-machine-152-satellite-dish-mountain-cabin-2K.webp": {
+    "sha256": "d18a423629d7ee75a5cfbfe5ac589106a9ab66a575b40113e681a25abb73739a",
+    "size": 1011314,
+    "preview_sha256": "8a3ed6e76e9ffec6046179e50d15b1570197225019b3db3d22c0dbec334973e0",
+    "preview_size": 43236
+  },
+  "images/matte-black/machines/omarchy-machine-154-woven-rope-memory-assembly-2K.webp": {
+    "sha256": "7a5c9333aad5ab0af5f23faa39505ef1febe2d1cee3d2f64cf23acc105aefdce",
+    "size": 1017136,
+    "preview_sha256": "cfc67f8ba270004c1b02ca806eeba4c116ab5db54684e3e2fcc0b93433ac5914",
+    "preview_size": 41498
+  },
+  "images/matte-black/machines/omarchy-machine-155-first-web-server-physics-lab-2K.webp": {
+    "sha256": "c623cbdf3b20ca4341b7ee342d2f606f37b40650f559d5954aafd29e46a71bb4",
+    "size": 924402,
+    "preview_sha256": "574e2901195a1070243189ac1b54a328b838d638b06900c25ef0cb2195199cbb",
+    "preview_size": 31534
+  },
+  "images/matte-black/machines/omarchy-machine-156-modern-mainframe-glass-doors-2K.webp": {
+    "sha256": "42e9baae2b886008c21e0d3262cb44ac7af7f88341510473a2645d8765bfa47b",
+    "size": 1024822,
+    "preview_sha256": "6e112afc39989ab71c872821dd49e0b8673146fd604597d0348c8f6af8ef859c",
+    "preview_size": 38924
+  },
+  "images/matte-black/machines/omarchy-machine-158-mechanical-keyboard-buckling-spring-2K.webp": {
+    "sha256": "38473d27e2e91990c0bb3860818d60434da5c5383b42cfa91d8224d928dbe57d",
+    "size": 751406,
+    "preview_sha256": "f4f2e8326650f1f0120ce1a33fdab3cbdd47d57f728b8a7dc5341c78fb6269cf",
+    "preview_size": 30752
+  },
+  "images/matte-black/machines/omarchy-machine-157-split-ergonomic-keyboard-2K.webp": {
+    "sha256": "b26e3618aca8c39f4f37f0166d98496e08362cd6fa834dc869ff14bfc780751e",
+    "size": 1072696,
+    "preview_sha256": "2ddd7ef90118015640e9262ee4c23e4df4e82b9572e604764c3865cef6418229",
+    "preview_size": 34582
+  },
+  "images/matte-black/machines/omarchy-machine-159-drum-memory-unit-2K.webp": {
+    "sha256": "0be185d2ce29cde1b7b1f2d6fe2d8b9067912cdfbe8d5d80a92cd7a5eb7e4e1c",
+    "size": 927842,
+    "preview_sha256": "0772c0a9d6eef174aff2deb49efdcbcdfedeca661a376094abd38d3083386aed",
+    "preview_size": 30688
+  },
+  "images/matte-black/machines/omarchy-machine-161-school-computer-classroom-2K.webp": {
+    "sha256": "b74179db933646c7ce67944590e0e908ad2fd94bf5980c8ef89203e3457820fe",
+    "size": 770332,
+    "preview_sha256": "791c3882498f888a972782f985b307afa38545483fb7f8d09ca24fab00ca89fe",
+    "preview_size": 30410
+  },
+  "images/matte-black/machines/omarchy-machine-160-smartwatch-on-wrist-2K.webp": {
+    "sha256": "491ecfc4b2c232376c11c765274177bec2662116ce29921834ae69cb395d89b6",
+    "size": 883222,
+    "preview_sha256": "87bfb8c91f02777dea1b63a8b20404c7a067d41ba9ab98aa5411b5c804513fc5",
+    "preview_size": 26172
+  },
+  "images/matte-black/machines/omarchy-machine-162-hyperlinked-cards-classroom-2K.webp": {
+    "sha256": "60a053a7a9557e51beb7e1b269606d1b5b0d5a2ff5f6fb1601978ba46754f8b3",
+    "size": 1000448,
+    "preview_sha256": "9ec3d8b1cc1eb1f1221fdef7b82f809e2f74624f51e6c0077b4f43de5936dfff",
+    "preview_size": 37102
+  },
+  "images/matte-black/machines/omarchy-machine-163-quadcopter-flight-controller-2K.webp": {
+    "sha256": "ae99a616fc70ebb0ed2979d79ed35ce3c34f386246ab3456f19c5387121856de",
+    "size": 883976,
+    "preview_sha256": "7d6852418a2a787dd679d91e5c549fd2a33af96cc0e70386e248269a6c32a17e",
+    "preview_size": 38704
+  },
+  "images/matte-black/machines/omarchy-machine-164-dual-processor-multimedia-computer-2K.webp": {
+    "sha256": "6da378caeb742d0bda13112cb54bf91ed7a70c3e201838b04cf4c47ab1a48060",
+    "size": 810074,
+    "preview_sha256": "2306787fab6d25a6901775c46d632dab6305be8a65a7f5f9aebe2ebeeb313877",
+    "preview_size": 29764
+  },
+  "images/matte-black/machines/omarchy-machine-165-floppy-525-notch-macro-2K.webp": {
+    "sha256": "f95e9cc747ccf67e979712aed5d4cba15ea35360366f8e72fe383900144d6bf8",
+    "size": 818734,
+    "preview_sha256": "663ad5a120f5df5edb4bce2679a2d9012867752844f02cda8fdc0046572195fa",
+    "preview_size": 32722
+  },
+  "images/matte-black/machines/omarchy-machine-166-green-childrens-laptop-2K.webp": {
+    "sha256": "e4a9ff9ba35e9a83d188b9db913fd605caa370e18d65df2275d2fd872e643606",
+    "size": 926376,
+    "preview_sha256": "10aa5f0c5a8da549412a56d09cc15eda1b09bb56c8ce4302c8a04041a48aa26e",
+    "preview_size": 29806
+  },
+  "images/matte-black/machines/omarchy-machine-167-home-computer-electronics-store-2K.webp": {
+    "sha256": "09c850f75e40c8f3468c1fb1d46f92f2040299cb4d99efb564dbabb27daa6e9c",
+    "size": 882278,
+    "preview_sha256": "1d4282421f7b9a8857af2631d70f9a18a81da5a562fcf6092500926075910c82",
+    "preview_size": 35210
+  },
+  "images/matte-black/machines/omarchy-machine-169-cubesat-cleanroom-2K.webp": {
+    "sha256": "dfb41c9a0e8cb6b8fa6e6c919a883bd9c61f0ddaabe965f8152c340f640a5cc4",
+    "size": 923022,
+    "preview_sha256": "592df008d3035d7a7e55b90ba16575f4c5b0609793525d2c3e0da6a40e186f3f",
+    "preview_size": 36122
+  },
+  "images/matte-black/machines/omarchy-machine-168-weather-forecast-computer-2K.webp": {
+    "sha256": "207ca56832172b237945dd4ad393002245c7431f9c128fdee546802b5dc67095",
+    "size": 997648,
+    "preview_sha256": "dd49119bb10b06e55c49cf63ed3142b434f70d0a72312eb02cc4e70a090f7ffb",
+    "preview_size": 35776
+  },
+  "images/matte-black/machines/omarchy-machine-170-smartphone-teardown-bench-2K.webp": {
+    "sha256": "4167fee6f82364df91db4d39d690f1c078ef64a6c62d2e277b0c41ef173be949",
+    "size": 789334,
+    "preview_sha256": "7535831a8f396fd4269449eeadbb1e892d87155c9127c26175dd8414c32d5f01",
+    "preview_size": 24948
+  },
+  "images/matte-black/machines/omarchy-machine-171-external-dialup-modem-2K.webp": {
+    "sha256": "51b41ec15506f7fcb3fa37a0ca688851e634cb513ac7fb8de9dd860783d550e6",
+    "size": 989844,
+    "preview_sha256": "be05f3e7182a2bb73eb1b577cea9f2fb1493ae341616c85591f241c6a3a4f993",
+    "preview_size": 38960
+  },
+  "images/matte-black/machines/omarchy-machine-173-graphics-workstation-vfx-studio-2K.webp": {
+    "sha256": "8a6399d902e4cd6acf7b0c6b1f5295576d81104cedacfd7ab8f94d48679850ec",
+    "size": 814340,
+    "preview_sha256": "9637c1c83950a3afc931a6c429dc760e7fc5750a3f813b5717be580c9c6b58e8",
+    "preview_size": 31822
+  },
+  "images/matte-black/machines/omarchy-machine-175-tiling-window-manager-desk-2K.webp": {
+    "sha256": "11b882affcfd5b0c0a9bd28de14c2055d8c4fa7498ab872662af4dca1a62a303",
+    "size": 748644,
+    "preview_sha256": "f32d96ea10b74a2270ad7a8d5ca09475b8f756b04ab39573498b652fd4e1faa7",
+    "preview_size": 24708
+  },
+  "images/matte-black/machines/omarchy-machine-174-wedge-home-computer-kitchen-2K.webp": {
+    "sha256": "91f39b7aff66f082267b16e6f04ccc36d6eb32351d91ea257f9a645943b6d1a0",
+    "size": 830088,
+    "preview_sha256": "c69b24dcb194f4a29cfaa42b033dfcee9f2f85a7bc70fbfa2dbd479cc2c85dce",
+    "preview_size": 27484
+  },
+  "images/matte-black/machines/omarchy-machine-172-chess-computer-board-2K.webp": {
+    "sha256": "c312b2ed3ae11c9a38681bb7684592b74beada586e03088b7cd5ad0b2154a6c4",
+    "size": 1008792,
+    "preview_sha256": "b72257d43389cb82778946e6f498fcc1bccdee6b173b53d60d1f89167c29ce23",
+    "preview_size": 36450
+  },
+  "images/matte-black/machines/omarchy-machine-176-mainframe-computer-room-2K.webp": {
+    "sha256": "ff58b822af0ddfe152e2a67dd3b68946e726a1f8c7df340d655e5504e0713a3e",
+    "size": 929092,
+    "preview_sha256": "611c2d41c74119fad861eee31378eac47472ed36b3c77d263bf6579853325a4b",
+    "preview_size": 30136
+  },
+  "images/matte-black/machines/omarchy-machine-178-pager-and-payphone-2K.webp": {
+    "sha256": "c7eedd987e7d0455c10c786f745cb12bc4041e5e5f0e191bc057b24705a852c8",
+    "size": 1027430,
+    "preview_sha256": "fbdf8f9460d53418c07f020d7f94a487d654b2d4d7ff70546db91d4d57df026e",
+    "preview_size": 45798
+  },
+  "images/matte-black/machines/omarchy-machine-177-mars-pathfinder-rover-2K.webp": {
+    "sha256": "57143676e84ccc99a64a8781b0338aa8a7f9f0d31302257c669d4e138e2c8de6",
+    "size": 1159116,
+    "preview_sha256": "7a9570b0db7f1b86649ff2e746c725f329fe8cd99c38861cad030b629c0bac3b",
+    "preview_size": 45450
+  },
+  "images/matte-black/machines/omarchy-machine-179-laser-printer-prototype-2K.webp": {
+    "sha256": "18678bf29b7a0fa141d21d94f6533fef471e330aaa7c1f8307fe5a41977e7560",
+    "size": 1137000,
+    "preview_sha256": "50e391310b7d2d7da0e1cccd6db5f682c1e64823d0de0ff7e82d17fd30efff15",
+    "preview_size": 42220
+  },
+  "images/matte-black/machines/omarchy-machine-181-business-pc-green-monitor-2K.webp": {
+    "sha256": "84ec1ebe9468b5cca14ebcf2469b2d86b738fbb095f088c6af2df06bb02cb4ce",
+    "size": 917224,
+    "preview_sha256": "48e29c17b1b822ef7f8bbf7c31c49f1ac2c61349d9a7a74655000a939162ce76",
+    "preview_size": 36298
+  },
+  "images/matte-black/machines/omarchy-machine-182-blinkenlights-16bit-mini-2K.webp": {
+    "sha256": "e2785f247c185015229f6b46b853c252eea39a22e3a48b94cbf54f63919fc51b",
+    "size": 1020306,
+    "preview_sha256": "c69604ad7c34fc92f0cbe4889da6a6d749bbb571c33926876b9c1782463bc0cd",
+    "preview_size": 30638
+  },
+  "images/matte-black/machines/omarchy-machine-183-s100-backplane-2K.webp": {
+    "sha256": "2b1e358c3e29c2b60a9c7d15edf06b490a55736cbb2a995bfb36d7daa801a057",
+    "size": 1010214,
+    "preview_sha256": "07f6097a4cc10d51f737c63422247f7396b9cd4bfc572391d1917ab83d80ecb5",
+    "preview_size": 36478
+  },
+  "images/matte-black/machines/omarchy-machine-180-wafer-scale-ai-chip-2K.webp": {
+    "sha256": "a17437002c120e39a4b2fd8c41da502eae5e836eca2ef3491af63152d35ab916",
+    "size": 1085766,
+    "preview_sha256": "79e6be5716b1f3241fb4ac474fa9340785aba017a62599895c529c5c57d3e8f9",
+    "preview_size": 41756
+  },
+  "images/matte-black/machines/omarchy-machine-184-home-media-center-pc-2K.webp": {
+    "sha256": "ecd3ceff59e105259e8d01648ac810d05a43c259da1c6c78f4c2bc693ab00c70",
+    "size": 892494,
+    "preview_sha256": "956c368db8a7a2d26c90c6609cc3c82e67d2193696eeb18b95b47a7dbc48ee5a",
+    "preview_size": 31740
+  },
+  "images/matte-black/machines/omarchy-machine-185-flatbed-scanner-photos-2K.webp": {
+    "sha256": "0ce35201619404541a46b4c9fbb19ce7652e07dd0a5da697abcdf6a0420dbec9",
+    "size": 747858,
+    "preview_sha256": "62e2cfb1fe36010ecf96770a3701f30e6132966efc266e3e970678d9de1bdf25",
+    "preview_size": 30420
+  },
+  "images/matte-black/machines/omarchy-machine-186-sound-card-pc-bedroom-2K.webp": {
+    "sha256": "dad31cfb813fbaaa70b74fc4a8554cea81311805170bcdf80d8eda0b6904e51d",
+    "size": 673710,
+    "preview_sha256": "8613dba5480a574fba873f5d129f99cdc6647b2c1acddc8a582b56940d07a4c1",
+    "preview_size": 24758
+  },
+  "images/matte-black/machines/omarchy-machine-187-chip-fab-cleanroom-2K.webp": {
+    "sha256": "144dcb0c4678c9a8bf9a682a73bf0154536aafaebc6ba82a122b8b83bccf5085",
+    "size": 677866,
+    "preview_sha256": "dc4c8581640a3a6a820364ad47d44700a5168bb67dd366c8119ff8e051685076",
+    "preview_size": 24332
+  },
+  "images/matte-black/machines/omarchy-machine-189-quantum-computer-chandelier-2K.webp": {
+    "sha256": "ceef8ff31aec630bcb3a30136e6886e88bf8d67bc6cfbafe093a1ffc4327b990",
+    "size": 797532,
+    "preview_sha256": "89b4817471d334c11ecce188ff0c007e32c0c7aca788bf58a66f7b13f04e6e18",
+    "preview_size": 25648
+  },
+  "images/matte-black/machines/omarchy-machine-191-office-email-early-2K.webp": {
+    "sha256": "87a1d763bfc0d02e4fc9d7a89f4b2e120960f72739aa331d2d3e7146dd58a8c4",
+    "size": 955848,
+    "preview_sha256": "421a6865709a1bbf2f483cf08eeb28a454d33661f66422a40dd76717d586b71e",
+    "preview_size": 32754
+  },
+  "images/matte-black/machines/omarchy-machine-188-handheld-link-cable-trade-2K.webp": {
+    "sha256": "83d150489e1f7b21af2c0b6885e8c2aa1b3b5cb6e3bdd169993d9087d0f84ef6",
+    "size": 1079450,
+    "preview_sha256": "a3168302994b7524c7cfe47469922d5b1cd36afd77b991bf38bac3041e3328c6",
+    "preview_size": 46776
+  },
+  "images/matte-black/machines/omarchy-machine-190-network-hub-coax-to-twisted-pair-2K.webp": {
+    "sha256": "2be0ebd6cc2520a1cc2531ae974b2b544868f8e05ba83ba0cd026d09f0d7ba3b",
+    "size": 981790,
+    "preview_sha256": "fb64e3ef6fa408ef07a5eb058d0e28f56a3fd28c573a27b217050f8bea2921b1",
+    "preview_size": 39788
+  },
+  "images/matte-black/machines/omarchy-machine-192-homebrew-club-meeting-2K.webp": {
+    "sha256": "adc954df54f67753f8bf54bd47bc5677e5b380c7822a224c76a973f691ca8fa8",
+    "size": 1076190,
+    "preview_sha256": "9d7ebdbcb149a2e2ffa4bf80cc831217bcf107ca3b35f39c95bc2951a8e2cc72",
+    "preview_size": 42244
+  },
+  "images/matte-black/machines/omarchy-machine-193-automated-tape-library-robot-2K.webp": {
+    "sha256": "bd0b04a2ef81f49d30bdb7e903b1ba66f534cd7c3379079aa124069a9ef5e446",
+    "size": 956812,
+    "preview_sha256": "194601cbf89d76624eff992cde3b5b0a36178835b6adbe3562ae2c613318cb41",
+    "preview_size": 31644
+  },
+  "images/matte-black/machines/omarchy-machine-194-maker-microcontroller-board-2K.webp": {
+    "sha256": "9f609e5277f846eac4d4641c61a0f06165d3a3934ad3d804bc2a258c225648bf",
+    "size": 846992,
+    "preview_sha256": "482e93672fbe127dc9bb09806ac0dba28fba715a9d95f411d00cf4b625b3e055",
+    "preview_size": 37126
+  },
+  "images/matte-black/machines/omarchy-machine-195-cassette-based-computer-club-2K.webp": {
+    "sha256": "ed73e40ae6991d102c831348573e27675008e5d3cdb2433fd836ab0302d67705",
+    "size": 990632,
+    "preview_sha256": "9655019e06e225e519ca171a34fbfbe7a525450e3d0a6324907abc899a9414f8",
+    "preview_size": 39196
+  },
+  "images/matte-black/machines/omarchy-machine-196-aluminum-ultrabook-train-2K.webp": {
+    "sha256": "0ba6f86db084774da62ed5dcffcea7cd86fbb41c702c9a26c4e3c7b3edc5c27d",
+    "size": 849330,
+    "preview_sha256": "fc72b22a3d26b31971c4054ad322484f7ed0c3d30f2fdc79159fc9cb6bff0dad",
+    "preview_size": 29172
+  },
+  "images/matte-black/machines/omarchy-machine-198-gpu-mining-rig-garage-2K.webp": {
+    "sha256": "fd4134eb7fcebc91c3c7d3a70d7bdaf5943e62a8e73835734de4f1439583bab6",
+    "size": 668784,
+    "preview_sha256": "d7a1e9e958d4a3b7112396d30ee2ef5ba6eb5b4b445b249f51f80f507e6ac42d",
+    "preview_size": 27638
+  },
+  "images/matte-black/machines/omarchy-machine-197-beige-color-home-computer-2K.webp": {
+    "sha256": "304c68c442beeda598ca9bc9ebd4e230e30b9ff4b388d0cbb3973706e63947df",
+    "size": 726014,
+    "preview_sha256": "2add56bec76d4b23b81846bf097c575f24e43e7d54022c0739169964b953c878",
+    "preview_size": 29716
+  },
+  "images/matte-black/machines/omarchy-machine-199-pong-cabinet-bar-2K.webp": {
+    "sha256": "460d582ad4ad7141e3656bd384a7444288f22e940bbc60d3c78be2b4b42d4456",
+    "size": 1082756,
+    "preview_sha256": "b54c9de40c152b5e9cae00a405491deada72b9d606731a182db70aa1bb30c48a",
+    "preview_size": 36402
+  },
+  "images/matte-black/machines/omarchy-machine-202-time-sharing-terminal-room-2K.webp": {
+    "sha256": "1b3dda9f9409bffeaeb208a40e1c8947bd28d1d44a31bd82005a0a71d417e764",
+    "size": 779068,
+    "preview_sha256": "a5a682aaa6338815dd809aa1f9bc0ca75d1d39c005b280bcc4d6fdcee1de8f76",
+    "preview_size": 31956
+  },
+  "images/matte-black/machines/omarchy-machine-200-typewriter-style-word-processor-2K.webp": {
+    "sha256": "c503652a62a05cc78df7880022eaf7b6c9ea3488f60e7312f13a0a8b9209f830",
+    "size": 1055330,
+    "preview_sha256": "364bc86fc2bffb1751cdfa4cfe7e7c5a96202497a75b1cf1bb4aa0bb8d2eadd1",
+    "preview_size": 39758
+  },
+  "images/matte-black/machines/omarchy-machine-203-computer-front-panel-switches-2K.webp": {
+    "sha256": "8135ab4503d26d30c2d3d16b00575406753ebaab7b5a7b3ad2cd2d64c0bc89f8",
+    "size": 743332,
+    "preview_sha256": "2b9617191d26f04b7e77221f7674b1a68d18548216d4f90fa054665ae0dfdd0f",
+    "preview_size": 27886
+  },
+  "images/matte-black/machines/omarchy-machine-204-black-tower-console-2000-2K.webp": {
+    "sha256": "0fdbfd5e86a5a4245387e6f4c63306dabd967fc5b55655e266f5293f468d96eb",
+    "size": 819728,
+    "preview_sha256": "1ef732f2189de0e8a65161d02010816547065b1a4b37d0e9e5ed2fb5f960aff9",
+    "preview_size": 23654
+  },
+  "images/matte-black/machines/omarchy-machine-206-cad-workstation-car-design-2K.webp": {
+    "sha256": "b8a38b67d42e84519404ef1b39df13f19d941514f8ff3ccffa58860c55469ba0",
+    "size": 929438,
+    "preview_sha256": "1a7889c7e723b4674b7216583bcac7126b3c6bdb5443d4acbba4542ea216cd5d",
+    "preview_size": 33724
+  },
+  "images/matte-black/machines/omarchy-machine-205-computer-history-museum-hall-2K.webp": {
+    "sha256": "5bddbeee7587a7f9454572d8c061f88a2dc21e23944b960e327ac28b219ad177",
+    "size": 1194018,
+    "preview_sha256": "f4e905bdefa9d43b00ac19e14f476e1da552221e48834893f78b2af3ef2cdd1f",
+    "preview_size": 45612
+  },
+  "images/matte-black/machines/omarchy-machine-207-atm-machine-80s-2K.webp": {
+    "sha256": "57da27c64ddc011a71c5c2c950445badad9348f0a07224442605c043fc45a77c",
+    "size": 823282,
+    "preview_sha256": "e34bdd22f827ec2b9ffb4ef00b432d2146ccf91d341f0cf3c80ed588177debfb",
+    "preview_size": 36130
+  },
+  "images/matte-black/machines/omarchy-machine-208-disk-pack-drive-2K.webp": {
+    "sha256": "17698a6a683a176c209d5ed02899d0c23c56e118e66ad77a12da28163a3fd97d",
+    "size": 1211040,
+    "preview_sha256": "5eb9f870a42f9a6991d72dcd14cbe1ed91668d015dfd49c2ace26022c37c665e",
+    "preview_size": 46014
+  },
+  "images/matte-black/machines/omarchy-machine-210-ball-mouse-disassembled-2K.webp": {
+    "sha256": "f63abc45ba0a44db521805d23eef092ed5a1af009f2fa4fc45dd1bbf18a80d67",
+    "size": 802556,
+    "preview_sha256": "8aef2f6fea4a2d6b289299903d1617adcd0c2c7f93aea33d932db13f366ff2bf",
+    "preview_size": 34342
+  },
+  "images/matte-black/machines/omarchy-machine-209-mars-helicopter-2K.webp": {
+    "sha256": "361c97f8697f0376afd1b0ee6f854c73e95ccd6e89e2487c4d7b9c7810db7574",
+    "size": 966254,
+    "preview_sha256": "8b439253557d0a24f63dde622c719fd2049ef08a58637cd789cb6c6374fb0828",
+    "preview_size": 33046
+  },
+  "images/matte-black/machines/omarchy-machine-211-kit-computer-toggle-switches-2K.webp": {
+    "sha256": "9e93495d988333b0d9472c3eed8c22a978a016fb616d79f0e028545d399a2650",
+    "size": 819010,
+    "preview_sha256": "125910d285d5c3972f2544ac9e373b19a066d79bb88601903b07400d76e3e9b4",
+    "preview_size": 32428
+  },
+  "images/matte-black/machines/omarchy-machine-212-grey-cd-console-2K.webp": {
+    "sha256": "c5cdffad0bfd0fe994c297a593cf4e89c67d8978530504c3e894faa6036a9e82",
+    "size": 899366,
+    "preview_sha256": "732d8a161b33f353b75fcf033c0fae8f7e0e2a7c8ecf2c69c974443cf627814c",
+    "preview_size": 33068
+  },
+  "images/matte-black/machines/omarchy-machine-213-mechanical-keyboard-custom-2K.webp": {
+    "sha256": "2f3aa79fe37ccb6572e244f3ac289c1c1d672c4b014066fcceb381d8b161c0eb",
+    "size": 927918,
+    "preview_sha256": "ce53dc5be1d83aaa934b1c43d5df983de2c5d9561e2d2215e601dbfbeb69d6fe",
+    "preview_size": 32978
+  },
+  "images/matte-black/machines/omarchy-machine-214-pizza-box-unix-workstation-2K.webp": {
+    "sha256": "323ceb76aca25addb55e2babfbf7a200254ca14101861cf7ca41f40ee5f867a4",
+    "size": 1006724,
+    "preview_sha256": "90855eb5c5057b347479a0c73715c73b506f593c782fb599a39d3ef0f278e125",
+    "preview_size": 34244
+  },
+  "images/matte-black/machines/omarchy-machine-215-unix-workstation-lab-2K.webp": {
+    "sha256": "47097868e626f24c2504769957af0140e120ebf7cc97784cc9c5488263a04ec1",
+    "size": 946074,
+    "preview_sha256": "112da250d5c024f254a940dc6cf8a475e4dfb305a4fc878eb6c1ff63203ca4a4",
+    "preview_size": 35692
+  },
+  "images/matte-black/machines/omarchy-machine-216-y2k-server-room-2K.webp": {
+    "sha256": "0ede7b2f72c8c8a22a355868d7903ab83fa12f5b18b7a602296f735402d5e967",
+    "size": 1010622,
+    "preview_sha256": "53a0f0432d689873759e494658ff96da348aa34510b0517aac1b88a0d27c7dd4",
+    "preview_size": 41630
+  },
+  "images/matte-black/machines/omarchy-machine-217-first-ssd-macro-2K.webp": {
+    "sha256": "2559a7467723907acc5af72aa0aa27b316ad95dbd04cc90bf3870e3c5ecdf749",
+    "size": 963688,
+    "preview_sha256": "07ab7a37d1f624f507b898acbdb1095c0ff167b6a9f50cbe926d3631ecf0ea18",
+    "preview_size": 31020
+  },
+  "images/matte-black/machines/omarchy-machine-218-single-board-cluster-2K.webp": {
+    "sha256": "40fac32f5d3554c8eced0441982c58be438606d5f9daa54f2880f8150fb13aea",
+    "size": 1008058,
+    "preview_sha256": "22bba6d5df1cad5201ed2405bd71336bdd36c927a024d8b56c543c3dbbffd092",
+    "preview_size": 45386
+  },
+  "images/matte-black/machines/omarchy-machine-219-tiling-desktop-minimal-setup-2K.webp": {
+    "sha256": "fe81312f76ec6c8372eed0854d90f64d5d8fa12098b5d9836f78397699325351",
+    "size": 584072,
+    "preview_sha256": "02d6949437c70250d82b324db5ff2453072ec4f1549a6e60174aef27d7e087a8",
+    "preview_size": 22252
+  },
+  "images/matte-black/machines/omarchy-machine-220-mainframe-disk-farm-1970s-2K.webp": {
+    "sha256": "0acb8b2f53d222997af7308415b2a24e3e380159316b76ab037872883443d3d9",
+    "size": 909480,
+    "preview_sha256": "fd0e83b3d8a4ec65fcf6520a2fffdbc14d6e070fe728399202e71ae3c2d377a7",
+    "preview_size": 32082
+  },
+  "images/matte-black/machines/omarchy-machine-222-breadbox-home-computer-joystick-2K.webp": {
+    "sha256": "458faf6784a67dd2ab2892d488fe6bc6a6e6148bc10a97d51bceffd6c8e865d9",
+    "size": 911078,
+    "preview_sha256": "c372d8122438e5aefa47b83dfb2e254a7880d09d949dc9fc6e206554de0bb01a",
+    "preview_size": 29282
+  },
+  "images/matte-black/machines/omarchy-machine-221-risc-v-dev-board-2K.webp": {
+    "sha256": "1a690a7d82363abec7c55ddda8f0708edd4f193d8e9110dd773de827878f8e2e",
+    "size": 933740,
+    "preview_sha256": "0054c943d3f768d7f93c045dc2eef54505a8714473b3aaf4ca1123527ea97159",
+    "preview_size": 41018
+  },
+  "images/matte-black/machines/omarchy-machine-223-mesh-radio-node-mountain-2K.webp": {
+    "sha256": "d1ac07d88d7e2ab4c9954cce71409fddaebc934243232a3f187cf5638c6076d0",
+    "size": 1004298,
+    "preview_sha256": "32e8811d75efc03ce93a82a7a57350ae8d8bf6f07c51c568d038a667cf83417e",
+    "preview_size": 37168
+  },
+  "images/matte-black/machines/omarchy-machine-225-cash-dispensing-machine-2K.webp": {
+    "sha256": "36b1bba3dca75dcba52a12e418b5da473d9d79b5d4930a9ecf0457ae72a3f84d",
+    "size": 910890,
+    "preview_sha256": "f9860dd382ec52ea7d5447f7f5f7828b6e34e515dd87f51a72f3ae718e2ab4a6",
+    "preview_size": 36808
+  },
+  "images/matte-black/machines/omarchy-machine-227-first-touchscreen-smartphone-2K.webp": {
+    "sha256": "40d4634c559f0d1040f912d44efe83c353e6ae7eaee79a201f74d96e15f001b7",
+    "size": 669030,
+    "preview_sha256": "73f4f129f0ae8d0a3a61a3712ffa505e975f54042db4a5b46cf680962cd767f4",
+    "preview_size": 27666
+  },
+  "images/matte-black/machines/omarchy-machine-226-ten-megabyte-hard-disk-cutaway-2K.webp": {
+    "sha256": "f0cb7490e895d7eac99319475bb8e541ca27721f4090fe6cade8ed9722d7482d",
+    "size": 861002,
+    "preview_sha256": "9354b5d48f3a67d6e1194ad908006c5c8274760b51325713b1e062a3ac85a709",
+    "preview_size": 33110
+  },
+  "images/matte-black/machines/omarchy-machine-224-hackerspace-workbench-2K.webp": {
+    "sha256": "03bd567115e77bf018e00a0ba3cd09b16b217640222facfe5a1e677cedef72ca",
+    "size": 1131620,
+    "preview_sha256": "7aee38a6b0f56ba9227fd74d30c89464c0b532a1cbc29597887cb35a599da2df",
+    "preview_size": 44182
+  },
+  "images/matte-black/machines/omarchy-machine-228-home-computer-magazine-type-in-2K.webp": {
+    "sha256": "3100588a7d3ae422930e34c1421c2b0ee9cc5aa9c6ee40f7ad77550de0a294ac",
+    "size": 793480,
+    "preview_sha256": "5bf753eccde39e6214a72ed7b4559b4f9e8d9ce6a59ca48448aa2100d731fa4c",
+    "preview_size": 28166
+  },
+  "images/matte-black/machines/omarchy-machine-229-color-handheld-backlit-1989-2K.webp": {
+    "sha256": "e753f57f93f0d0a8ffc3d40ad4c490cc5363c765cecc8cf2b3379801f4816951",
+    "size": 909826,
+    "preview_sha256": "bd6385b0ef442223d4a93b1ff09039d5883d52df38e704a9a618d60aaf441728",
+    "preview_size": 32090
+  },
+  "images/matte-black/machines/omarchy-machine-230-quantum-chip-sample-holder-2K.webp": {
+    "sha256": "b892ba91cc51fd83c560ef8da2a4b49f1cdc8cdb991e2a665ff38e17de537d1b",
+    "size": 909994,
+    "preview_sha256": "394a352b13fb9bdb5f756a5e6e9fb422e67448218c5887da645ca0b508bc0f08",
+    "preview_size": 33028
+  },
+  "images/matte-black/machines/omarchy-machine-231-smart-speaker-kitchen-2K.webp": {
+    "sha256": "4687f319e32068b9e13b55f84a473c41aa707a8b22d993ab842d7557eb2c99df",
+    "size": 828360,
+    "preview_sha256": "ece55544b2c3f662e3e15484db03370a8711c54d66fe696e75135bcb9f3fa847",
+    "preview_size": 31300
+  },
+  "images/matte-black/machines/omarchy-machine-235-self-driving-car-trunk-computer-2K.webp": {
+    "sha256": "b4c9ce25f7d5763344cf3935c81161a92f5b7abdc7a29a37d56f3feb91a5aa1a",
+    "size": 773338,
+    "preview_sha256": "0d2b5b0a49e345f4b1397d4fdb54956a290ed3cec0bfb296dc5215c3cc0d74bd",
+    "preview_size": 24340
+  },
+  "images/matte-black/machines/omarchy-machine-232-virtual-pet-schoolbag-2K.webp": {
+    "sha256": "a4b85bb9a08ebc646bcdde053edd1fd6ae23030b3b6620ce49c478ce2007f199",
+    "size": 906522,
+    "preview_sha256": "4e91174ebd64c3197a3531f88ed34e4e9249341b2ffdede05cf6dbb710e5b79c",
+    "preview_size": 31930
+  },
+  "images/matte-black/machines/omarchy-machine-233-single-board-trainer-hex-keypad-2K.webp": {
+    "sha256": "96a9314579dbbd7e453ecdd7e6dcd10d2fbe7cee63b1bca02c6c64950cab601e",
+    "size": 970228,
+    "preview_sha256": "4b09e1b00142136d00d2211230f566a3096c554132f2e241ef714ddee61d2be8",
+    "preview_size": 43318
+  },
+  "images/matte-black/machines/omarchy-machine-236-ai-workstation-lab-2K.webp": {
+    "sha256": "1a3609698cf6973cb1b7d5ab82734c6e269180989510b6f99837b0cea20d9ecb",
+    "size": 908642,
+    "preview_sha256": "6e2abe54390fd10fb5a09db2879432a95def4aa917ab654fe50c5b16c99480fd",
+    "preview_size": 32854
+  },
+  "images/matte-black/machines/omarchy-machine-234-qwerty-email-phone-airport-2K.webp": {
+    "sha256": "06272c0c597c5bb4a8efa20c808f17739a95132964c76b56f25b5e746b2f8951",
+    "size": 1371622,
+    "preview_sha256": "3b33a9880c65daeabe1a2756f50b8347b69a064dc411c579b0be1bb689ec6f70",
+    "preview_size": 54816
+  },
+  "images/matte-black/machines/omarchy-machine-238-magnesium-clamshell-portable-2K.webp": {
+    "sha256": "afc4426c3e52727e015e1596401e2ba1c892532ad67704ef757077ccea217572",
+    "size": 662364,
+    "preview_sha256": "6c8bf6caa87fa0ce513a13f31e1f60e9e931f7393993f7d38780326d84a53f73",
+    "preview_size": 26816
+  },
+  "images/matte-black/machines/omarchy-machine-237-motion-controller-console-living-room-2K.webp": {
+    "sha256": "8345da1114fba4312818bfff8991c02c218098561d0916ae43db566c9c1597de",
+    "size": 895180,
+    "preview_sha256": "26fbcf79075ef5f7250f6ba361f4ca11bb386abcbbadeae7d4ffc790fc38ff09",
+    "preview_size": 31202
+  },
+  "images/matte-black/machines/omarchy-machine-239-home-computer-light-pen-2K.webp": {
+    "sha256": "9e01ed20890944ad57427312647e9df1adbf34a054ed22577f3495f183ac506d",
+    "size": 872428,
+    "preview_sha256": "ee65de82b132d7b139d1090c317092a1e6f5cd47dc25dedf203fd201aa235e22",
+    "preview_size": 34918
+  },
+  "images/matte-black/machines/omarchy-machine-240-typesetting-terminal-newsroom-2K.webp": {
+    "sha256": "db7225ff645b3a86412e3c96ce66466c5f01452c4657e1e0250e91fe9bad32f9",
+    "size": 1096544,
+    "preview_sha256": "b29f1a2cd36de7552f872ed1fc0680fdd30f37285d57fce4878caa31e1ce8c1d",
+    "preview_size": 43872
+  },
+  "images/matte-black/machines/omarchy-machine-241-dotcom-startup-servers-2K.webp": {
+    "sha256": "2735154561e0f4c9f53940127168949c5c904ecbeecfbf8c5e7c7aa8936d5b8f",
+    "size": 1058272,
+    "preview_sha256": "f3116976c4f29b46a45a96c041ac4a12a79b4254617057372955422e81c366fd",
+    "preview_size": 38514
+  },
+  "images/matte-black/machines/omarchy-machine-242-supermarket-barcode-scanner-2K.webp": {
+    "sha256": "4532e01df4ab081f41deb8fec87b1a8e1dea3365d28372346380446e0b7b5fd4",
+    "size": 1089700,
+    "preview_sha256": "f5d641e589eb1d8c6620d010f63b75d7a979771ebc4a33d6b93b90dab573656d",
+    "preview_size": 41128
+  },
+  "images/matte-black/machines/omarchy-machine-244-guidance-computer-keypad-2K.webp": {
+    "sha256": "788e1659d0fca0be8fbfa9264103b99f3a5ff23d873056c563146090ecf660ce",
+    "size": 657894,
+    "preview_sha256": "33bfa742a294422333728333aadae0de0233e4015565562674a8ac6c6afaec70",
+    "preview_size": 27686
+  },
+  "images/matte-black/machines/omarchy-machine-243-cpu-die-8bit-macro-2K.webp": {
+    "sha256": "8e7c4c510cd9603417741cbb4aef41710d0350c15f5467a9f1da9eaf6761cb95",
+    "size": 1023052,
+    "preview_sha256": "519fb76e6d482d9b7a0e3aad6ec7771ffeef6eb4baf9fd64bf606cbf609b74fc",
+    "preview_size": 42884
+  },
+  "images/matte-black/machines/omarchy-machine-245-woodgrain-video-console-2K.webp": {
+    "sha256": "455b2cc20cf44be54dbe966578ab41c09705e0d2a0a16feb644e3b4c05c0d628",
+    "size": 881894,
+    "preview_sha256": "cdde22e2b604ff9d88a07a2c92f4aa841d54a4512032093e601b5fc4423c1eeb",
+    "preview_size": 31180
+  },
+  "images/matte-black/machines/omarchy-machine-246-inkjet-printer-school-project-2K.webp": {
+    "sha256": "29c2d1ae751602b8ab6fcb0435111ed53f720ad41b784705af368ec493fbdf63",
+    "size": 733012,
+    "preview_sha256": "dfb43aafdf0d7b8434da1b0005857f444804b7c29cd82872f5dccf5f24a6654e",
+    "preview_size": 28602
+  },
+  "images/matte-black/machines/omarchy-machine-247-programmable-desktop-computer-italian-2K.webp": {
+    "sha256": "464ca6e29da0c53e8911094c1f27f80c2caddb12389602b8cdebd54ff0f3b185",
+    "size": 892474,
+    "preview_sha256": "6c8f43fd169176fa5ab6e7bdff78f1d5537aab4bdf29823afff67df5f22b7078",
+    "preview_size": 37952
+  },
+  "images/matte-black/machines/omarchy-machine-249-wooden-mouse-prototype-2K.webp": {
+    "sha256": "4851d46727b8d4e098591d638c3504b57629a8c48d27798864a74f59cc1bd962",
+    "size": 795166,
+    "preview_sha256": "b0040969b8ada93f429dd76f3964efef64e65b51e51a50f2cc77fefaa8abea81",
+    "preview_size": 26394
+  },
+  "images/matte-black/machines/omarchy-machine-248-solar-powered-web-server-2K.webp": {
+    "sha256": "52107f743db4952006efd440c81bed363f528b1b92557d4cab21646d5c6e4563",
+    "size": 1047922,
+    "preview_sha256": "0c1b6d5e0c3cf4848c511d53b3723196f7d5b13b596bd9a383b8d45bdaf2ec03",
+    "preview_size": 40856
   }
 }

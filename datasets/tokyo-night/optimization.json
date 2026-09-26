@@ -3998,5 +3998,2005 @@
   "previews/tokyo-night/shelters/omarchy-shelter-249-tailor-with-a-terminal-preview.webp": {
     "sha256": "5f0b1b683f017b6a5872f215d0f0dd6cb4b68ab242fce45ddbf8c8b2a08dac9d",
     "size": 21708
+  },
+  "images/tokyo-night/machines/omarchy-machine-050-fanless-arm-laptop-mountain-hut-2K.webp": {
+    "sha256": "9008fed6a44bd7553aac159ba09c45950e9e3e4c4e4e4e8c0609e766f8c43a81",
+    "size": 798868
+  },
+  "images/tokyo-night/machines/omarchy-machine-100-internet-cafe-2K.webp": {
+    "sha256": "71439375035c92155276eb9293948571ef7a7ee588dc75f98c9e0d10a24b0ce4",
+    "size": 544434
+  },
+  "images/tokyo-night/machines/omarchy-machine-150-keypunch-office-pool-2K.webp": {
+    "sha256": "c718f620af48bb1468f3fe498487272287a9e0a6bffe7355dee38028f8184bba",
+    "size": 610464
+  },
+  "images/tokyo-night/machines/omarchy-machine-201-dot-matrix-printer-school-project-2K.webp": {
+    "sha256": "a068162f473c00db686108e69c4d10a40527693174df2e90290fbbb78c420c60",
+    "size": 626532
+  },
+  "previews/tokyo-night/machines/omarchy-machine-005-liquid-cooled-ai-datacenter-preview.webp": {
+    "sha256": "8b6b90b5477661cff430e0052b17a17265aaf396ed30d8f02224f1acd7cd2592",
+    "size": 43104
+  },
+  "previews/tokyo-night/machines/omarchy-machine-050-fanless-arm-laptop-mountain-hut-preview.webp": {
+    "sha256": "4897bcc8f0fcc1be50a8e373b726473ee71bc27a572293019d0fc6acc6e93b80",
+    "size": 38918
+  },
+  "previews/tokyo-night/machines/omarchy-machine-100-internet-cafe-preview.webp": {
+    "sha256": "0a1381aaea4b2794f109458fd26e6da3f96c5e66abf54eb6ed1ceb156a57f0c2",
+    "size": 32588
+  },
+  "previews/tokyo-night/machines/omarchy-machine-151-laserdisc-arcade-cabinet-preview.webp": {
+    "sha256": "24b93f0007f8304bc1729b84b5a83c3be441c4e0f808697261f12941b42464b0",
+    "size": 28680
+  },
+  "previews/tokyo-night/machines/omarchy-machine-201-dot-matrix-printer-school-project-preview.webp": {
+    "sha256": "92c6751c866c1c45dc25e5edd37ab6a3118a17dd50661ae7f13fb6862cf86855",
+    "size": 33100
+  },
+  "previews/tokyo-night/machines/omarchy-machine-250-industrial-robot-controller-preview.webp": {
+    "sha256": "f2c2f1ca6aadc89ebbaf47471099a62796cfcfd468324fc27a4359c0f0031713",
+    "size": 43706
+  },
+  "images/tokyo-night/machines/omarchy-machine-002-handheld-game-brick-1989-2K.webp": {
+    "sha256": "20e2b55baa31bb656916b5f5e6e26a3cc99a371673324fb1777294ec7c800adb",
+    "size": 581052
+  },
+  "images/tokyo-night/machines/omarchy-machine-001-linux-phone-kill-switches-2K.webp": {
+    "sha256": "8286b9ad586cf9689d94a3a818f91f512478882c92510a990d2882da6c1b84b3",
+    "size": 686184
+  },
+  "images/tokyo-night/machines/omarchy-machine-004-486-tower-home-office-2K.webp": {
+    "sha256": "730555d17912f18a6cae8d954b031b278e3a2d7c8ba920d91d03563ce49c89cf",
+    "size": 487812
+  },
+  "images/tokyo-night/machines/omarchy-machine-008-computer-store-window-2K.webp": {
+    "sha256": "cba33ae4de2c1e1b7f42fe0ac54cf1c97d3843786f81bbc061cdb15787570723",
+    "size": 540880
+  },
+  "images/tokyo-night/machines/omarchy-machine-003-fiber-optic-splicing-van-2K.webp": {
+    "sha256": "982fc77220e50294b2c1e7b6aed524d34d59d9f7ebf22f53bef8f32d83c1a033",
+    "size": 693144
+  },
+  "images/tokyo-night/machines/omarchy-machine-006-c-shaped-supercomputer-2K.webp": {
+    "sha256": "7758e26d5ae0d03bcb41abeb40410226678b1acbc94f9d4adddf40d43a802896",
+    "size": 624224
+  },
+  "images/tokyo-night/machines/omarchy-machine-007-soviet-home-computer-2K.webp": {
+    "sha256": "839581a81a1c7bc10a497cb64b97f1eb655e7869c92d45c33e23c597d852363c",
+    "size": 781736
+  },
+  "images/tokyo-night/machines/omarchy-machine-005-liquid-cooled-ai-datacenter-2K.webp": {
+    "sha256": "8322c0eb175e73f6b8562349c3e5d5f367ef57becd84e83fe18dc1f13d75d1aa",
+    "size": 787316
+  },
+  "images/tokyo-night/machines/omarchy-machine-009-gpu-ai-training-cluster-2K.webp": {
+    "sha256": "bbbbdf25225b319479ce1a8fcd5dc5edab616a9a16338d99956ebd7ad9f84394",
+    "size": 635078
+  },
+  "images/tokyo-night/machines/omarchy-machine-010-undersea-datacenter-capsule-2K.webp": {
+    "sha256": "da047df3e86885b39d694c53695551717c1fb37bd9ae9e21f3570a12b071672a",
+    "size": 644250
+  },
+  "images/tokyo-night/machines/omarchy-machine-011-chess-supercomputer-match-2K.webp": {
+    "sha256": "0dfc8684de1a9c82bf98d115572b5079e660d7063a6cc3be1eccc6b92de83c3f",
+    "size": 897920
+  },
+  "images/tokyo-night/machines/omarchy-machine-012-usb-flash-drive-1999-2K.webp": {
+    "sha256": "5641a548afc4549141b9b9f1ee7331ac41604d0fb5f301c6442d6843fb8abebc",
+    "size": 429516
+  },
+  "images/tokyo-night/machines/omarchy-machine-013-minicomputer-where-unix-was-born-2K.webp": {
+    "sha256": "1f6f775be39cd54d61e8a63f722706090206060a93126082adad41137db41b9a",
+    "size": 474582
+  },
+  "images/tokyo-night/machines/omarchy-machine-014-click-wheel-music-player-subway-2K.webp": {
+    "sha256": "5a840ae868055f3613809642b1bd6ef08c934a260c393d660f5fa1e386ad93d1",
+    "size": 665818
+  },
+  "images/tokyo-night/machines/omarchy-machine-015-wifi-router-antennas-2K.webp": {
+    "sha256": "1a0515256770f0dbcc3e7466a6dbc31ff375a7e11dec33c363ff1983e4323fcd",
+    "size": 394534
+  },
+  "images/tokyo-night/machines/omarchy-machine-016-colocation-cage-cabling-2K.webp": {
+    "sha256": "2599166bc6979c4989da2165a8014ff9e55c1daabe2132fbba8088ce7442e9ff",
+    "size": 831934
+  },
+  "images/tokyo-night/machines/omarchy-machine-017-car-gps-navigator-2K.webp": {
+    "sha256": "f1c0862ad2a0d5a791036b82b1439b684c7deb45c157f964bec4dfef31b1c7a8",
+    "size": 476968
+  },
+  "images/tokyo-night/machines/omarchy-machine-020-microfilm-recorder-2K.webp": {
+    "sha256": "d6971be3fc4d7c3976f1bd2bb80a12506081c36b84e9c75602fa8ff8e6fba7e0",
+    "size": 515338
+  },
+  "images/tokyo-night/machines/omarchy-machine-019-space-shooter-arcade-2K.webp": {
+    "sha256": "b0440271d78c34b420727c881b530d72ad61f212c515dd31856f5b4a88f38d6e",
+    "size": 501602
+  },
+  "images/tokyo-night/machines/omarchy-machine-022-warehouse-grid-robots-2K.webp": {
+    "sha256": "09fa0f9487c0d5109b6e2459b122bde9510564eebccb21976f935d923df94655",
+    "size": 604718
+  },
+  "images/tokyo-night/machines/omarchy-machine-021-vacuum-tube-computer-repair-2K.webp": {
+    "sha256": "577d450a6c914c2b9826de4972706d787b78cbd24dcbffa60baa3b0e2f1d2321",
+    "size": 596216
+  },
+  "images/tokyo-night/machines/omarchy-machine-018-racing-arcade-cockpit-2K.webp": {
+    "sha256": "ce08876d980f8c63cf41c630bdc7ab75e8b00b6338a097ce9221f09ed1c6dfff",
+    "size": 449116
+  },
+  "images/tokyo-night/machines/omarchy-machine-024-modular-repairable-laptop-2K.webp": {
+    "sha256": "2fbce13dedab461fee265f19678c287c581a3828f8ca1a64f9cbb2cbf0b6a629",
+    "size": 907400
+  },
+  "images/tokyo-night/machines/omarchy-machine-023-early-mp3-player-2K.webp": {
+    "sha256": "7fafc435345c0d5c024bd869fee055efea2c91c71e8aac2b04ed9141a1fa1e7c",
+    "size": 528790
+  },
+  "images/tokyo-night/machines/omarchy-machine-025-cdrom-multimedia-family-pc-2K.webp": {
+    "sha256": "a8775d685943b2f7084dfb3682cbc7f2f9726a3758e15f2217251fc721561a44",
+    "size": 638966
+  },
+  "images/tokyo-night/machines/omarchy-machine-027-cassette-data-storage-2K.webp": {
+    "sha256": "0789e38f41fe61df5c8863eb54ae0a00cc29d2ca7a822cd9b9febce3c47f0533",
+    "size": 656032
+  },
+  "images/tokyo-night/machines/omarchy-machine-026-tape-library-vault-2K.webp": {
+    "sha256": "9671154d4362ab594d3b6175967b7262fd3ad29b793508b76716b5ee6e4f71ea",
+    "size": 438180
+  },
+  "images/tokyo-night/machines/omarchy-machine-028-acoustic-coupler-modem-2K.webp": {
+    "sha256": "e6ff076d4e8704a2f5121baf2f35aa6c2e94a62c3961f15b1afef667c4d47542",
+    "size": 422294
+  },
+  "images/tokyo-night/machines/omarchy-machine-029-lcd-gaming-pc-neon-2K.webp": {
+    "sha256": "d858107deb3af523a6965b815f75cf46df29ff36f8d63875ede99ac3eb669740",
+    "size": 611730
+  },
+  "images/tokyo-night/machines/omarchy-machine-032-wooden-case-hand-built-computer-2K.webp": {
+    "sha256": "dec384fd0081b425c5320ca2d82e17ab5c4e4b12ea8dbed6999f8394617cc10a",
+    "size": 575878
+  },
+  "images/tokyo-night/machines/omarchy-machine-030-demoscene-party-hall-2K.webp": {
+    "sha256": "f02982cb496ecb8f94331973d1f7a80bbc6d58cf5c8604e3edf42f3f17d9a81e",
+    "size": 457288
+  },
+  "images/tokyo-night/machines/omarchy-machine-031-warehouse-scale-datacenter-2K.webp": {
+    "sha256": "57e264af16a03a23bc8317070bde8f58cde591ecf50f72d8b8865e1185d19575",
+    "size": 472348
+  },
+  "images/tokyo-night/machines/omarchy-machine-033-early-web-browser-dorm-2K.webp": {
+    "sha256": "f27fcd2a2c215f5d4f910763e91cb43f848c8d6fc5282cefcffbfd10f4c55975",
+    "size": 537834
+  },
+  "images/tokyo-night/machines/omarchy-machine-034-early-digital-camera-2K.webp": {
+    "sha256": "adba8fd0de24c3a042aeb5ffeb41939ebf0984ab78e1a4577f0cb6548afaab06",
+    "size": 396138
+  },
+  "images/tokyo-night/machines/omarchy-machine-036-office-cubicle-1995-2K.webp": {
+    "sha256": "ea563b389b8e1982f1d2e51e7bafd23677fb8d7b1f1e11dba85a5ce2b6a3784e",
+    "size": 471770
+  },
+  "images/tokyo-night/machines/omarchy-machine-038-all-in-one-with-cassette-1977-2K.webp": {
+    "sha256": "c54bcba9d16b82d72724c0c519072760ad637e28439583b65aee57ba0d9051c0",
+    "size": 290190
+  },
+  "images/tokyo-night/machines/omarchy-machine-037-luggable-computer-train-2K.webp": {
+    "sha256": "811e4a1e05ab7e15f7f4a512098d880da0ff6144cdd76ebd91c0a7720074ea7b",
+    "size": 764790
+  },
+  "images/tokyo-night/machines/omarchy-machine-035-magnetic-core-memory-plane-2K.webp": {
+    "sha256": "03b05d1ee3a897ea0016687b79c5a071cac782bcc2512a6b0b1aa5ca4242613b",
+    "size": 812624
+  },
+  "images/tokyo-night/machines/omarchy-machine-040-mars-rover-panorama-2K.webp": {
+    "sha256": "0b06fa062a728c6c46067474fa87ec27c88b033bd2d2955eb22e55ce08be90ba",
+    "size": 490512
+  },
+  "images/tokyo-night/machines/omarchy-machine-039-hard-drive-array-home-nas-2K.webp": {
+    "sha256": "52682f70af8fb851e0f4c732c3689440c186bc70ce21792ea2adbd42af9440b9",
+    "size": 549654
+  },
+  "images/tokyo-night/machines/omarchy-machine-043-blade-server-chassis-2K.webp": {
+    "sha256": "a66a169ca186767f2aebdbced5bc96d26332cd3000bab60b7096b542238985b1",
+    "size": 448706
+  },
+  "images/tokyo-night/machines/omarchy-machine-044-black-cube-workstation-2K.webp": {
+    "sha256": "fade6e2edf5c2dcc9a5e30dd6624c07c5651b8be62124c67b115f17e07dd8b54",
+    "size": 359390
+  },
+  "images/tokyo-night/machines/omarchy-machine-042-first-tablet-2K.webp": {
+    "sha256": "4f8f7a6f5dc1146f67e1f27b9389ca9cc94ec14715a26a9ba3c0c1a58ee17c3c",
+    "size": 912314
+  },
+  "images/tokyo-night/machines/omarchy-machine-041-desktop-3d-printer-maker-2K.webp": {
+    "sha256": "2d6e970ed2d7715cfe22a5344b7c50fc28cdcb69278701533c31ea0698a54e31",
+    "size": 807028
+  },
+  "images/tokyo-night/machines/omarchy-machine-046-text-terminal-university-2K.webp": {
+    "sha256": "78ed72567bb54aec45f69f49dae150ab87b5eba62febf392b4ad2ad63c747c9f",
+    "size": 647460
+  },
+  "images/tokyo-night/machines/omarchy-machine-045-immersion-cooled-supercomputer-2K.webp": {
+    "sha256": "d3892b1d6d12e07f81af52969f369324de62fdec31e65c3fb0be04fc5f92d69f",
+    "size": 606684
+  },
+  "images/tokyo-night/machines/omarchy-machine-047-3d-accelerator-card-2K.webp": {
+    "sha256": "72fec5fdd0cd3c01e424abdd1c81b61b08cfc8968e19d50b11154cf71d385af8",
+    "size": 455268
+  },
+  "images/tokyo-night/machines/omarchy-machine-048-water-cooled-overclock-pc-2K.webp": {
+    "sha256": "71fc49767177ace3ce21188e2621c9a715fa8be14b539761ad1f3c98fd4dc14a",
+    "size": 534914
+  },
+  "images/tokyo-night/machines/omarchy-machine-049-compact-all-in-one-1984-2K.webp": {
+    "sha256": "0951dc896db340d491fad3b35a7e076cb594e32c37016614ed03b37824af54ab",
+    "size": 514552
+  },
+  "images/tokyo-night/machines/omarchy-machine-054-hyperscale-datacenter-aisle-2K.webp": {
+    "sha256": "4fcf177c3e24399a0a08b31b59b50b95accdb0965ae139947f251bddd3dcc3ff",
+    "size": 700522
+  },
+  "images/tokyo-night/machines/omarchy-machine-051-pda-stylus-coffee-shop-2K.webp": {
+    "sha256": "f31dc79b0978c64a0f3858c7e4320860ea87fe287a4b24202b3033e3c229a4c3",
+    "size": 547610
+  },
+  "images/tokyo-night/machines/omarchy-machine-053-supercomputer-freon-cabinets-2K.webp": {
+    "sha256": "a4039169ac4b4a13ebdb0476dd61ff379df29f83eb1cd9015fc9d8032aa0e0a7",
+    "size": 602294
+  },
+  "images/tokyo-night/machines/omarchy-machine-052-multimedia-computer-video-studio-2K.webp": {
+    "sha256": "928f798544f4199606883ffb07e975a725693c0f96edb2c8eaa19b7b90d349cf",
+    "size": 535274
+  },
+  "images/tokyo-night/machines/omarchy-machine-056-drum-plotter-map-2K.webp": {
+    "sha256": "d64240fb9f31a35e3e233a4e08267907f204dba07756ad332899b2322f4c4b38",
+    "size": 461268
+  },
+  "images/tokyo-night/machines/omarchy-machine-055-hacker-convention-laptop-2K.webp": {
+    "sha256": "9ebfec07e4afe60536784ba8dae202a04f6227feeb7cc48b35d20e231eddc5d8",
+    "size": 839880
+  },
+  "images/tokyo-night/machines/omarchy-machine-057-retro-computer-restoration-workshop-2K.webp": {
+    "sha256": "9df8d52485f064f58e0b0722a41e2d78d1a650b3b1ec25ae386a95c435bd08f1",
+    "size": 476876
+  },
+  "images/tokyo-night/machines/omarchy-machine-058-midi-computer-music-studio-2K.webp": {
+    "sha256": "17ee6412f2e1c6d9bf7e8121c6c74ea60d2c6b418bc9658a8659cbbf671e402c",
+    "size": 426620
+  },
+  "images/tokyo-night/machines/omarchy-machine-059-hacker-modem-bedroom-2K.webp": {
+    "sha256": "feea174abedfeb1d7ea5e7e23cd8d5e43bcfb77ba8e7f56070267ea59532433f",
+    "size": 530150
+  },
+  "images/tokyo-night/machines/omarchy-machine-060-tennis-game-oscilloscope-2K.webp": {
+    "sha256": "2624628320fa3a936cfb6c45becd61b4dd77832de2da84d7066cb9949451e6e0",
+    "size": 438506
+  },
+  "images/tokyo-night/machines/omarchy-machine-061-brick-mobile-phone-2K.webp": {
+    "sha256": "128c715eaa296ef6a7e575c95a59af885ad241da174b0b0bdc6be440623403a1",
+    "size": 556728
+  },
+  "images/tokyo-night/machines/omarchy-machine-062-electromechanical-desk-calculator-2K.webp": {
+    "sha256": "2ff5086d80d1d3340861a721429805f41726af58780cd981c7fb0fd05041167b",
+    "size": 489552
+  },
+  "images/tokyo-night/machines/omarchy-machine-064-quadruped-robot-industrial-plant-2K.webp": {
+    "sha256": "b1ff50af1c67750b19c47343f53c58874dbf67a87ec4908ab0fcfb95d810a69b",
+    "size": 536696
+  },
+  "images/tokyo-night/machines/omarchy-machine-065-dedicated-word-processor-2K.webp": {
+    "sha256": "660e856fec08f944dcffada480950a90dee87168cab34733708565228dbccfd0",
+    "size": 629782
+  },
+  "images/tokyo-night/machines/omarchy-machine-063-wifi-microcontroller-greenhouse-sensor-2K.webp": {
+    "sha256": "63089b0258a891404cb4e467f91acb465bed32fd27c263c7b1a585784a6518f0",
+    "size": 663082
+  },
+  "images/tokyo-night/machines/omarchy-machine-066-cad-pen-plotter-architect-2K.webp": {
+    "sha256": "da296f6fa9f501c15602ebca5d30d07a6db0e89db9cf452d665beff3edfdbf6e",
+    "size": 419952
+  },
+  "images/tokyo-night/machines/omarchy-machine-067-space-probe-computer-cleanroom-2K.webp": {
+    "sha256": "a9a3cfb3954a0719756607b5b455a79d328354eacf77769e330c403a9f7ac334",
+    "size": 632408
+  },
+  "images/tokyo-night/machines/omarchy-machine-068-grey-front-loader-console-2K.webp": {
+    "sha256": "c4ce722fcaf8a1361381cec812ecc2a63e2bbf16c66100ef2a4b76e3959efede",
+    "size": 487870
+  },
+  "images/tokyo-night/machines/omarchy-machine-069-dot-matrix-printer-1970s-2K.webp": {
+    "sha256": "bb538eec4bf1824b152c33f6c034e2e5428c8cf596a4d69593ed1635473a38c0",
+    "size": 483928
+  },
+  "images/tokyo-night/machines/omarchy-machine-072-stock-exchange-terminals-2K.webp": {
+    "sha256": "57d6bdebd24f1cbb892c863c53f2faafda392b9ee573751cb84e6ca8aa5afe53",
+    "size": 1147662
+  },
+  "images/tokyo-night/machines/omarchy-machine-070-early-car-trip-computer-2K.webp": {
+    "sha256": "ffaf4faecb88516755646e6b3f8afb67d984eaab31d440e1a2129105aa0e846d",
+    "size": 547082
+  },
+  "images/tokyo-night/machines/omarchy-machine-071-cheque-sorting-machine-2K.webp": {
+    "sha256": "9ebe42828b8c883d1c58b46b031c53799d5264e4986be4095f0abb7a64b4f7fd",
+    "size": 742360
+  },
+  "images/tokyo-night/machines/omarchy-machine-074-educational-talking-toy-2K.webp": {
+    "sha256": "6c124b218c63831b69d275618dbd801b44dc44c7fcce327d2b2bb3dc76b550f4",
+    "size": 594862
+  },
+  "images/tokyo-night/machines/omarchy-machine-075-linux-cd-install-2K.webp": {
+    "sha256": "b931292cafd5c089fa49c97f37d8b4b7fdcfe3f5bc9dd0ff3ac75446bfa0b853",
+    "size": 618738
+  },
+  "images/tokyo-night/machines/omarchy-machine-076-thick-coax-ethernet-tap-2K.webp": {
+    "sha256": "0a572d4f22762360d2aae5f67529a416fe704ad6fc807a35638b77ff0e3ddd7e",
+    "size": 440626
+  },
+  "images/tokyo-night/machines/omarchy-machine-077-led-pocket-calculator-2K.webp": {
+    "sha256": "c70ca4e233962cc17144534e54dc9ad2e8c643b4033ff46471792b5194d576e4",
+    "size": 651974
+  },
+  "images/tokyo-night/machines/omarchy-machine-073-vr-headset-living-room-2K.webp": {
+    "sha256": "32f866b504a8d767f3f0d5e33e1ef411e09d4834b92b30b772fb613b66d3ed98",
+    "size": 779590
+  },
+  "images/tokyo-night/machines/omarchy-machine-079-light-pen-vector-display-2K.webp": {
+    "sha256": "330960738fb2e0e99dcba588c4c332bcf493ad0655f7fb54b44c0039db5671a6",
+    "size": 520478
+  },
+  "images/tokyo-night/machines/omarchy-machine-078-asic-mining-farm-2K.webp": {
+    "sha256": "407ff15617c3c40a176d5033ba9dbf2f7a0df8dfcc6f999a330e35d474aaaa9a",
+    "size": 738918
+  },
+  "images/tokyo-night/machines/omarchy-machine-080-black-laptop-red-pointer-2K.webp": {
+    "sha256": "95fe63a479b3e0b9b72e03fd50f3fe0566ecb17f878a9668710b201572678053",
+    "size": 601544
+  },
+  "images/tokyo-night/machines/omarchy-machine-081-dual-screen-lcd-handheld-2K.webp": {
+    "sha256": "572ce6e0ff57982ab848dd65f2080c325169e2676b5689d75bcfaca52c828cd7",
+    "size": 544054
+  },
+  "images/tokyo-night/machines/omarchy-machine-082-japanese-standard-home-computer-2K.webp": {
+    "sha256": "d26fed3643331740f6ac2631998b6d99d5da1b32c90948982a3ffed82c7d4b63",
+    "size": 581434
+  },
+  "images/tokyo-night/machines/omarchy-machine-083-vr-arcade-pod-2K.webp": {
+    "sha256": "3026a7688a5043f7c61904d6c76ca12aa1ddd0144fb836bcf68d7f0738f0e9cf",
+    "size": 408578
+  },
+  "images/tokyo-night/machines/omarchy-machine-085-exascale-supercomputer-rows-2K.webp": {
+    "sha256": "9c0040798c0b841ee579ec0d5ecb436a20a88e498ec572fd4951a9602da25715",
+    "size": 661364
+  },
+  "images/tokyo-night/machines/omarchy-machine-086-parallel-supercomputer-led-cube-2K.webp": {
+    "sha256": "c1722c361c5584bb5cddf1b091e4153a3db22f538383b1d806c5ce9eac656cfc",
+    "size": 456562
+  },
+  "images/tokyo-night/machines/omarchy-machine-084-research-workstation-portrait-display-2K.webp": {
+    "sha256": "efbfceb3ff8f17a9616c6668d31c6be74ad53d45a5a1e982ca01b726fc8eca69",
+    "size": 704280
+  },
+  "images/tokyo-night/machines/omarchy-machine-090-iss-laptops-cupola-2K.webp": {
+    "sha256": "4f638adda4040aca4170e328fce0dd206b17d44be105d8dab9b1ee652d2bcdc2",
+    "size": 716498
+  },
+  "images/tokyo-night/machines/omarchy-machine-089-widescreen-handheld-umd-2K.webp": {
+    "sha256": "4b76c00298d7e55dcbe4bb48aa4358f4798dfaf7c82355666be53653162a314f",
+    "size": 519492
+  },
+  "images/tokyo-night/machines/omarchy-machine-087-tape-archive-cold-storage-2K.webp": {
+    "sha256": "fa11ba253326b01d685d6d87a6833e4bd704c1e2ffd0a815cf813318977a23e6",
+    "size": 550000
+  },
+  "images/tokyo-night/machines/omarchy-machine-088-retro-handheld-emulator-2K.webp": {
+    "sha256": "092def7f62db30bb30945a5d6820a61e754ce61d4a847fcebd26563a6f34ec72",
+    "size": 611692
+  },
+  "images/tokyo-night/machines/omarchy-machine-091-robot-vacuum-2K.webp": {
+    "sha256": "9e5454880627ed10908ef9dc56f538c7ddeea212d98bf4f28a2d0ea5086b9806",
+    "size": 399138
+  },
+  "images/tokyo-night/machines/omarchy-machine-092-ar-glasses-workbench-2K.webp": {
+    "sha256": "0c00e53b26a50ab59135adb8364a90823e72be13ec5a6d84bf38a6e1905e00b8",
+    "size": 403302
+  },
+  "images/tokyo-night/machines/omarchy-machine-094-wind-tunnel-data-computer-2K.webp": {
+    "sha256": "93acb5725271cf9fb7148ca027bafbbdbeb2157437e19907258ce44ca1f7dbdc",
+    "size": 501472
+  },
+  "images/tokyo-night/machines/omarchy-machine-093-e-ink-distraction-free-typewriter-2K.webp": {
+    "sha256": "140d5d3ac11b681e14ab043b150f11961f729e5fecc2da06823ab3c57536174d",
+    "size": 532926
+  },
+  "images/tokyo-night/machines/omarchy-machine-095-webcam-video-call-2008-2K.webp": {
+    "sha256": "42a0184fc394621ed37ec8f8af4f7ec47306775d4c8629b790787328f0ac0e9c",
+    "size": 435720
+  },
+  "images/tokyo-night/machines/omarchy-machine-096-white-plastic-laptop-dorm-2K.webp": {
+    "sha256": "48f7f2a82cef16db9d8e2e38799db5704e5ca8c8080864b4456afa39ad2149fa",
+    "size": 574344
+  },
+  "images/tokyo-night/machines/omarchy-machine-098-arcade-fighting-cabinets-2K.webp": {
+    "sha256": "b59c636be5f765ab3ebb35b9254f99891179dcbcd1b2bbf92e41af43425acf01",
+    "size": 468778
+  },
+  "images/tokyo-night/machines/omarchy-machine-097-server-motherboard-macro-2K.webp": {
+    "sha256": "7e01b2b5edd9ee681ad28abcfb1c8158b67e006efa89da46cebe9abbf8d45b11",
+    "size": 819754
+  },
+  "images/tokyo-night/machines/omarchy-machine-099-analog-computer-patch-panel-2K.webp": {
+    "sha256": "2de2f79f1fe07adf20e2a3fcf968a5ac914c040c96646a0bd269815278005bf5",
+    "size": 602790
+  },
+  "images/tokyo-night/machines/omarchy-machine-101-cyberdeck-ammo-case-2K.webp": {
+    "sha256": "0261e26429792072b278692571f46aca8dc03512e2b9e5d800a07eb98fb7f944",
+    "size": 450002
+  },
+  "images/tokyo-night/machines/omarchy-machine-102-first-microprocessor-wafer-2K.webp": {
+    "sha256": "e54987b10a8964bbc41ec31342471c5db0c400cd6e789a13099e477a1e01ad3b",
+    "size": 715542
+  },
+  "images/tokyo-night/machines/omarchy-machine-105-fax-machine-office-2K.webp": {
+    "sha256": "615d4b11d87d37c0336a1f5dba2a564f233db15f3bd811c1cda1f27ae5ea01a6",
+    "size": 484156
+  },
+  "images/tokyo-night/machines/omarchy-machine-103-linux-desktop-3d-cube-2K.webp": {
+    "sha256": "06e3720ffed621d2e18fe47cbe83e441f7d711605b9d277322d14d38ac40310a",
+    "size": 457002
+  },
+  "images/tokyo-night/machines/omarchy-machine-104-shuttle-cockpit-displays-2K.webp": {
+    "sha256": "959e9c4e951a089b780927dd6bc9930e5f1ecd1a354d8706a4ec8f0c0e69a1d0",
+    "size": 658784
+  },
+  "images/tokyo-night/machines/omarchy-machine-106-mission-control-consoles-2K.webp": {
+    "sha256": "577d6fe9c482a940095157582d851061300fbbdf6c732635efecaf3f4d9ad6d7",
+    "size": 616020
+  },
+  "images/tokyo-night/machines/omarchy-machine-108-desktop-publishing-laser-printer-2K.webp": {
+    "sha256": "3426a5e0b89997aff87a03dadb0910c9e872374220d5a6c4cade303db5ac740b",
+    "size": 501500
+  },
+  "images/tokyo-night/machines/omarchy-machine-107-videotex-terminal-paris-2K.webp": {
+    "sha256": "4867c01ae177718d46264f216210dc47c88326700ccc6f27a4ea03725093add3",
+    "size": 606632
+  },
+  "images/tokyo-night/machines/omarchy-machine-109-beowulf-cluster-basement-2K.webp": {
+    "sha256": "0e5cf9f38beacb9f926aa79d8fade8e4a9e0dfea6e582660b51ab473d416a062",
+    "size": 508198
+  },
+  "images/tokyo-night/machines/omarchy-machine-110-scientific-programmable-calculator-2K.webp": {
+    "sha256": "3e3b9d5eec04d0f529e1bfc457f9eac5b64b7d8ca7ed359e8fc5e3d9fc7df8a3",
+    "size": 753918
+  },
+  "images/tokyo-night/machines/omarchy-machine-111-e-ink-reader-2K.webp": {
+    "sha256": "a4323fb86cb3b63331fefb5a7eecdb2d7bdbeb028ca3c20df0519419d3a4d4d0",
+    "size": 644534
+  },
+  "images/tokyo-night/machines/omarchy-machine-112-candybar-phone-snake-2K.webp": {
+    "sha256": "b5804c427a95d6d8093a7b9149a96c96af1c547c08a298a07b284a718013b200",
+    "size": 593986
+  },
+  "images/tokyo-night/machines/omarchy-machine-113-ide-hard-drive-cutaway-2K.webp": {
+    "sha256": "bab8d113371bcf7c1ec66c03791304e47427bb90bbb9c162b0bf2344feb83de6",
+    "size": 611262
+  },
+  "images/tokyo-night/machines/omarchy-machine-115-flip-phone-camera-2K.webp": {
+    "sha256": "4659e9e4bd2bd5a20c85fa264420de86ab34c93b08f104d96c7ca1824ab66697",
+    "size": 650424
+  },
+  "images/tokyo-night/machines/omarchy-machine-116-bulletin-board-system-1978-2K.webp": {
+    "sha256": "4e2e5f2e9dee4fad7bf673f418a3cab874ba11da91dfd18779c5feddc3fecac2",
+    "size": 643052
+  },
+  "images/tokyo-night/machines/omarchy-machine-114-home-computer-bedroom-2K.webp": {
+    "sha256": "1acfab8c9d9fdb52cdc92f58adb23dc8fc5c3f59d53b4cdbf777a1e094060c76",
+    "size": 692574
+  },
+  "images/tokyo-night/machines/omarchy-machine-117-tape-drive-backup-office-2K.webp": {
+    "sha256": "a9d63589cc1531a8f81be1b898396d2dbcaa411e4e5a0a289faac703aa1074b0",
+    "size": 486722
+  },
+  "images/tokyo-night/machines/omarchy-machine-119-home-lab-server-rack-2K.webp": {
+    "sha256": "cd51dd2f2caa096447f0e372b789bbfccf25e24e47cd3cd77bb36e8392e39376",
+    "size": 360118
+  },
+  "images/tokyo-night/machines/omarchy-machine-118-air-traffic-control-radar-scope-2K.webp": {
+    "sha256": "0560158a8925b739ae511a08f3f6bf478ad94e143d5af67ae98422ee2e68b0b9",
+    "size": 546644
+  },
+  "images/tokyo-night/machines/omarchy-machine-120-japanese-family-console-2K.webp": {
+    "sha256": "bf4343cf4973d50cb9c5b86f4ace763bb1421b642d9f75929a6496506af896b0",
+    "size": 791854
+  },
+  "images/tokyo-night/machines/omarchy-machine-121-console-with-built-in-modem-2K.webp": {
+    "sha256": "28d2fcc2e22496ff567d27973cc774534e2b6ed494d0f456cf4161599c150bd9",
+    "size": 523550
+  },
+  "images/tokyo-night/machines/omarchy-machine-122-open-source-conference-hall-2K.webp": {
+    "sha256": "38e98b4fa494592f76382d7c6b8b70064e1d2a92fdd1b22487fd0c12ee1b2b98",
+    "size": 916886
+  },
+  "images/tokyo-night/machines/omarchy-machine-123-lan-party-basement-2K.webp": {
+    "sha256": "01cd2897f756b46b34ae33704db5afee31f739b8876410c1d889126f09ac7870",
+    "size": 516730
+  },
+  "images/tokyo-night/machines/omarchy-machine-124-mainframe-late-80s-2K.webp": {
+    "sha256": "fec37706986bebab4b9fbfb75688e98790e140406d1536bca7c4db0893f703bd",
+    "size": 417526
+  },
+  "images/tokyo-night/machines/omarchy-machine-125-network-node-cabinet-2K.webp": {
+    "sha256": "7c78443dc5e110d7e13ff60aa6923b77d747c92e6dab1d9506e0cd20dee03d06",
+    "size": 661440
+  },
+  "images/tokyo-night/machines/omarchy-machine-127-translucent-all-in-one-2K.webp": {
+    "sha256": "aee94dee2164fd9caca7d6176c86beda0c9a02331d3e1e867b8db955ac76ae3c",
+    "size": 529734
+  },
+  "images/tokyo-night/machines/omarchy-machine-126-three-prong-controller-console-2K.webp": {
+    "sha256": "c18a1042defcde4d1e80698a560f3200d346caa918ef21b6321da6a739de7667",
+    "size": 510430
+  },
+  "images/tokyo-night/machines/omarchy-machine-128-netbook-coffee-shop-2K.webp": {
+    "sha256": "1dac3a65f9151ffff287c6e2be4549a88d9bd1fcd94f4dd43ba0382e0d48bce1",
+    "size": 641962
+  },
+  "images/tokyo-night/machines/omarchy-machine-129-teleprinter-paper-tape-2K.webp": {
+    "sha256": "646df58c66414cf187144e2ec233132af27ae3e7262df554d7824bb95394ef3b",
+    "size": 570206
+  },
+  "images/tokyo-night/machines/omarchy-machine-130-handheld-led-football-game-2K.webp": {
+    "sha256": "1842f1ebb07c3908c84dd95ee150908590a736fd97f2ec3f91cfcd6a57063b2d",
+    "size": 706026
+  },
+  "images/tokyo-night/machines/omarchy-machine-131-mini-pc-homelab-rack-2K.webp": {
+    "sha256": "8677bc4dbb7d37011219ccb859950c7719c3dc18e0e3d731d2c8475e8196f85c",
+    "size": 799574
+  },
+  "images/tokyo-night/machines/omarchy-machine-132-credit-card-sized-computer-2K.webp": {
+    "sha256": "5c8a28f118ecd2c39846bd62dc496fbf34a2671bb474bdcbacc6958fd11a7bd7",
+    "size": 458802
+  },
+  "images/tokyo-night/machines/omarchy-machine-133-handheld-gaming-pc-2K.webp": {
+    "sha256": "23c0ac002f2ceaa07d964f747041302aa93d49344f17f975617db105124873f8",
+    "size": 787344
+  },
+  "images/tokyo-night/machines/omarchy-machine-134-zip-disk-drive-2K.webp": {
+    "sha256": "220be122d4858a38c34495eb5377a9d2016cd416032f190b8b9e38e531640fa3",
+    "size": 637338
+  },
+  "images/tokyo-night/machines/omarchy-machine-135-linux-birth-student-room-2K.webp": {
+    "sha256": "9fc836c7b688b4eca6ddfdb9cec2f8fc1cbdae493dad1d0a7a7837f21eceffcc",
+    "size": 612334
+  },
+  "images/tokyo-night/machines/omarchy-machine-136-transistor-minicomputer-space-game-2K.webp": {
+    "sha256": "1c62a90ace3364908c58f3921d23416fb50e700c7937e8510090405ef87e7928",
+    "size": 621270
+  },
+  "images/tokyo-night/machines/omarchy-machine-137-trackball-laptop-2K.webp": {
+    "sha256": "8f6f515f377d693287d2af3f9a3b7a498b92950a21c059569e50dca66d245530",
+    "size": 360364
+  },
+  "images/tokyo-night/machines/omarchy-machine-138-dual-screen-handheld-stylus-2K.webp": {
+    "sha256": "74c684f7982273d197dac65bdb77014499350a29b20fef4973d9334edbafcc68",
+    "size": 534542
+  },
+  "images/tokyo-night/machines/omarchy-machine-139-laptop-docking-station-2K.webp": {
+    "sha256": "83791e83cb68a7598d3208566b94b46b370299bd620cda7a2b782188162b69d9",
+    "size": 597838
+  },
+  "images/tokyo-night/machines/omarchy-machine-140-eight-inch-floppy-drive-2K.webp": {
+    "sha256": "bda1b00865fe3b8d6923b9dcb460cdef1cdfd1991dae4170bb54a20369fedb5b",
+    "size": 826526
+  },
+  "images/tokyo-night/machines/omarchy-machine-141-computer-bulletin-board-server-2K.webp": {
+    "sha256": "1f965cd111fe768cb5dc8ae83b94b669367e6ecb8a001106e2efa82bbe3e4e85",
+    "size": 563700
+  },
+  "images/tokyo-night/machines/omarchy-machine-142-chain-line-printer-2K.webp": {
+    "sha256": "ae8ed58aa19d605507234608b30402d4e66de8c9a57735fe7ef8187da5881606",
+    "size": 645244
+  },
+  "images/tokyo-night/machines/omarchy-machine-143-led-digital-watch-2K.webp": {
+    "sha256": "01eb09ae363deab8dac61ee0caffd73ab620be49724157bbeedf8b7f58118e7b",
+    "size": 773310
+  },
+  "images/tokyo-night/machines/omarchy-machine-145-hybrid-handheld-console-2K.webp": {
+    "sha256": "6d6cd14d6f17b1ddd60bfd211853d87ff7bffa171931c184ccd2a16595cae2ad",
+    "size": 575808
+  },
+  "images/tokyo-night/machines/omarchy-machine-144-flat-pocket-television-2K.webp": {
+    "sha256": "9f42dcad88da967b466c60fa3111cc922e674784fbd5af979844621a88a440b0",
+    "size": 686902
+  },
+  "images/tokyo-night/machines/omarchy-machine-146-fpga-retro-console-2K.webp": {
+    "sha256": "5674684494a4f09c9546098b945191004d332fdbdb6afa9bbd0ce29f776aa57e",
+    "size": 428688
+  },
+  "images/tokyo-night/machines/omarchy-machine-148-fast-food-pos-terminal-2K.webp": {
+    "sha256": "8f9bb4159676a7d70ceb1795bc642456c85dfa614656d9d239cf2bac7e6f4eb7",
+    "size": 458122
+  },
+  "images/tokyo-night/machines/omarchy-machine-147-satellite-ground-station-console-2K.webp": {
+    "sha256": "8b6bb4c03a21992e53d8003fbe976db5e76e3075cf034c2841a97c8dedc6c2b3",
+    "size": 531842
+  },
+  "images/tokyo-night/machines/omarchy-machine-149-lockdown-kitchen-home-office-2K.webp": {
+    "sha256": "ef1bcd3d66cade99bd2d7fff5be43abcc62587ad4258eb29d3ae3256ad471542",
+    "size": 356666
+  },
+  "images/tokyo-night/machines/omarchy-machine-152-satellite-dish-mountain-cabin-2K.webp": {
+    "sha256": "2286ae463aa539b554c7ab72a440b233f21a22d08be503bab6ced7e1eed35c99",
+    "size": 601714
+  },
+  "images/tokyo-night/machines/omarchy-machine-151-laserdisc-arcade-cabinet-2K.webp": {
+    "sha256": "4f1c569663e0cda01d0067d58865a404915bffa23f3402ff684a71802e049ab3",
+    "size": 355792
+  },
+  "images/tokyo-night/machines/omarchy-machine-153-airline-reservation-terminal-2K.webp": {
+    "sha256": "6a670dcfe0b6bf94276def522c268c2831ff98f82620a9967866405bd5a7f77a",
+    "size": 632662
+  },
+  "images/tokyo-night/machines/omarchy-machine-154-woven-rope-memory-assembly-2K.webp": {
+    "sha256": "d083bba92ae949b7cd3038acd112ef5e9444be3c9e1f03fff94d6d564015d443",
+    "size": 866338
+  },
+  "images/tokyo-night/machines/omarchy-machine-156-modern-mainframe-glass-doors-2K.webp": {
+    "sha256": "025fe25d65140fa76ad84a4b27f015a455b7540609a56863e6e3a03af45a8179",
+    "size": 727344
+  },
+  "images/tokyo-night/machines/omarchy-machine-155-first-web-server-physics-lab-2K.webp": {
+    "sha256": "08af55a384cced9fd6e906a357f0da04d8c9f5ddada7a6753de658363858c031",
+    "size": 617342
+  },
+  "images/tokyo-night/machines/omarchy-machine-158-mechanical-keyboard-buckling-spring-2K.webp": {
+    "sha256": "e9d161039b4d696ea708dee98732ddba786c6f0e35729c4cf1124ab4fafa56de",
+    "size": 489144
+  },
+  "images/tokyo-night/machines/omarchy-machine-157-split-ergonomic-keyboard-2K.webp": {
+    "sha256": "6196c3fc6998c63126fb591320c63d330e8d091e0c979977aa02b613a9eea0db",
+    "size": 714048
+  },
+  "images/tokyo-night/machines/omarchy-machine-160-smartwatch-on-wrist-2K.webp": {
+    "sha256": "921909733659baffe988dd6e804dc7dd1b86a38a0a8811c54e36ca3e8ededa99",
+    "size": 664628
+  },
+  "images/tokyo-night/machines/omarchy-machine-159-drum-memory-unit-2K.webp": {
+    "sha256": "6a48859f50c96656a8b3fd6343b7971f33aa2f80c497ef45ed8a2b79ad510eb3",
+    "size": 631236
+  },
+  "images/tokyo-night/machines/omarchy-machine-161-school-computer-classroom-2K.webp": {
+    "sha256": "bf9691448271c5fbb002aead37b7ecdd8bb64548b9595568bb85453d92d5c3c4",
+    "size": 406722
+  },
+  "images/tokyo-night/machines/omarchy-machine-162-hyperlinked-cards-classroom-2K.webp": {
+    "sha256": "c12bf770bb1d29cf5b14c64f24947c5cb023f6893a0033d74e7f0da6cdd7e95b",
+    "size": 527260
+  },
+  "images/tokyo-night/machines/omarchy-machine-163-quadcopter-flight-controller-2K.webp": {
+    "sha256": "9d85df92987b34ba4f04e5d22ce5bccfe8fd789bb5522566db21d7d6669458ea",
+    "size": 481088
+  },
+  "images/tokyo-night/machines/omarchy-machine-164-dual-processor-multimedia-computer-2K.webp": {
+    "sha256": "8dbbfb8460a74c8f60670329585b8328a97a45b5255bc98e0c41239206c4c1ee",
+    "size": 488040
+  },
+  "images/tokyo-night/machines/omarchy-machine-165-floppy-525-notch-macro-2K.webp": {
+    "sha256": "0cd890da09334a3b55261a3d6fb50d0facd417f6a144a3a1022cee2a31776c8a",
+    "size": 439586
+  },
+  "images/tokyo-night/machines/omarchy-machine-166-green-childrens-laptop-2K.webp": {
+    "sha256": "d0db54701c0919e92025f9843c539c5674bf8f78eb96380a1a62ab62e13453ce",
+    "size": 578308
+  },
+  "images/tokyo-night/machines/omarchy-machine-168-weather-forecast-computer-2K.webp": {
+    "sha256": "8c9840123e057820f554632db7e83310caf02f72757b6ce7e4c590bea8accadb",
+    "size": 601852
+  },
+  "images/tokyo-night/machines/omarchy-machine-167-home-computer-electronics-store-2K.webp": {
+    "sha256": "bb0157bfdc181db051ab1f563569959dcaf9979f1bc326a0549809f75194cd6b",
+    "size": 477546
+  },
+  "images/tokyo-night/machines/omarchy-machine-169-cubesat-cleanroom-2K.webp": {
+    "sha256": "ac362ea61609944d88069e917a1b06bb3b6d8154140786e9b3d2d930629ecd53",
+    "size": 622956
+  },
+  "images/tokyo-night/machines/omarchy-machine-170-smartphone-teardown-bench-2K.webp": {
+    "sha256": "84ac8f88fb4a25cb1a716ca9eef1168c1d4a6864569567040d6bee71d656e777",
+    "size": 323542
+  },
+  "images/tokyo-night/machines/omarchy-machine-171-external-dialup-modem-2K.webp": {
+    "sha256": "3870d9deb64737ff6cd4b43e39ec194c45d2ef5bd1b9d0c3af73fcd0f0fc5f69",
+    "size": 409146
+  },
+  "images/tokyo-night/machines/omarchy-machine-173-graphics-workstation-vfx-studio-2K.webp": {
+    "sha256": "d525350ad4a57a24c9fed45a994071d5b5ac67c06ac9412c7246638aa2e46440",
+    "size": 634954
+  },
+  "images/tokyo-night/machines/omarchy-machine-172-chess-computer-board-2K.webp": {
+    "sha256": "04abf18cd579aa454b76241be9c977b5903ff74b3d591dc0b25b454b27006661",
+    "size": 730674
+  },
+  "images/tokyo-night/machines/omarchy-machine-174-wedge-home-computer-kitchen-2K.webp": {
+    "sha256": "188f8d23b872aef33238b06a439c3c8fde61c6b049ccca9d4a9f60fefb73394b",
+    "size": 365968
+  },
+  "images/tokyo-night/machines/omarchy-machine-175-tiling-window-manager-desk-2K.webp": {
+    "sha256": "6f9b6693b56646a667b0de03108941a62bc46247e731b9706983bf18e1fd6e67",
+    "size": 406476
+  },
+  "images/tokyo-night/machines/omarchy-machine-176-mainframe-computer-room-2K.webp": {
+    "sha256": "a7bb65cb41a7b24394a4cb5fa0149d40d21dadba6fc243f8a370fbf7e464708c",
+    "size": 341224
+  },
+  "images/tokyo-night/machines/omarchy-machine-177-mars-pathfinder-rover-2K.webp": {
+    "sha256": "a6a06f875c3c279cd769d98ba8e5d1488b839b63454b06e427845ada305216aa",
+    "size": 839374
+  },
+  "images/tokyo-night/machines/omarchy-machine-178-pager-and-payphone-2K.webp": {
+    "sha256": "f1e1d587a3ada0102b61057d35989a46e91a61c826038d13e7d62408b7bcc94f",
+    "size": 963064
+  },
+  "images/tokyo-night/machines/omarchy-machine-179-laser-printer-prototype-2K.webp": {
+    "sha256": "6ea382b69f4cc7b15ea577205c5388dbdd8bdff116e737755e89eff36ab4ccac",
+    "size": 664008
+  },
+  "images/tokyo-night/machines/omarchy-machine-180-wafer-scale-ai-chip-2K.webp": {
+    "sha256": "2f40c37b9d6b73801c985acf17345d58ada6e55141365336ce057da1a8739884",
+    "size": 744156
+  },
+  "images/tokyo-night/machines/omarchy-machine-181-business-pc-green-monitor-2K.webp": {
+    "sha256": "74394ad3cfde6269cb819a2370b7ef4a46729ace37661c3b182d10e4571c5035",
+    "size": 507680
+  },
+  "images/tokyo-night/machines/omarchy-machine-182-blinkenlights-16bit-mini-2K.webp": {
+    "sha256": "6bf1ac4058a108e6832cd6b6d4b7957e96a8d795aa0decdb314d0207e98d43e7",
+    "size": 478846
+  },
+  "images/tokyo-night/machines/omarchy-machine-183-s100-backplane-2K.webp": {
+    "sha256": "4c9a691a2a5b7ec38fe34fd181de9d5b7a5efc654a01629015e5fa74f83a732c",
+    "size": 562574
+  },
+  "images/tokyo-night/machines/omarchy-machine-184-home-media-center-pc-2K.webp": {
+    "sha256": "605cb086306bcc60e22613e7cd37a0ee6d35633db902871866fb46fb298a2901",
+    "size": 650302
+  },
+  "images/tokyo-night/machines/omarchy-machine-185-flatbed-scanner-photos-2K.webp": {
+    "sha256": "8403c435874ce4939de78dc71bd563b1990efd6087dee8c39540fb1c1df81881",
+    "size": 572904
+  },
+  "images/tokyo-night/machines/omarchy-machine-186-sound-card-pc-bedroom-2K.webp": {
+    "sha256": "b67c2c04cd0791cbe7a1fbd4e35d74225e14a581d1b1f051e055ad8af7111e9c",
+    "size": 399442
+  },
+  "images/tokyo-night/machines/omarchy-machine-187-chip-fab-cleanroom-2K.webp": {
+    "sha256": "a41d8ba82ef5c52042aad8644424f34b7cf77054d3247649c1a32e1133d6cbab",
+    "size": 560632
+  },
+  "images/tokyo-night/machines/omarchy-machine-188-handheld-link-cable-trade-2K.webp": {
+    "sha256": "c970e9257eefdf8f7bc0e8a61b1588343118763b48d43a16d08d4f7bb92f8651",
+    "size": 615620
+  },
+  "images/tokyo-night/machines/omarchy-machine-189-quantum-computer-chandelier-2K.webp": {
+    "sha256": "c95869d798d4467b6880acdd3bcd878b1945169b8c924c46ed3f4e8a9c99a29f",
+    "size": 444036
+  },
+  "images/tokyo-night/machines/omarchy-machine-190-network-hub-coax-to-twisted-pair-2K.webp": {
+    "sha256": "b41ba8cd7d669873de411385b087145689db0207c662205517a595b8e8e7ea56",
+    "size": 399542
+  },
+  "images/tokyo-night/machines/omarchy-machine-193-automated-tape-library-robot-2K.webp": {
+    "sha256": "d7b8dc0b2df42fe84ed165b3df08ee04bfe09beae1b413c3209541b4661ffd11",
+    "size": 409882
+  },
+  "images/tokyo-night/machines/omarchy-machine-191-office-email-early-2K.webp": {
+    "sha256": "eb30afd1fa6c3a3f3e78f474414ef7355c7d7a6239370aff64742e8d8024476c",
+    "size": 469462
+  },
+  "images/tokyo-night/machines/omarchy-machine-192-homebrew-club-meeting-2K.webp": {
+    "sha256": "2df88fb0237ac94ea9b30ddee8e6b90d40cddcb551f46ac989e0291dd372e20c",
+    "size": 577296
+  },
+  "images/tokyo-night/machines/omarchy-machine-194-maker-microcontroller-board-2K.webp": {
+    "sha256": "be1af650f3e475fe03b6f87d95e3b3b66290feefc181881eca7ab57e6b92b97a",
+    "size": 718538
+  },
+  "images/tokyo-night/machines/omarchy-machine-195-cassette-based-computer-club-2K.webp": {
+    "sha256": "1d3c383115779691d1ad25e59c931cb860871e962f6e3da1b4ae439dc7415da8",
+    "size": 604866
+  },
+  "images/tokyo-night/machines/omarchy-machine-196-aluminum-ultrabook-train-2K.webp": {
+    "sha256": "5c7d08d33cd83cb32b5080fd047b8571dbaa0f361ad1b2955a5879b0508f1ba2",
+    "size": 486058
+  },
+  "images/tokyo-night/machines/omarchy-machine-197-beige-color-home-computer-2K.webp": {
+    "sha256": "4ce26448171932d1c148e399d1ed1e12471fe8f3e473fb4aa89b8124daa2f858",
+    "size": 480184
+  },
+  "images/tokyo-night/machines/omarchy-machine-199-pong-cabinet-bar-2K.webp": {
+    "sha256": "55ed67312907527b5447edaa127177ff4d463050dd4494b32f8d89f8c64f021f",
+    "size": 761502
+  },
+  "images/tokyo-night/machines/omarchy-machine-198-gpu-mining-rig-garage-2K.webp": {
+    "sha256": "8cf47d21c2154f388287c5398e89719fb3fa9f9ca4a5620f2a4ca521987d894f",
+    "size": 367782
+  },
+  "images/tokyo-night/machines/omarchy-machine-200-typewriter-style-word-processor-2K.webp": {
+    "sha256": "80367a94ab7a47966693a9beb453c5f22514c7546e1b190747f2ec98589c1196",
+    "size": 795564
+  },
+  "images/tokyo-night/machines/omarchy-machine-202-time-sharing-terminal-room-2K.webp": {
+    "sha256": "daafe82b89eb7c6d0696c6e4b7f944befd811a3626cd575809b878b2c7324d7e",
+    "size": 778458
+  },
+  "images/tokyo-night/machines/omarchy-machine-203-computer-front-panel-switches-2K.webp": {
+    "sha256": "b6a593172221f442182866a7d71058c90681369bd1b7fee38e7f87486b1f2230",
+    "size": 536130
+  },
+  "images/tokyo-night/machines/omarchy-machine-204-black-tower-console-2000-2K.webp": {
+    "sha256": "128e6ce2c864ab1443bc448950499d9e246e10e640644f31c38bb9ba4c90119e",
+    "size": 493010
+  },
+  "images/tokyo-night/machines/omarchy-machine-205-computer-history-museum-hall-2K.webp": {
+    "sha256": "6ee27cf692e64e6ded0f2e3476a742307d9ac7adc4d8d0946696db13d6496461",
+    "size": 607548
+  },
+  "images/tokyo-night/machines/omarchy-machine-206-cad-workstation-car-design-2K.webp": {
+    "sha256": "0a93af45602e7a69ea9e58801f9dea4400198d38ccc1df71a2dafacafc6d9991",
+    "size": 415474
+  },
+  "images/tokyo-night/machines/omarchy-machine-207-atm-machine-80s-2K.webp": {
+    "sha256": "78d731630dc5d2ed19406f7c94eb710e8a77e62cc1fffbafd06bb4eecd55abb2",
+    "size": 668174
+  },
+  "images/tokyo-night/machines/omarchy-machine-208-disk-pack-drive-2K.webp": {
+    "sha256": "4817ce4a6aa0e78a6f700503891313710c327acc7b9001c7982e22eef9479559",
+    "size": 724224
+  },
+  "images/tokyo-night/machines/omarchy-machine-211-kit-computer-toggle-switches-2K.webp": {
+    "sha256": "bf596038fe9686556256ea450dc4893ac40172a8bd01a57ec01780b87e48bf2b",
+    "size": 479358
+  },
+  "images/tokyo-night/machines/omarchy-machine-210-ball-mouse-disassembled-2K.webp": {
+    "sha256": "e41db50d98f7d91543112d704ce66826dae6a3d2336ec9f5af77c6d66503637d",
+    "size": 415054
+  },
+  "images/tokyo-night/machines/omarchy-machine-209-mars-helicopter-2K.webp": {
+    "sha256": "15e50700999d007d4e560293f756036aacd37183bbca3e27ea2facc734c06cf7",
+    "size": 774804
+  },
+  "images/tokyo-night/machines/omarchy-machine-212-grey-cd-console-2K.webp": {
+    "sha256": "b0b0fe902c7bada05beb9f78bba96cda8bf5dd6023df1a039fc74701cfa155f3",
+    "size": 502866
+  },
+  "images/tokyo-night/machines/omarchy-machine-213-mechanical-keyboard-custom-2K.webp": {
+    "sha256": "c52e6aa669a5ee4b1477eacbe2b7db82c508c11e75915b4297cb9b4342e07a39",
+    "size": 473956
+  },
+  "images/tokyo-night/machines/omarchy-machine-215-unix-workstation-lab-2K.webp": {
+    "sha256": "96b2a16d3f2d09283e343daf474d41f03668374e87f1f9c23d71513a574effd3",
+    "size": 480952
+  },
+  "images/tokyo-night/machines/omarchy-machine-214-pizza-box-unix-workstation-2K.webp": {
+    "sha256": "093a1b0cc161e31dbf6dc4ebc7f14ea92bc2976478c9e7aa526ba8812481d0e7",
+    "size": 654334
+  },
+  "images/tokyo-night/machines/omarchy-machine-216-y2k-server-room-2K.webp": {
+    "sha256": "7e8aec9f1476e3ba30bebdcefe4cbef1f8b0b05542fcd30f3e1ed751ef230013",
+    "size": 532078
+  },
+  "images/tokyo-night/machines/omarchy-machine-217-first-ssd-macro-2K.webp": {
+    "sha256": "e95b0eae7d96799efa756af6fb82a691df1b1ff6974bd4ad6e216ff8e5feca64",
+    "size": 593968
+  },
+  "images/tokyo-night/machines/omarchy-machine-218-single-board-cluster-2K.webp": {
+    "sha256": "09b74878a893a43b2af48a3b9957fc98393c37a25457d1f6834b2d78618961a9",
+    "size": 601644
+  },
+  "images/tokyo-night/machines/omarchy-machine-220-mainframe-disk-farm-1970s-2K.webp": {
+    "sha256": "7cb7a48da3c11afaebb7b90155ec7a98e49a704c8471f7cb9a38cca1c1ed3c32",
+    "size": 646722
+  },
+  "images/tokyo-night/machines/omarchy-machine-219-tiling-desktop-minimal-setup-2K.webp": {
+    "sha256": "58003cf97228c4a3b32fc0ee4ebc1bf215eb5e46f07525cb8d835f1d3398c7fb",
+    "size": 514958
+  },
+  "images/tokyo-night/machines/omarchy-machine-221-risc-v-dev-board-2K.webp": {
+    "sha256": "4593bfac91cd0af9311aa92ac2810066791edf34fabbf11b9ea894c088c897f5",
+    "size": 952038
+  },
+  "images/tokyo-night/machines/omarchy-machine-223-mesh-radio-node-mountain-2K.webp": {
+    "sha256": "728fd8410787677ba07c99fa6367e612a77514c4d8ab7e3c116a2fbc2faa9d5a",
+    "size": 603908
+  },
+  "images/tokyo-night/machines/omarchy-machine-224-hackerspace-workbench-2K.webp": {
+    "sha256": "9d131b895242a8204c129dd4b1dc8838df665cec334e8a26b3dfbc453712dc25",
+    "size": 562646
+  },
+  "images/tokyo-night/machines/omarchy-machine-222-breadbox-home-computer-joystick-2K.webp": {
+    "sha256": "2de9d31796ccfb528841a236cc3546ab7031d5e9d9f6cea17b044cdad458e135",
+    "size": 612444
+  },
+  "images/tokyo-night/machines/omarchy-machine-226-ten-megabyte-hard-disk-cutaway-2K.webp": {
+    "sha256": "107364d0706ee0960ded7768664f7af02f1f07f948b0a50615c6e78afbda52b8",
+    "size": 524828
+  },
+  "images/tokyo-night/machines/omarchy-machine-225-cash-dispensing-machine-2K.webp": {
+    "sha256": "f005ea8f983765d2ebcb243a926f0b35216ad0077ce448fa31d3fad3a7015c27",
+    "size": 959660
+  },
+  "images/tokyo-night/machines/omarchy-machine-228-home-computer-magazine-type-in-2K.webp": {
+    "sha256": "92baf3c7549fc6d092afcd5b0e89d5e870f3013d2b521bdc2f3049f63d165dfd",
+    "size": 643348
+  },
+  "images/tokyo-night/machines/omarchy-machine-227-first-touchscreen-smartphone-2K.webp": {
+    "sha256": "d0486f8cac2eace96dab03cb89e5f84ef42de7e05ddca1b75dbfe74e2f41fc69",
+    "size": 539030
+  },
+  "images/tokyo-night/machines/omarchy-machine-229-color-handheld-backlit-1989-2K.webp": {
+    "sha256": "96d4846b931227ffd60a3a3b5d30d63fad34e4f308bf68248e7333afc0e90d73",
+    "size": 687212
+  },
+  "images/tokyo-night/machines/omarchy-machine-230-quantum-chip-sample-holder-2K.webp": {
+    "sha256": "81d66ace7c2da6a574e21e554d4cc4c423d5b063a33eb5caf098262dad26139d",
+    "size": 625414
+  },
+  "images/tokyo-night/machines/omarchy-machine-232-virtual-pet-schoolbag-2K.webp": {
+    "sha256": "fe944288b0863cbe611dde6c3fd4d993ec5b12dda4518fae1d52d8e38ad880de",
+    "size": 538100
+  },
+  "images/tokyo-night/machines/omarchy-machine-231-smart-speaker-kitchen-2K.webp": {
+    "sha256": "3e59a66e090b21cd20b3de1ccb0f29816f3dfb33c11756b0fbf2e52a391195f5",
+    "size": 484830
+  },
+  "images/tokyo-night/machines/omarchy-machine-233-single-board-trainer-hex-keypad-2K.webp": {
+    "sha256": "f1808433dfc1141a8f464826fbbcc41c0e650443574b033a1fb156f7c58edfc5",
+    "size": 568662
+  },
+  "images/tokyo-night/machines/omarchy-machine-234-qwerty-email-phone-airport-2K.webp": {
+    "sha256": "a70d2510c40b675927e52a85a05573bf0b6a07422611074d2c3597254078a96a",
+    "size": 900550
+  },
+  "images/tokyo-night/machines/omarchy-machine-235-self-driving-car-trunk-computer-2K.webp": {
+    "sha256": "701dac73a2772617eefb851b6ea5a478b9cb1e939a5732d910d823fa878bd496",
+    "size": 499448
+  },
+  "images/tokyo-night/machines/omarchy-machine-236-ai-workstation-lab-2K.webp": {
+    "sha256": "a08db187fbbb6391790ae7da6d8d9dd082db157f65d608bf7ba2f2f2a9627b27",
+    "size": 441396
+  },
+  "images/tokyo-night/machines/omarchy-machine-237-motion-controller-console-living-room-2K.webp": {
+    "sha256": "f167c852e2a939025ddd27f2b887fb15be3f0126a196d6f41a6c9414176c8ec3",
+    "size": 444802
+  },
+  "images/tokyo-night/machines/omarchy-machine-238-magnesium-clamshell-portable-2K.webp": {
+    "sha256": "6f6abb9be52792bcbe36c33dfa805e277bb206410d677f309e9a20a523c4d2c7",
+    "size": 530872
+  },
+  "images/tokyo-night/machines/omarchy-machine-240-typesetting-terminal-newsroom-2K.webp": {
+    "sha256": "8008227116cf9568f8a3b45281f94528536a8c3fd752f41a6fff98641b16a5ed",
+    "size": 706416
+  },
+  "images/tokyo-night/machines/omarchy-machine-239-home-computer-light-pen-2K.webp": {
+    "sha256": "be0b3a32bbda87a7ee5314ec1d84161127477d553c476bb06a49a7856dda21d6",
+    "size": 498680
+  },
+  "images/tokyo-night/machines/omarchy-machine-241-dotcom-startup-servers-2K.webp": {
+    "sha256": "ebdf4bd1336f8c393127e356f09f340d5067d56571adba99063c0f46e016ecf6",
+    "size": 482726
+  },
+  "images/tokyo-night/machines/omarchy-machine-243-cpu-die-8bit-macro-2K.webp": {
+    "sha256": "7b2d38b26065a7d819474dfc2f7a794e25a62c82818d56b9e108c73deb7e30ff",
+    "size": 555752
+  },
+  "images/tokyo-night/machines/omarchy-machine-242-supermarket-barcode-scanner-2K.webp": {
+    "sha256": "da1f95b6767f40d9d0db6345796b4d31be5c963f0064235f6148d0985b361cfb",
+    "size": 745376
+  },
+  "images/tokyo-night/machines/omarchy-machine-244-guidance-computer-keypad-2K.webp": {
+    "sha256": "efd265618e30a92c206ee7f58b98c7fdf4d07769ad83746d3a0ee284e24e019a",
+    "size": 491442
+  },
+  "previews/tokyo-night/machines/omarchy-machine-001-linux-phone-kill-switches-preview.webp": {
+    "sha256": "a95fe281d264510db465ffbd9e78e9bf693ad1af3333779400350093eeebeaa9",
+    "size": 36438
+  },
+  "previews/tokyo-night/machines/omarchy-machine-002-handheld-game-brick-1989-preview.webp": {
+    "sha256": "93cb7e41d33fb114b83177a85d89a45a87a21c1719079f044eb28b910c304e6c",
+    "size": 37268
+  },
+  "previews/tokyo-night/machines/omarchy-machine-003-fiber-optic-splicing-van-preview.webp": {
+    "sha256": "37aea9f66173c644a9ec65f0322d17555670db1f4854b206f44ce57d0e416745",
+    "size": 46658
+  },
+  "images/tokyo-night/machines/omarchy-machine-245-woodgrain-video-console-2K.webp": {
+    "sha256": "4dd9fe0e13795361f9be1a3438f2aabae361d2028b9acee35b687b6ccf3e2701",
+    "size": 534820
+  },
+  "previews/tokyo-night/machines/omarchy-machine-004-486-tower-home-office-preview.webp": {
+    "sha256": "8bd653ea716e1a40d8e8859640b9c53559154b2052b73bc9ae29c4941b3e212e",
+    "size": 37658
+  },
+  "previews/tokyo-night/machines/omarchy-machine-006-c-shaped-supercomputer-preview.webp": {
+    "sha256": "0bc09c879388cdfdf76d1810b2f50a6bb30b1299c4772b9b5470d2a91169d8b2",
+    "size": 32750
+  },
+  "previews/tokyo-night/machines/omarchy-machine-007-soviet-home-computer-preview.webp": {
+    "sha256": "d809b0e59fc01b8b42df28b22c7293dabd462835281f0d12f16b69db0a1d38fa",
+    "size": 36024
+  },
+  "images/tokyo-night/machines/omarchy-machine-246-inkjet-printer-school-project-2K.webp": {
+    "sha256": "1b3872cf567fbfebf1c5c31de480c1b3494bcc24ffcfebf03d484403730be810",
+    "size": 496262
+  },
+  "previews/tokyo-night/machines/omarchy-machine-008-computer-store-window-preview.webp": {
+    "sha256": "fea6d89e1c2c0acbe6c72cb977d3cacd44df056e0591806a9b74883a5fa75664",
+    "size": 28870
+  },
+  "previews/tokyo-night/machines/omarchy-machine-009-gpu-ai-training-cluster-preview.webp": {
+    "sha256": "b73e42c5fd78299b9fc676b671cd4202da797656dc4121f6817753e0478afd2f",
+    "size": 40402
+  },
+  "images/tokyo-night/machines/omarchy-machine-247-programmable-desktop-computer-italian-2K.webp": {
+    "sha256": "831404b9855e506767bdcf4597ded49d8ff5847df5e02cc762e7e649c3cc0506",
+    "size": 681576
+  },
+  "previews/tokyo-night/machines/omarchy-machine-010-undersea-datacenter-capsule-preview.webp": {
+    "sha256": "cb387faa50747bea13966bf352dc36803a8a0ce2f1f60e9ad9f13e3b143a82d7",
+    "size": 33870
+  },
+  "previews/tokyo-night/machines/omarchy-machine-011-chess-supercomputer-match-preview.webp": {
+    "sha256": "7f9e32375ca1565031aeb9d0c3e4a0caa5748d2aa592fb99eaf4aa9af10ba691",
+    "size": 36156
+  },
+  "previews/tokyo-night/machines/omarchy-machine-012-usb-flash-drive-1999-preview.webp": {
+    "sha256": "77aa80f82afe6ff120c04d72007a329b16461735f4357f9ae82481722f8a5d82",
+    "size": 34748
+  },
+  "images/tokyo-night/machines/omarchy-machine-248-solar-powered-web-server-2K.webp": {
+    "sha256": "2c15390b96c8cadf31a6b0f166b1338747b833b5afe3c59dcbe270fdb164f3b8",
+    "size": 612228
+  },
+  "previews/tokyo-night/machines/omarchy-machine-013-minicomputer-where-unix-was-born-preview.webp": {
+    "sha256": "697a7782ccba82bdcbef52ae745b04b56df29d912da95e6ac8bb09815cb227eb",
+    "size": 32220
+  },
+  "previews/tokyo-night/machines/omarchy-machine-015-wifi-router-antennas-preview.webp": {
+    "sha256": "6925fa5cb65a19ffdd920cf213cb0892e91692efa20e0a3e102130de3bcab0b7",
+    "size": 28626
+  },
+  "previews/tokyo-night/machines/omarchy-machine-014-click-wheel-music-player-subway-preview.webp": {
+    "sha256": "a9e293dc438eda969fa251fea1fdfe2ded8b7c33be250be44f809e47ed75dd2a",
+    "size": 37834
+  },
+  "previews/tokyo-night/machines/omarchy-machine-016-colocation-cage-cabling-preview.webp": {
+    "sha256": "7b4b73d06fd628822d058f46e2f65bd0c027899fff79b20e36668615c03ea1a9",
+    "size": 45130
+  },
+  "images/tokyo-night/machines/omarchy-machine-250-industrial-robot-controller-2K.webp": {
+    "sha256": "90726a8dbf123205d8b0d539e04442504225d6fca4bd80ac9797474fbf3eef5e",
+    "size": 659222
+  },
+  "images/tokyo-night/machines/omarchy-machine-249-wooden-mouse-prototype-2K.webp": {
+    "sha256": "cf4b96963469ed0d525a54ce31de9586519092471850d34a6b53d82aa48fe479",
+    "size": 519592
+  },
+  "previews/tokyo-night/machines/omarchy-machine-017-car-gps-navigator-preview.webp": {
+    "sha256": "aa55746135db2bada45a69588567b58b2f531e39da5cb2a83a503fa4f4cc7e7a",
+    "size": 33586
+  },
+  "previews/tokyo-night/machines/omarchy-machine-019-space-shooter-arcade-preview.webp": {
+    "sha256": "91f4311c4dff5e9735af411a960e43d47c0497fe0e03ee5c43dafa03da37a563",
+    "size": 40816
+  },
+  "previews/tokyo-night/machines/omarchy-machine-020-microfilm-recorder-preview.webp": {
+    "sha256": "e2cd56ba5ca4393dc1843d326ee02f7aa599041468218b6f1e7b1fb7ce9f49f6",
+    "size": 34692
+  },
+  "previews/tokyo-night/machines/omarchy-machine-018-racing-arcade-cockpit-preview.webp": {
+    "sha256": "acc7a10e98f9e674d0aac644b640425b57e36c71fd1545733b133bc9ee1fce67",
+    "size": 30828
+  },
+  "previews/tokyo-night/machines/omarchy-machine-021-vacuum-tube-computer-repair-preview.webp": {
+    "sha256": "f5b26637e879fe3ab7b5200e8cd137efd257663c3ead3107f704bccc2766a3a8",
+    "size": 40374
+  },
+  "previews/tokyo-night/machines/omarchy-machine-022-warehouse-grid-robots-preview.webp": {
+    "sha256": "a0b13f8e634c84e3e33e2e848b6c0d87fdcc42bd6a12a074b91f19c23873e13d",
+    "size": 44160
+  },
+  "previews/tokyo-night/machines/omarchy-machine-024-modular-repairable-laptop-preview.webp": {
+    "sha256": "b3eb635a40fad4173f28700116e182b2d0bfb048d5beafcc9ec8a0c0577b10d6",
+    "size": 43380
+  },
+  "previews/tokyo-night/machines/omarchy-machine-023-early-mp3-player-preview.webp": {
+    "sha256": "47e771fada70419edb10c8cb7f1196389d5b30c9838aca83dad17d868e27e555",
+    "size": 32758
+  },
+  "previews/tokyo-night/machines/omarchy-machine-025-cdrom-multimedia-family-pc-preview.webp": {
+    "sha256": "e6d5b2784c1c1e114b425ab74e19d40b0af1c0d5bf757b455dbac12e9ff61c58",
+    "size": 33992
+  },
+  "previews/tokyo-night/machines/omarchy-machine-026-tape-library-vault-preview.webp": {
+    "sha256": "9d397e8ddcf018cbcfb3b0ca78c907cda814616309e84b9f70bb78326793a802",
+    "size": 27022
+  },
+  "previews/tokyo-night/machines/omarchy-machine-029-lcd-gaming-pc-neon-preview.webp": {
+    "sha256": "1567f7ef14a1dbb427bd8c8dacfd3affa32d353ba109dd6cc5cc5bb73d004a8f",
+    "size": 32886
+  },
+  "previews/tokyo-night/machines/omarchy-machine-027-cassette-data-storage-preview.webp": {
+    "sha256": "cd8825d8a866625bd2f37154c05c71e3d47ed1acccf7b9537a7876b4f94d9bef",
+    "size": 40594
+  },
+  "previews/tokyo-night/machines/omarchy-machine-031-warehouse-scale-datacenter-preview.webp": {
+    "sha256": "e5c209479625d92113c547e8ee3c281b82ab99bea490b3fbf9669d35d98770fc",
+    "size": 36140
+  },
+  "previews/tokyo-night/machines/omarchy-machine-028-acoustic-coupler-modem-preview.webp": {
+    "sha256": "7e9eafbaf3eab09ceafd3c1a87459d7c24d066a6ad9ec6ebc86e5b7a3141fa13",
+    "size": 29572
+  },
+  "previews/tokyo-night/machines/omarchy-machine-030-demoscene-party-hall-preview.webp": {
+    "sha256": "15f3d75492bcfc5c7105b2284c0dc5c930c47327c522c6919d44498c539fe929",
+    "size": 32644
+  },
+  "previews/tokyo-night/machines/omarchy-machine-032-wooden-case-hand-built-computer-preview.webp": {
+    "sha256": "eee69a9599559c16af6c3bd9b10b9eb9755a539e549fadd2b03220e06cc7dc7e",
+    "size": 38026
+  },
+  "previews/tokyo-night/machines/omarchy-machine-033-early-web-browser-dorm-preview.webp": {
+    "sha256": "f85c3be991354d943ecbb66af5709bcd095dc912c0f36f0a36152edc50d24947",
+    "size": 31158
+  },
+  "previews/tokyo-night/machines/omarchy-machine-034-early-digital-camera-preview.webp": {
+    "sha256": "1e62e97985f6992c03a00bcb9937bd68db8e2c297d924c74e0d001d32f39907f",
+    "size": 33250
+  },
+  "previews/tokyo-night/machines/omarchy-machine-036-office-cubicle-1995-preview.webp": {
+    "sha256": "8eb2540eeef5a3389fc7e76d1f34a473afffc51fe580c3f0268f889717e20b59",
+    "size": 27846
+  },
+  "previews/tokyo-night/machines/omarchy-machine-035-magnetic-core-memory-plane-preview.webp": {
+    "sha256": "c853fb27814eb9bb2b28c8ff2070a8821ddb3b6cd7890cfe2579422b4e403019",
+    "size": 46612
+  },
+  "previews/tokyo-night/machines/omarchy-machine-038-all-in-one-with-cassette-1977-preview.webp": {
+    "sha256": "9ac319e364caa296f65ffd74d701e2c7edad66bcf75cccb61a728235af472ea3",
+    "size": 21416
+  },
+  "previews/tokyo-night/machines/omarchy-machine-037-luggable-computer-train-preview.webp": {
+    "sha256": "661825751588d7a4d1a2162e047395fb7d7ed17995ccc684ff480e9adaadde3a",
+    "size": 37718
+  },
+  "previews/tokyo-night/machines/omarchy-machine-039-hard-drive-array-home-nas-preview.webp": {
+    "sha256": "d85204f87045de6bbe24ed7f3e32e2403d26dd0082a2a35fe8cb8120d15df2f4",
+    "size": 30672
+  },
+  "previews/tokyo-night/machines/omarchy-machine-040-mars-rover-panorama-preview.webp": {
+    "sha256": "a5055afd07480b2ff9b777e41e2dae3b2e1b7ba81c19b1742672596728402c7f",
+    "size": 27358
+  },
+  "previews/tokyo-night/machines/omarchy-machine-041-desktop-3d-printer-maker-preview.webp": {
+    "sha256": "3b3bf19d76307c588831d4438314d85f8c92d30c4a667ca43ac47e1102321840",
+    "size": 42114
+  },
+  "previews/tokyo-night/machines/omarchy-machine-042-first-tablet-preview.webp": {
+    "sha256": "0e6c7c5341b59e2460422dd958fb7183ccb85f4921ab955ca7fb1b4214c68494",
+    "size": 45754
+  },
+  "previews/tokyo-night/machines/omarchy-machine-043-blade-server-chassis-preview.webp": {
+    "sha256": "f7e395b34a3e08283f4ca3a6f365fdacc5b3302a726fb2d424efa60958e9fc8c",
+    "size": 39050
+  },
+  "previews/tokyo-night/machines/omarchy-machine-044-black-cube-workstation-preview.webp": {
+    "sha256": "872d84746a44252a14ad0585e97e84b0b789eecffc01c0cd2fdfef57f3081c78",
+    "size": 34244
+  },
+  "previews/tokyo-night/machines/omarchy-machine-045-immersion-cooled-supercomputer-preview.webp": {
+    "sha256": "eb479b86faddebfcbd7a21810a039670fec55989acc318676c3811da0399efce",
+    "size": 34824
+  },
+  "previews/tokyo-night/machines/omarchy-machine-048-water-cooled-overclock-pc-preview.webp": {
+    "sha256": "a79d199a53d319b802c1a2aace2652c993f35b6f5cd7db0bcb0357caa4c23492",
+    "size": 36824
+  },
+  "previews/tokyo-night/machines/omarchy-machine-046-text-terminal-university-preview.webp": {
+    "sha256": "054983f82b11afc6a57f726d237f38d2493a1ecabed6765cf56da271d2110818",
+    "size": 38064
+  },
+  "previews/tokyo-night/machines/omarchy-machine-047-3d-accelerator-card-preview.webp": {
+    "sha256": "fd74cb6be3547053ff55f99de75eb6cf365ec852ef54cd7e33b8e04dd183d293",
+    "size": 35694
+  },
+  "previews/tokyo-night/machines/omarchy-machine-049-compact-all-in-one-1984-preview.webp": {
+    "sha256": "8f08b35799374712a0bbe2b263a3c6c6076ab1c0c53533668b6e6a8207239592",
+    "size": 43182
+  },
+  "previews/tokyo-night/machines/omarchy-machine-051-pda-stylus-coffee-shop-preview.webp": {
+    "sha256": "70de37df6e4fbe4cbf85ca23fdd46d38125f42fd5438f9d7b0c04e501e391c23",
+    "size": 41196
+  },
+  "previews/tokyo-night/machines/omarchy-machine-052-multimedia-computer-video-studio-preview.webp": {
+    "sha256": "a6b2966d30b7d81ca42c6532a4e879325c738bca48a38fc3ee429361c8b7df7f",
+    "size": 36562
+  },
+  "previews/tokyo-night/machines/omarchy-machine-053-supercomputer-freon-cabinets-preview.webp": {
+    "sha256": "a27a94e3ade8cb005e148b0bf986ae7979815a6f632453e71bc536c34c2a0807",
+    "size": 35736
+  },
+  "previews/tokyo-night/machines/omarchy-machine-055-hacker-convention-laptop-preview.webp": {
+    "sha256": "4f05c8989608574dbcad6f3a90466c92aad6ea06fac87b49686f5ebd3d70f819",
+    "size": 43610
+  },
+  "previews/tokyo-night/machines/omarchy-machine-054-hyperscale-datacenter-aisle-preview.webp": {
+    "sha256": "27a3642c1b4fee434d2762f33e2ddd1ee1ff729993d6231fb3e499f844cdae41",
+    "size": 44284
+  },
+  "previews/tokyo-night/machines/omarchy-machine-056-drum-plotter-map-preview.webp": {
+    "sha256": "8d9658ea22806777a7de51fcfa32e6024d0c3a8f7b8e8779bad1a178dc252501",
+    "size": 27662
+  },
+  "previews/tokyo-night/machines/omarchy-machine-058-midi-computer-music-studio-preview.webp": {
+    "sha256": "551d94823666dba1261636cec954ce9043ac2815e53912751b0aa463e89db1c5",
+    "size": 26312
+  },
+  "previews/tokyo-night/machines/omarchy-machine-057-retro-computer-restoration-workshop-preview.webp": {
+    "sha256": "ead72c7b837e1f5bfc53f74b9deda8bc672ba7e965d7b8b74daae5f4ea213437",
+    "size": 34252
+  },
+  "previews/tokyo-night/machines/omarchy-machine-059-hacker-modem-bedroom-preview.webp": {
+    "sha256": "84c805473bd1e1170d28b2b292e0858417f2397d82d3c43ef18c615e510e4004",
+    "size": 34958
+  },
+  "previews/tokyo-night/machines/omarchy-machine-060-tennis-game-oscilloscope-preview.webp": {
+    "sha256": "1b162ec533b3309ae8c8769e1342b426232e94f664d4d930e5c7bc4f4296b9d1",
+    "size": 27946
+  },
+  "previews/tokyo-night/machines/omarchy-machine-061-brick-mobile-phone-preview.webp": {
+    "sha256": "72943ddddd5dba6898dd08e9e5dbb2d409214ac2a6e472d73269457f544ee45b",
+    "size": 34560
+  },
+  "previews/tokyo-night/machines/omarchy-machine-062-electromechanical-desk-calculator-preview.webp": {
+    "sha256": "b87c89153a93ee4844bade6fa1dc0d5de2fd435284c182826a8a7b574ce57930",
+    "size": 35474
+  },
+  "previews/tokyo-night/machines/omarchy-machine-063-wifi-microcontroller-greenhouse-sensor-preview.webp": {
+    "sha256": "4720dda9da73f5fb402c51ce43eb9eba6532d989cc680bc1a920219136011da1",
+    "size": 48242
+  },
+  "previews/tokyo-night/machines/omarchy-machine-064-quadruped-robot-industrial-plant-preview.webp": {
+    "sha256": "5bb8d193ad6a865af35e911b129913aa08a39242b07db70f21b4398b2fb732f1",
+    "size": 31920
+  },
+  "previews/tokyo-night/machines/omarchy-machine-065-dedicated-word-processor-preview.webp": {
+    "sha256": "9dd3942f3d128d93820b24c75c059d64ba966d59f5608f27327d4791973890dd",
+    "size": 37898
+  },
+  "previews/tokyo-night/machines/omarchy-machine-066-cad-pen-plotter-architect-preview.webp": {
+    "sha256": "9f3d783ddf4a348256f70281850f5c50b2ad6c25bf674c0b00a985d9afc58d58",
+    "size": 35392
+  },
+  "previews/tokyo-night/machines/omarchy-machine-067-space-probe-computer-cleanroom-preview.webp": {
+    "sha256": "cd2a5b33a8ba82230f5ac2bbfce63c102f9757f4e2658cb1aa8aecc858bf0ef6",
+    "size": 37668
+  },
+  "previews/tokyo-night/machines/omarchy-machine-068-grey-front-loader-console-preview.webp": {
+    "sha256": "7d6d7b2c0c339d8548e1a95ef0af76ae9106a2fdc1d1a483c833e65204183696",
+    "size": 38074
+  },
+  "previews/tokyo-night/machines/omarchy-machine-069-dot-matrix-printer-1970s-preview.webp": {
+    "sha256": "5c05e4cf38bc1e0f8767ca574d723235a0e7c4cf2bfa05448be2d8186d41b79e",
+    "size": 35506
+  },
+  "previews/tokyo-night/machines/omarchy-machine-070-early-car-trip-computer-preview.webp": {
+    "sha256": "58a1e4c3fe2a839664c1ec7ce1408e878a3c86918cea006ecc4ce0390186ce38",
+    "size": 30852
+  },
+  "previews/tokyo-night/machines/omarchy-machine-073-vr-headset-living-room-preview.webp": {
+    "sha256": "e8846ec09aa6f3e8abfdb8166087b06cf20122e847e6fd72f9d3d9f128a8b4d8",
+    "size": 30414
+  },
+  "previews/tokyo-night/machines/omarchy-machine-071-cheque-sorting-machine-preview.webp": {
+    "sha256": "a92078499d394db03a6c4aebd4e52201b0d16aa8236f3c4336289a9718389891",
+    "size": 38778
+  },
+  "previews/tokyo-night/machines/omarchy-machine-075-linux-cd-install-preview.webp": {
+    "sha256": "4934b94d5703523de8690461ce317d76ab779da9650131fd7213c0195cf87c0d",
+    "size": 33212
+  },
+  "previews/tokyo-night/machines/omarchy-machine-074-educational-talking-toy-preview.webp": {
+    "sha256": "825c6fc26ea9118541ea4ba46b4a1be860696287777be333f42d99d25b24c18a",
+    "size": 41166
+  },
+  "previews/tokyo-night/machines/omarchy-machine-076-thick-coax-ethernet-tap-preview.webp": {
+    "sha256": "ed30709c0d786e39672801e8e161fc38a56fb24652d9dcfbac8d616841f947c9",
+    "size": 21884
+  },
+  "previews/tokyo-night/machines/omarchy-machine-072-stock-exchange-terminals-preview.webp": {
+    "sha256": "bef7dcb0f50a6b44fe6adf9f5bcdcc7061c73e081ea4733d02d08bf819ed09d9",
+    "size": 59930
+  },
+  "previews/tokyo-night/machines/omarchy-machine-077-led-pocket-calculator-preview.webp": {
+    "sha256": "a84bf1aa71555d995a7d39e34739ac22bf1ed2a0997992fe730085a0711d82cd",
+    "size": 35014
+  },
+  "previews/tokyo-night/machines/omarchy-machine-078-asic-mining-farm-preview.webp": {
+    "sha256": "4dbd966a0f00137a08afa8fb062f7b8709490a7f0dcd73ff15d5a808d2d10249",
+    "size": 40278
+  },
+  "previews/tokyo-night/machines/omarchy-machine-079-light-pen-vector-display-preview.webp": {
+    "sha256": "e5e4bd2bd2dd9aa65dbed7e7f35656cd2fbba3d2618f6ec5100cbc1358fc0345",
+    "size": 34794
+  },
+  "previews/tokyo-night/machines/omarchy-machine-080-black-laptop-red-pointer-preview.webp": {
+    "sha256": "6822f0198f19256df2e40d0b5395ea326b6afeb7029c31ed93b0c7ec99354dab",
+    "size": 40346
+  },
+  "previews/tokyo-night/machines/omarchy-machine-081-dual-screen-lcd-handheld-preview.webp": {
+    "sha256": "d0bfa6042184411ae85d92b7940507b70aa84fb58ac701c518628a4a8aaf546f",
+    "size": 30070
+  },
+  "previews/tokyo-night/machines/omarchy-machine-084-research-workstation-portrait-display-preview.webp": {
+    "sha256": "42cdec886de5b8abaf24f31e48d14aed27138a635b935672fdbb888239ff3455",
+    "size": 32898
+  },
+  "previews/tokyo-night/machines/omarchy-machine-082-japanese-standard-home-computer-preview.webp": {
+    "sha256": "393b30b722241e7a91b5d0ff49886cb9b9edb0e64d65e41e25ba6f0ef318a76a",
+    "size": 41664
+  },
+  "previews/tokyo-night/machines/omarchy-machine-083-vr-arcade-pod-preview.webp": {
+    "sha256": "26c4a6f8d88393deeb29ecba47391361c840d3eec8a6c54a161631015f21cc50",
+    "size": 31742
+  },
+  "previews/tokyo-night/machines/omarchy-machine-085-exascale-supercomputer-rows-preview.webp": {
+    "sha256": "70d8bbc0a977313385f13a0c438c8b7f7fb09272ee53d5643097a14d17f97b94",
+    "size": 36462
+  },
+  "previews/tokyo-night/machines/omarchy-machine-087-tape-archive-cold-storage-preview.webp": {
+    "sha256": "5fe92eef47f8313f90d4e8b83a84150e96d92ceedd4ac8827d21e6843672bed0",
+    "size": 30252
+  },
+  "previews/tokyo-night/machines/omarchy-machine-086-parallel-supercomputer-led-cube-preview.webp": {
+    "sha256": "d6097f52d16fbc71c4b595d7dbc252217eabd32c9aa16e2c7bedf5020ca44a21",
+    "size": 42996
+  },
+  "previews/tokyo-night/machines/omarchy-machine-088-retro-handheld-emulator-preview.webp": {
+    "sha256": "9d34ee5c030ede2931558df43f31de2eb28c1c5f6e6ede6eca85dd4270b218fe",
+    "size": 30934
+  },
+  "previews/tokyo-night/machines/omarchy-machine-089-widescreen-handheld-umd-preview.webp": {
+    "sha256": "c7200832c14aa9789c60aae48cbb858083bc23fcf8de59d7a1fe73ea32ce7781",
+    "size": 33116
+  },
+  "previews/tokyo-night/machines/omarchy-machine-092-ar-glasses-workbench-preview.webp": {
+    "sha256": "fe7a334f1c8b7f617028834372e212e9620b1d562412e39d6de17e9132c3262c",
+    "size": 33632
+  },
+  "previews/tokyo-night/machines/omarchy-machine-091-robot-vacuum-preview.webp": {
+    "sha256": "0bec26ddd8e4b871c8fb48511c40f1ff90006b682dd772a55c6bc9048a5f456b",
+    "size": 27902
+  },
+  "previews/tokyo-night/machines/omarchy-machine-090-iss-laptops-cupola-preview.webp": {
+    "sha256": "418ec840c217a9d3ac5a4f4f7ee96e56feb921628efce62623be8ef333821a32",
+    "size": 44642
+  },
+  "previews/tokyo-night/machines/omarchy-machine-093-e-ink-distraction-free-typewriter-preview.webp": {
+    "sha256": "797f0974797bfd5390f1fd5ba5f0ccee6140e50fc3f233fc1a3ab95fdecde5a9",
+    "size": 35012
+  },
+  "previews/tokyo-night/machines/omarchy-machine-095-webcam-video-call-2008-preview.webp": {
+    "sha256": "10b338ad61356b292696e65b37e3fd08fa07ed563d157bc77c7d68851e652522",
+    "size": 32308
+  },
+  "previews/tokyo-night/machines/omarchy-machine-094-wind-tunnel-data-computer-preview.webp": {
+    "sha256": "288a06bde64bdfb5e309814e1cc02ad7b0ca39cc031831337e7d8ee174108ad0",
+    "size": 39668
+  },
+  "previews/tokyo-night/machines/omarchy-machine-096-white-plastic-laptop-dorm-preview.webp": {
+    "sha256": "d6bb4791971f425cb38c2ead8dcd705e8395812c4ea494665a1aca22358b0eda",
+    "size": 30920
+  },
+  "previews/tokyo-night/machines/omarchy-machine-097-server-motherboard-macro-preview.webp": {
+    "sha256": "0546f4694cb43306b0d7585421f5ad3592717faf1ca064f13c893ba4ab7f7b44",
+    "size": 50960
+  },
+  "previews/tokyo-night/machines/omarchy-machine-099-analog-computer-patch-panel-preview.webp": {
+    "sha256": "3536b0f5b45239460eea1a414ffa218f17b3e2a7c7b7e6e64414e9f305b8b617",
+    "size": 33188
+  },
+  "previews/tokyo-night/machines/omarchy-machine-098-arcade-fighting-cabinets-preview.webp": {
+    "sha256": "4b517ed81d262132bc45631ab890d939c75a754f7040c01c3545c44c2df7df13",
+    "size": 37488
+  },
+  "previews/tokyo-night/machines/omarchy-machine-101-cyberdeck-ammo-case-preview.webp": {
+    "sha256": "142750816969598ebb96271d08a8a68824ca6429f80940080015550d3b6c098b",
+    "size": 36246
+  },
+  "previews/tokyo-night/machines/omarchy-machine-103-linux-desktop-3d-cube-preview.webp": {
+    "sha256": "77235d218e45ce329a294664085c12b0616e9e4aa874cfe226a03192425e9f7e",
+    "size": 31578
+  },
+  "previews/tokyo-night/machines/omarchy-machine-102-first-microprocessor-wafer-preview.webp": {
+    "sha256": "2d6aa3644b7a1b139540b79a1f5512c51c197039f8b5627147688b5eb99f278f",
+    "size": 43850
+  },
+  "previews/tokyo-night/machines/omarchy-machine-104-shuttle-cockpit-displays-preview.webp": {
+    "sha256": "62c8e3b6754cea4475945c2ccd6341454571d6be1c0a64a89f2c3f3399ba5f06",
+    "size": 42878
+  },
+  "previews/tokyo-night/machines/omarchy-machine-105-fax-machine-office-preview.webp": {
+    "sha256": "416eec6355a2abe1eff07f1943fa714cb89c7e79f3e1910b4306334fc88fa3c0",
+    "size": 36478
+  },
+  "previews/tokyo-night/machines/omarchy-machine-107-videotex-terminal-paris-preview.webp": {
+    "sha256": "ea0e7d59a3442be890938a3bfff0085d49d042563ddd83f59b1c16108e535737",
+    "size": 41520
+  },
+  "previews/tokyo-night/machines/omarchy-machine-108-desktop-publishing-laser-printer-preview.webp": {
+    "sha256": "209ebd3811755cd78dd5db3e5329b14de80ed384c91e1920de582f20113e13b5",
+    "size": 36238
+  },
+  "previews/tokyo-night/machines/omarchy-machine-106-mission-control-consoles-preview.webp": {
+    "sha256": "19f71fa245a42fad99e9002a1db0fea5c7a02999978c675d4d8b21045b97c7ed",
+    "size": 38508
+  },
+  "previews/tokyo-night/machines/omarchy-machine-109-beowulf-cluster-basement-preview.webp": {
+    "sha256": "0cf833d9b084680b512beb6cec281059fcae62a56a4d7268f91dbf3fe01f7f15",
+    "size": 31358
+  },
+  "previews/tokyo-night/machines/omarchy-machine-110-scientific-programmable-calculator-preview.webp": {
+    "sha256": "3a5f44aca5323739273a7605530ba12f6fc23a4d8399a307a5ecea8f1332592c",
+    "size": 36060
+  },
+  "previews/tokyo-night/machines/omarchy-machine-111-e-ink-reader-preview.webp": {
+    "sha256": "b55a2370ff1bb3e704b725424f9c402a347b3e352488f5984fe0f57393e2a58f",
+    "size": 41872
+  },
+  "previews/tokyo-night/machines/omarchy-machine-112-candybar-phone-snake-preview.webp": {
+    "sha256": "0c347ddec598a36c9e577f2a298af2a13707d9626f4c9ff8e668ac84b2ccb73f",
+    "size": 35994
+  },
+  "previews/tokyo-night/machines/omarchy-machine-114-home-computer-bedroom-preview.webp": {
+    "sha256": "7ef990f856704773787cc631baad2a8969694d4746170f55c09423bd33371508",
+    "size": 30628
+  },
+  "previews/tokyo-night/machines/omarchy-machine-113-ide-hard-drive-cutaway-preview.webp": {
+    "sha256": "98e15fde0b3f28ace06693bd4180430f08cb57f339ef835510809963dd041ca8",
+    "size": 44924
+  },
+  "previews/tokyo-night/machines/omarchy-machine-115-flip-phone-camera-preview.webp": {
+    "sha256": "99ba54e153f5beca17d1d436d0a31c06bd170b6ac1af210003ee752d7153e878",
+    "size": 43682
+  },
+  "previews/tokyo-night/machines/omarchy-machine-116-bulletin-board-system-1978-preview.webp": {
+    "sha256": "73cbbf6ab9608e0cad1237096ce1df97418649bb767148ebc63109296d2c6d29",
+    "size": 34176
+  },
+  "previews/tokyo-night/machines/omarchy-machine-117-tape-drive-backup-office-preview.webp": {
+    "sha256": "ee476b8defeed01768902fbf672aba4034341ec91b33c560f029b9ed9b7657b3",
+    "size": 24144
+  },
+  "previews/tokyo-night/machines/omarchy-machine-119-home-lab-server-rack-preview.webp": {
+    "sha256": "517e0a7a46d6c6bdff1a568bfe6098d0be9954f38ffa68653db68d0e2c4e83a3",
+    "size": 18900
+  },
+  "previews/tokyo-night/machines/omarchy-machine-118-air-traffic-control-radar-scope-preview.webp": {
+    "sha256": "fd304b672d8e6e372efbe4fda5cddea4268a056b7a0790aca48fe704d8fdbecf",
+    "size": 35814
+  },
+  "previews/tokyo-night/machines/omarchy-machine-120-japanese-family-console-preview.webp": {
+    "sha256": "41260b08965fe777c7d3771d088b3a47d3ab126b2d20059a4293be9fb86a645b",
+    "size": 36058
+  },
+  "previews/tokyo-night/machines/omarchy-machine-122-open-source-conference-hall-preview.webp": {
+    "sha256": "a0b46696a174d59c0cf62e565b495783ec68ccb8f1fa6a331891fa78874c66c4",
+    "size": 40204
+  },
+  "previews/tokyo-night/machines/omarchy-machine-121-console-with-built-in-modem-preview.webp": {
+    "sha256": "a66d394994d4475768ad64456c7f53721a7e018f0246a6cab05604763ccf3c5e",
+    "size": 36432
+  },
+  "previews/tokyo-night/machines/omarchy-machine-123-lan-party-basement-preview.webp": {
+    "sha256": "1b3c8abbba948333688a872d760bbeb1bbe3c047b034c3884e63002c56d8ce6a",
+    "size": 33824
+  },
+  "previews/tokyo-night/machines/omarchy-machine-124-mainframe-late-80s-preview.webp": {
+    "sha256": "f822afe83cb5020c60e298c8c8d8461e8e4a5978db964858b4f089cbaead8a92",
+    "size": 29064
+  },
+  "previews/tokyo-night/machines/omarchy-machine-125-network-node-cabinet-preview.webp": {
+    "sha256": "c85bd99b063267586cf7e4762f75bb95978761af3678e9e5ac984a726190acaa",
+    "size": 38328
+  },
+  "previews/tokyo-night/machines/omarchy-machine-127-translucent-all-in-one-preview.webp": {
+    "sha256": "4a878f5d2cbfbf8f5e41544b1c40020bf02a4357d93534c30ca2921e6e2fda9f",
+    "size": 31114
+  },
+  "previews/tokyo-night/machines/omarchy-machine-126-three-prong-controller-console-preview.webp": {
+    "sha256": "92b0dd52258086af5d00f3270fd8775f0ec6081a0c8d40b5f5c40f97dd19f12c",
+    "size": 34754
+  },
+  "previews/tokyo-night/machines/omarchy-machine-128-netbook-coffee-shop-preview.webp": {
+    "sha256": "c01be872193f0a75a0ef34e85fc303eb9f1bd8c25893c3fb6c9a92ba35b6a4ab",
+    "size": 42112
+  },
+  "previews/tokyo-night/machines/omarchy-machine-129-teleprinter-paper-tape-preview.webp": {
+    "sha256": "fb66475132679c1abf752bff5748bc481c932eb44df19ef2d1101c67b2e1c2fc",
+    "size": 29112
+  },
+  "previews/tokyo-night/machines/omarchy-machine-130-handheld-led-football-game-preview.webp": {
+    "sha256": "4331e71483a5e05cf475b4e725909e8998432b1c287693164d8b159b8793ca3a",
+    "size": 42114
+  },
+  "previews/tokyo-night/machines/omarchy-machine-132-credit-card-sized-computer-preview.webp": {
+    "sha256": "20299c8a005dd3f323d5b037f43be43b0f18913e163c09a30652affb8e8b46ed",
+    "size": 38018
+  },
+  "previews/tokyo-night/machines/omarchy-machine-131-mini-pc-homelab-rack-preview.webp": {
+    "sha256": "e633604e87e599d4c925ed6003d3c913fb395234ca5cc9737b206117ddc44b68",
+    "size": 45078
+  },
+  "previews/tokyo-night/machines/omarchy-machine-133-handheld-gaming-pc-preview.webp": {
+    "sha256": "4d94dc6297f578604e587574c82092f7a7ad7b77e1672f4284e11b47a0e81ef6",
+    "size": 39540
+  },
+  "previews/tokyo-night/machines/omarchy-machine-135-linux-birth-student-room-preview.webp": {
+    "sha256": "0d28b9dd201c3092075a952849eeb0273b3e6c0753a8fe7d5ad0b4dd64fe7ba4",
+    "size": 34612
+  },
+  "previews/tokyo-night/machines/omarchy-machine-134-zip-disk-drive-preview.webp": {
+    "sha256": "cae4521eda3c679c8ada653222d6d68c241eddb7c080f45b27c715f3debd1921",
+    "size": 33516
+  },
+  "previews/tokyo-night/machines/omarchy-machine-136-transistor-minicomputer-space-game-preview.webp": {
+    "sha256": "67a8f20a849464761a70ca8e1ca6dd61ef85cdfbce2af1e662df9ef392c8c98a",
+    "size": 44436
+  },
+  "previews/tokyo-night/machines/omarchy-machine-137-trackball-laptop-preview.webp": {
+    "sha256": "6587bd3ae14be6f1f65c0fb4ede437fd854118c6a321ecf12948e2838df330f9",
+    "size": 30070
+  },
+  "previews/tokyo-night/machines/omarchy-machine-138-dual-screen-handheld-stylus-preview.webp": {
+    "sha256": "cac828586d05c233057ccdecfb32cf8b535b5abb17fcc49bbe0e5e97d2158396",
+    "size": 26536
+  },
+  "previews/tokyo-night/machines/omarchy-machine-139-laptop-docking-station-preview.webp": {
+    "sha256": "2b5ffe18beff1a01192eab319d2586756fd61987f193429e5982825f79cc6e21",
+    "size": 37956
+  },
+  "previews/tokyo-night/machines/omarchy-machine-140-eight-inch-floppy-drive-preview.webp": {
+    "sha256": "22d2487fe1436401083f7234ca13e7d5d7b44828c4e3be92cf44465c83735061",
+    "size": 36956
+  },
+  "previews/tokyo-night/machines/omarchy-machine-142-chain-line-printer-preview.webp": {
+    "sha256": "4a40d17329e1749815a8da15c24593530650d43e496f75d143df76cf92eaff9e",
+    "size": 38888
+  },
+  "previews/tokyo-night/machines/omarchy-machine-141-computer-bulletin-board-server-preview.webp": {
+    "sha256": "584a34b66979ff8c0936eb3c98950a68ba61610fadc6b96990205fa273850d06",
+    "size": 33504
+  },
+  "previews/tokyo-night/machines/omarchy-machine-143-led-digital-watch-preview.webp": {
+    "sha256": "c365f4d3d18ab2e7f40e7573c02694834014a7c63f6646341729ecf8db7dc174",
+    "size": 47214
+  },
+  "previews/tokyo-night/machines/omarchy-machine-144-flat-pocket-television-preview.webp": {
+    "sha256": "bf9aaaf72bc8172e3094386f00738323f2a0953050e88c5781f45becdaf7cf31",
+    "size": 36102
+  },
+  "previews/tokyo-night/machines/omarchy-machine-145-hybrid-handheld-console-preview.webp": {
+    "sha256": "01743504ad6c82c4251cb54851babd53b588dcafde7c8ad0de0b08d713dbd0c5",
+    "size": 37214
+  },
+  "previews/tokyo-night/machines/omarchy-machine-146-fpga-retro-console-preview.webp": {
+    "sha256": "eafcd33dd63e964ed92f0e6da61b19ceabd17a0ff247a242a6cb9450cfff8db0",
+    "size": 32134
+  },
+  "previews/tokyo-night/machines/omarchy-machine-147-satellite-ground-station-console-preview.webp": {
+    "sha256": "88a6832060f790d98cd1b7007f0c2231925e8c11565ad39a8c165c265bcd2d3c",
+    "size": 28410
+  },
+  "previews/tokyo-night/machines/omarchy-machine-148-fast-food-pos-terminal-preview.webp": {
+    "sha256": "ee88db5fa41650659a95aced2b2a4d8e9a7394db414328b9fc52c505f547a11c",
+    "size": 32054
+  },
+  "previews/tokyo-night/machines/omarchy-machine-149-lockdown-kitchen-home-office-preview.webp": {
+    "sha256": "6e27ab145741a477d44a61911183b1881a8ff67fae49c2d6d99a38ff80c8736a",
+    "size": 29410
+  },
+  "previews/tokyo-night/machines/omarchy-machine-150-keypunch-office-pool-preview.webp": {
+    "sha256": "f541c56df4b2b902aea5b9ef750d3dc485a35f9691e02874bca2942a50f9472e",
+    "size": 39328
+  },
+  "previews/tokyo-night/machines/omarchy-machine-152-satellite-dish-mountain-cabin-preview.webp": {
+    "sha256": "767c78e7a3891c768e1e0c1f81497ab2ef3f10299efccab3409321774d177288",
+    "size": 34330
+  },
+  "previews/tokyo-night/machines/omarchy-machine-153-airline-reservation-terminal-preview.webp": {
+    "sha256": "478126b51d69a93a4a25cdba3e1cdc0ddf0e4cac8a273cceca583bb6e9b9733a",
+    "size": 38246
+  },
+  "previews/tokyo-night/machines/omarchy-machine-154-woven-rope-memory-assembly-preview.webp": {
+    "sha256": "89f34c6d6d84b0ade530f09d99f0f81c516915f0b82a610e18febd33d33a4dd1",
+    "size": 44114
+  },
+  "previews/tokyo-night/machines/omarchy-machine-155-first-web-server-physics-lab-preview.webp": {
+    "sha256": "d35173bd51e12a08b9419290c05bdd315b4771dc09c75c80132a1c04b32baf48",
+    "size": 34296
+  },
+  "previews/tokyo-night/machines/omarchy-machine-156-modern-mainframe-glass-doors-preview.webp": {
+    "sha256": "b910c5c2c3f1a802fe3a922b7f9eb45333d026143c151c3f5fa72c96309ac259",
+    "size": 39504
+  },
+  "previews/tokyo-night/machines/omarchy-machine-157-split-ergonomic-keyboard-preview.webp": {
+    "sha256": "3ee9233d94e25c928a8afec29292536dc5b8878a98ad39dcdcfdb7f63969236f",
+    "size": 30618
+  },
+  "previews/tokyo-night/machines/omarchy-machine-158-mechanical-keyboard-buckling-spring-preview.webp": {
+    "sha256": "15565febb1b11bb49613c284719c3ea8efd9812997af3cf5c132658ad2e1e5e6",
+    "size": 34180
+  },
+  "previews/tokyo-night/machines/omarchy-machine-159-drum-memory-unit-preview.webp": {
+    "sha256": "891b40d5fbb6ef0465e4a49d395626452434104358b0983a23e3038befe95c6f",
+    "size": 33930
+  },
+  "previews/tokyo-night/machines/omarchy-machine-160-smartwatch-on-wrist-preview.webp": {
+    "sha256": "382a6944bf8752c325200f93db8d68db44716b0409565fa4f79f61995d4bab6b",
+    "size": 35966
+  },
+  "previews/tokyo-night/machines/omarchy-machine-161-school-computer-classroom-preview.webp": {
+    "sha256": "eb9ba9a596350ba07bbf9f1bd448467e7f2a4aae19d3ede67205e59e0612e1fc",
+    "size": 34338
+  },
+  "previews/tokyo-night/machines/omarchy-machine-162-hyperlinked-cards-classroom-preview.webp": {
+    "sha256": "256bab4a5e30b3c8a907733db97409dbb1dcfb38f7c7277c47b35a6e01fc4d7e",
+    "size": 41934
+  },
+  "previews/tokyo-night/machines/omarchy-machine-164-dual-processor-multimedia-computer-preview.webp": {
+    "sha256": "2c3df7fc32681ddcf2bcb0f1112565e32f2c4ae2403fc192bfc475946e27cb6e",
+    "size": 28542
+  },
+  "previews/tokyo-night/machines/omarchy-machine-163-quadcopter-flight-controller-preview.webp": {
+    "sha256": "fb7ff236823a6aa224924e16af309727571c821ccbe4006a3c7a619ca5ffecc2",
+    "size": 35634
+  },
+  "previews/tokyo-night/machines/omarchy-machine-165-floppy-525-notch-macro-preview.webp": {
+    "sha256": "71c06718c27a081fc5b7595fba368a277f7c87d86117209e4bcc866db39dd7b0",
+    "size": 35136
+  },
+  "previews/tokyo-night/machines/omarchy-machine-166-green-childrens-laptop-preview.webp": {
+    "sha256": "b2032589436761b4e9c69c0afb2f0f74fc97e59d9c2c7ecc5c486fb3e799180c",
+    "size": 37456
+  },
+  "previews/tokyo-night/machines/omarchy-machine-167-home-computer-electronics-store-preview.webp": {
+    "sha256": "74184181580f208ba1dbb53ffab58923e7c86fb1050fea1b11fbd0a824302870",
+    "size": 37040
+  },
+  "previews/tokyo-night/machines/omarchy-machine-169-cubesat-cleanroom-preview.webp": {
+    "sha256": "daf98afcb514dc170c9cfe62b6d7a323a43948583955f7777950a407be27d933",
+    "size": 40402
+  },
+  "previews/tokyo-night/machines/omarchy-machine-168-weather-forecast-computer-preview.webp": {
+    "sha256": "42c21c304d23bea8199b36a28faf5cad6fed4b784f98e933e0692e20dd873991",
+    "size": 37284
+  },
+  "previews/tokyo-night/machines/omarchy-machine-170-smartphone-teardown-bench-preview.webp": {
+    "sha256": "d828782625ec554be18c1641c48e1aa1ee14ca08fe40bcb004c39127d3682a52",
+    "size": 23034
+  },
+  "previews/tokyo-night/machines/omarchy-machine-171-external-dialup-modem-preview.webp": {
+    "sha256": "6a49c039358f7b700a12e9cb7c53652a56eaec3691c6b9cf2e5cbc23ed9e2469",
+    "size": 30682
+  },
+  "previews/tokyo-night/machines/omarchy-machine-173-graphics-workstation-vfx-studio-preview.webp": {
+    "sha256": "b5860184a7193cee847906e7eb9723954ee05994dd13c0d093b867a6acf47e48",
+    "size": 41596
+  },
+  "previews/tokyo-night/machines/omarchy-machine-172-chess-computer-board-preview.webp": {
+    "sha256": "63878baa2d030e354361c52e9b2fd5a99a0f59c08cb710fefa1a96d4706c32ea",
+    "size": 36552
+  },
+  "previews/tokyo-night/machines/omarchy-machine-174-wedge-home-computer-kitchen-preview.webp": {
+    "sha256": "28a0c7f7cb4f29a8044f694db47a7343f3ec69b33efdbaf654cbb8e05e6d5d78",
+    "size": 26224
+  },
+  "previews/tokyo-night/machines/omarchy-machine-176-mainframe-computer-room-preview.webp": {
+    "sha256": "7010a77f0b7989f9f8d0792c3422d86583162744e82133527a11d8fa892206c0",
+    "size": 25144
+  },
+  "previews/tokyo-night/machines/omarchy-machine-175-tiling-window-manager-desk-preview.webp": {
+    "sha256": "e96a99ff191f51b5493156dc191b450512897657eeb3d036ecc75cf0490617a3",
+    "size": 30866
+  },
+  "previews/tokyo-night/machines/omarchy-machine-177-mars-pathfinder-rover-preview.webp": {
+    "sha256": "92eb1cd9d51f2b17132093bb7edf7cb4c535df75c9c828f87c148d616aba8d37",
+    "size": 43144
+  },
+  "previews/tokyo-night/machines/omarchy-machine-178-pager-and-payphone-preview.webp": {
+    "sha256": "280581c8199d82d6d4a7b4e90b5cb0c47ba5f8262080045d827a2d8948387bb2",
+    "size": 53274
+  },
+  "previews/tokyo-night/machines/omarchy-machine-179-laser-printer-prototype-preview.webp": {
+    "sha256": "0e658a512625b609feaf86e62ece85540a4e8c462def0830488b43f083459138",
+    "size": 39294
+  },
+  "previews/tokyo-night/machines/omarchy-machine-180-wafer-scale-ai-chip-preview.webp": {
+    "sha256": "c7fe8a32172e8b34f879d24baa48d22cb24434a39bd8f9c2c11f1cac7d44a250",
+    "size": 42630
+  },
+  "previews/tokyo-night/machines/omarchy-machine-181-business-pc-green-monitor-preview.webp": {
+    "sha256": "c0b97ad869d2a9747dbc35b2aeb0e821f770e6b1d4f41147f182ef424ba2b3ad",
+    "size": 34538
+  },
+  "previews/tokyo-night/machines/omarchy-machine-182-blinkenlights-16bit-mini-preview.webp": {
+    "sha256": "98cb2ce1b35a6efbe077ba5ce85d0450cffc8071e233336d5637321681e42d3d",
+    "size": 33134
+  },
+  "previews/tokyo-night/machines/omarchy-machine-183-s100-backplane-preview.webp": {
+    "sha256": "9df45be5372d5eb18441ababea7e643c5a03621243305d1008e9ba038d4d2d03",
+    "size": 35170
+  },
+  "previews/tokyo-night/machines/omarchy-machine-185-flatbed-scanner-photos-preview.webp": {
+    "sha256": "808671bc1e4683061183851c04e8a2e4063a0b70992333a56baa4ce2c40a127c",
+    "size": 34496
+  },
+  "previews/tokyo-night/machines/omarchy-machine-184-home-media-center-pc-preview.webp": {
+    "sha256": "e8066ff1eeae0fd4acf8c9f84de6233192f7f24b41bb4efb32d8f22b0e61f647",
+    "size": 35202
+  },
+  "previews/tokyo-night/machines/omarchy-machine-186-sound-card-pc-bedroom-preview.webp": {
+    "sha256": "a32aba94b227ba25d3c779a3cd8d031344b09d473829747d00ce9d5326c2001a",
+    "size": 32122
+  },
+  "previews/tokyo-night/machines/omarchy-machine-187-chip-fab-cleanroom-preview.webp": {
+    "sha256": "b36ddc9a8f20341d436737f1686e73d2cdd683a896c36f64df7307c66c6665c6",
+    "size": 35896
+  },
+  "previews/tokyo-night/machines/omarchy-machine-189-quantum-computer-chandelier-preview.webp": {
+    "sha256": "170c76d05acc6a0b5112764c8139ad2ab4136a0d4092b2372d91b221721b6e80",
+    "size": 30938
+  },
+  "previews/tokyo-night/machines/omarchy-machine-188-handheld-link-cable-trade-preview.webp": {
+    "sha256": "e55dcf8e068a61c8ac145d9346f3fd9bbda32cd7d55516e82019b58d1b761c71",
+    "size": 45462
+  },
+  "previews/tokyo-night/machines/omarchy-machine-190-network-hub-coax-to-twisted-pair-preview.webp": {
+    "sha256": "0640bb06211107d0b575aeb1d30741792d5cad0e46c76df7f19f2e9ce490b334",
+    "size": 38744
+  },
+  "previews/tokyo-night/machines/omarchy-machine-191-office-email-early-preview.webp": {
+    "sha256": "883460b620e3279639264f1c51c474cf1685677f13a85d6f97ea32dcb2f05dcc",
+    "size": 35102
+  },
+  "previews/tokyo-night/machines/omarchy-machine-193-automated-tape-library-robot-preview.webp": {
+    "sha256": "799fc039339fa0fd2c92375c582acad47a81ee388a6279362b140150cd4bf34f",
+    "size": 26206
+  },
+  "previews/tokyo-night/machines/omarchy-machine-192-homebrew-club-meeting-preview.webp": {
+    "sha256": "11fd93a2e68d69d8fbc3fc66a73039ab5b639f9eba27947d06f70edc99c70e39",
+    "size": 41124
+  },
+  "previews/tokyo-night/machines/omarchy-machine-194-maker-microcontroller-board-preview.webp": {
+    "sha256": "12e10020ec2cde7ec6640f577010f29fefef242084207d46d181d31af204429b",
+    "size": 46640
+  },
+  "previews/tokyo-night/machines/omarchy-machine-195-cassette-based-computer-club-preview.webp": {
+    "sha256": "af45aa426bfec8d894ddf33121f085c97ef329d1d1bb44885c6e1b195506eb48",
+    "size": 44234
+  },
+  "previews/tokyo-night/machines/omarchy-machine-196-aluminum-ultrabook-train-preview.webp": {
+    "sha256": "48478237f9cc8e2ef0f263c8274b2d72d9e825fd0fd49e530c4e6e53c49541ad",
+    "size": 28874
+  },
+  "previews/tokyo-night/machines/omarchy-machine-197-beige-color-home-computer-preview.webp": {
+    "sha256": "8cc5ba40cbdeeed5f91d376c09058310536fc67c9966582c59fbdde5aee219a6",
+    "size": 33208
+  },
+  "previews/tokyo-night/machines/omarchy-machine-198-gpu-mining-rig-garage-preview.webp": {
+    "sha256": "1c15430e90bb856cce05733b37ec2beaec98fff1d0f6809d67ccad2134b3c69c",
+    "size": 24400
+  },
+  "previews/tokyo-night/machines/omarchy-machine-199-pong-cabinet-bar-preview.webp": {
+    "sha256": "2cfee982644287c48855a593680a8232b2e508b7e04343b53efcc9f117ee4ca2",
+    "size": 35774
+  },
+  "previews/tokyo-night/machines/omarchy-machine-200-typewriter-style-word-processor-preview.webp": {
+    "sha256": "8b7270a7620f43ddd5255b2440215d90628ec47c0a446be733026ef709469bb3",
+    "size": 39876
+  },
+  "previews/tokyo-night/machines/omarchy-machine-202-time-sharing-terminal-room-preview.webp": {
+    "sha256": "4de72de19729c38aacf1bb8a14a026870a367861d338cd07c542013e7325eb14",
+    "size": 41590
+  },
+  "previews/tokyo-night/machines/omarchy-machine-203-computer-front-panel-switches-preview.webp": {
+    "sha256": "457de0767feb1ac9b190acab3a56d55c7ece7362def8ce2af472d2fa7fe62c41",
+    "size": 38650
+  },
+  "previews/tokyo-night/machines/omarchy-machine-206-cad-workstation-car-design-preview.webp": {
+    "sha256": "2d1c96c10b53f133970809551877812fb619fa6f138931d694c5872e9bcae090",
+    "size": 30564
+  },
+  "previews/tokyo-night/machines/omarchy-machine-204-black-tower-console-2000-preview.webp": {
+    "sha256": "3c5bd14b80a76106d02a699dcbc92e3cfbb408b599918c6f527e294e3458549a",
+    "size": 28906
+  },
+  "previews/tokyo-night/machines/omarchy-machine-205-computer-history-museum-hall-preview.webp": {
+    "sha256": "940fa390b38461dfbb3d215310ce04baac8cf2c03d1f47cd0a5cc0d2d6aa350e",
+    "size": 41112
+  },
+  "previews/tokyo-night/machines/omarchy-machine-207-atm-machine-80s-preview.webp": {
+    "sha256": "e68ca4d80154dd26ccaa2da681676a28e0915e858607cd7f2ba293e2d2103817",
+    "size": 38238
+  },
+  "previews/tokyo-night/machines/omarchy-machine-208-disk-pack-drive-preview.webp": {
+    "sha256": "0723f8993a8cdb61c738e6fe7d60340a2aae40037a7a74053bd579b3821e190e",
+    "size": 40030
+  },
+  "previews/tokyo-night/machines/omarchy-machine-209-mars-helicopter-preview.webp": {
+    "sha256": "8e8c7228a005a9841c8d600c8c91732ed84ffc894a860e269f4b04fa908a44e1",
+    "size": 24060
+  },
+  "previews/tokyo-night/machines/omarchy-machine-210-ball-mouse-disassembled-preview.webp": {
+    "sha256": "721848484088c420e5d5734c8e55557cb3dc082c4dada5752974d12c20266724",
+    "size": 38156
+  },
+  "previews/tokyo-night/machines/omarchy-machine-211-kit-computer-toggle-switches-preview.webp": {
+    "sha256": "620cacbc14e1cfdf40b9c6d6d72750ec6c60e8fafd8ca1715a2b25aa102f2f84",
+    "size": 38422
+  },
+  "previews/tokyo-night/machines/omarchy-machine-212-grey-cd-console-preview.webp": {
+    "sha256": "d3a9f6a7674a5580133911847780b3f571789fa3efa58d4071ae2c2c7fdb2e42",
+    "size": 32996
+  },
+  "previews/tokyo-night/machines/omarchy-machine-214-pizza-box-unix-workstation-preview.webp": {
+    "sha256": "2aac076b4a3491e3ad417753b6d182d67f73f42e17dc70a2f93400a478bea910",
+    "size": 29992
+  },
+  "previews/tokyo-night/machines/omarchy-machine-213-mechanical-keyboard-custom-preview.webp": {
+    "sha256": "a4947117d4aad35d4aed7935558a8e018dc46fa83803c16fb78e38214dac82d6",
+    "size": 31230
+  },
+  "previews/tokyo-night/machines/omarchy-machine-215-unix-workstation-lab-preview.webp": {
+    "sha256": "adf3d35e223410e3c4de23a7abf0897d24314318f501aa6e1f46513787bc28ad",
+    "size": 32842
+  },
+  "previews/tokyo-night/machines/omarchy-machine-216-y2k-server-room-preview.webp": {
+    "sha256": "712253f3839b2aa29b6e50a6a333c7c7a1b48389a6ec5028e01a381f4f8d71f7",
+    "size": 45906
+  },
+  "previews/tokyo-night/machines/omarchy-machine-217-first-ssd-macro-preview.webp": {
+    "sha256": "086896525da656eb45971d221dfb75724c9af53c35715cb5f4ad359068526343",
+    "size": 36048
+  },
+  "previews/tokyo-night/machines/omarchy-machine-218-single-board-cluster-preview.webp": {
+    "sha256": "5dcbe8ea49b90c6ce9cfb999ff5839c7fc818cb97f78c519dc888f52c0b2d9fd",
+    "size": 41512
+  },
+  "previews/tokyo-night/machines/omarchy-machine-219-tiling-desktop-minimal-setup-preview.webp": {
+    "sha256": "58bf5fa093635927523ba7eced596fc83dbeeaca1774f1b35bf917ae8fa8b857",
+    "size": 29500
+  },
+  "previews/tokyo-night/machines/omarchy-machine-222-breadbox-home-computer-joystick-preview.webp": {
+    "sha256": "a71040e79306eb0db2c7193f0a675ebf1c5d09e2ee7b1b7d11174ab5a27a8413",
+    "size": 33902
+  },
+  "previews/tokyo-night/machines/omarchy-machine-220-mainframe-disk-farm-1970s-preview.webp": {
+    "sha256": "8688fd61cb82a63037e23279d64370241dbfddb3065d5d8f4f5d81c27237a94a",
+    "size": 37574
+  },
+  "previews/tokyo-night/machines/omarchy-machine-221-risc-v-dev-board-preview.webp": {
+    "sha256": "641027202510065094345d1178ebb10276f11ec6349a49129b5c169155477b81",
+    "size": 48538
+  },
+  "previews/tokyo-night/machines/omarchy-machine-223-mesh-radio-node-mountain-preview.webp": {
+    "sha256": "cb8b173c093cdfac68700ec65a07b269f361c30b1331005f08030bb268074ff7",
+    "size": 32074
+  },
+  "previews/tokyo-night/machines/omarchy-machine-224-hackerspace-workbench-preview.webp": {
+    "sha256": "2c5d3de9aa67ee04f2129d45a0581e1f476ad81baf072e1ee8dfd3fcedafb7b0",
+    "size": 41140
+  },
+  "previews/tokyo-night/machines/omarchy-machine-225-cash-dispensing-machine-preview.webp": {
+    "sha256": "e00d29cb7cc84924b012b5d9abf7b5bc4ba7240af2fb1f87e2179263cc3de1f0",
+    "size": 36586
+  },
+  "previews/tokyo-night/machines/omarchy-machine-226-ten-megabyte-hard-disk-cutaway-preview.webp": {
+    "sha256": "f9e98086925ff98e9d9c2f119bcd128a7204ee36c9521b5bba4ee9686e2fffab",
+    "size": 37160
+  },
+  "previews/tokyo-night/machines/omarchy-machine-227-first-touchscreen-smartphone-preview.webp": {
+    "sha256": "0cae31591bd0b73cf1cd6c7b6421855245a3df250204d122d9a7b79985000f0d",
+    "size": 33414
+  },
+  "previews/tokyo-night/machines/omarchy-machine-230-quantum-chip-sample-holder-preview.webp": {
+    "sha256": "685081bcf42002d74fb36bdebeddd1b7a870f63ad3126099a0385a9f13da5a2b",
+    "size": 35964
+  },
+  "previews/tokyo-night/machines/omarchy-machine-228-home-computer-magazine-type-in-preview.webp": {
+    "sha256": "30160ca103f0a074c0f0a9d6c65329d17b2997808a4dd2120af4dd39ce45e73d",
+    "size": 37542
+  },
+  "previews/tokyo-night/machines/omarchy-machine-229-color-handheld-backlit-1989-preview.webp": {
+    "sha256": "3c457d970590850740dace65f3fa06f5c96827f56838ef39f5382e66377595fe",
+    "size": 38336
+  },
+  "previews/tokyo-night/machines/omarchy-machine-231-smart-speaker-kitchen-preview.webp": {
+    "sha256": "95225eac1c1c7d333cd095a3509da947e55f5cb2a320fa5ba25f04569e3867f0",
+    "size": 34776
+  },
+  "previews/tokyo-night/machines/omarchy-machine-232-virtual-pet-schoolbag-preview.webp": {
+    "sha256": "b5a5e58b71367cb85ae8e2a50648ab1638aacc973459e4ae9b4916aef3d1bf6d",
+    "size": 31892
+  },
+  "previews/tokyo-night/machines/omarchy-machine-234-qwerty-email-phone-airport-preview.webp": {
+    "sha256": "26351b93737831434508b2f5f6f080755a244ff99ca28dc9ded9b2425aef7684",
+    "size": 43444
+  },
+  "previews/tokyo-night/machines/omarchy-machine-233-single-board-trainer-hex-keypad-preview.webp": {
+    "sha256": "4b1d5cbe3cf6938aed2e73d8dec632e3589ef886b041265b793c285b1c1a2493",
+    "size": 42228
+  },
+  "previews/tokyo-night/machines/omarchy-machine-235-self-driving-car-trunk-computer-preview.webp": {
+    "sha256": "1759b873c20edf048050c79c7d9a7518e60b3946b5ee0dd7f7d31cd8c23036ad",
+    "size": 30110
+  },
+  "previews/tokyo-night/machines/omarchy-machine-236-ai-workstation-lab-preview.webp": {
+    "sha256": "1ca76d92b68697fe3f903e262aa16c2cd53e605723a118979fd5decabc3e362f",
+    "size": 35006
+  },
+  "previews/tokyo-night/machines/omarchy-machine-237-motion-controller-console-living-room-preview.webp": {
+    "sha256": "5238b350bde7ce83f1c47e6cf236c8f63a5e50d2ebf0b0eb5861d45e21f88c54",
+    "size": 27742
+  },
+  "previews/tokyo-night/machines/omarchy-machine-238-magnesium-clamshell-portable-preview.webp": {
+    "sha256": "de9b5ed6b99b9350d4f059bd1d6e0509df4526aa0a6bbe4be1f16e53533b2542",
+    "size": 30952
+  },
+  "previews/tokyo-night/machines/omarchy-machine-239-home-computer-light-pen-preview.webp": {
+    "sha256": "7d76e0120c6a1a4a2a162c192aa7285c632028b4c96c58874bb4b631e7059033",
+    "size": 33082
+  },
+  "previews/tokyo-night/machines/omarchy-machine-240-typesetting-terminal-newsroom-preview.webp": {
+    "sha256": "ec04f7bc2885f881b373623c4f2f90a3e4ffbdea0e96b55d66c69e91dea8f524",
+    "size": 44112
+  },
+  "previews/tokyo-night/machines/omarchy-machine-241-dotcom-startup-servers-preview.webp": {
+    "sha256": "efbf8893c1695c040ebc0ad050702677d9886d48e9c8af7452f63a1b1e3972ec",
+    "size": 36290
+  },
+  "previews/tokyo-night/machines/omarchy-machine-242-supermarket-barcode-scanner-preview.webp": {
+    "sha256": "68143a0fd1facb5c74e09bc90ab8b0839e81fd860ac11aba2f02708a516ea389",
+    "size": 42048
+  },
+  "previews/tokyo-night/machines/omarchy-machine-244-guidance-computer-keypad-preview.webp": {
+    "sha256": "7db37b6b4693e8c29e8e4d7620c3b731483ad5d06e7c5666eedd67d569434c4b",
+    "size": 34248
+  },
+  "previews/tokyo-night/machines/omarchy-machine-243-cpu-die-8bit-macro-preview.webp": {
+    "sha256": "1db54bb629ef866a3c4ff09d0c2791107daa4b628ffb50d79fd4b0c2523728c8",
+    "size": 37686
+  },
+  "previews/tokyo-night/machines/omarchy-machine-245-woodgrain-video-console-preview.webp": {
+    "sha256": "09bbdd288ff52eaa5dcbdf1a2122a9efcba671340f50e4acb4a1b05652c22059",
+    "size": 35358
+  },
+  "previews/tokyo-night/machines/omarchy-machine-247-programmable-desktop-computer-italian-preview.webp": {
+    "sha256": "2dcff9074297699532520298353ad39afec16e6912b0e8270a94727c4a86d98e",
+    "size": 33786
+  },
+  "previews/tokyo-night/machines/omarchy-machine-246-inkjet-printer-school-project-preview.webp": {
+    "sha256": "91cd0f448fe1ffc84db9a7bb9e3bce60b02f7509b936ffba0c04407d51fe5b76",
+    "size": 33684
+  },
+  "previews/tokyo-night/machines/omarchy-machine-248-solar-powered-web-server-preview.webp": {
+    "sha256": "fe482225bd29875f2f1c69ab09ee5efcddbf8e824b7ed2c9054840d51ffa8e43",
+    "size": 40744
+  },
+  "previews/tokyo-night/machines/omarchy-machine-249-wooden-mouse-prototype-preview.webp": {
+    "sha256": "42db342e88ebc232f9fc6a1901004ae769c3494fd47fecfa2c5477f9200e001a",
+    "size": 28878
   }
 }
