@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T20:33:47.591994+00:00",
+  "generated_at": "2026-09-27T21:04:04.350702+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
   "kind": "theme",
-  "count": 500,
-  "total_size_bytes": 419838816,
+  "count": 750,
+  "total_size_bytes": 644486724,
   "collections": [
     {
       "collection": "countries",
@@ -23,8 +23,27 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/countries/omarchy-country-GE-Georgia-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/countries/omarchy-country-GE-Georgia-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/countries/omarchy-country-XK-Kosovo-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/countries/omarchy-country-XK-Kosovo-2K.webp"
+    },
+    {
+      "collection": "machines",
+      "count": 250,
+      "total_size_bytes": 224647908,
+      "directory": "images/gruvbox/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/machines",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 224647908,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Machines",
+      "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/machines/omarchy-machine-190-network-hub-coax-to-twisted-pair-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/machines/omarchy-machine-190-network-hub-coax-to-twisted-pair-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/shelters/omarchy-shelter-078-dormer-window-desk-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/shelters/omarchy-shelter-078-dormer-window-desk-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/shelters/omarchy-shelter-131-urban-vineyard-hut-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/shelters/omarchy-shelter-131-urban-vineyard-hut-2K.webp"
     }
   ],
   "palette": [

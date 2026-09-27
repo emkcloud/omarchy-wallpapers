@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T20:33:48.593969+00:00",
+  "generated_at": "2026-09-27T21:04:05.608664+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
   "kind": "theme",
-  "count": 500,
-  "total_size_bytes": 368032620,
+  "count": 750,
+  "total_size_bytes": 580468996,
   "collections": [
     {
       "collection": "countries",
@@ -23,8 +23,27 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/countries/omarchy-country-SG-Singapore-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/countries/omarchy-country-SG-Singapore-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/countries/omarchy-country-ET-Ethiopia-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/countries/omarchy-country-ET-Ethiopia-2K.webp"
+    },
+    {
+      "collection": "machines",
+      "count": 250,
+      "total_size_bytes": 212436376,
+      "directory": "images/solitude/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/machines",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 212436376,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Machines",
+      "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/machines/omarchy-machine-200-typewriter-style-word-processor-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/machines/omarchy-machine-200-typewriter-style-word-processor-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/shelters/omarchy-shelter-248-observatory-dome-inside-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/shelters/omarchy-shelter-248-observatory-dome-inside-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/shelters/omarchy-shelter-237-the-cable-car-room-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp"
     }
   ],
   "palette": [

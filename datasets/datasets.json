@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:33:52.956746+00:00",
+  "generated_at": "2026-09-27T21:04:09.346064+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://content.emkcloud.com/wallpapers/1.2.1",
@@ -13,35 +13,36 @@
       "images_url": "https://content.emkcloud.com/wallpapers/1.2.1/images/catppuccin",
       "collections": [
         "countries",
+        "machines",
         "shelters"
       ],
       "catalog": {
         "path": "datasets/catppuccin/catalog.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/catppuccin/catalog.json",
-        "size_bytes": 461661,
-        "entries": 500
+        "size_bytes": 711447,
+        "entries": 750
       },
       "optimization": {
         "path": "datasets/catppuccin/optimization.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/catppuccin/optimization.json",
-        "size_bytes": 186247,
-        "entries": 1000
+        "size_bytes": 234439,
+        "entries": 1250
       },
       "previews": {
         "path": "datasets/catppuccin/previews.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/catppuccin/previews.json",
-        "size_bytes": 150125,
-        "entries": 500
+        "size_bytes": 227567,
+        "entries": 750
       },
       "collections_info": {
         "path": "datasets/catppuccin/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/catppuccin/collections.json",
-        "size_bytes": 2001,
-        "collections": 2
+        "size_bytes": 2767,
+        "collections": 3
       },
-      "count": 500,
-      "optimized": 1000,
-      "total_size_bytes": 151700628,
+      "count": 750,
+      "optimized": 1250,
+      "total_size_bytes": 242953968,
       "resolutions": [
         [
           2560,
@@ -67,35 +68,36 @@
       "images_url": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox",
       "collections": [
         "countries",
+        "machines",
         "shelters"
       ],
       "catalog": {
         "path": "datasets/gruvbox/catalog.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/gruvbox/catalog.json",
-        "size_bytes": 454279,
-        "entries": 500
+        "size_bytes": 700361,
+        "entries": 750
       },
       "optimization": {
         "path": "datasets/gruvbox/optimization.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/gruvbox/optimization.json",
-        "size_bytes": 183388,
-        "entries": 1000
+        "size_bytes": 230876,
+        "entries": 1250
       },
       "previews": {
         "path": "datasets/gruvbox/previews.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/gruvbox/previews.json",
-        "size_bytes": 148766,
-        "entries": 500
+        "size_bytes": 225504,
+        "entries": 750
       },
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/gruvbox/collections.json",
-        "size_bytes": 1936,
-        "collections": 2
+        "size_bytes": 2766,
+        "collections": 3
       },
-      "count": 500,
-      "optimized": 1000,
-      "total_size_bytes": 419838816,
+      "count": 750,
+      "optimized": 1250,
+      "total_size_bytes": 644486724,
       "resolutions": [
         [
           2560,
@@ -145,7 +147,7 @@
       "collections_info": {
         "path": "datasets/matte-black/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/matte-black/collections.json",
-        "size_bytes": 2844,
+        "size_bytes": 2804,
         "collections": 3
       },
       "count": 750,
@@ -253,7 +255,7 @@
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/osaka-jade/collections.json",
-        "size_bytes": 1973,
+        "size_bytes": 1959,
         "collections": 2
       },
       "count": 500,
@@ -284,35 +286,36 @@
       "images_url": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude",
       "collections": [
         "countries",
+        "machines",
         "shelters"
       ],
       "catalog": {
         "path": "datasets/solitude/catalog.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/solitude/catalog.json",
-        "size_bytes": 456665,
-        "entries": 500
+        "size_bytes": 703979,
+        "entries": 750
       },
       "optimization": {
         "path": "datasets/solitude/optimization.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/solitude/optimization.json",
-        "size_bytes": 184248,
-        "entries": 1000
+        "size_bytes": 231968,
+        "entries": 1250
       },
       "previews": {
         "path": "datasets/solitude/previews.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/solitude/previews.json",
-        "size_bytes": 149126,
-        "entries": 500
+        "size_bytes": 226096,
+        "entries": 750
       },
       "collections_info": {
         "path": "datasets/solitude/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/solitude/collections.json",
-        "size_bytes": 1959,
-        "collections": 2
+        "size_bytes": 2781,
+        "collections": 3
       },
-      "count": 500,
-      "optimized": 1000,
-      "total_size_bytes": 368032620,
+      "count": 750,
+      "optimized": 1250,
+      "total_size_bytes": 580468996,
       "resolutions": [
         [
           2560,
@@ -362,7 +365,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/tokyo-night/collections.json",
-        "size_bytes": 2804,
+        "size_bytes": 2806,
         "collections": 3
       },
       "count": 750,
