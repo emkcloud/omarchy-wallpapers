@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T21:04:04.400137+00:00",
+  "generated_at": "2026-09-28T21:43:01.557028+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
   "kind": "theme",
-  "count": 500,
-  "total_size_bytes": 73029424,
+  "count": 750,
+  "total_size_bytes": 123996146,
   "collections": [
     {
       "collection": "countries",
@@ -23,8 +23,27 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/countries/omarchy-country-BH-Bahrain-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/countries/omarchy-country-BH-Bahrain-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/countries/omarchy-country-TJ-Tajikistan-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/countries/omarchy-country-TJ-Tajikistan-2K.webp"
+    },
+    {
+      "collection": "machines",
+      "count": 250,
+      "total_size_bytes": 50966722,
+      "directory": "images/nord/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/machines",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 50966722,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Machines",
+      "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/machines/omarchy-machine-151-laserdisc-arcade-cabinet-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/machines/omarchy-machine-151-laserdisc-arcade-cabinet-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/shelters/omarchy-shelter-195-subway-carriage-home-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/shelters/omarchy-shelter-168-fishing-boat-galley-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp"
     }
   ],
   "palette": [

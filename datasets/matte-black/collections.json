@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:04:04.351042+00:00",
+  "generated_at": "2026-09-28T21:43:02.195767+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "matte-black",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/countries/omarchy-country-BI-Burundi-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/countries/omarchy-country-BI-Burundi-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/countries/omarchy-country-MH-Marshall-Islands-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/countries/omarchy-country-MH-Marshall-Islands-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/machines/omarchy-machine-113-ide-hard-drive-cutaway-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/machines/omarchy-machine-113-ide-hard-drive-cutaway-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/machines/omarchy-machine-175-tiling-window-manager-desk-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/machines/omarchy-machine-175-tiling-window-manager-desk-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/shelters/omarchy-shelter-195-subway-carriage-home-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/matte-black/shelters/omarchy-shelter-030-crane-cabin-home-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/matte-black/shelters/omarchy-shelter-030-crane-cabin-home-2K.webp"
     }
   ],
   "palette": [

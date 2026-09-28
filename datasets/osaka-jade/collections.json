@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:04:04.935872+00:00",
+  "generated_at": "2026-09-28T21:43:01.420904+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/countries/omarchy-country-PY-Paraguay-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/countries/omarchy-country-PY-Paraguay-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/countries/omarchy-country-PE-Peru-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/countries/omarchy-country-PE-Peru-2K.webp"
     },
     {
       "collection": "shelters",
@@ -42,8 +42,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/shelters/omarchy-shelter-137-crane-yard-office-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/shelters/omarchy-shelter-137-crane-yard-office-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/shelters/omarchy-shelter-196-photo-lab-red-light-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp"
     }
   ],
   "palette": [
