@@ -1,6 +1,6 @@
 ---
 name: omarchy-wallpapers-generate-previews
-description: Generate or revalidate the WebP previews in previews/ from the themed wallpapers in images/. Covers the plan-first step (theme list + work plan), the recommended parallel execution (one subagent per theme via the Task tool, with a live todo list), the sequential dispatcher fallback, verification, and the resume behavior via the per-theme previews.json manifest. Use whenever previews must be generated, checked, or regenerated after adding/removing wallpapers. This skill does NOT regenerate the datasets: that is the job of generate_dataset.py (see omarchy-wallpapers-generate-datasets).
+description: Generate or revalidate the WebP previews in previews/ from the themed wallpapers in images/. Covers the plan-first step (theme list + work plan), the recommended parallel execution (one subagent per theme via the Task tool), the sequential dispatcher fallback, verification, and the resume behavior via the per-theme previews.json manifest. Use whenever previews must be generated, checked, or regenerated after adding/removing wallpapers. This skill does NOT regenerate the datasets: that is the job of generate_dataset.py (see omarchy-wallpapers-generate-datasets).
 ---
 
 # Omarchy Preview Generation
@@ -43,7 +43,7 @@ Other options: `--workers N` (intra-theme parallelism, default 8), `--force` (ig
 
 The script keeps its temporary files in a dedicated folder `working/generate-temp/previews/` (gitignored) and at the start of every full dispatcher run removes only its own temp files (never the folder or anything it did not create; not for `--theme` workers or `--plan-only`).
 
-## Recommended workflow (parallel subagents + live todo list)
+## Recommended workflow (parallel subagents)
 
 1. **Plan first, no work yet:**
    ```bash
@@ -51,13 +51,7 @@ The script keeps its temporary files in a dedicated folder `working/generate-tem
    ```
    This prints the theme table (theme, image count, `previews.json` YES/NO) and the per-theme plan (`already ok` / `to process`). Show it to the user and confirm before generating.
 
-2. **Set up the todo list** (TodoWrite) with one step per theme, e.g.:
-   - Theme analysis + plan (`--plan-only`)
-   - Worker preview: gruvbox (250)
-   - Worker preview: matte-black (250)
-   - ... one per theme ...
-   - Final summary
-   Mark the plan step completed, mark each theme `in_progress` as it starts. The user watches this panel live.
+2. **Report progress in text.** OpenCode 2 has no todo tool: announce the plan step, then name each theme as its subagent starts (e.g. `Worker preview: gruvbox`) and say when it is done, so the user can follow along.
 
 3. **Clean the temp folder** (fresh start, avoids stale results):
    ```bash
@@ -70,7 +64,7 @@ The script keeps its temporary files in a dedicated folder `working/generate-tem
    ```
    Launch all of them in a single message so they run concurrently. Each subagent reports back the verbatim summary line `[<theme>] N images | M OK | K new previews generated | E errors` plus any `ERROR` lines and the exit code.
 
-5. **Wait for ALL subagents** before presenting the total. Mark each todo `completed` as its subagent returns.
+5. **Wait for ALL subagents** before presenting the total; announce each theme as done when its subagent returns.
 
 6. **Verify on disk:**
    ```bash

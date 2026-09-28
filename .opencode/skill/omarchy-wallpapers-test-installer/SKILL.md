@@ -10,7 +10,7 @@ The sandbox lives in `working/generate-temp/testing/` (the repository's scratch 
 
 ## Run the test step-by-step (recommended)
 
-Do **not** launch the whole test in one shot. Instead, create a sequential todo list (one item per step, ordered) and run each step **one at a time** by calling `testing/wallpapers_installer.py --step <name>`, so the user can follow each task as it completes. Steps must run in order and **never in parallel** (each step depends on the sandbox state left by the previous one). After each step, mark its todo item completed; if a step fails, stop and report — do not continue, since later steps rely on the sandbox state.
+Do **not** launch the whole test in one shot. Instead run the steps **one at a time**, in this fixed order, by calling `testing/wallpapers_installer.py --step <name>`, announcing each step as it starts and as it finishes so the user can follow along (OpenCode 2 has no todo tool). Steps must run in order and **never in parallel** (each step depends on the sandbox state left by the previous one). If a step fails, stop and report — do not continue, since later steps rely on the sandbox state.
 
 The steps and the command for each:
 

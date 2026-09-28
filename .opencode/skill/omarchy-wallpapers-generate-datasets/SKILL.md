@@ -47,7 +47,7 @@ Other options: `--no-previews` (skip the missing-previews check/generation in th
 
 The script keeps its temporary files in a dedicated folder `working/generate-temp/dataset/` (gitignored) and at the start of every full dispatcher run removes only its own temp files (never the folder or anything it did not create; not for `--group` workers, `--plan-only` or `--aggregate-only`).
 
-## Recommended workflow (parallel subagents + live todo list)
+## Recommended workflow (parallel subagents)
 
 Steps 1 and 2 (previews, optimization) are their own skills (`omarchy-wallpapers-generate-previews`, `omarchy-wallpapers-generate-optimization`), which already follow this same parallel technique. Step 3 (datasets) follows it too:
 
@@ -57,14 +57,7 @@ Steps 1 and 2 (previews, optimization) are their own skills (`omarchy-wallpapers
    ```
    This prints the group table (group, item count, `catalog.json` YES/NO) and the per-group work plan. Show it to the user and confirm.
 
-2. **Set up the todo list** (TodoWrite) with one step per group plus the aggregation and the total, e.g.:
-   - Analysis + plan
-   - Dataset: masters (250)
-   - Dataset: gruvbox (250)
-   - ... one per theme ...
-   - Assemble datasets.json
-   - Final summary
-   Use these exact labels: the plan step is just `Analysis + plan` and the aggregation step is just `Assemble datasets.json`, with no command options shown. Mark the plan step completed, mark each group `in_progress` as it starts.
+2. **Report progress in text.** OpenCode 2 has no todo tool: announce `Analysis + plan`, then name each group as its subagent starts (e.g. `Dataset: gruvbox`) and say when it is done, and finish with `Assemble datasets.json`. Keep the labels plain, with no command options shown.
 
 3. **Clean the temp folder** (fresh start, avoids stale results):
    ```bash
@@ -77,7 +70,7 @@ Steps 1 and 2 (previews, optimization) are their own skills (`omarchy-wallpapers
    ```
    Launch all of them in a single message so they run concurrently. Each writes only its own `catalog.json` + `collections.json` and reports back its `[<group>] N items | catalog.json + collections.json written` line.
 
-5. **Wait for ALL subagents**, then mark each group todo `completed`.
+5. **Wait for ALL subagents**; announce each group as done when its subagent returns.
 
 6. **Assemble the index** (this is the "general task" that runs once everything finished):
    ```bash

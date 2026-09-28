@@ -1,6 +1,6 @@
 ---
 name: omarchy-wallpapers-generate-optimization
-description: Optimize the WebP images of the Omarchy wallpapers in this repository losslessly (wallpapers in images/, masters in masters/ and previews in previews/) via scripts/generate_optimization.py. Use when asked to optimize wallpapers/masters/previews, check if images are already optimized, or re-optimize after adding/editing images. Covers the plan-first step (group list + work plan), the recommended parallel execution (one subagent per group via the Task tool, with a live todo list), the sequential dispatcher fallback, verification, and the resume behavior via the per-group optimization.json manifest. This skill only writes the optimization manifests: it does NOT regenerate the datasets (that is generate_dataset.py, see omarchy-wallpapers-generate-datasets).
+description: Optimize the WebP images of the Omarchy wallpapers in this repository losslessly (wallpapers in images/, masters in masters/ and previews in previews/) via scripts/generate_optimization.py. Use when asked to optimize wallpapers/masters/previews, check if images are already optimized, or re-optimize after adding/editing images. Covers the plan-first step (group list + work plan), the recommended parallel execution (one subagent per group via the Task tool), the sequential dispatcher fallback, verification, and the resume behavior via the per-group optimization.json manifest. This skill only writes the optimization manifests: it does NOT regenerate the datasets (that is generate_dataset.py, see omarchy-wallpapers-generate-datasets).
 ---
 
 # Omarchy Wallpapers Image Optimization
@@ -44,7 +44,7 @@ Other options: `--workers N` (intra-group parallelism, default 8), `--method N` 
 
 The script keeps its temporary files in a dedicated folder `working/generate-temp/optimization/` (gitignored) and at the start of every full dispatcher run removes only its own temp files (never the folder or anything it did not create; not for `--group` workers or `--plan-only`).
 
-## Recommended workflow (parallel subagents + live todo list)
+## Recommended workflow (parallel subagents)
 
 1. **Plan first, no work yet:**
    ```bash
@@ -52,13 +52,7 @@ The script keeps its temporary files in a dedicated folder `working/generate-tem
    ```
    This prints the group table (group, WebP count, `optimization.json` YES/NO) and the per-group plan (`to do` / `already done`). Show it to the user and confirm before optimizing.
 
-2. **Set up the todo list** (TodoWrite) with one step per group plus plan and total, e.g.:
-   - Analysis + plan (`--plan-only`)
-   - Optimize: masters (500)
-   - Optimize: gruvbox (500)
-   - ... one per theme ...
-   - Final summary
-   Mark the plan step completed, mark each group `in_progress` as it starts. The user watches this panel live.
+2. **Report progress in text.** OpenCode 2 has no todo tool: announce the plan step, then name each group as its subagent starts (e.g. `Optimize: gruvbox`) and say when it is done, so the user can follow along.
 
 3. **Clean the temp folder** (fresh start, avoids stale results):
    ```bash
@@ -71,7 +65,7 @@ The script keeps its temporary files in a dedicated folder `working/generate-tem
    ```
    Launch all of them in a single message so they run concurrently. Each subagent reports back the verbatim summary line `[<group>] N files | M skipped | K optimized | L already optimal | E errors | B bytes saved` plus any `ERROR` lines and the exit code.
 
-5. **Wait for ALL subagents** before presenting the total. Mark each todo `completed` as its subagent returns.
+5. **Wait for ALL subagents** before presenting the total; announce each group as done when its subagent returns.
 
 6. **Verify on disk:**
    ```bash
