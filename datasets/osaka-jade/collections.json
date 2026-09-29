@@ -1,49 +1,68 @@
 {
-  "generated_at": "2026-09-28T21:43:01.420904+00:00",
+  "generated_at": "2026-09-29T07:21:33.750406+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
   "kind": "theme",
-  "count": 500,
-  "total_size_bytes": 149828582,
+  "count": 750,
+  "total_size_bytes": 260865098,
   "collections": [
     {
       "collection": "countries",
       "count": 250,
-      "total_size_bytes": 83891820,
+      "total_size_bytes": 93573520,
       "directory": "images/osaka-jade/countries",
       "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/countries",
       "variants": {
         "2K": {
           "count": 250,
-          "size_bytes": 83891820,
+          "size_bytes": 93573520,
           "width": 2560,
           "height": 1440
         }
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/countries/omarchy-country-PE-Peru-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/countries/omarchy-country-PE-Peru-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/countries/omarchy-country-HN-Honduras-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/countries/omarchy-country-HN-Honduras-2K.webp"
+    },
+    {
+      "collection": "machines",
+      "count": 250,
+      "total_size_bytes": 91609050,
+      "directory": "images/osaka-jade/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/machines",
+      "variants": {
+        "2K": {
+          "count": 250,
+          "size_bytes": 91609050,
+          "width": 2560,
+          "height": 1440
+        }
+      },
+      "title": "Machines",
+      "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/machines/omarchy-machine-013-minicomputer-where-unix-was-born-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/machines/omarchy-machine-013-minicomputer-where-unix-was-born-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
-      "total_size_bytes": 65936762,
+      "total_size_bytes": 75682528,
       "directory": "images/osaka-jade/shelters",
       "url": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/shelters",
       "variants": {
         "2K": {
           "count": 250,
-          "size_bytes": 65936762,
+          "size_bytes": 75682528,
           "width": 2560,
           "height": 1440
         }
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/shelters/omarchy-shelter-196-photo-lab-red-light-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/osaka-jade/shelters/omarchy-shelter-215-the-typewriter-hospital-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade/shelters/omarchy-shelter-215-the-typewriter-hospital-2K.webp"
     }
   ],
   "palette": [

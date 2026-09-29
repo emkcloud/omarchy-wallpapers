@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:43:01.557028+00:00",
+  "generated_at": "2026-09-29T07:21:32.940901+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/countries/omarchy-country-TJ-Tajikistan-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/countries/omarchy-country-TJ-Tajikistan-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/countries/omarchy-country-KY-Cayman-Islands-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/countries/omarchy-country-KY-Cayman-Islands-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/machines/omarchy-machine-151-laserdisc-arcade-cabinet-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/machines/omarchy-machine-151-laserdisc-arcade-cabinet-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/machines/omarchy-machine-032-wooden-case-hand-built-computer-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/machines/omarchy-machine-032-wooden-case-hand-built-computer-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/shelters/omarchy-shelter-168-fishing-boat-galley-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/nord/shelters/omarchy-shelter-180-the-model-railway-room-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/nord/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp"
     }
   ],
   "palette": [

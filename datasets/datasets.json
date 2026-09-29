@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:43:07.676542+00:00",
+  "generated_at": "2026-09-29T07:21:35.896482+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://content.emkcloud.com/wallpapers/1.2.1",
@@ -37,7 +37,7 @@
       "collections_info": {
         "path": "datasets/catppuccin/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/catppuccin/collections.json",
-        "size_bytes": 2795,
+        "size_bytes": 2781,
         "collections": 3
       },
       "count": 750,
@@ -92,7 +92,7 @@
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/gruvbox/collections.json",
-        "size_bytes": 2730,
+        "size_bytes": 2788,
         "collections": 3
       },
       "count": 750,
@@ -147,7 +147,7 @@
       "collections_info": {
         "path": "datasets/matte-black/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/matte-black/collections.json",
-        "size_bytes": 2822,
+        "size_bytes": 2824,
         "collections": 3
       },
       "count": 750,
@@ -202,7 +202,7 @@
       "collections_info": {
         "path": "datasets/nord/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/nord/collections.json",
-        "size_bytes": 2715,
+        "size_bytes": 2743,
         "collections": 3
       },
       "count": 750,
@@ -233,35 +233,36 @@
       "images_url": "https://content.emkcloud.com/wallpapers/1.2.1/images/osaka-jade",
       "collections": [
         "countries",
+        "machines",
         "shelters"
       ],
       "catalog": {
         "path": "datasets/osaka-jade/catalog.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/osaka-jade/catalog.json",
-        "size_bytes": 461678,
-        "entries": 500
+        "size_bytes": 711464,
+        "entries": 750
       },
       "optimization": {
         "path": "datasets/osaka-jade/optimization.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/osaka-jade/optimization.json",
-        "size_bytes": 186243,
-        "entries": 1000
+        "size_bytes": 284128,
+        "entries": 1500
       },
       "previews": {
         "path": "datasets/osaka-jade/previews.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/osaka-jade/previews.json",
-        "size_bytes": 150121,
-        "entries": 500
+        "size_bytes": 227564,
+        "entries": 750
       },
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/osaka-jade/collections.json",
-        "size_bytes": 1955,
-        "collections": 2
+        "size_bytes": 2813,
+        "collections": 3
       },
-      "count": 500,
-      "optimized": 1000,
-      "total_size_bytes": 149828582,
+      "count": 750,
+      "optimized": 1500,
+      "total_size_bytes": 260865098,
       "resolutions": [
         [
           2560,
@@ -311,7 +312,7 @@
       "collections_info": {
         "path": "datasets/solitude/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/solitude/collections.json",
-        "size_bytes": 2781,
+        "size_bytes": 2775,
         "collections": 3
       },
       "count": 750,
@@ -366,7 +367,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.2.1/datasets/tokyo-night/collections.json",
-        "size_bytes": 2804,
+        "size_bytes": 2826,
         "collections": 3
       },
       "count": 750,

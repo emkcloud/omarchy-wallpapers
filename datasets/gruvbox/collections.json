@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:43:02.187657+00:00",
+  "generated_at": "2026-09-29T07:21:31.023977+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/countries/omarchy-country-PY-Paraguay-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/countries/omarchy-country-PY-Paraguay-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/countries/omarchy-country-CD-Congo-Democratic-Republic-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/machines/omarchy-machine-207-atm-machine-80s-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/machines/omarchy-machine-207-atm-machine-80s-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/machines/omarchy-machine-028-acoustic-coupler-modem-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/machines/omarchy-machine-028-acoustic-coupler-modem-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/shelters/omarchy-shelter-032-rooftop-orchard-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/shelters/omarchy-shelter-032-rooftop-orchard-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/gruvbox/shelters/omarchy-shelter-026-rooftop-hammock-deck-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/gruvbox/shelters/omarchy-shelter-026-rooftop-hammock-deck-2K.webp"
     }
   ],
   "palette": [

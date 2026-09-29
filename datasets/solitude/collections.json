@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:43:02.195083+00:00",
+  "generated_at": "2026-09-29T07:21:34.960713+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/countries/omarchy-country-MH-Marshall-Islands-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/countries/omarchy-country-MH-Marshall-Islands-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/countries/omarchy-country-LB-Lebanon-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/countries/omarchy-country-LB-Lebanon-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/machines/omarchy-machine-182-blinkenlights-16bit-mini-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/machines/omarchy-machine-182-blinkenlights-16bit-mini-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/machines/omarchy-machine-010-undersea-datacenter-capsule-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/machines/omarchy-machine-010-undersea-datacenter-capsule-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/shelters/omarchy-shelter-198-curtain-of-cables-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/shelters/omarchy-shelter-198-curtain-of-cables-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.2.1/previews/solitude/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.2.1/images/solitude/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp"
     }
   ],
   "palette": [
