@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:26:55.266481+00:00",
+  "generated_at": "2026-10-02T03:26:58.206626+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/osaka-jade/countries/omarchy-country-SB-Solomon-Islands-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/osaka-jade/countries/omarchy-country-SB-Solomon-Islands-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/osaka-jade/countries/omarchy-country-UM-US-Minor-Outlying-Islands-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/osaka-jade/countries/omarchy-country-UM-US-Minor-Outlying-Islands-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/osaka-jade/machines/omarchy-machine-240-typesetting-terminal-newsroom-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/osaka-jade/machines/omarchy-machine-240-typesetting-terminal-newsroom-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/osaka-jade/machines/omarchy-machine-151-laserdisc-arcade-cabinet-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/osaka-jade/machines/omarchy-machine-151-laserdisc-arcade-cabinet-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/osaka-jade/shelters/omarchy-shelter-085-the-beekeeper-terrace-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/osaka-jade/shelters/omarchy-shelter-085-the-beekeeper-terrace-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/osaka-jade/shelters/omarchy-shelter-105-the-cable-junction-hut-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/osaka-jade/shelters/omarchy-shelter-105-the-cable-junction-hut-2K.webp"
     }
   ],
   "palette": [

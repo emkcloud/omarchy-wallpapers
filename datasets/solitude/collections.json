@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:26:55.744046+00:00",
+  "generated_at": "2026-10-02T03:26:58.702239+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/solitude/countries/omarchy-country-LY-Libya-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/solitude/countries/omarchy-country-LY-Libya-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/solitude/countries/omarchy-country-BR-Brazil-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/solitude/countries/omarchy-country-BR-Brazil-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/solitude/machines/omarchy-machine-039-hard-drive-array-home-nas-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/solitude/machines/omarchy-machine-039-hard-drive-array-home-nas-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/solitude/machines/omarchy-machine-167-home-computer-electronics-store-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/solitude/machines/omarchy-machine-167-home-computer-electronics-store-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/solitude/shelters/omarchy-shelter-067-the-one-room-with-a-view-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/solitude/shelters/omarchy-shelter-067-the-one-room-with-a-view-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/solitude/shelters/omarchy-shelter-192-cargo-bike-coffee-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/solitude/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp"
     }
   ],
   "palette": [

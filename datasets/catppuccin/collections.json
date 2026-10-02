@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T00:26:53.955372+00:00",
+  "generated_at": "2026-10-02T03:26:56.899643+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "catppuccin",
   "kind": "theme",
   "count": 750,
-  "total_size_bytes": 234192704,
+  "total_size_bytes": 233413448,
   "collections": [
     {
       "collection": "countries",
@@ -23,27 +23,27 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/countries/omarchy-country-LY-Libya-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/countries/omarchy-country-LY-Libya-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/countries/omarchy-country-CI-Ivory-Coast-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/countries/omarchy-country-CI-Ivory-Coast-2K.webp"
     },
     {
       "collection": "machines",
       "count": 250,
-      "total_size_bytes": 91253340,
+      "total_size_bytes": 90474084,
       "directory": "images/catppuccin/machines",
       "url": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/machines",
       "variants": {
         "2K": {
           "count": 250,
-          "size_bytes": 91253340,
+          "size_bytes": 90474084,
           "width": 2560,
           "height": 1440
         }
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/machines/omarchy-machine-131-mini-pc-homelab-rack-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/machines/omarchy-machine-131-mini-pc-homelab-rack-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/machines/omarchy-machine-229-color-handheld-backlit-1989-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/machines/omarchy-machine-229-color-handheld-backlit-1989-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/shelters/omarchy-shelter-197-chimney-side-hut-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/shelters/omarchy-shelter-197-chimney-side-hut-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/shelters/omarchy-shelter-153-the-kitchen-at-four-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/shelters/omarchy-shelter-153-the-kitchen-at-four-2K.webp"
     }
   ],
   "palette": [
