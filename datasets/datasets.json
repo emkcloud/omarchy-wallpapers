@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:35:03.834091+00:00",
+  "generated_at": "2026-10-02T00:27:03.201388+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "url_base": "https://content.emkcloud.com/wallpapers/1.3.0",
@@ -37,12 +37,12 @@
       "collections_info": {
         "path": "datasets/catppuccin/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.3.0/datasets/catppuccin/collections.json",
-        "size_bytes": 2783,
+        "size_bytes": 2769,
         "collections": 3
       },
       "count": 750,
       "optimized": 1500,
-      "total_size_bytes": 242953968,
+      "total_size_bytes": 234192704,
       "resolutions": [
         [
           2560,
@@ -92,7 +92,7 @@
       "collections_info": {
         "path": "datasets/gruvbox/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.3.0/datasets/gruvbox/collections.json",
-        "size_bytes": 2784,
+        "size_bytes": 2756,
         "collections": 3
       },
       "count": 750,
@@ -147,7 +147,7 @@
       "collections_info": {
         "path": "datasets/matte-black/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.3.0/datasets/matte-black/collections.json",
-        "size_bytes": 2818,
+        "size_bytes": 2830,
         "collections": 3
       },
       "count": 750,
@@ -202,7 +202,7 @@
       "collections_info": {
         "path": "datasets/nord/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.3.0/datasets/nord/collections.json",
-        "size_bytes": 2739,
+        "size_bytes": 2691,
         "collections": 3
       },
       "count": 750,
@@ -257,7 +257,7 @@
       "collections_info": {
         "path": "datasets/osaka-jade/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.3.0/datasets/osaka-jade/collections.json",
-        "size_bytes": 2775,
+        "size_bytes": 2817,
         "collections": 3
       },
       "count": 750,
@@ -312,7 +312,7 @@
       "collections_info": {
         "path": "datasets/solitude/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.3.0/datasets/solitude/collections.json",
-        "size_bytes": 2787,
+        "size_bytes": 2775,
         "collections": 3
       },
       "count": 750,
@@ -367,7 +367,7 @@
       "collections_info": {
         "path": "datasets/tokyo-night/collections.json",
         "url": "https://content.emkcloud.com/wallpapers/1.3.0/datasets/tokyo-night/collections.json",
-        "size_bytes": 2842,
+        "size_bytes": 2790,
         "collections": 3
       },
       "count": 750,

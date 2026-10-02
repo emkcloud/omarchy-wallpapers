@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:35:03.788246+00:00",
+  "generated_at": "2026-10-02T00:26:55.605526+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "tokyo-night",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/tokyo-night/countries/omarchy-country-MS-Montserrat-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/tokyo-night/countries/omarchy-country-MS-Montserrat-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/tokyo-night/countries/omarchy-country-PA-Panama-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/tokyo-night/countries/omarchy-country-PA-Panama-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/tokyo-night/machines/omarchy-machine-050-fanless-arm-laptop-mountain-hut-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/tokyo-night/machines/omarchy-machine-050-fanless-arm-laptop-mountain-hut-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/tokyo-night/machines/omarchy-machine-143-led-digital-watch-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/tokyo-night/machines/omarchy-machine-143-led-digital-watch-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/tokyo-night/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/tokyo-night/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/tokyo-night/shelters/omarchy-shelter-211-deconsecrated-chapel-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/tokyo-night/shelters/omarchy-shelter-211-deconsecrated-chapel-2K.webp"
     }
   ],
   "palette": [

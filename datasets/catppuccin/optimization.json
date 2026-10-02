@@ -2000,2004 +2000,2004 @@
     "size": 32946
   },
   "images/catppuccin/shelters/omarchy-shelter-051-ice-cream-truck-winter-2K.webp": {
-    "sha256": "328abfe5f0faddc15d11ab7540af64ce4c1c14ce663202936f7a4082a549b42d",
-    "size": 263230
+    "sha256": "9e7bbbaafeeed55e57320cb3e236f6fa4c3667a4798da1f0b2f60cfc0e96073d",
+    "size": 253448
   },
   "images/catppuccin/shelters/omarchy-shelter-100-the-bookmobile-2K.webp": {
-    "sha256": "9fbaa8a289695ba55d7bda692f149ae41dfaf303e257e3197554d473a1b6aa98",
-    "size": 271122
+    "sha256": "8d72e20aea1f5303544e687c440d72fe96df797d62f4422eac3a495043c6da8a",
+    "size": 203006
   },
   "images/catppuccin/shelters/omarchy-shelter-150-greenhouse-bedroom-2K.webp": {
-    "sha256": "9bb98f245a8a9ebe1945ec0d314f5d925fe24996c92780b430d424a009ca76e5",
-    "size": 338174
+    "sha256": "55d899508aa2087584de8e1b72d55329bd9984de0fbc40a6c727028a52b2f92f",
+    "size": 395888
   },
   "images/catppuccin/shelters/omarchy-shelter-200-rooftop-ramen-2K.webp": {
-    "sha256": "1a6eaf19477192cec29bb447e077b5fcb82551b9922e2b853dd6a61de428f745",
-    "size": 295180
+    "sha256": "8f8b849ff8c78bd722946ca4e275887a990a1b7771c54d7daa63273dec8e9aa1",
+    "size": 243932
   },
   "previews/catppuccin/shelters/omarchy-shelter-005-rooftop-sauna-preview.webp": {
-    "sha256": "93c06ea1a62529d45a0300d20fed88ff82458b0069ccf43b651d02fbc177ea91",
-    "size": 27300
+    "sha256": "deef08cddf992957236c976a1e68d2689ab498658b3346fd0d3c41f34b0579c3",
+    "size": 19970
   },
   "previews/catppuccin/shelters/omarchy-shelter-051-ice-cream-truck-winter-preview.webp": {
-    "sha256": "167107b48f7943513da6dc2c9e462375d8d6fab38280a66d653704e4485f75b6",
-    "size": 28722
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-100-the-bookmobile-preview.webp": {
-    "sha256": "0f98210adb4bd93ea4355698aa85cccf1b4f4a672b61d8613f945da396e1a2a5",
-    "size": 28010
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-152-skylight-studio-preview.webp": {
-    "sha256": "8a63bfc6923b894cfe1816fe3daa621f7b6590a03a0a7ab4e25e5be06477c86b",
-    "size": 32354
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-201-the-rooftop-forge-preview.webp": {
-    "sha256": "c8c40237decb3afdf4021aa59ee694b3478325c166df9ed279b91f46119da1f1",
-    "size": 22392
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-250-rooftop-cinema-preview.webp": {
-    "sha256": "d53eac68785bda2a96c6e33bb55d6cdf72dc5afb34da15ec5d78dda04003d264",
-    "size": 31938
-  },
-  "images/catppuccin/shelters/omarchy-shelter-005-rooftop-sauna-2K.webp": {
-    "sha256": "dea62ed12ce15deffb1bb0ef761a022a3bd2a715d845fc7c3961974c1fedd913",
-    "size": 238202
-  },
-  "images/catppuccin/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp": {
-    "sha256": "d3a60bb026435b02a57a9748aeb07c4e0ec9b7ec2854673497512ada2d9f5b48",
-    "size": 247868
-  },
-  "images/catppuccin/shelters/omarchy-shelter-007-the-map-room-2K.webp": {
-    "sha256": "c666df75791d4bf502d080da0762834d9936b1b9fd82a334978a76588944d6e5",
-    "size": 291552
-  },
-  "images/catppuccin/shelters/omarchy-shelter-002-the-instrument-rental-2K.webp": {
-    "sha256": "857472745b8518c97d4a4f8c2cc209da5f4d0e69ca482d50810fa083eec58b5b",
-    "size": 304502
-  },
-  "images/catppuccin/shelters/omarchy-shelter-001-helicopter-on-the-roof-2K.webp": {
-    "sha256": "7b098d119d93852761fdc68d7d891e56a5d0fe8ac6915609e8d18bf24e9e7e47",
-    "size": 275380
-  },
-  "images/catppuccin/shelters/omarchy-shelter-008-pinball-repair-2K.webp": {
-    "sha256": "2707776fdfa736b41c241fb5f00fbcdfd5037b382563dd05f81f6024c03ddf03",
-    "size": 277614
-  },
-  "images/catppuccin/shelters/omarchy-shelter-003-the-old-windmill-2K.webp": {
-    "sha256": "5b3d836b5e71c0eb7585f43efbda8fe5df0cb19e68623dfecb21b33f420075aa",
-    "size": 287718
-  },
-  "images/catppuccin/shelters/omarchy-shelter-006-moss-garden-teahouse-2K.webp": {
-    "sha256": "ac94787aea7ae46de97a2a8621418fb6792b3e5c0b2b9dd644ba6a332a9fcf4e",
-    "size": 250232
-  },
-  "images/catppuccin/shelters/omarchy-shelter-009-fire-lookout-tower-2K.webp": {
-    "sha256": "518a9da5210bd562bf079edf536e85f3530731caec8b4e41f1acab6df7864bb7",
-    "size": 227176
-  },
-  "images/catppuccin/shelters/omarchy-shelter-012-the-fish-tank-room-2K.webp": {
-    "sha256": "577ea2475c408ea3726d6a86b6959c5964c0adf007747a3f15dac853f841b3ff",
-    "size": 210166
-  },
-  "images/catppuccin/shelters/omarchy-shelter-010-control-tower-abandoned-2K.webp": {
-    "sha256": "09d76ee2f07e2c17acfe84efd57e95c4a1efce093332aa5fd067120912a5ed03",
-    "size": 260294
-  },
-  "images/catppuccin/shelters/omarchy-shelter-011-vending-machine-corner-2K.webp": {
-    "sha256": "82a1dba40741690260162c0c504e6e2a77d593c593fbe139cd0067a9dc5f0bea",
-    "size": 270478
-  },
-  "images/catppuccin/shelters/omarchy-shelter-013-the-vinyl-basement-2K.webp": {
-    "sha256": "9e3d94ace7f5bba3fc4074c7a7121f580b6b14461dbc0396d443cd41e297d96b",
-    "size": 278048
-  },
-  "images/catppuccin/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp": {
-    "sha256": "7b3f3591c013b99d7db4d6d4d3b81e7b1edd43033de8714a0a800fb928d0edf0",
-    "size": 260494
-  },
-  "images/catppuccin/shelters/omarchy-shelter-015-laundry-terrace-2K.webp": {
-    "sha256": "928792097f5458c8375d112b04080aae16b8e5e3d11c950e4bd2f1587e38aa56",
-    "size": 243162
-  },
-  "images/catppuccin/shelters/omarchy-shelter-016-rooftop-noodle-cart-2K.webp": {
-    "sha256": "f928af35b0ed65a5d2b36137395b2dd944c238c6f3a81c2302d070c87a134e1a",
-    "size": 284510
-  },
-  "images/catppuccin/shelters/omarchy-shelter-019-the-guard-hut-2K.webp": {
-    "sha256": "159fe51197893958d53a3797dc92e0dd9c6e9215c2ca6af4ff59d87534a368e3",
-    "size": 266754
-  },
-  "images/catppuccin/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-2K.webp": {
-    "sha256": "7471608df62c8e5468ea2127f7fc267d97052acf636b04f1b3df2bc41f2e625e",
-    "size": 313320
-  },
-  "images/catppuccin/shelters/omarchy-shelter-017-the-tea-corner-2K.webp": {
-    "sha256": "b33a31d60c0ff8163de5bde17a2f7bc68396bb92c021b3dd2620ca61af27a526",
-    "size": 295234
-  },
-  "images/catppuccin/shelters/omarchy-shelter-021-airstream-under-the-overpass-2K.webp": {
-    "sha256": "2a6d10e6c1199cedefec7112c9e22b781e04d9d6368352e9e152a60379535996",
-    "size": 241136
-  },
-  "images/catppuccin/shelters/omarchy-shelter-020-stadium-under-seats-2K.webp": {
-    "sha256": "372de59bc2c48bfacca777660d9afbc8be90c229c3e2ec8ed517d9c8a67efb1d",
-    "size": 286660
-  },
-  "images/catppuccin/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
-    "sha256": "31a86bb03c2384bd9f7d0c24cf1a163c23e234499403554ac62192a0f1c149f6",
-    "size": 316672
-  },
-  "images/catppuccin/shelters/omarchy-shelter-024-the-elevator-machine-room-2K.webp": {
-    "sha256": "f755a10be311d801f1077da1009baa7eb161a15de4ff214532bd7c31d903e36b",
-    "size": 281042
-  },
-  "images/catppuccin/shelters/omarchy-shelter-023-the-satellite-dish-den-2K.webp": {
-    "sha256": "4fcfe5511eb0c7089eada4ba31961ea80f8a5eb264b31e1f801cf056e085ddad",
-    "size": 322024
-  },
-  "images/catppuccin/shelters/omarchy-shelter-025-aerial-walkway-hut-2K.webp": {
-    "sha256": "5f171db5634ba10472a88ae3e23a474b695bfd1ac958bad310438acf0dc85399",
-    "size": 257762
-  },
-  "images/catppuccin/shelters/omarchy-shelter-026-rooftop-hammock-deck-2K.webp": {
-    "sha256": "14ba09afee11f0c45fc2f6ee3b421c403225141a998dcdbf4b63817e7c13153b",
-    "size": 298448
-  },
-  "images/catppuccin/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-2K.webp": {
-    "sha256": "565581575b23a32e700d06101ca60a64bcbf70a6c4e314bc7780403814dd4c3d",
-    "size": 240016
-  },
-  "images/catppuccin/shelters/omarchy-shelter-029-the-fishmonger-ice-2K.webp": {
-    "sha256": "1ccc9f728012b3aea006483505c0a772d2814a99f1febaba02fadf7d86717a7c",
-    "size": 229030
-  },
-  "images/catppuccin/shelters/omarchy-shelter-027-attic-of-maps-2K.webp": {
-    "sha256": "fe6430fda5e71a91bd424d59fd245902191323c62968a97e3a6d3c1fc227e2f0",
-    "size": 347832
-  },
-  "images/catppuccin/shelters/omarchy-shelter-030-crane-cabin-home-2K.webp": {
-    "sha256": "73cbd5b98970d9ff560d089540b52aa3200030392e5ff8d1645e4e5033a550b0",
-    "size": 273218
-  },
-  "images/catppuccin/shelters/omarchy-shelter-031-sewing-machine-row-2K.webp": {
-    "sha256": "6195f9aef155ddef1f53340fcf50f54e622d9df0bce48251c5fad0d703e6c86e",
-    "size": 236318
-  },
-  "images/catppuccin/shelters/omarchy-shelter-032-rooftop-orchard-2K.webp": {
-    "sha256": "02107c7a1e3800ab1488337357874d9ccef6b33b757456e2c3391471448fbe33",
-    "size": 290288
-  },
-  "images/catppuccin/shelters/omarchy-shelter-033-the-battery-yard-camp-2K.webp": {
-    "sha256": "79615789e9dc56d4d3206add621d010b8f96de9da30c128e9d0bcb67671c4b4c",
-    "size": 315220
-  },
-  "images/catppuccin/shelters/omarchy-shelter-037-capsule-hotel-pod-2K.webp": {
-    "sha256": "ca5e4765e80f648ff585c124d88297e688259ccdd17416ef01c4f3b857444f2d",
-    "size": 208146
-  },
-  "images/catppuccin/shelters/omarchy-shelter-035-caravan-on-the-ledge-2K.webp": {
-    "sha256": "dc47f3150db9b7652e9cd2841b3481aced3b7c42e4f224f722c247e6141fe096",
-    "size": 252086
-  },
-  "images/catppuccin/shelters/omarchy-shelter-034-boat-on-a-trailer-2K.webp": {
-    "sha256": "41e5394554bb2e792fd0b89b5b48381f5c2600fbaaf64381e10aca8aa0aab090",
-    "size": 285546
-  },
-  "images/catppuccin/shelters/omarchy-shelter-036-the-armoured-greenhouse-2K.webp": {
-    "sha256": "1170c676f30d1d66e8ca4623a1c2c9d949a60b88d121f3e631b6cb64befe3c36",
-    "size": 277178
-  },
-  "images/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp": {
-    "sha256": "cd4253a61a73e9dd1b25c5aeea71cd40519d19cc4fca00bb0329f03139873825",
-    "size": 252732
-  },
-  "images/catppuccin/shelters/omarchy-shelter-039-the-recording-booth-2K.webp": {
-    "sha256": "0edb5cfeb1a5e9a98b2f36ff9846fc8731f88f10de216c4aaf33af1163677c8c",
-    "size": 273468
-  },
-  "images/catppuccin/shelters/omarchy-shelter-040-bicycle-workshop-2K.webp": {
-    "sha256": "5f3330013eff0b2207f19fd0730b46d21ed90117250bb7fbee763ec3f25b6666",
-    "size": 281244
-  },
-  "images/catppuccin/shelters/omarchy-shelter-044-nursery-of-seedlings-2K.webp": {
-    "sha256": "f6066c5e9104a69929080788e215d7cedf66d241a4edb1cd339d7d792d6f2ba4",
-    "size": 252918
-  },
-  "images/catppuccin/shelters/omarchy-shelter-043-the-map-shop-2K.webp": {
-    "sha256": "db23b42449f67f318039f4b20f9aa5cb759c726074ef8cb24939d5791951ba46",
-    "size": 290440
-  },
-  "images/catppuccin/shelters/omarchy-shelter-042-the-aquarium-shop-2K.webp": {
-    "sha256": "a26f3acf12bd59e6c69333abc3d5f59d6a1395cd48684b6afe928ca78027e64f",
-    "size": 307710
-  },
-  "images/catppuccin/shelters/omarchy-shelter-041-the-ferry-cabin-2K.webp": {
-    "sha256": "9d1f3564d637319badd65c9652dcef1fffc8c616ccfa6a347e509de93bbfa166",
-    "size": 332028
-  },
-  "images/catppuccin/shelters/omarchy-shelter-047-pedestrian-bridge-hut-2K.webp": {
-    "sha256": "531a97906d466c49d2bda1a0cbc94928292b72bdbfeb00c358538827c1441eb6",
-    "size": 242344
-  },
-  "images/catppuccin/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-2K.webp": {
-    "sha256": "0b9542f76cf34c9ed971ab6c93dc5f7c26143cc5a1293947a50cc14052737cea",
-    "size": 317100
-  },
-  "images/catppuccin/shelters/omarchy-shelter-046-the-toy-hospital-2K.webp": {
-    "sha256": "fd3019a4cc0185eed3901b486116e6d2848df2f13ca36d406296a06a04c428d8",
-    "size": 337700
-  },
-  "images/catppuccin/shelters/omarchy-shelter-048-pontoon-greenhouse-2K.webp": {
-    "sha256": "e5d723cc44170dbea0025d69bd7bdb64bc5f840885bfc108c4723bcc47f4ec33",
-    "size": 267076
-  },
-  "images/catppuccin/shelters/omarchy-shelter-049-flooded-street-boat-2K.webp": {
-    "sha256": "824bd323682fa85359d13a46a813f86380b4331c182deea370da009f0e2db2f5",
-    "size": 233020
-  },
-  "images/catppuccin/shelters/omarchy-shelter-052-grounded-fuselage-2K.webp": {
-    "sha256": "900c47c5098097747746858c885f02fbe82a458ded3c997d4f2494c0149d3a37",
-    "size": 241398
-  },
-  "images/catppuccin/shelters/omarchy-shelter-050-the-freight-depot-2K.webp": {
-    "sha256": "7d36343b3bb6242e65908d245865182b8cdb2fcca99081c2c01ba572ea048d7e",
-    "size": 263502
-  },
-  "images/catppuccin/shelters/omarchy-shelter-054-the-midnight-bus-2K.webp": {
-    "sha256": "7c15369959587d70fdae065ab92ef5c20764a38d7eb6ab5f5039b6ca7c5064f9",
-    "size": 242926
-  },
-  "images/catppuccin/shelters/omarchy-shelter-053-the-projection-booth-2K.webp": {
-    "sha256": "a7a9ec91d2724ed6d33f8d04d1c0e243cee890fe9499d82befefb011e32cc013",
-    "size": 244342
-  },
-  "images/catppuccin/shelters/omarchy-shelter-055-the-server-room-bed-2K.webp": {
-    "sha256": "4f7d1db0bdc79074d9a78397729448f37e37c05b08d39e50c9b2a30fdc877260",
-    "size": 320844
-  },
-  "images/catppuccin/shelters/omarchy-shelter-056-the-bell-tower-2K.webp": {
-    "sha256": "b2284fca7d9565d90553eeed05c1ee043a1a6d45c898e306b79d834e84d724d2",
-    "size": 238226
-  },
-  "images/catppuccin/shelters/omarchy-shelter-057-sampan-kitchen-2K.webp": {
-    "sha256": "fb3c2dded861e4138fe60647f6da7b4ce283fee0da75bb9fa9c023c27a664fe4",
-    "size": 236262
-  },
-  "images/catppuccin/shelters/omarchy-shelter-058-armoured-van-archive-2K.webp": {
-    "sha256": "a53ffb228c12cc528bfa1d3c9a0adb7bc6d83c7595e146f2b28d2c01a33068f1",
-    "size": 240804
-  },
-  "images/catppuccin/shelters/omarchy-shelter-061-combine-harvester-house-2K.webp": {
-    "sha256": "46878e0194b8210ae9ad3551527a88f5ba2f583c99156f7ee6e54ed578b45365",
-    "size": 230914
-  },
-  "images/catppuccin/shelters/omarchy-shelter-059-the-sluice-house-2K.webp": {
-    "sha256": "e252c4cf96f488b2c080c6845a1bf60c1cda1412ca3f295923f017f6cd170c5c",
-    "size": 333216
-  },
-  "images/catppuccin/shelters/omarchy-shelter-060-rooftop-koi-pond-2K.webp": {
-    "sha256": "ab2bdd722f6ed2f1cb2547cdd5cea47adaf8142999d7775b1397c6ca1a0e6279",
-    "size": 317050
-  },
-  "images/catppuccin/shelters/omarchy-shelter-064-the-petrol-station-2K.webp": {
-    "sha256": "604bbfdcf9c5976c00ec8df7f0988fde347220f718af4245d35d3fbea9b83e8e",
-    "size": 217890
-  },
-  "images/catppuccin/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-2K.webp": {
-    "sha256": "66a539b81f216782216a64abe63462f13db4178ef48090eba8ef4ce61c378155",
-    "size": 312378
-  },
-  "images/catppuccin/shelters/omarchy-shelter-063-the-camera-shop-2K.webp": {
-    "sha256": "294efd5347cf3017b8fbcd277196cb2123120f5982cc7a3d7076f3ad1a25b71f",
-    "size": 293568
-  },
-  "images/catppuccin/shelters/omarchy-shelter-065-the-ferry-waiting-room-2K.webp": {
-    "sha256": "0bf2345cd8ba4fee2790f0a29b87a9598d7fac94afb26bc811f0f77a0a9dbd7e",
-    "size": 245658
-  },
-  "images/catppuccin/shelters/omarchy-shelter-067-the-one-room-with-a-view-2K.webp": {
-    "sha256": "bb422b902f81d1ebdcdc2e094fa77a73931905666d89e2850b34cf332231fe02",
-    "size": 226152
-  },
-  "images/catppuccin/shelters/omarchy-shelter-068-electronics-repair-shop-2K.webp": {
-    "sha256": "eefeb644e7c9d8904179d367ffd54fdfa7f63671a33c16c2f7d9822e88e84261",
-    "size": 249766
-  },
-  "images/catppuccin/shelters/omarchy-shelter-066-the-rooftop-greenhouse-2K.webp": {
-    "sha256": "e4676c312479415546b2d3a47c665bb37fcfc79c7d85fa898effad4b2b67be76",
-    "size": 306446
-  },
-  "images/catppuccin/shelters/omarchy-shelter-070-water-tower-lantern-2K.webp": {
-    "sha256": "5aa25ecd73a88f2ab687e907fc96b9bb219d5dee3e5db404163181bd1a4df2a8",
-    "size": 179740
-  },
-  "images/catppuccin/shelters/omarchy-shelter-069-the-underpass-room-2K.webp": {
-    "sha256": "83718a53b80937079f2e7004ad11b5928762ec77136d7240aedebcb863ea6b4a",
-    "size": 266610
-  },
-  "images/catppuccin/shelters/omarchy-shelter-071-archive-of-tapes-2K.webp": {
-    "sha256": "f5c793bfe7346fa413bcc2757c96689060eb5e22b77541ce430a2d6600d9f574",
-    "size": 334152
-  },
-  "images/catppuccin/shelters/omarchy-shelter-072-hacker-loft-of-monitors-2K.webp": {
-    "sha256": "25efae8b5e11741ae1de59c2a2a76f66f6f30e9f0dbb68bd957031a41ee70b6e",
-    "size": 246674
-  },
-  "images/catppuccin/shelters/omarchy-shelter-073-rooftop-onsen-2K.webp": {
-    "sha256": "dc40f888d718e9761217d127211a77ca615e6c9c2eeeccbeecba6786f4c845ec",
-    "size": 265372
-  },
-  "images/catppuccin/shelters/omarchy-shelter-074-postal-van-darkroom-2K.webp": {
-    "sha256": "87fcf81dddac433d59bc0ad16e2813dd820491c4c29edc7c61a141eddb0168dd",
-    "size": 288134
-  },
-  "images/catppuccin/shelters/omarchy-shelter-075-the-apiary-in-the-park-2K.webp": {
-    "sha256": "012eb76986b3d8939c94b4cce27615442720c7d381b7e261a9b14b823325bf00",
-    "size": 288868
-  },
-  "images/catppuccin/shelters/omarchy-shelter-076-the-cable-car-station-2K.webp": {
-    "sha256": "6e0525212cea5f05b71cb84dadc41b4743fbda6611637a53ae1c836bc474353c",
-    "size": 279156
-  },
-  "images/catppuccin/shelters/omarchy-shelter-077-the-clockmakers-window-2K.webp": {
-    "sha256": "47521dec9755a6ffba06601b29d66905d6946e4b20ece0d8977851ae7542893b",
-    "size": 284664
-  },
-  "images/catppuccin/shelters/omarchy-shelter-078-dormer-window-desk-2K.webp": {
-    "sha256": "8b91ad49ad0f81fe5b6150920cd86dc15c0c64e0ba6f8086ddaa71057eae2d2d",
-    "size": 323936
-  },
-  "images/catppuccin/shelters/omarchy-shelter-079-candle-and-circuit-2K.webp": {
-    "sha256": "e14e3860e8054837e4c71e5c18662a127c390a9e1db94e0fced68a00361c8173",
-    "size": 234396
-  },
-  "images/catppuccin/shelters/omarchy-shelter-080-tunnel-mouth-camp-2K.webp": {
-    "sha256": "ffcb1b329196076beb5f502e785984c4a55b59517fbcf87bb57017dd335e40cc",
-    "size": 367356
-  },
-  "images/catppuccin/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-2K.webp": {
-    "sha256": "60b2d6b0bf055eb2eb4252ad62d96f6a1929a99bd5fbe258d5125d83e869be61",
-    "size": 386084
-  },
-  "images/catppuccin/shelters/omarchy-shelter-084-tea-house-and-server-rack-2K.webp": {
-    "sha256": "9155c6cc95e6bc20d0cbd383c00fc0f35be0594a43d708e4b3b06a5d0c693895",
-    "size": 170270
-  },
-  "images/catppuccin/shelters/omarchy-shelter-083-the-pier-shack-2K.webp": {
-    "sha256": "b83537a32d897fea9917ade482f15f12e4f7b58750e3153bd51cb62c3ac31e18",
-    "size": 250588
-  },
-  "images/catppuccin/shelters/omarchy-shelter-086-the-tea-and-modem-2K.webp": {
-    "sha256": "63a32c82ca7eda6d946768f091c2cd2b9207a279571438fe85b0814b06400aa1",
-    "size": 263614
-  },
-  "images/catppuccin/shelters/omarchy-shelter-085-the-beekeeper-terrace-2K.webp": {
-    "sha256": "6c7c6f799d39d15340a9a03490ec31e992d69ce943e176c2dd5a1505524aaf86",
-    "size": 255522
-  },
-  "images/catppuccin/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-2K.webp": {
-    "sha256": "5ca9e8251f9d7776939e7fc3e3bbf10134daee1476600f63efd0deca2797c722",
-    "size": 363244
-  },
-  "images/catppuccin/shelters/omarchy-shelter-087-zeppelin-gondola-2K.webp": {
-    "sha256": "9dd910c963c2c9ad86b1069de1900780b56982cf9326494bab9fe1da627d2bd2",
-    "size": 279966
-  },
-  "images/catppuccin/shelters/omarchy-shelter-088-shack-above-the-neon-2K.webp": {
-    "sha256": "7690e5deaec0286026809f8cdc86ba8f8cc90cc721a578da24103c13c651c632",
-    "size": 212740
-  },
-  "images/catppuccin/shelters/omarchy-shelter-089-server-farm-bedroom-2K.webp": {
-    "sha256": "3cd064f071d0540c6161272c62fdcd3d0cb36804f0eb214ba8e598d9edec2c0d",
-    "size": 262656
-  },
-  "images/catppuccin/shelters/omarchy-shelter-090-solar-panel-garden-2K.webp": {
-    "sha256": "36243da1159bcaac407497a117c4f7c846b16af9a72bb21f7d95154c9a9a6a81",
-    "size": 380202
-  },
-  "images/catppuccin/shelters/omarchy-shelter-091-water-tower-loft-2K.webp": {
-    "sha256": "93d5c9b05d35a2d06c9dee5add7efedd1cc8aef8c5d5c97190888fed1b6c5431",
-    "size": 296558
-  },
-  "images/catppuccin/shelters/omarchy-shelter-095-late-night-copy-shop-2K.webp": {
-    "sha256": "8926faf445b48f8a7b220ccb9f7a1271cc40bb0325f0532c63baee6d207c5046",
-    "size": 193658
-  },
-  "images/catppuccin/shelters/omarchy-shelter-093-the-penthouse-shanty-2K.webp": {
-    "sha256": "6ca2c18c709c18a5984edb0b20ce93283f1b7ddceb1e0738190d02c62e7c8fc7",
-    "size": 363894
-  },
-  "images/catppuccin/shelters/omarchy-shelter-092-the-weighbridge-office-2K.webp": {
-    "sha256": "deb3a7f04999c1678fdbbdac4b21275944a11557576b4f45e11f813a7bf7be68",
-    "size": 322492
-  },
-  "images/catppuccin/shelters/omarchy-shelter-094-bathtub-with-a-skyline-2K.webp": {
-    "sha256": "1c5766b8f3ff6173a6a8b4838133796f622daa879584663b78bb8ba58914728b",
-    "size": 255870
-  },
-  "images/catppuccin/shelters/omarchy-shelter-096-the-lamp-shop-2K.webp": {
-    "sha256": "658cc45a2e003d9d0fa73beff2f01d87f6ec8cb794ad08051f97ec7acd785e73",
-    "size": 305778
-  },
-  "images/catppuccin/shelters/omarchy-shelter-097-the-canal-lock-house-2K.webp": {
-    "sha256": "1881dfddcdfdbb0027629b896428423b650af55a2df44780644e4c963a0b532b",
-    "size": 263452
-  },
-  "images/catppuccin/shelters/omarchy-shelter-099-stairwell-landing-desk-2K.webp": {
-    "sha256": "611ffce2783f41cfa9a048bb31fcdbaacf8ff99d1a9cebf00bdd0242313a37a5",
-    "size": 299564
-  },
-  "images/catppuccin/shelters/omarchy-shelter-102-the-bookbinder-2K.webp": {
-    "sha256": "c0dfa6b83ff872134a9def1ff730108a5aaf69382e250f4ecf271eeec9416c98",
-    "size": 226748
-  },
-  "images/catppuccin/shelters/omarchy-shelter-098-billboard-scaffold-camp-2K.webp": {
-    "sha256": "75c6097d9a76ddb721485fc973d04a457cf6ffa5845a57d2d9d2744a5ec20b16",
-    "size": 346182
-  },
-  "images/catppuccin/shelters/omarchy-shelter-103-stairwell-hut-2K.webp": {
-    "sha256": "8147b612dd6ee52a687f34533f68773f9d214f182fdd15a3732d5897334da5cc",
-    "size": 247330
-  },
-  "images/catppuccin/shelters/omarchy-shelter-101-the-allotment-shed-2K.webp": {
-    "sha256": "dfd3c6b10a11541db4b56ae724bdb9f20e6f800bfda4b6d0b97ba1e2461f08c5",
-    "size": 324896
-  },
-  "images/catppuccin/shelters/omarchy-shelter-104-laundromat-at-3am-2K.webp": {
-    "sha256": "0bfc3d2068071225873dab57021b02e8917b4a7650e32b9abe184fa65b02e77b",
-    "size": 220376
-  },
-  "images/catppuccin/shelters/omarchy-shelter-105-the-cable-junction-hut-2K.webp": {
-    "sha256": "e7caba7bba0430c1c881a08417d1105143512fdfef4cbe93e59fb2d12f8f6119",
-    "size": 317522
-  },
-  "images/catppuccin/shelters/omarchy-shelter-106-the-tattoo-parlour-2K.webp": {
-    "sha256": "90f01e1159abcd27320d4cec989cf4a2262473f3a0e99ea936c9699000f3398d",
-    "size": 211918
-  },
-  "images/catppuccin/shelters/omarchy-shelter-107-rooftop-radio-station-2K.webp": {
-    "sha256": "7693cba499d6818b48eaac50147f5ffa36721125e2fe09f4ce04040d68c9c1a5",
-    "size": 277346
-  },
-  "images/catppuccin/shelters/omarchy-shelter-108-the-ruined-arch-2K.webp": {
-    "sha256": "87cd9f1b88e5911e62fc73e4b366d81364c7a45023e5410edb52d08ad0da2b20",
-    "size": 380426
-  },
-  "images/catppuccin/shelters/omarchy-shelter-109-library-in-the-fog-2K.webp": {
-    "sha256": "6c106c2acbea23e7790d6134ebe4081affc799c8d99a01aec1f6ee437a838783",
-    "size": 249012
-  },
-  "images/catppuccin/shelters/omarchy-shelter-110-harbour-crane-cabin-2K.webp": {
-    "sha256": "6cd923c6c952a0d4520653ea8b07f9d3e24a4aa609bac64a0e5c6cf982b91a51",
-    "size": 246558
-  },
-  "images/catppuccin/shelters/omarchy-shelter-111-the-sewing-room-2K.webp": {
-    "sha256": "aff371022e778d698e9cf627725f79ab2661fa1783a0b80eb08139a0d0fdaeb9",
-    "size": 265390
-  },
-  "images/catppuccin/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-2K.webp": {
-    "sha256": "2234f0b101e2bfd7f7f98a9608217d9eff0b5c54b24a5d3b66f512024f66845b",
-    "size": 217380
-  },
-  "images/catppuccin/shelters/omarchy-shelter-113-canal-side-flower-barge-2K.webp": {
-    "sha256": "823953b30218d54ace0b74f6acbe6f0577fb677d48329d43c8990842f913aef1",
-    "size": 331252
-  },
-  "images/catppuccin/shelters/omarchy-shelter-114-the-ski-lift-shed-2K.webp": {
-    "sha256": "4ec9cfc2d3efaa1ee427384c63ea1b54b5c3c7b712d460ecfb659a4448373f9e",
-    "size": 252810
-  },
-  "images/catppuccin/shelters/omarchy-shelter-115-the-empty-office-home-2K.webp": {
-    "sha256": "aa1978fd0abc0f04f8e51d9c69e901359992d03604e1a483e5cd82b195b5d6fd",
-    "size": 291534
-  },
-  "images/catppuccin/shelters/omarchy-shelter-119-rooftop-bathhouse-2K.webp": {
-    "sha256": "10beece7df70f269595e6bbcd0365cbca24ca6ef5866b2741e6b7c485edb2f24",
-    "size": 166336
-  },
-  "images/catppuccin/shelters/omarchy-shelter-116-datacenter-noodle-bar-2K.webp": {
-    "sha256": "bb853866c476c27f5a27a38ae526ad1f153ae65a756e8afe680710c0be00ca9a",
-    "size": 269756
-  },
-  "images/catppuccin/shelters/omarchy-shelter-118-the-rooftop-bar-2K.webp": {
-    "sha256": "4e0ec2b45fcc1e958026270749b3a8d4ea128240fba2f70bb4f94d96c62bd36d",
-    "size": 255608
-  },
-  "images/catppuccin/shelters/omarchy-shelter-117-loft-of-open-cases-2K.webp": {
-    "sha256": "10c0372bc73ab3ce6f5fa6a3af7c18c8ef6d93746cfac770370b299ae8f1ce59",
-    "size": 379184
-  },
-  "images/catppuccin/shelters/omarchy-shelter-120-airfield-hangar-corner-2K.webp": {
-    "sha256": "767f43f1d0103429201d60b6186e39e245d766b1318e0fbba807829d621c612b",
-    "size": 278544
-  },
-  "images/catppuccin/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp": {
-    "sha256": "774697ec55c7ed3b97bb1aefdb6a135b58ce20f79eba9cac74e265a273d56702",
-    "size": 325734
-  },
-  "images/catppuccin/shelters/omarchy-shelter-122-mechanics-loft-2K.webp": {
-    "sha256": "7f6bbf3c0cb993ed55bf7d8d92048a0473e5c3bb6409050e02071fe2cbd4269d",
-    "size": 298416
-  },
-  "images/catppuccin/shelters/omarchy-shelter-124-grain-silo-home-2K.webp": {
-    "sha256": "0f9e6a3f7180bf5d0fe5d98662bdf317c71b0f0a07568555529d339c2252300e",
-    "size": 294454
-  },
-  "images/catppuccin/shelters/omarchy-shelter-123-the-shipwreck-room-2K.webp": {
-    "sha256": "ca3cc16da0c53f6b9b304894542498a5e6320e228bc250fc9a3e9489c06c6185",
-    "size": 308398
-  },
-  "images/catppuccin/shelters/omarchy-shelter-125-study-with-two-chairs-2K.webp": {
-    "sha256": "cc8831f98a1b1e2bdb0cd55ae10ebd74f1339f827b39e010f2701d755bcae338",
-    "size": 274044
-  },
-  "images/catppuccin/shelters/omarchy-shelter-126-ambulance-refuge-2K.webp": {
-    "sha256": "e12d127b5f7b76f57c47a3a7dffc08b963361e923a6144d38a781b538be54d6a",
-    "size": 330266
-  },
-  "images/catppuccin/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp": {
-    "sha256": "a4fb4a9daa2db67eeb95f5d48a5cfe73800784a42f470326758274c619476ebd",
-    "size": 209602
-  },
-  "images/catppuccin/shelters/omarchy-shelter-127-floating-market-stall-2K.webp": {
-    "sha256": "a79627643171a65175517986a0980d0d942160217bb3396cff31ed1ff782f4e8",
-    "size": 304128
-  },
-  "images/catppuccin/shelters/omarchy-shelter-129-the-milk-float-2K.webp": {
-    "sha256": "20d71541cb20501f3f6a32dd1e41f1d4b5e778eb777db47d8cbeef917f4fbf7b",
-    "size": 262492
-  },
-  "images/catppuccin/shelters/omarchy-shelter-130-bulldozer-den-2K.webp": {
-    "sha256": "618ad8d144fd15ddaa9c60c6c60fa675e86968c3ed760309ed367e0c70f20986",
-    "size": 261618
-  },
-  "images/catppuccin/shelters/omarchy-shelter-133-flower-stall-rain-2K.webp": {
-    "sha256": "64afbf5e05da255572ab5fc45fdea806009575f061bd60c697044e24a5eb4a94",
-    "size": 272590
-  },
-  "images/catppuccin/shelters/omarchy-shelter-132-the-freight-nest-2K.webp": {
-    "sha256": "5e2ca73e7a0bef29572456a019b32a982d17a3f0295fc15fd8bf37606c77d4b0",
-    "size": 330622
-  },
-  "images/catppuccin/shelters/omarchy-shelter-131-urban-vineyard-hut-2K.webp": {
-    "sha256": "e083670d774d8bf5f37a461440b0dea96117d5aaf645954e99ed0509719a154d",
-    "size": 328138
-  },
-  "images/catppuccin/shelters/omarchy-shelter-134-houseboat-of-lanterns-2K.webp": {
-    "sha256": "062c2480be3eca64fbd67035413f353f2aa968af688e8f0cd2ee5235521dad92",
-    "size": 293672
-  },
-  "images/catppuccin/shelters/omarchy-shelter-135-limousine-lounge-2K.webp": {
-    "sha256": "a77c1cd37439e33ad36ebe30268f151c7546361445f00ee41875b10adfc7bc9e",
-    "size": 202388
-  },
-  "images/catppuccin/shelters/omarchy-shelter-136-snowplough-shelter-2K.webp": {
-    "sha256": "b5885ce7b2db7642f0244204df3e99e877e01be666645f5365dcec9072e9fe2f",
-    "size": 264944
-  },
-  "images/catppuccin/shelters/omarchy-shelter-137-crane-yard-office-2K.webp": {
-    "sha256": "d301e9f3530175f2218b9dd0154d2dc960be9effa1f674bc118d696edebf8e18",
-    "size": 274628
-  },
-  "images/catppuccin/shelters/omarchy-shelter-138-control-room-of-nothing-2K.webp": {
-    "sha256": "ea035435fd8bd0fe3a4bed1a81f1751d3560f73e61612557d8cad1002a3363d2",
-    "size": 371588
-  },
-  "images/catppuccin/shelters/omarchy-shelter-139-the-last-terrace-2K.webp": {
-    "sha256": "e8b3511e32ea28c477a6acf00802a10a4562cc0b3f9df3ec26916aac8097999d",
-    "size": 298190
-  },
-  "images/catppuccin/shelters/omarchy-shelter-141-subway-entrance-kiosk-2K.webp": {
-    "sha256": "2d07bcb1f5abc4010b7b5dfc580dbb254897827d4619c17e8422036c585ea5eb",
-    "size": 255520
-  },
-  "images/catppuccin/shelters/omarchy-shelter-140-the-clocktower-room-2K.webp": {
-    "sha256": "5163e0fbd529c0feeb26cff2ddf7a03e8b93ebec03edbb0a26aeb1346a90695f",
-    "size": 303196
-  },
-  "images/catppuccin/shelters/omarchy-shelter-142-the-boiler-room-home-2K.webp": {
-    "sha256": "c7c064503d9b3d23e444393120f9177481d92be5ddbc65d4212f22179616bcce",
-    "size": 232488
-  },
-  "images/catppuccin/shelters/omarchy-shelter-143-the-observatory-shed-2K.webp": {
-    "sha256": "4d11c8f8ecd04e22ea3b9337c77ecbc676be0e10fc469b036ac8b143c826fb4e",
-    "size": 299678
-  },
-  "images/catppuccin/shelters/omarchy-shelter-144-dry-dock-home-2K.webp": {
-    "sha256": "42b3ac2aa40e7993c49ad71ea3c95f59d26d2c57edc68e9df33e6d2e0151b78a",
-    "size": 221016
-  },
-  "images/catppuccin/shelters/omarchy-shelter-145-dam-keepers-house-2K.webp": {
-    "sha256": "121886c462938f9bd497202a05f4d7211703c545842c1a1e35992ac79b11b9f3",
-    "size": 205958
-  },
-  "images/catppuccin/shelters/omarchy-shelter-146-bakery-back-room-2K.webp": {
-    "sha256": "a491ce73a28c482984d2fefa48a592c499aa8039f87f31515e94b5350c238b07",
-    "size": 257560
-  },
-  "images/catppuccin/shelters/omarchy-shelter-147-the-window-seat-2K.webp": {
-    "sha256": "a2bcc73eb695836fce6c2bf7f0d48b608e11bc79d3831dc89e50545755c2acc1",
-    "size": 236448
-  },
-  "images/catppuccin/shelters/omarchy-shelter-149-the-last-westfalia-2K.webp": {
-    "sha256": "205ac73a0773dd6c3593e5a15f2912345a869dacec6a3f63c5942279bc400def",
-    "size": 284634
-  },
-  "images/catppuccin/shelters/omarchy-shelter-148-pigeon-loft-lantern-2K.webp": {
-    "sha256": "44e2622d5c3d83b749d5017ed226d75b856fa52a3ac5846218b00a33265ac55c",
-    "size": 325266
-  },
-  "images/catppuccin/shelters/omarchy-shelter-151-the-terminal-at-the-end-2K.webp": {
-    "sha256": "9d67b6672f418add3b4b410c503f4faab7b8a0b78fef8886a48489e160587cab",
-    "size": 319846
-  },
-  "images/catppuccin/shelters/omarchy-shelter-152-skylight-studio-2K.webp": {
-    "sha256": "8ba33959f5a9ef9a23d52650fd311bab2013530cd916a36f164072f495b984f8",
-    "size": 327120
-  },
-  "images/catppuccin/shelters/omarchy-shelter-153-the-kitchen-at-four-2K.webp": {
-    "sha256": "321db0776a0d8599802b20632545935bb9753cef8afc150502cd0de6d1045040",
-    "size": 223810
-  },
-  "images/catppuccin/shelters/omarchy-shelter-154-fire-truck-kitchen-2K.webp": {
-    "sha256": "1a09ebdca4aec80df6dd105c9e157bb2682ccd31f8bb3b7461deb00cf593c9ff",
-    "size": 281340
-  },
-  "images/catppuccin/shelters/omarchy-shelter-156-bakery-before-dawn-2K.webp": {
-    "sha256": "a7d90528e6e5ba946573f78bb7d6d481e177ca1b93a37a0f4b4429c39b9e8052",
-    "size": 219264
-  },
-  "images/catppuccin/shelters/omarchy-shelter-155-the-scaffold-shack-2K.webp": {
-    "sha256": "e2503ce686529b677854073b0b932bb84c2da753b1e1af836d5f6dca426756c8",
-    "size": 397296
-  },
-  "images/catppuccin/shelters/omarchy-shelter-157-prosthetics-workshop-2K.webp": {
-    "sha256": "66789e56066c4994858e207573d7228a06bbfe2552a7009eea05e3fdf81210b1",
-    "size": 278972
-  },
-  "images/catppuccin/shelters/omarchy-shelter-158-the-ramen-alley-2K.webp": {
-    "sha256": "07c3aa6d1522d96a467e5c3676140a3840db16e18b5559e2b5f9afa38dba8ef8",
-    "size": 239314
-  },
-  "images/catppuccin/shelters/omarchy-shelter-159-dovecote-tower-2K.webp": {
-    "sha256": "9cccf6c530b5ba44054840eea7c0117685307567ee898039bddd71ca732706ad",
-    "size": 225540
-  },
-  "images/catppuccin/shelters/omarchy-shelter-160-pigeon-race-roof-2K.webp": {
-    "sha256": "87f7d37573f81c52708442363ed087063bdbc7cc17f1474013cb1ed71978f957",
-    "size": 253022
-  },
-  "images/catppuccin/shelters/omarchy-shelter-161-the-kite-workshop-2K.webp": {
-    "sha256": "ad5fd3eb78e21740decfa710299218b7d900c510e4b710e1c23a59e35dc157c9",
-    "size": 324216
-  },
-  "images/catppuccin/shelters/omarchy-shelter-162-signal-tower-cabin-2K.webp": {
-    "sha256": "bbd09c6d4978a78c7e898fb34eb3747525ceb67c2e706036bb20a4ef05ed9568",
-    "size": 272012
-  },
-  "images/catppuccin/shelters/omarchy-shelter-163-rooftop-tent-camp-2K.webp": {
-    "sha256": "bdd434f5e0ed66e26e73c421f95c78b676d78efac2e00db584044632e5724b4d",
-    "size": 251220
-  },
-  "images/catppuccin/shelters/omarchy-shelter-164-cockpit-library-2K.webp": {
-    "sha256": "19bc0b5e8bdde5bccc183fd43a12de995c66d0b9b95204d8197fe82d07862b01",
-    "size": 394360
-  },
-  "images/catppuccin/shelters/omarchy-shelter-165-rooftop-vineyard-2K.webp": {
-    "sha256": "188c04b15e773a3083f0054f5549ceac3c5b2b4a708d89e5e34a97eb0b5085e6",
-    "size": 309916
-  },
-  "images/catppuccin/shelters/omarchy-shelter-167-the-guitar-luthier-2K.webp": {
-    "sha256": "63f42759c16c43568ec2027a6143f10cb2c1e5cc57821119926c59e4a95e482c",
-    "size": 270192
-  },
-  "images/catppuccin/shelters/omarchy-shelter-169-the-cinema-marquee-dark-2K.webp": {
-    "sha256": "79ae6085eaed4206c6e5314604d80b589694739966f50450701f403c923bf1d4",
-    "size": 211806
-  },
-  "images/catppuccin/shelters/omarchy-shelter-166-the-glasshouse-library-2K.webp": {
-    "sha256": "60e1ae21202b43ca6526e95678bbf6045aa8c75b0854821c28acb63685f1b1cc",
-    "size": 386034
-  },
-  "images/catppuccin/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp": {
-    "sha256": "1d6f2b80d32857628717162ea9662b5f720dc64b56813e37764002b77d16c228",
-    "size": 290978
-  },
-  "images/catppuccin/shelters/omarchy-shelter-170-fire-escape-garden-2K.webp": {
-    "sha256": "eef7cd00d370a831bbd5a504644a006f6c65f9412aa53be0bf8a2295d85965d3",
-    "size": 273044
-  },
-  "images/catppuccin/shelters/omarchy-shelter-171-rooftop-chapel-2K.webp": {
-    "sha256": "52201aeea18eeadd58bbf4dd4780113b1e2d1d1399f974b405bc23e9010ac3ed",
-    "size": 277738
-  },
-  "images/catppuccin/shelters/omarchy-shelter-172-the-watch-repair-bench-2K.webp": {
-    "sha256": "daf2e2d54bd7fa45557b816a014060ed6934121c0a721143ae133b0be4c985c9",
-    "size": 303106
-  },
-  "images/catppuccin/shelters/omarchy-shelter-174-the-quarry-hut-2K.webp": {
-    "sha256": "d7ff6b1633a4c0e257727788878759e49bf8c55175451aab2f5aa50072b33611",
-    "size": 278880
-  },
-  "images/catppuccin/shelters/omarchy-shelter-173-the-gatekeepers-lodge-2K.webp": {
-    "sha256": "b62eb36a2345aced49a2be07773b4152ae37011861075ed5537f9706d3499509",
-    "size": 349948
-  },
-  "images/catppuccin/shelters/omarchy-shelter-175-newsstand-island-2K.webp": {
-    "sha256": "0694b1c4e73c85e01e76726bd389ea06110fe88f9ed670d9491499b91a484f17",
-    "size": 299374
-  },
-  "images/catppuccin/shelters/omarchy-shelter-177-dumpling-window-2K.webp": {
-    "sha256": "cf1bfab05f7555fbdab8b89afda68d11c36b0777441a40677b2864fb18671c71",
-    "size": 202212
-  },
-  "images/catppuccin/shelters/omarchy-shelter-176-the-taxi-garden-2K.webp": {
-    "sha256": "214a531b6a729daeb8b981a04ec4652b235c0daf665a6654e944721c2afab709",
-    "size": 338658
-  },
-  "images/catppuccin/shelters/omarchy-shelter-178-stilt-house-over-water-2K.webp": {
-    "sha256": "ec3b88f982acbb8c99cab078f3ab9d66184b0d71fd10e0cb3b46b0216d881ab5",
-    "size": 220542
-  },
-  "images/catppuccin/shelters/omarchy-shelter-179-the-radio-pirate-2K.webp": {
-    "sha256": "f7be82d5089b27f3dc819b9478d1867d01aceb20f125b8c03efa71625f1100d8",
-    "size": 253286
-  },
-  "images/catppuccin/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp": {
-    "sha256": "36ac53d281bd6cbfb463d7d6ce21351ad08c597c12980c65969c92c525808f84",
-    "size": 377876
-  },
-  "images/catppuccin/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-2K.webp": {
-    "sha256": "246606b808ebd9091e7839dd1f08aa3ef6ab56ce836b6f416c5f7121555f4a4c",
-    "size": 243828
-  },
-  "images/catppuccin/shelters/omarchy-shelter-183-pigeon-post-office-2K.webp": {
-    "sha256": "3de2ce80916ec6bb323b1ad75a2d91acb88fcc96d66073e703e4e80af5eb8973",
-    "size": 228210
-  },
-  "images/catppuccin/shelters/omarchy-shelter-182-the-drone-port-shack-2K.webp": {
-    "sha256": "1bbcdbe4775cca384534e5a3ef9ec4fd269ccf357b8a66d4ea1a4b7a0f130dff",
-    "size": 227242
-  },
-  "images/catppuccin/shelters/omarchy-shelter-184-the-piano-in-the-dark-2K.webp": {
-    "sha256": "69f1f2b21f9e43502cd54a62d06f3da2f13ccda08d471b7cd85402d65eba3580",
-    "size": 255906
-  },
-  "images/catppuccin/shelters/omarchy-shelter-185-sleeper-car-atelier-2K.webp": {
-    "sha256": "7ad5004b2eff1f33c61a22f640c01137698570f0a5623baadfbb08e3de57c396",
-    "size": 254516
-  },
-  "images/catppuccin/shelters/omarchy-shelter-186-seed-bank-room-2K.webp": {
-    "sha256": "e64d4d5f19cc29629c819b78039e224489f159ce17026c23c6e287ba9903d82f",
-    "size": 315122
-  },
-  "images/catppuccin/shelters/omarchy-shelter-187-empty-pool-camp-2K.webp": {
-    "sha256": "5e7740aa7f25d20f64b22aff6287997dcac7422533d2a2a0f7c1c34f3ebf97bd",
-    "size": 284118
-  },
-  "images/catppuccin/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-2K.webp": {
-    "sha256": "e9efd8d22ec3de5035feee15eb848c5b3094c965992bf9c2c1667a416d2191c3",
-    "size": 243772
-  },
-  "images/catppuccin/shelters/omarchy-shelter-189-submarine-hatch-home-2K.webp": {
-    "sha256": "bffd6965f719b1562467506025419749f17537d32fc1a20ac15ce580588d7788",
-    "size": 234928
-  },
-  "images/catppuccin/shelters/omarchy-shelter-190-drawbridge-cabin-2K.webp": {
-    "sha256": "6d2084669b7c15ea0947b70484e7685a4bb15693d2c6324e7080696e7f3564b5",
-    "size": 305524
-  },
-  "images/catppuccin/shelters/omarchy-shelter-191-workshop-of-clocks-2K.webp": {
-    "sha256": "0ee001b749a36dfd9f6488dcbc2182afed46f61d4e927f424123aad9629e801f",
-    "size": 271132
-  },
-  "images/catppuccin/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp": {
-    "sha256": "36b71284d8bf837a036ce5ec093242aed2de1ebb1d81913547f3283843093ac9",
-    "size": 245710
-  },
-  "images/catppuccin/shelters/omarchy-shelter-193-laundry-room-blue-2K.webp": {
-    "sha256": "50dd1776fab173497dc96fb297e6c8124450c74a0ecfd5f44380e8f23c4005f6",
-    "size": 174072
-  },
-  "images/catppuccin/shelters/omarchy-shelter-194-record-press-workshop-2K.webp": {
-    "sha256": "43e447907ab3adeaccbc9d1efa3ad55b5488db4d72b8c04dc20439a913435530",
-    "size": 271496
-  },
-  "images/catppuccin/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp": {
-    "sha256": "4aa6f252a28af3933a131eda04a56567883445af6c9db8d7cb9f5c872f1ad8e8",
-    "size": 218826
-  },
-  "images/catppuccin/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp": {
-    "sha256": "cd910810047e9139fe03b383dc8d1703a6a19039998ed23b66a3b373dde9506c",
-    "size": 363444
-  },
-  "images/catppuccin/shelters/omarchy-shelter-197-chimney-side-hut-2K.webp": {
-    "sha256": "c450f11157c9477d7046407c87f864cb73deea9c068fe98b17d275ce452e7942",
-    "size": 251872
-  },
-  "images/catppuccin/shelters/omarchy-shelter-199-the-key-cutter-2K.webp": {
-    "sha256": "1cdd9192a5764914342e3dd85d07f2cc03bbf921d070fadea6d368402ee6315a",
-    "size": 232692
-  },
-  "images/catppuccin/shelters/omarchy-shelter-201-the-rooftop-forge-2K.webp": {
-    "sha256": "eb6548e32c8b351a6391d43d42ddf7517e0cf5155b7d08f84f32246a6de99d2a",
-    "size": 218988
-  },
-  "images/catppuccin/shelters/omarchy-shelter-198-curtain-of-cables-2K.webp": {
-    "sha256": "57b6bd99c971d8ec8ba30113a677c23653d6c7d4534d86ca9291015d5b1683d0",
-    "size": 394130
-  },
-  "images/catppuccin/shelters/omarchy-shelter-202-whisky-bar-one-seat-2K.webp": {
-    "sha256": "093fc1c788c8473347817f6756b38ab0699412d189ef59f885fe4cad3338c709",
-    "size": 326798
-  },
-  "images/catppuccin/shelters/omarchy-shelter-203-the-telescope-window-2K.webp": {
-    "sha256": "c4ec60e28ddfbeb569989c32667916ce48593d9de22a298b3a480fec6dad05ad",
-    "size": 289256
-  },
-  "images/catppuccin/shelters/omarchy-shelter-204-the-barge-garden-2K.webp": {
-    "sha256": "47cb514116b580088a3f2d37058b59d2b8a2b0b6d41b9f68a8033985bf040b08",
-    "size": 275356
-  },
-  "images/catppuccin/shelters/omarchy-shelter-205-coffee-roastery-night-2K.webp": {
-    "sha256": "1194ac2a24df13788049ae64fd939ce2b817bfc34aaca9cda8e159962657cb9f",
-    "size": 242816
-  },
-  "images/catppuccin/shelters/omarchy-shelter-206-the-mail-train-caboose-2K.webp": {
-    "sha256": "90646dfde194e829883e3c4780d23db1577b0e719636721560b7473991ad4cbf",
-    "size": 277770
-  },
-  "images/catppuccin/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp": {
-    "sha256": "43366d278372125b8e8e5dca76c3fd080b795471ed18fb9d38be27d14bb70fd8",
-    "size": 315614
-  },
-  "images/catppuccin/shelters/omarchy-shelter-208-transformer-station-home-2K.webp": {
-    "sha256": "c43015005ddae01a07318abaaba93b51eca0e450f3525c7ffe344995999de9f0",
-    "size": 297698
-  },
-  "images/catppuccin/shelters/omarchy-shelter-207-shoe-repair-and-solder-2K.webp": {
-    "sha256": "4b66c91833babec51d8b159c40535646e5f1b6670072b321bc8dc788f0d2f671",
-    "size": 319176
-  },
-  "images/catppuccin/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp": {
-    "sha256": "2e200200a0d5b751ff0dd331354b84d540b6c9b8b5d9059d59216d357a9b8d63",
-    "size": 248120
-  },
-  "images/catppuccin/shelters/omarchy-shelter-211-deconsecrated-chapel-2K.webp": {
-    "sha256": "adf88227be5264e9c797e8d217523d69bb38f7b6ba31fb0a789879bb09816ff5",
-    "size": 344264
-  },
-  "images/catppuccin/shelters/omarchy-shelter-213-monorail-capsule-2K.webp": {
-    "sha256": "be8436d5dcd736ce78cd5e24867d4d64903d84d0c2d3b56f5f6569146f1eeead",
-    "size": 278120
-  },
-  "images/catppuccin/shelters/omarchy-shelter-212-the-radio-parts-stall-2K.webp": {
-    "sha256": "3a0e365a7d391515f75c6ef41e8b1ce8113311eb37300aa47bf2404fee95092a",
-    "size": 325672
-  },
-  "images/catppuccin/shelters/omarchy-shelter-215-the-typewriter-hospital-2K.webp": {
-    "sha256": "7be5bf41ad96d653697f4c99c08ddd922312663322a5f343b0bb39c6a2df99c8",
-    "size": 273690
-  },
-  "images/catppuccin/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-2K.webp": {
-    "sha256": "165ae09786bf67ee2bda35730f1c52f562bdd5e33d00cd68b93942e578738112",
-    "size": 308188
-  },
-  "images/catppuccin/shelters/omarchy-shelter-217-lighthouse-lamp-room-2K.webp": {
-    "sha256": "c1056b40b7d6bff45897029aea86f89d82586e963dd42cf7dd9e47955cb1197c",
-    "size": 305950
-  },
-  "images/catppuccin/shelters/omarchy-shelter-216-the-oyster-shed-2K.webp": {
-    "sha256": "a786e8f3a101db8af4c81d97bc841c8905df6ccc99f425e1869292ec2000e2f5",
-    "size": 291470
-  },
-  "images/catppuccin/shelters/omarchy-shelter-218-the-chess-table-2K.webp": {
-    "sha256": "7da7144325c49cc3d51bbc2dae2a2a4d93d489588eb231340cf207f75d1c9e61",
-    "size": 310860
-  },
-  "images/catppuccin/shelters/omarchy-shelter-219-the-barber-and-the-cat-2K.webp": {
-    "sha256": "4d0653dfca28e2fa62cb694d83256e432e688a77b18f9042a3263c6a5c86467b",
-    "size": 213596
-  },
-  "images/catppuccin/shelters/omarchy-shelter-221-hotel-room-forever-2K.webp": {
-    "sha256": "9a240a129c4cb2f19734116287648395cddf56c68499de93baee6c9838bebc92",
-    "size": 246316
-  },
-  "images/catppuccin/shelters/omarchy-shelter-220-the-forklift-camp-2K.webp": {
-    "sha256": "13ad9fa9ad87eefc761c9ff7584857339010de3bbb07742e1a448f8b41cde336",
-    "size": 324100
-  },
-  "images/catppuccin/shelters/omarchy-shelter-222-vertical-farm-corner-2K.webp": {
-    "sha256": "b6ecd26eebebd46dd7054a3422629fb9a442cd49deb3e4125bd33d4964098b02",
-    "size": 321634
-  },
-  "images/catppuccin/shelters/omarchy-shelter-224-tugboat-galley-2K.webp": {
-    "sha256": "af88f92c57d926b3e246e7dfb42d62d49c1aa4e4c335574344c39e04e734a60e",
-    "size": 225726
-  },
-  "images/catppuccin/shelters/omarchy-shelter-223-tractor-and-awning-2K.webp": {
-    "sha256": "5bf970d88eb1f21604863d8ca1bd24d0712d56c8c994cb3080705a77ab06b637",
-    "size": 309368
-  },
-  "images/catppuccin/shelters/omarchy-shelter-225-bus-shelter-alone-2K.webp": {
-    "sha256": "5e4dd09225010a2d5a5ef921a2afbbe80a8937449ae503417b2d36126dd51d12",
-    "size": 282320
-  },
-  "images/catppuccin/shelters/omarchy-shelter-226-bamboo-grove-hut-2K.webp": {
-    "sha256": "ce0e252745ab1ab20b6331f0a87e264dc7454f5d1090dc737b51ef314a7518e9",
-    "size": 383482
-  },
-  "images/catppuccin/shelters/omarchy-shelter-227-the-billboard-back-room-2K.webp": {
-    "sha256": "7dc26d919bdbb89f1428d776895f87a5a2699900d8b8299ce7ab01c0cab51b14",
-    "size": 298848
-  },
-  "images/catppuccin/shelters/omarchy-shelter-229-signal-box-on-the-line-2K.webp": {
-    "sha256": "36291bbb01a56e1f99e54fd39d1271f27e33d532b2be66ae28a1487d11802d85",
-    "size": 267704
-  },
-  "images/catppuccin/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp": {
-    "sha256": "a4372ae95d1da79d839506c0569120ba5a3325e7c89d658c9cdde6ad0687c2a0",
-    "size": 289990
-  },
-  "images/catppuccin/shelters/omarchy-shelter-230-the-last-phone-box-2K.webp": {
-    "sha256": "f2c0c4022dbd615f907319c889416d51ac19961e3c3fa8bc398b545be44a8d55",
-    "size": 271380
-  },
-  "images/catppuccin/shelters/omarchy-shelter-233-the-antenna-keeper-2K.webp": {
-    "sha256": "1c43a6f2eeb3206b59f8f4f3d91a721cee984a1eb93910300a4416fbb1c725d2",
-    "size": 255640
-  },
-  "images/catppuccin/shelters/omarchy-shelter-231-the-antenna-farm-shack-2K.webp": {
-    "sha256": "633ae120eea6542f42ae372537191fa50fb92fdfb5ba2e37627587535e8b091e",
-    "size": 316532
-  },
-  "images/catppuccin/shelters/omarchy-shelter-232-sidecar-repair-shop-2K.webp": {
-    "sha256": "30ba26037d9eb7271067bb7a635b124137a0aae0fee9b7b413d1a0ef3e541ea8",
-    "size": 297644
-  },
-  "images/catppuccin/shelters/omarchy-shelter-234-the-terrarium-wall-2K.webp": {
-    "sha256": "d8a9297a85c67fe05364af3c3174053d35a9574a2f2dfbf0738bdb1cfc903a3d",
-    "size": 268694
-  },
-  "images/catppuccin/shelters/omarchy-shelter-235-the-rickshaw-kitchen-2K.webp": {
-    "sha256": "3bb13cd52f8718592fa443376f7ef5742a39b8229fecc816c19d3cab639cad1c",
-    "size": 269356
-  },
-  "images/catppuccin/shelters/omarchy-shelter-236-the-drone-clinic-2K.webp": {
-    "sha256": "eb09d0100e4a91707666b7d66904f0b95b467c78bffff26333d10b26845acf62",
-    "size": 267384
-  },
-  "images/catppuccin/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp": {
-    "sha256": "20c9ff5a0f9c05e6396c82abce9beccfe1989ab8c351e1dbe07e823d8e09e190",
-    "size": 269590
-  },
-  "images/catppuccin/shelters/omarchy-shelter-239-the-clinic-after-hours-2K.webp": {
-    "sha256": "edf350f8390f13a2a7715effc360e83e668bce574004c69c4287a6968534c63e",
-    "size": 259138
-  },
-  "images/catppuccin/shelters/omarchy-shelter-238-the-pawn-shop-window-2K.webp": {
-    "sha256": "2d36518b8b524fa7ddb8a418bfb01b0a87869de7f88965d5c576eff6c8057ef4",
-    "size": 305884
-  },
-  "images/catppuccin/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-2K.webp": {
-    "sha256": "f81354eca6ccd74a55f84e9ee4115b71dc3b0182ed1f95bb63513f1b8304b91f",
-    "size": 331956
-  },
-  "images/catppuccin/shelters/omarchy-shelter-242-comic-shop-back-issues-2K.webp": {
-    "sha256": "7b175d004cace7d0c7dfd2f537deef88143f72e46c6110443a15632e1d246091",
-    "size": 342586
-  },
-  "images/catppuccin/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-2K.webp": {
-    "sha256": "7bd698d4699c7c202d39e0719c381b8a00338b6d2e670419ea337c540ab88851",
-    "size": 186180
-  },
-  "images/catppuccin/shelters/omarchy-shelter-241-the-fern-house-2K.webp": {
-    "sha256": "6909c19874c83b4f5f02e0201a416e8894b9d46ee4d0e949517d7339e4334ca0",
-    "size": 321692
-  },
-  "images/catppuccin/shelters/omarchy-shelter-244-water-tank-house-2K.webp": {
-    "sha256": "4cc91b703526656d162f4ff039646a91c7a16e7afecd7a7b73a1bda3fa5004c0",
-    "size": 220556
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-001-helicopter-on-the-roof-preview.webp": {
-    "sha256": "e937126dbcbc54d071456e29d84a947d1cdd19bdc1114eae3b9941ae6b42e07e",
-    "size": 30112
-  },
-  "images/catppuccin/shelters/omarchy-shelter-245-hovercraft-skirt-camp-2K.webp": {
-    "sha256": "4255edfcf29a033fe26c6ec87a17098572b9de872c14e668b904ec729e90b0fb",
-    "size": 278254
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-002-the-instrument-rental-preview.webp": {
-    "sha256": "64f10febd2527f71373130a8286a93b5a2f496b6290f17f2bb8aea35af56dfde",
-    "size": 29800
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-003-the-old-windmill-preview.webp": {
-    "sha256": "bdacf89fc1b8834803722ff46a0334f68b7409b70373bfcd2a249b86a7c40b00",
-    "size": 28166
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-004-mahjong-parlour-window-preview.webp": {
-    "sha256": "f40719a5057e69e5ed229003d03d8fc72ab0fc12a092e81a354585a2d2f6460b",
-    "size": 25244
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-006-moss-garden-teahouse-preview.webp": {
-    "sha256": "6e807dce149f48251a02979d87193c23c92f9b46dfe4a0b5ee019da8aa1d3e84",
-    "size": 25834
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-007-the-map-room-preview.webp": {
-    "sha256": "d3d766245bc0caad54e6cf9400530a7702c21689aaa70c7a7ee127cac2f15da6",
-    "size": 29684
-  },
-  "images/catppuccin/shelters/omarchy-shelter-247-painters-studio-north-light-2K.webp": {
-    "sha256": "3a100cbad5e29b88d3d86e6a391827803a38efa15f510cbbe06d1c8f1cf3b68d",
-    "size": 282400
-  },
-  "images/catppuccin/shelters/omarchy-shelter-246-the-nursery-tunnel-2K.webp": {
-    "sha256": "f12a8639baca9d6f4e5447196497cd17173559325f10e9c6742b7d7e12112220",
-    "size": 344138
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-008-pinball-repair-preview.webp": {
-    "sha256": "c28f1b26cb22d626a0e59cc68dc88b43f8cb36eca688ceca63ef3d89961feaa0",
-    "size": 26768
-  },
-  "images/catppuccin/shelters/omarchy-shelter-248-observatory-dome-inside-2K.webp": {
-    "sha256": "15b41d11315d015c45df6371d4e805e4ec8b83ae0773adbc4f8649b6bc64dbf1",
-    "size": 232424
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-009-fire-lookout-tower-preview.webp": {
-    "sha256": "9f43f5f1502d7236fa2c67e843929f6da3053d4b7fa40b8ceb2c324e15fe8e6f",
-    "size": 23232
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-010-control-tower-abandoned-preview.webp": {
-    "sha256": "129e8a5360e5e55d86d88349f6a6cfc18f94d06c5bea9f7ba176bd092a0e0456",
-    "size": 27146
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-011-vending-machine-corner-preview.webp": {
-    "sha256": "ead71836db26762bce30915aa81d32e858ea3380c923be096f95d475c4699b48",
-    "size": 26142
-  },
-  "images/catppuccin/shelters/omarchy-shelter-249-tailor-with-a-terminal-2K.webp": {
-    "sha256": "bee795860ab7b2ed9b378a4343d6b271329c15d60415c50ac2e7b1907bcfd6a9",
-    "size": 257130
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-012-the-fish-tank-room-preview.webp": {
-    "sha256": "a805f04d11800f87daba66786cb4e6513f8d318cbbcda1a760c0a43a3eb86bab",
-    "size": 22240
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-013-the-vinyl-basement-preview.webp": {
-    "sha256": "52d766894cf9e6ec14ba9f6fc50e1a2ae80d74009d10a59b080c47b1dcbfa6c5",
-    "size": 28492
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp": {
-    "sha256": "6c07b4ce457e0220f34b5b47eec76594d65cfda0119134def91afb9582a24467",
-    "size": 28658
-  },
-  "images/catppuccin/shelters/omarchy-shelter-250-rooftop-cinema-2K.webp": {
-    "sha256": "a11a29bc0f7050d750916df377985c3c74a7ebbfa5f4f34ceda8c1e1b7c53df2",
-    "size": 322818
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-015-laundry-terrace-preview.webp": {
-    "sha256": "5bfcb5077dc0d0b3e71c07e7f2f5608314b51eaeb31dd5136ae86192726c24d2",
-    "size": 25602
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-016-rooftop-noodle-cart-preview.webp": {
-    "sha256": "fbac5fd31353ad3ea37280803d93339603b769264192611bd1b0952d09462943",
-    "size": 28848
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-017-the-tea-corner-preview.webp": {
-    "sha256": "f34a14ba07e8adfb56f2fd716290727a20b4934c3f00e242fe76f77b02a77668",
-    "size": 27984
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-preview.webp": {
-    "sha256": "27cec8ce7606482d1938b95d0d6c9470dfe22ca7d0e785aedbf35f3d3cdbc68b",
-    "size": 30766
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-019-the-guard-hut-preview.webp": {
-    "sha256": "ff2e930460e25871b28d8a28d02eea73a323e3afcaf0137b2539bffee025a9fe",
-    "size": 26610
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-020-stadium-under-seats-preview.webp": {
-    "sha256": "aca272a5bbdf6d06b8844131be40275375b8a24386b85b85fafc51d9bc2c5b02",
-    "size": 30344
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-021-airstream-under-the-overpass-preview.webp": {
-    "sha256": "d5b8808d9643d92cd0ed32bd86c118dc5dd68c98691b876c7b29026ee47aafc1",
-    "size": 22790
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-022-parking-garage-level-nine-preview.webp": {
-    "sha256": "5e87c1e48ad658c96dd7c12b55dee3ef5d62d73802d4c859c8d8d1456e946727",
-    "size": 31278
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-023-the-satellite-dish-den-preview.webp": {
-    "sha256": "b8354de07074e1d8a55df87a359ddce6b6fe14c1f67a0b9413144fb328bf5d98",
-    "size": 33316
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-024-the-elevator-machine-room-preview.webp": {
-    "sha256": "7aac17dc15692736a58a157e0525c529fdca7468373e6c10e5d466716babea77",
-    "size": 28490
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-025-aerial-walkway-hut-preview.webp": {
-    "sha256": "279ec1b06bfb786224d16fef4647ad7d7478410cbf1bce9743ebe47892c31fd0",
-    "size": 26786
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-026-rooftop-hammock-deck-preview.webp": {
-    "sha256": "d85495e35f1b0d1afaeb1822bf5e7395f51a3381ab184e96c01063f67fe74f06",
-    "size": 30104
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-027-attic-of-maps-preview.webp": {
-    "sha256": "d1f0933dd8f3a71e4db333653f9b00bed50bb84f868469f3948baf228990a8e6",
-    "size": 30844
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-preview.webp": {
-    "sha256": "cd3634844392e902acb9cc1123d9e025c30b5f56ec8739a33ae387e25b4e2479",
-    "size": 26196
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-029-the-fishmonger-ice-preview.webp": {
-    "sha256": "9d96c657d89436f0f8864a575d33326ad96a7b3e6b6a93df9c1a45917486e3d5",
-    "size": 23470
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-030-crane-cabin-home-preview.webp": {
-    "sha256": "8a3fd042d5170fb61e7dcc4a6aac326741a6992b22800939bb04667b1d52e59e",
-    "size": 28210
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-031-sewing-machine-row-preview.webp": {
-    "sha256": "acbb7c6c70f495cee83f7b37b9540867d1ae2ea47722e4d58ea0eece69f5ce57",
-    "size": 23236
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-032-rooftop-orchard-preview.webp": {
-    "sha256": "6cccd0bc884f49c7aeebf1f4333789a4dbc274a7b4081863425af7bd47be3649",
-    "size": 30380
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-033-the-battery-yard-camp-preview.webp": {
-    "sha256": "0d5870dab470dd157d510c55b15cf4f2846c64a5d0ea827650cf430ebec45571",
-    "size": 30090
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-035-caravan-on-the-ledge-preview.webp": {
-    "sha256": "f3678a0dfc9e8c0b0264ba670c22993db3cf932b0b06793e0c12268eb90f9de4",
-    "size": 23616
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-034-boat-on-a-trailer-preview.webp": {
-    "sha256": "d8df1bd0912b5bf968b500640601d0c4ec097fdd076aea7a52cce68beeccb890",
-    "size": 29076
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-036-the-armoured-greenhouse-preview.webp": {
-    "sha256": "9a1bfa6a2ee3c04bb1f156619acdffc6210c827e639561815d277e0acefe3aef",
-    "size": 28558
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-037-capsule-hotel-pod-preview.webp": {
-    "sha256": "5127770aeddf94294ece6cb83de861fb27e69ae58aaff9364523414cdfebb41f",
-    "size": 25830
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-preview.webp": {
-    "sha256": "2c757a20fca2a683ea069139ce67cc873a7913def4803bdefa4c864b6149804c",
-    "size": 27862
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-039-the-recording-booth-preview.webp": {
-    "sha256": "fe84aa5f706888dfa876242dd2ccb9aa4278db6cacfeff426626967de0231432",
-    "size": 28188
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-040-bicycle-workshop-preview.webp": {
-    "sha256": "065ddbcef6c153b9b6f462b2510b18e7aa7b904538fac6ce681fc3d51b26045d",
-    "size": 28268
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-041-the-ferry-cabin-preview.webp": {
-    "sha256": "e4bc1eeb5c33a802179c1823e74b61082f6ea0c8fc4252a888eed1b783d23ae8",
-    "size": 28640
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-042-the-aquarium-shop-preview.webp": {
-    "sha256": "8f59654113abe8d13d9ed86b2d898ee91cd4c26ae975b1ee0705a33c8f96a32f",
-    "size": 29972
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-043-the-map-shop-preview.webp": {
-    "sha256": "e6200a272dceea8297d64e45971aeebeb90d2b29f4677dcceb8a113ca990d460",
-    "size": 28940
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-044-nursery-of-seedlings-preview.webp": {
-    "sha256": "6a95316764f21b73839cdb15abf6fbfd5f97ae1ca5aceba5ab0c9b026f089655",
-    "size": 26302
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-preview.webp": {
-    "sha256": "fd506b7f992b33094e5d236db6e7960fa2c0bfcb6b2d38bb12ab48af8cf32804",
-    "size": 30912
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-046-the-toy-hospital-preview.webp": {
-    "sha256": "5681d51bd56bcbe941536657bd4934a3989616a0b9b61f3e58b73b01d4ab5ff7",
-    "size": 33062
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-047-pedestrian-bridge-hut-preview.webp": {
-    "sha256": "137023499f315a27607bece75246d9eaecba4d4127ad8b00cc181e2170acabeb",
-    "size": 25412
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-048-pontoon-greenhouse-preview.webp": {
-    "sha256": "b6d138c80f9aa2fa43db321d680692340ecbf14bdc1eeef5714abe33e6959231",
-    "size": 26042
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-049-flooded-street-boat-preview.webp": {
-    "sha256": "a103236eae3ff6421346bb7967214c5ed76f0fb2de6d5b740f3d30e756a7cd6d",
-    "size": 24682
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-050-the-freight-depot-preview.webp": {
-    "sha256": "17f85630ceaf5fe0ad29e64236a76f211e05f07f05bfee9cc42a0cb83b29f581",
-    "size": 27776
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-052-grounded-fuselage-preview.webp": {
-    "sha256": "5dcae2d684dbe0ea690fe6399279b30c6a85c4c370d7f681761ea135449c5508",
-    "size": 23594
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-053-the-projection-booth-preview.webp": {
-    "sha256": "3b22f95f5ba7660bde9fdff2aad1335051d1bb204127ba5b77d8680abedd51a7",
-    "size": 24014
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-054-the-midnight-bus-preview.webp": {
-    "sha256": "46d078ac70af7a64afe8d49f51d88a41ab77806df9fcb5b24599be5eae505f29",
-    "size": 27404
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-055-the-server-room-bed-preview.webp": {
-    "sha256": "0524f2f945e706f24df2fa5c90292a7ba77e5115460119920c929ae7517076b5",
-    "size": 33542
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-056-the-bell-tower-preview.webp": {
-    "sha256": "72047286f1310555ec378eaf602167628f50f5c00185fdb04d5f937cbbb946ab",
-    "size": 25208
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-057-sampan-kitchen-preview.webp": {
-    "sha256": "94bbcdf66a4b8812d464d611e28ddef401cb396e3fb46a63a6cce7ddb5a08519",
-    "size": 22868
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-058-armoured-van-archive-preview.webp": {
-    "sha256": "a58b9c2f63b2849235fd6ef57fe310847b40e0e4d714754072136d93bd7a4550",
-    "size": 22606
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-060-rooftop-koi-pond-preview.webp": {
-    "sha256": "d811cd7873886e1a815197666d487b23004614fff215c40c67180a7e8928d3a4",
-    "size": 28580
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-059-the-sluice-house-preview.webp": {
-    "sha256": "1183c11e106d9dfca5a69a460a2c9ffcb215650c30f644f700772fbee8370df9",
-    "size": 33000
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-061-combine-harvester-house-preview.webp": {
-    "sha256": "76ee18023d5eb218da05ce9b35731cb9f585e104149fed85e55efcac468459ad",
-    "size": 25342
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-preview.webp": {
-    "sha256": "0863c906d5aedc9694be9753a8f2caafd99cdd22b56330a4a0ab9f54460c787e",
-    "size": 30990
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-063-the-camera-shop-preview.webp": {
-    "sha256": "4a127c04ac47937cb1d0e50f3faa3d8b77af1ad73d23256439b72e5920bb8380",
-    "size": 30038
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-065-the-ferry-waiting-room-preview.webp": {
-    "sha256": "aaeee23887a10f82bf129182b2f03e307a5926416603299223ae64b7aaff9fae",
-    "size": 24990
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-064-the-petrol-station-preview.webp": {
-    "sha256": "12cda89de3489c60410209dcf9d222e1d8c80eb355d0dad937cef82e9a542aea",
-    "size": 24684
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-066-the-rooftop-greenhouse-preview.webp": {
-    "sha256": "4493bf4cd62c0fcfd37459425efe32019755703f08df5bf5155fbae313a1807a",
-    "size": 30556
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-067-the-one-room-with-a-view-preview.webp": {
-    "sha256": "c6fe1f8fca20abb8c6b47a730cd4269ce66dc0a0caf30bc0d92afc30fe27b2cb",
-    "size": 24168
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-068-electronics-repair-shop-preview.webp": {
-    "sha256": "61460d96bb8f1ee6d7b5d1497e2caa234c57e3c67d7631b3e76e6a10cd39d3ef",
-    "size": 25656
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-069-the-underpass-room-preview.webp": {
-    "sha256": "5d60f9718ac10711bf18f7247ddf2d65e96d1f811ef79642e3c9134d0e84c48a",
-    "size": 29294
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-070-water-tower-lantern-preview.webp": {
-    "sha256": "481d3351eadfbd2ba68fb80180c2b1e1684cb6fd28f9f27b19c63f65c3ee5c91",
-    "size": 20244
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-072-hacker-loft-of-monitors-preview.webp": {
-    "sha256": "d02a13560333dec4a0164021073592f202de6973bda90aca179025cef1eb1ac5",
-    "size": 23652
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-073-rooftop-onsen-preview.webp": {
-    "sha256": "7771a8e68cb17a304c85d5c23d829055ca0bbc72178eaff99e71fdedcf406c64",
-    "size": 26748
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-071-archive-of-tapes-preview.webp": {
-    "sha256": "234ec367ca0b62b9e52f5cd61e942888e96014c13775d7454d54b2f820452e01",
-    "size": 33252
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-075-the-apiary-in-the-park-preview.webp": {
-    "sha256": "1f97a71bdfd37e45241d7d603e13956d7c017df0cec8792528862c7202ab88b4",
-    "size": 25522
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-074-postal-van-darkroom-preview.webp": {
-    "sha256": "277e3167d3a82256ee0ebd74a5a3ca307cd75417549692802f733ccee74aafec",
-    "size": 30038
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-076-the-cable-car-station-preview.webp": {
-    "sha256": "e7e96d6024579d7657d0d018c827956f10f5ec78f41af062e9e3335abab0e75d",
-    "size": 28734
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-077-the-clockmakers-window-preview.webp": {
-    "sha256": "9c2fd355848de7b1665f9cd277a260c6198da24980721e533b7600f197f1c0f7",
-    "size": 27334
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-078-dormer-window-desk-preview.webp": {
-    "sha256": "7d4e7695d0257b84213e5f7c61acf9c07902533c485e8b77d9e5e2da43eb430f",
-    "size": 32184
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-079-candle-and-circuit-preview.webp": {
-    "sha256": "63eac22b1cc52ef723d13857c99f9937ae2be6eff8a21f13ca835ac3ba588a92",
-    "size": 22178
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-080-tunnel-mouth-camp-preview.webp": {
-    "sha256": "a28b28e41c2e867a814458cbd267099f6a5624f41bd776681dc742c194dacfb9",
-    "size": 32392
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-preview.webp": {
-    "sha256": "350677548675a415c29bb933d08b433fbcf26dbd4a60dc7913ef98c08dba58a9",
-    "size": 36570
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-083-the-pier-shack-preview.webp": {
-    "sha256": "9437df3116cb8bf74b876e58bee699ed8e006956fc96e26e93df31e18dbcd836",
-    "size": 25180
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-preview.webp": {
-    "sha256": "04d133fe646bd4e37d14e412f0717411e61cbe1b0afe19c85f9a1c7bbe0b8f9f",
-    "size": 32340
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-084-tea-house-and-server-rack-preview.webp": {
-    "sha256": "730c4981dec474f25db8d35c0cdeb7e632ee1ab94e443d339c8860430e29369f",
-    "size": 18154
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-085-the-beekeeper-terrace-preview.webp": {
-    "sha256": "704c63592f5d7367c5326a16794e221dabbb9f5af4b1ea78328600175264853c",
-    "size": 27470
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-086-the-tea-and-modem-preview.webp": {
-    "sha256": "2811f675c8f0d4c7d4771e834bad7fe7729314a30e1c21db1a9228f56682afdd",
-    "size": 28264
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-088-shack-above-the-neon-preview.webp": {
-    "sha256": "1c2bebdc5c4d7b56ba3d0764e1ded645c89a50322ac88269317ea137392dc2c6",
-    "size": 22106
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-087-zeppelin-gondola-preview.webp": {
-    "sha256": "a718c409bb446d0466256a9849bb7d12dd6464734ff287a4cf853bdd68d450cc",
-    "size": 29346
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-089-server-farm-bedroom-preview.webp": {
-    "sha256": "368297afd936d8ac9fdf02c5815064b1a231920f312be3003b1dd8b8e2d0e2e1",
-    "size": 27708
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-091-water-tower-loft-preview.webp": {
-    "sha256": "da6966a6cd9e92d2079836e871546a621d5e08f9c664b792b587dbf469a6e6bd",
-    "size": 28612
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-090-solar-panel-garden-preview.webp": {
-    "sha256": "5c9e3206a15b0ad8f8310bccf77baad1f01177f728dceffe8d56399f3c274842",
-    "size": 31588
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-092-the-weighbridge-office-preview.webp": {
-    "sha256": "df9242d8e6da90eed7cc49efa57866b1e467091446c2474723e28bb40f2910b8",
-    "size": 31500
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-093-the-penthouse-shanty-preview.webp": {
-    "sha256": "f4ae23f28acc1f7030900a14c9b32e446e7b14f0dbd59082ae7bfaa08d437e0d",
-    "size": 34612
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-094-bathtub-with-a-skyline-preview.webp": {
-    "sha256": "c2659fe91fceb687fc868e08171fa2b66c9baab19026acf832830d7eb5e86eac",
-    "size": 25984
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-095-late-night-copy-shop-preview.webp": {
-    "sha256": "33baf326e3def0d5c164e331b4d18fa62ff28747075c07b4e543cddf6dcfb7f5",
-    "size": 20908
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-096-the-lamp-shop-preview.webp": {
-    "sha256": "7ff0ba546d83ff949f06cd98eb1b016560d13ac02150975eccc4456b565e9dae",
-    "size": 31254
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-097-the-canal-lock-house-preview.webp": {
-    "sha256": "e3d79b481a8c03e44bd1973da14e5c724e369f11f45a6ad504cae58d3e9f07cb",
-    "size": 27202
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-098-billboard-scaffold-camp-preview.webp": {
-    "sha256": "214645379af1c24568623b095f4b10c39c4ce88ae8e09b541489f36d3261ee4c",
-    "size": 31794
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-099-stairwell-landing-desk-preview.webp": {
-    "sha256": "8027f4e53f0475d8b62063c33afaae31007dc8bd07af90ced1557220c18a0628",
-    "size": 27980
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-102-the-bookbinder-preview.webp": {
-    "sha256": "8f93cfa32c0fa8179eead7a2c4a1f59691b4d0d4c38f590dec153c8c50237a87",
-    "size": 23122
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-101-the-allotment-shed-preview.webp": {
-    "sha256": "93474a78edfb03a9745f6655217322c135a9fd72a1eff9cef13baae3beefb4e1",
-    "size": 31042
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-103-stairwell-hut-preview.webp": {
-    "sha256": "1b9e2780292526dd903e92d694839865f42e663d01e63b944b266052b4adb727",
-    "size": 26408
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-104-laundromat-at-3am-preview.webp": {
-    "sha256": "0658c726c17eb5126730ab2ea911981d556b2b4677aa41a19156056191459503",
-    "size": 23886
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-105-the-cable-junction-hut-preview.webp": {
-    "sha256": "c6ea089c780afdd085697ac9080d8ce69442a183e2f1e66a0d6556d89da55b9c",
-    "size": 26564
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-106-the-tattoo-parlour-preview.webp": {
-    "sha256": "841504a96127ab7608b7e036011ac1d5c7d7bfe8ab47196a42a204df99a050a9",
-    "size": 21320
-  },
-  "previews/catppuccin/shelters/omarchy-shelter-107-rooftop-radio-station-preview.webp": {
-    "sha256": "9d553c2a2adc9ffebca02fc4125d8ba911c41187c9df3b6ed5b233eaeeb21ab8",
+    "sha256": "d8dcb4cd7e80ac8a8cff3718ef15738edc2943552336fb0414165f100bbd6efc",
     "size": 27554
   },
+  "previews/catppuccin/shelters/omarchy-shelter-100-the-bookmobile-preview.webp": {
+    "sha256": "f05257a54ed15e849f02423f99c9fbb47f5eef00c1a1c33bdbe413bf3d2bebbc",
+    "size": 22376
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-152-skylight-studio-preview.webp": {
+    "sha256": "bdb60aca7df6f65d81b62acb2f6f1a322e8cab561ef76244f67b1861e3572cf0",
+    "size": 27458
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-201-the-rooftop-forge-preview.webp": {
+    "sha256": "e2525029983dfa9ad4a213354bf67553cd2aecbd6f007eb582aad56ba156f267",
+    "size": 20340
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-250-rooftop-cinema-preview.webp": {
+    "sha256": "39e1ac9b4fffeb525227f8782c1ea8314091e43086f3a6838e5bffe1eacbcde6",
+    "size": 22634
+  },
+  "images/catppuccin/shelters/omarchy-shelter-005-rooftop-sauna-2K.webp": {
+    "sha256": "9e8c23274b434a73fe15f65d728847527274324471443a7a299d5ddc1189f2cb",
+    "size": 182056
+  },
+  "images/catppuccin/shelters/omarchy-shelter-004-mahjong-parlour-window-2K.webp": {
+    "sha256": "b279728e4c928f95a267a3e12246e7675c10c65d73fad4b60deab5a36bd2839a",
+    "size": 215312
+  },
+  "images/catppuccin/shelters/omarchy-shelter-007-the-map-room-2K.webp": {
+    "sha256": "57f229235b03f7aa175eb1e15330379aa8809e3271f79160cd96a21be05110c3",
+    "size": 292666
+  },
+  "images/catppuccin/shelters/omarchy-shelter-002-the-instrument-rental-2K.webp": {
+    "sha256": "339f4564ca3cc733b65fa72e9803f1db60c2950bcb539208c1ea443c3b337da4",
+    "size": 297514
+  },
+  "images/catppuccin/shelters/omarchy-shelter-001-helicopter-on-the-roof-2K.webp": {
+    "sha256": "566c9785164084bc1ac9291607b8744e87c7a45683a88661182bcdf1ba4e1c12",
+    "size": 180636
+  },
+  "images/catppuccin/shelters/omarchy-shelter-008-pinball-repair-2K.webp": {
+    "sha256": "b2fb1dfdae42ad58ce4b393971aee9e6e04eaeb4693e7c0d91ccf4fcb6da2f6d",
+    "size": 274702
+  },
+  "images/catppuccin/shelters/omarchy-shelter-003-the-old-windmill-2K.webp": {
+    "sha256": "6791646da36ede6d45a2ed138fc9cecebd5ba61a7cb9f49972eeb9cc9958343c",
+    "size": 238580
+  },
+  "images/catppuccin/shelters/omarchy-shelter-006-moss-garden-teahouse-2K.webp": {
+    "sha256": "07c98878676144d4fe2c364607555978adaf3c13ebf889a66a5231bfdaf0194c",
+    "size": 243932
+  },
+  "images/catppuccin/shelters/omarchy-shelter-009-fire-lookout-tower-2K.webp": {
+    "sha256": "199e3f94c7904668c7588e0dbf3c2af0b75e855e83c65e343569f5d29139777b",
+    "size": 175846
+  },
+  "images/catppuccin/shelters/omarchy-shelter-012-the-fish-tank-room-2K.webp": {
+    "sha256": "617e314cdd132325f0631fd056e4df6a2a62a0c3453f7edb980d026d8325da4d",
+    "size": 187322
+  },
+  "images/catppuccin/shelters/omarchy-shelter-010-control-tower-abandoned-2K.webp": {
+    "sha256": "789f170bd0cde6aedb3e5e0a80a24eb64924a3a8f2733711b5bb053b066b76b0",
+    "size": 225578
+  },
+  "images/catppuccin/shelters/omarchy-shelter-011-vending-machine-corner-2K.webp": {
+    "sha256": "9a1ab28fdd1e741808335fffaa4941f18c89764df29e2d79f83f3a54215492b6",
+    "size": 207184
+  },
+  "images/catppuccin/shelters/omarchy-shelter-013-the-vinyl-basement-2K.webp": {
+    "sha256": "378977f51ff98886465cd571448941b1f85c86063369c60f35ebb5671d76b45f",
+    "size": 246252
+  },
+  "images/catppuccin/shelters/omarchy-shelter-014-pharmacy-green-light-2K.webp": {
+    "sha256": "90da9783b913953b36f46c537e24b6b756ed1538e4bc24dd6bb812913c7dd24b",
+    "size": 232128
+  },
+  "images/catppuccin/shelters/omarchy-shelter-015-laundry-terrace-2K.webp": {
+    "sha256": "3abe0c65f9d377567f5c974620d06b4427338f92fa46da56dc6e9321712b52a8",
+    "size": 198266
+  },
+  "images/catppuccin/shelters/omarchy-shelter-016-rooftop-noodle-cart-2K.webp": {
+    "sha256": "ebe1fffbe4f050abf473276c5291cc88bd73374c69b39b82fb79b44d24e62839",
+    "size": 213238
+  },
+  "images/catppuccin/shelters/omarchy-shelter-019-the-guard-hut-2K.webp": {
+    "sha256": "70753dbff8463fccadc3312bf1d2e101c8528bf9d171658929a9221fd99b8d1a",
+    "size": 169558
+  },
+  "images/catppuccin/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-2K.webp": {
+    "sha256": "7bdc96ad5165fab8bc8734bbca4fa6bb90542ae275b828ca618810a07db9b716",
+    "size": 248588
+  },
+  "images/catppuccin/shelters/omarchy-shelter-017-the-tea-corner-2K.webp": {
+    "sha256": "279e6f80185adc090e424501861ad327beda67a58b02811e5e5650978dee91cb",
+    "size": 235234
+  },
+  "images/catppuccin/shelters/omarchy-shelter-021-airstream-under-the-overpass-2K.webp": {
+    "sha256": "6b633428033b9fe0d4584b438001a9da726b1851fc5234b3b817845c16950195",
+    "size": 248210
+  },
+  "images/catppuccin/shelters/omarchy-shelter-020-stadium-under-seats-2K.webp": {
+    "sha256": "286de9556931e14ded0b78232015e48f0015698d9008e3d8c252805f99732eb8",
+    "size": 263454
+  },
+  "images/catppuccin/shelters/omarchy-shelter-022-parking-garage-level-nine-2K.webp": {
+    "sha256": "e290512e9b972f7b417c6186741f4ee16f0810e1cfee88a5adbc92aa58584c81",
+    "size": 228866
+  },
+  "images/catppuccin/shelters/omarchy-shelter-024-the-elevator-machine-room-2K.webp": {
+    "sha256": "b1f91462c5485d7a986b410c95ead7269ead2ad6634e5a2e63b13c05fae9fa17",
+    "size": 233468
+  },
+  "images/catppuccin/shelters/omarchy-shelter-023-the-satellite-dish-den-2K.webp": {
+    "sha256": "5c64c6a6602a3c31e73b5c30c1d8edd5aa1f747086ac028d9156fbf59feaa4f1",
+    "size": 251940
+  },
+  "images/catppuccin/shelters/omarchy-shelter-025-aerial-walkway-hut-2K.webp": {
+    "sha256": "e8117c141b7593617acdbceba5b81b30bdbbbf58ede03037b6dffdd7fee94fd2",
+    "size": 220856
+  },
+  "images/catppuccin/shelters/omarchy-shelter-026-rooftop-hammock-deck-2K.webp": {
+    "sha256": "909f7c5ff725e989af10b57b781ac5c11411d87f64845b324ecc5eb8ad65d9e6",
+    "size": 321512
+  },
+  "images/catppuccin/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-2K.webp": {
+    "sha256": "2d9602af0b49efb3ab67a61b54abcbbbfcbe8dd3a0c2dfe9b988e56b97829cd0",
+    "size": 218826
+  },
+  "images/catppuccin/shelters/omarchy-shelter-029-the-fishmonger-ice-2K.webp": {
+    "sha256": "e620c32db850817ba7ecb64bc4e51b6b1bda85220712c14c2d2dd3cb5917c9ce",
+    "size": 205834
+  },
+  "images/catppuccin/shelters/omarchy-shelter-027-attic-of-maps-2K.webp": {
+    "sha256": "d0fa1f8996ed0ab306937adee5921b90f2eae46582611b82394259ca33905776",
+    "size": 276422
+  },
+  "images/catppuccin/shelters/omarchy-shelter-030-crane-cabin-home-2K.webp": {
+    "sha256": "caafe048b4f87b3c2a408541585c430c5be7480078714e005fd14f34bf000399",
+    "size": 206628
+  },
+  "images/catppuccin/shelters/omarchy-shelter-031-sewing-machine-row-2K.webp": {
+    "sha256": "0825ffc79c9441ba3c5b67fd275d036deabd21058a6f1459756cd9f65f7cfd92",
+    "size": 273500
+  },
+  "images/catppuccin/shelters/omarchy-shelter-032-rooftop-orchard-2K.webp": {
+    "sha256": "24a79ac106c0f84aa1b20af48ccf0ded7a190b04df59360f79cf0dffb87b98dc",
+    "size": 261476
+  },
+  "images/catppuccin/shelters/omarchy-shelter-033-the-battery-yard-camp-2K.webp": {
+    "sha256": "2885ebc8a7f2b1589d71424f7af6e2608be06e4f8801d0507361fdb5c9a6fea4",
+    "size": 201714
+  },
+  "images/catppuccin/shelters/omarchy-shelter-037-capsule-hotel-pod-2K.webp": {
+    "sha256": "e611fe0722f6116ed140bf9047bd7653c264a459624a9d7448b220bd1cc6ec37",
+    "size": 188490
+  },
+  "images/catppuccin/shelters/omarchy-shelter-035-caravan-on-the-ledge-2K.webp": {
+    "sha256": "8005f82a0f06de696c0bf0453781bb9018387f0c5f8f9b82bc579b63d51ff322",
+    "size": 234814
+  },
+  "images/catppuccin/shelters/omarchy-shelter-034-boat-on-a-trailer-2K.webp": {
+    "sha256": "f5ec98b592e288767a6cc98b3cb9555d095fdccfdfd1675e2e2d1ce3144989d3",
+    "size": 225088
+  },
+  "images/catppuccin/shelters/omarchy-shelter-036-the-armoured-greenhouse-2K.webp": {
+    "sha256": "6583fa217c97ca41cfa34a67386c6573e5efc83edb725356823021c3e14e1152",
+    "size": 257520
+  },
+  "images/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-2K.webp": {
+    "sha256": "455a2fff0f2a39c2741c91009deeb07e96d5be0e6b03c6ad5c65291607393fd7",
+    "size": 166270
+  },
+  "images/catppuccin/shelters/omarchy-shelter-039-the-recording-booth-2K.webp": {
+    "sha256": "76dbfadd1cda082bb3f7b72bb947bd16f6e979b341bfd736d7c0c7727789e758",
+    "size": 281810
+  },
+  "images/catppuccin/shelters/omarchy-shelter-040-bicycle-workshop-2K.webp": {
+    "sha256": "3fa8e67cbfe8277f6764a4ca2f5352852c74b48f45d10d4f343d08a6b729d7e5",
+    "size": 236164
+  },
+  "images/catppuccin/shelters/omarchy-shelter-044-nursery-of-seedlings-2K.webp": {
+    "sha256": "eba4e660c47e766e1483d6974c1ed5ba16ad7a5c88c24bbd114015d95f8dcafc",
+    "size": 260750
+  },
+  "images/catppuccin/shelters/omarchy-shelter-043-the-map-shop-2K.webp": {
+    "sha256": "372eaa4cf3e3dd7059fd58c5f373c22b555ef872cbbf2b5a977b2c3d88308537",
+    "size": 265162
+  },
+  "images/catppuccin/shelters/omarchy-shelter-042-the-aquarium-shop-2K.webp": {
+    "sha256": "a91960f40000d9bbda5fc092d6fb1d08ed3da4254a1401b213ac8e9646632211",
+    "size": 247418
+  },
+  "images/catppuccin/shelters/omarchy-shelter-041-the-ferry-cabin-2K.webp": {
+    "sha256": "e678c87219df8feedbe22d32da921287f73f1c68f837e92e59b3a4602ce69230",
+    "size": 275568
+  },
+  "images/catppuccin/shelters/omarchy-shelter-047-pedestrian-bridge-hut-2K.webp": {
+    "sha256": "a98ca57dd6051d2596c37053e7444ed6a0a13872bfc2636c389c62f6b35a2132",
+    "size": 230426
+  },
+  "images/catppuccin/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-2K.webp": {
+    "sha256": "d5f6d411a10b4d33745b7ca0c91bff43f56cdd43643e4922d11685c8d44ea8b4",
+    "size": 442232
+  },
+  "images/catppuccin/shelters/omarchy-shelter-046-the-toy-hospital-2K.webp": {
+    "sha256": "d524a494c12d362374ca8177a214bda8572fe0e1f0a4b686719e56d5d3b2f1e6",
+    "size": 292150
+  },
+  "images/catppuccin/shelters/omarchy-shelter-048-pontoon-greenhouse-2K.webp": {
+    "sha256": "789ae832d3b0b4403102540fb49ffa80bc62dd51ff61d4d1fc26bcf20dfce310",
+    "size": 200970
+  },
+  "images/catppuccin/shelters/omarchy-shelter-049-flooded-street-boat-2K.webp": {
+    "sha256": "652afa4d90f9a7df42ae15e5e61e5e804521735f39f28ff22a3778af4b04880e",
+    "size": 177088
+  },
+  "images/catppuccin/shelters/omarchy-shelter-052-grounded-fuselage-2K.webp": {
+    "sha256": "22537349be0bdc329c7df651a44b6078dbcebe8402372855b419fbeeded638cc",
+    "size": 168992
+  },
+  "images/catppuccin/shelters/omarchy-shelter-050-the-freight-depot-2K.webp": {
+    "sha256": "10a40e68f5c08539c24ef666b4cc1de1240635e4304201bba1fe5788485215e6",
+    "size": 200946
+  },
+  "images/catppuccin/shelters/omarchy-shelter-054-the-midnight-bus-2K.webp": {
+    "sha256": "c27477c9584e674ca09d75f071b2386e963a8493e36d991803f0e566c1a03f3f",
+    "size": 200578
+  },
+  "images/catppuccin/shelters/omarchy-shelter-053-the-projection-booth-2K.webp": {
+    "sha256": "f49c8f27dbff3c24c92e5b02738cec57245f8525d590d488e75c319a71c2f48d",
+    "size": 250302
+  },
+  "images/catppuccin/shelters/omarchy-shelter-055-the-server-room-bed-2K.webp": {
+    "sha256": "ba9856da128cb8249337d71f1ae04aa5cd73df24073d628b8be4ca6c39aa6629",
+    "size": 254634
+  },
+  "images/catppuccin/shelters/omarchy-shelter-056-the-bell-tower-2K.webp": {
+    "sha256": "0a652c0ce7c22d3482a109b75270ae21e4fa5cda0fbf6ec654481208be1fc125",
+    "size": 193760
+  },
+  "images/catppuccin/shelters/omarchy-shelter-057-sampan-kitchen-2K.webp": {
+    "sha256": "4bb408fd9d84e84ada160d64d0a32b1c7a7a8681c5a1541df7e6628e6007dfea",
+    "size": 236408
+  },
+  "images/catppuccin/shelters/omarchy-shelter-058-armoured-van-archive-2K.webp": {
+    "sha256": "ed74bcee213f87e6dacdfefb7fdf49d8a0e3477055adb70ec7e7abe71b05aa5c",
+    "size": 208454
+  },
+  "images/catppuccin/shelters/omarchy-shelter-061-combine-harvester-house-2K.webp": {
+    "sha256": "77c71cfbcaab71ea86a568e59763fd3f776dd34878ba8f46b1978b46e14287cc",
+    "size": 193084
+  },
+  "images/catppuccin/shelters/omarchy-shelter-059-the-sluice-house-2K.webp": {
+    "sha256": "5293b255b8c963ae6db644127dd854ef0f5d99b957becee57610d13f54ed63d5",
+    "size": 228134
+  },
+  "images/catppuccin/shelters/omarchy-shelter-060-rooftop-koi-pond-2K.webp": {
+    "sha256": "d4949e7a941dea647a1de81c221cd19da7a17f5165d282fb1fd91c099df6f58a",
+    "size": 238010
+  },
+  "images/catppuccin/shelters/omarchy-shelter-064-the-petrol-station-2K.webp": {
+    "sha256": "61b37254a9ee88aa769ecaf4c2d4c8de4e216491216ac9225759e5c792debb3f",
+    "size": 123544
+  },
+  "images/catppuccin/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-2K.webp": {
+    "sha256": "db1abb12a9d13373101ed090e1d5c3582487d3bbe10538dc5cf873b6a83a34c6",
+    "size": 242782
+  },
+  "images/catppuccin/shelters/omarchy-shelter-063-the-camera-shop-2K.webp": {
+    "sha256": "44a3ce0af00cd296cfe4e87befcc50ab5cb92f4b6824429ec8f9182dc993bbbd",
+    "size": 288948
+  },
+  "images/catppuccin/shelters/omarchy-shelter-065-the-ferry-waiting-room-2K.webp": {
+    "sha256": "e3477fa43436a7652432daa448a273e912d37e98ee91b3c5a77b286fc679dfe9",
+    "size": 190140
+  },
+  "images/catppuccin/shelters/omarchy-shelter-067-the-one-room-with-a-view-2K.webp": {
+    "sha256": "9d8c2d58b8310cec1bb33b47b019628175e013862309406168e199c867300fc1",
+    "size": 188546
+  },
+  "images/catppuccin/shelters/omarchy-shelter-068-electronics-repair-shop-2K.webp": {
+    "sha256": "983138c4a52ac54b19ff3727487f6deb680f139ae7d18c0b284076cd2bb486b1",
+    "size": 274738
+  },
+  "images/catppuccin/shelters/omarchy-shelter-066-the-rooftop-greenhouse-2K.webp": {
+    "sha256": "6da5c863c00509218cdbb9620ae0b6c135bf1a1a32c56b2d1c43bd44f0d2daa6",
+    "size": 336848
+  },
+  "images/catppuccin/shelters/omarchy-shelter-070-water-tower-lantern-2K.webp": {
+    "sha256": "32e128bf3b574b4fea9217114f7dbc633268592a39c4f763efe58923840de312",
+    "size": 180802
+  },
+  "images/catppuccin/shelters/omarchy-shelter-069-the-underpass-room-2K.webp": {
+    "sha256": "3e3d2dfb39f85fb67ac2e18d30415bcb15fdf5c5126a9965e218cd2df5523058",
+    "size": 207028
+  },
+  "images/catppuccin/shelters/omarchy-shelter-071-archive-of-tapes-2K.webp": {
+    "sha256": "5d8df297ef26ccb1f79bfdf5f547ecee2af244803686ce66d0e4cc55daaa0c62",
+    "size": 347856
+  },
+  "images/catppuccin/shelters/omarchy-shelter-072-hacker-loft-of-monitors-2K.webp": {
+    "sha256": "f84651fb0418621009ef5510ce3781655add329049b110a6c28ba6e279f96e84",
+    "size": 289952
+  },
+  "images/catppuccin/shelters/omarchy-shelter-073-rooftop-onsen-2K.webp": {
+    "sha256": "82b0d0a5fffa576c08abed1f63ad1fa79f1dcd563a58ea1b0ca3bac52385c0ce",
+    "size": 200754
+  },
+  "images/catppuccin/shelters/omarchy-shelter-074-postal-van-darkroom-2K.webp": {
+    "sha256": "cb78b41bed2ee248d7b150bb01752f70b8d785cd17277c72ba2f094e9ab9dc1f",
+    "size": 228492
+  },
+  "images/catppuccin/shelters/omarchy-shelter-075-the-apiary-in-the-park-2K.webp": {
+    "sha256": "fb8eb1f237235833fe53d07a81a51166bbf1fdc62ab693098a1406c8e83f93cc",
+    "size": 262270
+  },
+  "images/catppuccin/shelters/omarchy-shelter-076-the-cable-car-station-2K.webp": {
+    "sha256": "dee8258f5b3b45f7dfe56b7fceb640430a3175a1fe4ba7c6b0d05ed6d629943c",
+    "size": 273900
+  },
+  "images/catppuccin/shelters/omarchy-shelter-077-the-clockmakers-window-2K.webp": {
+    "sha256": "fdb41a0cd3e1c647a0ebdbc659dffd5df8a001a52131d0491a92c4549d50909e",
+    "size": 244922
+  },
+  "images/catppuccin/shelters/omarchy-shelter-078-dormer-window-desk-2K.webp": {
+    "sha256": "d96f6a9c9fca4fd60575126e8c4a43877ded89729e202df9b6aba4c340b6842f",
+    "size": 324834
+  },
+  "images/catppuccin/shelters/omarchy-shelter-079-candle-and-circuit-2K.webp": {
+    "sha256": "b99fb208b7265fc2762a2578faf7431c9f9fe268e828807247ade549fca2c2b9",
+    "size": 231836
+  },
+  "images/catppuccin/shelters/omarchy-shelter-080-tunnel-mouth-camp-2K.webp": {
+    "sha256": "3dba78a4a945197924124108afc5c730238eb3bafd991fa822b1ff87cf20ab93",
+    "size": 287254
+  },
+  "images/catppuccin/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-2K.webp": {
+    "sha256": "aa85796f1077e7e1896b8a4435fbdcaab2b5afd662d67478515aa5d8f9f717a8",
+    "size": 296124
+  },
+  "images/catppuccin/shelters/omarchy-shelter-084-tea-house-and-server-rack-2K.webp": {
+    "sha256": "81300edd2745569ce264834c63ce55ded5513f0e47153a7d8db1d6c2ac5b04ff",
+    "size": 178974
+  },
+  "images/catppuccin/shelters/omarchy-shelter-083-the-pier-shack-2K.webp": {
+    "sha256": "3736df20b968bf5908627c7b2e2d48fc780b410d21c4ccd7065ea55ac95f38cb",
+    "size": 220890
+  },
+  "images/catppuccin/shelters/omarchy-shelter-086-the-tea-and-modem-2K.webp": {
+    "sha256": "55567433c02714886890ddad5002bfb0bcdee36bc424710bc4a48329070cefa0",
+    "size": 216410
+  },
+  "images/catppuccin/shelters/omarchy-shelter-085-the-beekeeper-terrace-2K.webp": {
+    "sha256": "34dbd3f1a531c7034ef9d2b175344890261b7a47e03aa73e8fc134029602ee59",
+    "size": 191330
+  },
+  "images/catppuccin/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-2K.webp": {
+    "sha256": "db8e1f9e333c39939ed09f376dc4a76f17397c543e9d70bdeb1b3e9124edc6a5",
+    "size": 390970
+  },
+  "images/catppuccin/shelters/omarchy-shelter-087-zeppelin-gondola-2K.webp": {
+    "sha256": "3252848e0d0df3ce0ab6dd61b66937105651d30dc70c7e7cf4febcf1b10c4c24",
+    "size": 247514
+  },
+  "images/catppuccin/shelters/omarchy-shelter-088-shack-above-the-neon-2K.webp": {
+    "sha256": "568fcb17925d5350ae584d930f00fb5a42fa2cd13b370c4fc434adab0cecbe03",
+    "size": 215554
+  },
+  "images/catppuccin/shelters/omarchy-shelter-089-server-farm-bedroom-2K.webp": {
+    "sha256": "a2bcb9b13533bad7780ad510693b7f1cf7555f019673863e14fbf10937001ba8",
+    "size": 242626
+  },
+  "images/catppuccin/shelters/omarchy-shelter-090-solar-panel-garden-2K.webp": {
+    "sha256": "58ace71499d968d8e7ebb49506fae1930e1dc166adc33dfbc2070c3083d12ab2",
+    "size": 322096
+  },
+  "images/catppuccin/shelters/omarchy-shelter-091-water-tower-loft-2K.webp": {
+    "sha256": "d5d5922dae77bf24d31064a5cc03b03975d218f82d2252fd481648558dc65283",
+    "size": 185034
+  },
+  "images/catppuccin/shelters/omarchy-shelter-095-late-night-copy-shop-2K.webp": {
+    "sha256": "1516f22238449f737dcb6822fea0acdee3881d00e285ddd91f5465ef71f55e51",
+    "size": 160372
+  },
+  "images/catppuccin/shelters/omarchy-shelter-093-the-penthouse-shanty-2K.webp": {
+    "sha256": "03f0bcb3cc59fc2d025a69da98e96c96d5288e74f1ef01b49547a16261c447ab",
+    "size": 254970
+  },
+  "images/catppuccin/shelters/omarchy-shelter-092-the-weighbridge-office-2K.webp": {
+    "sha256": "a023148236c5e7750c475978b1de32bc30a8602c49d8655ac4ff8e13907a2166",
+    "size": 224938
+  },
+  "images/catppuccin/shelters/omarchy-shelter-094-bathtub-with-a-skyline-2K.webp": {
+    "sha256": "00018cfeb43f71fe50ecd0fa328d72fd66b628d67f23f7b34eb3a506d7b82bd3",
+    "size": 211878
+  },
+  "images/catppuccin/shelters/omarchy-shelter-096-the-lamp-shop-2K.webp": {
+    "sha256": "644009cd5147de371642cbaa7839f52516c3f65c219e21a978ad1c3102a76d5f",
+    "size": 287736
+  },
+  "images/catppuccin/shelters/omarchy-shelter-097-the-canal-lock-house-2K.webp": {
+    "sha256": "3dd627389362163ef9457915d765f588724485096aaaa98e0d7b4481f6a74806",
+    "size": 261806
+  },
+  "images/catppuccin/shelters/omarchy-shelter-099-stairwell-landing-desk-2K.webp": {
+    "sha256": "d8ad37d2d9dfaf106e3802caf1b574ca586db1adb561ea3feacdff646b28869b",
+    "size": 267216
+  },
+  "images/catppuccin/shelters/omarchy-shelter-102-the-bookbinder-2K.webp": {
+    "sha256": "150751a0bc01babab39ce4ddac5bef44b720267bf672487b1829559aca408a90",
+    "size": 216516
+  },
+  "images/catppuccin/shelters/omarchy-shelter-098-billboard-scaffold-camp-2K.webp": {
+    "sha256": "344e49cd44ba82c76a703c1f7352d8c63e77f8c457caf0ab5a9807d3bbe4b6f3",
+    "size": 287158
+  },
+  "images/catppuccin/shelters/omarchy-shelter-103-stairwell-hut-2K.webp": {
+    "sha256": "f9c2d59ade892939db9a6235862acb2612a1920a26b665f208742dcc2e962fd3",
+    "size": 213210
+  },
+  "images/catppuccin/shelters/omarchy-shelter-101-the-allotment-shed-2K.webp": {
+    "sha256": "80f96d74ac994e132b8460d6a86606b13951fea3de8d10e610615cee9b19e4ac",
+    "size": 284128
+  },
+  "images/catppuccin/shelters/omarchy-shelter-104-laundromat-at-3am-2K.webp": {
+    "sha256": "37b1f6b2cad7143b016db6ceeda9645f679feae5f871cb972e6203a52005636b",
+    "size": 183772
+  },
+  "images/catppuccin/shelters/omarchy-shelter-105-the-cable-junction-hut-2K.webp": {
+    "sha256": "0a785c70b2e011607ee1c413c55716a57935dbe6782c284919f7fe3a2f77c2dd",
+    "size": 291816
+  },
+  "images/catppuccin/shelters/omarchy-shelter-106-the-tattoo-parlour-2K.webp": {
+    "sha256": "74fa422c6050bdb9d873f1c2503a3aff8320ba73f3c017246fd5181644f6dc1e",
+    "size": 212028
+  },
+  "images/catppuccin/shelters/omarchy-shelter-107-rooftop-radio-station-2K.webp": {
+    "sha256": "dd8ede8f5ec328fdc3d7bca2a4519ddb1da08e0afcfa8deaafaa414f5933a18b",
+    "size": 274638
+  },
+  "images/catppuccin/shelters/omarchy-shelter-108-the-ruined-arch-2K.webp": {
+    "sha256": "e8c7b5be552eb644a61c55ee36ee2d080efc4ed150b8bfed797fd23d03075656",
+    "size": 282474
+  },
+  "images/catppuccin/shelters/omarchy-shelter-109-library-in-the-fog-2K.webp": {
+    "sha256": "cf4ea802110b5b27cb6b4b8ecef0b44ecebc4acdf9c2bacc52e861be0ecc6a36",
+    "size": 263288
+  },
+  "images/catppuccin/shelters/omarchy-shelter-110-harbour-crane-cabin-2K.webp": {
+    "sha256": "5dfa81e4d1f0cdf1ff518e9d1162006d084dcfb582a5a5130cbcbd37498c05aa",
+    "size": 222392
+  },
+  "images/catppuccin/shelters/omarchy-shelter-111-the-sewing-room-2K.webp": {
+    "sha256": "6be234937c23277fecca9696cdb6f14ea0d1d32529790d4954a0c8ca53cfa88e",
+    "size": 285846
+  },
+  "images/catppuccin/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-2K.webp": {
+    "sha256": "89e605c601cb55845a3567dcf5c91b251dfb52031d6162ac21c71323da6207bb",
+    "size": 161614
+  },
+  "images/catppuccin/shelters/omarchy-shelter-113-canal-side-flower-barge-2K.webp": {
+    "sha256": "f7fdd965026b2907c11f2d0de884c3a152f5c0ff859d78bc14669b4b55a95e7c",
+    "size": 264950
+  },
+  "images/catppuccin/shelters/omarchy-shelter-114-the-ski-lift-shed-2K.webp": {
+    "sha256": "63c80dbe59d0106eeac9f9acaefa97d6df5fff9478878c1426740774b808be1b",
+    "size": 194502
+  },
+  "images/catppuccin/shelters/omarchy-shelter-115-the-empty-office-home-2K.webp": {
+    "sha256": "7f217b87dce60238611c960b58c73c64d6369b956c9e6f188a5a707280949fe7",
+    "size": 308276
+  },
+  "images/catppuccin/shelters/omarchy-shelter-119-rooftop-bathhouse-2K.webp": {
+    "sha256": "5d49aced4f6227b0d7e01f728fab51bed4fa6e3497f4c77601119f011f6c21bb",
+    "size": 183812
+  },
+  "images/catppuccin/shelters/omarchy-shelter-116-datacenter-noodle-bar-2K.webp": {
+    "sha256": "5538d25f6ab7654d82de27173af1a1140d0f32d214a00180059c4862ddc5f8d7",
+    "size": 259120
+  },
+  "images/catppuccin/shelters/omarchy-shelter-118-the-rooftop-bar-2K.webp": {
+    "sha256": "e8eda01d9d606d16602ec202827294c514e739f0d705aa6443da9abbab3f255f",
+    "size": 244264
+  },
+  "images/catppuccin/shelters/omarchy-shelter-117-loft-of-open-cases-2K.webp": {
+    "sha256": "8f937d74d7789f76ffee0f76af7556f7dde373f47df29f170db68791a8b2ace3",
+    "size": 294436
+  },
+  "images/catppuccin/shelters/omarchy-shelter-120-airfield-hangar-corner-2K.webp": {
+    "sha256": "817aa6ddc9e492c942006969c4a096d2a1429bf5d78a4478db123a7f6a845c47",
+    "size": 279006
+  },
+  "images/catppuccin/shelters/omarchy-shelter-121-the-bonsai-workshop-2K.webp": {
+    "sha256": "771d04cca2f5b34864f8387640d29109597d513d06b9446b7dc108b0692044c5",
+    "size": 281486
+  },
+  "images/catppuccin/shelters/omarchy-shelter-122-mechanics-loft-2K.webp": {
+    "sha256": "68044e49a89dbef7eb3e67d23caae962ebc6a2453ebba8e2d70360687dc30630",
+    "size": 309786
+  },
+  "images/catppuccin/shelters/omarchy-shelter-124-grain-silo-home-2K.webp": {
+    "sha256": "3f1be71c68356a039cf3f5b7361082635a0b4da4da8faac51aa74a8a2dc7abdf",
+    "size": 163952
+  },
+  "images/catppuccin/shelters/omarchy-shelter-123-the-shipwreck-room-2K.webp": {
+    "sha256": "c57d63a7df78719c63b836868c580986d80ef65a4ffa04b24ddede62bcb519a9",
+    "size": 248638
+  },
+  "images/catppuccin/shelters/omarchy-shelter-125-study-with-two-chairs-2K.webp": {
+    "sha256": "027780fa64a3df4da185122e0f144da72c7643f0514e9ec6f73db3fb58cde4b1",
+    "size": 275266
+  },
+  "images/catppuccin/shelters/omarchy-shelter-126-ambulance-refuge-2K.webp": {
+    "sha256": "429b5949733d5816bfacf2d2e5adb7b6fa64a7ec760cf6cc68d626f5f67784d6",
+    "size": 225894
+  },
+  "images/catppuccin/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp": {
+    "sha256": "77d974805f065c8bbeec7524b4113326b91cf6382833610ddc948578c208f7b4",
+    "size": 170146
+  },
+  "images/catppuccin/shelters/omarchy-shelter-127-floating-market-stall-2K.webp": {
+    "sha256": "c49eb9480cbad922cb024443453aad4905013971775f9d1b5a667308ba9ca102",
+    "size": 263850
+  },
+  "images/catppuccin/shelters/omarchy-shelter-129-the-milk-float-2K.webp": {
+    "sha256": "e5f4f4a3b5e38c9593084085de2c2c4c94994c0a5a7864d098ceaa0bcd63126f",
+    "size": 220292
+  },
+  "images/catppuccin/shelters/omarchy-shelter-130-bulldozer-den-2K.webp": {
+    "sha256": "fb826a391a244dc5901f58a6a8e40f93d24d017413cf07c5d27169cf6c269e91",
+    "size": 186896
+  },
+  "images/catppuccin/shelters/omarchy-shelter-133-flower-stall-rain-2K.webp": {
+    "sha256": "273729e42fbc99c22e6db3e18e6ff86f4cd3cfccba9161f49e38210f8d8486ee",
+    "size": 235646
+  },
+  "images/catppuccin/shelters/omarchy-shelter-132-the-freight-nest-2K.webp": {
+    "sha256": "a2e8cd4f475c78a5066d22f6daf279542665dd157eb88c0aa0eb12db383b2983",
+    "size": 270394
+  },
+  "images/catppuccin/shelters/omarchy-shelter-131-urban-vineyard-hut-2K.webp": {
+    "sha256": "7a1a4391f4a13a37f8c312861d2fa313f58048c7e771113f9232ce1714a61857",
+    "size": 278250
+  },
+  "images/catppuccin/shelters/omarchy-shelter-134-houseboat-of-lanterns-2K.webp": {
+    "sha256": "1df2eac43a0fc110f69bfcd042dfe4d34b90e56e1d3a7a35551cf8952f1bac8c",
+    "size": 221836
+  },
+  "images/catppuccin/shelters/omarchy-shelter-135-limousine-lounge-2K.webp": {
+    "sha256": "c3a1f8097318c111561fc53a88d34150d839cb73fac5b1ea2c43b254c5d28b44",
+    "size": 217814
+  },
+  "images/catppuccin/shelters/omarchy-shelter-136-snowplough-shelter-2K.webp": {
+    "sha256": "04446cee4cfdca7e9eabdc947013a87aec4be61086389132e144e289328f18bf",
+    "size": 214742
+  },
+  "images/catppuccin/shelters/omarchy-shelter-137-crane-yard-office-2K.webp": {
+    "sha256": "492310f61312a3013635196d04d5b158498b89356efd28907a652f48cddc12d3",
+    "size": 236276
+  },
+  "images/catppuccin/shelters/omarchy-shelter-138-control-room-of-nothing-2K.webp": {
+    "sha256": "4090d704a23d6b9f7867c6e161d7139d00c6148f61182d17579c0f630c3154b9",
+    "size": 315436
+  },
+  "images/catppuccin/shelters/omarchy-shelter-139-the-last-terrace-2K.webp": {
+    "sha256": "6604a94babdc9c2c0eeb754b20110f2d5621cc67b45df0525cb007d83d91609d",
+    "size": 238876
+  },
+  "images/catppuccin/shelters/omarchy-shelter-141-subway-entrance-kiosk-2K.webp": {
+    "sha256": "07118d76928cc7ee5dac5a0ca8ee8d3f266de4fa09104dde4e9075f195e91442",
+    "size": 229714
+  },
+  "images/catppuccin/shelters/omarchy-shelter-140-the-clocktower-room-2K.webp": {
+    "sha256": "692f23b330bd674ab3d8307a780e8ac150ad1e0197fd7f02c6c95843f652a30e",
+    "size": 270206
+  },
+  "images/catppuccin/shelters/omarchy-shelter-142-the-boiler-room-home-2K.webp": {
+    "sha256": "5e705f81e8e636da3353b18f5f1eee88e8dd376127c10a2959b231deeabf9036",
+    "size": 289106
+  },
+  "images/catppuccin/shelters/omarchy-shelter-143-the-observatory-shed-2K.webp": {
+    "sha256": "1e037261b95b35eeabe9df039a459208085514482befe9f33ed594e90bfda7f4",
+    "size": 260114
+  },
+  "images/catppuccin/shelters/omarchy-shelter-144-dry-dock-home-2K.webp": {
+    "sha256": "af88f3865df19d6c2892808bbe8a06fdcee5946de62e09d77644178812b094b7",
+    "size": 217026
+  },
+  "images/catppuccin/shelters/omarchy-shelter-145-dam-keepers-house-2K.webp": {
+    "sha256": "b2acb09e59e8393a06dc2e71c1e19e845e7a5db81bab3bb93d7803f2afa4bf5d",
+    "size": 152852
+  },
+  "images/catppuccin/shelters/omarchy-shelter-146-bakery-back-room-2K.webp": {
+    "sha256": "8b103171c8824342f2c50968a35ea77bdf2951ea2181b35ef073f3cfd25a5df7",
+    "size": 178802
+  },
+  "images/catppuccin/shelters/omarchy-shelter-147-the-window-seat-2K.webp": {
+    "sha256": "f9e55c04794c2ab00734611cdcf84e6e0a78c0180b420d56ada5e4d483451c6a",
+    "size": 239738
+  },
+  "images/catppuccin/shelters/omarchy-shelter-149-the-last-westfalia-2K.webp": {
+    "sha256": "685e96a2ed1105895a1e91c26b3b0166cf10107d27651ef293b5013306ce219a",
+    "size": 242500
+  },
+  "images/catppuccin/shelters/omarchy-shelter-148-pigeon-loft-lantern-2K.webp": {
+    "sha256": "013cf786689fcfa90a3cd65849a228c928bd4e419ec12e2239b4c1ec4ad6eb7d",
+    "size": 207978
+  },
+  "images/catppuccin/shelters/omarchy-shelter-151-the-terminal-at-the-end-2K.webp": {
+    "sha256": "9b603cde95cef2cf05bc864834b803d8e4f0cc840c6ce7b75b2888cf9f1c3412",
+    "size": 254688
+  },
+  "images/catppuccin/shelters/omarchy-shelter-152-skylight-studio-2K.webp": {
+    "sha256": "81c927190dc668e57eb51cf8fb9800134315f63841bd908d9fd7d7adbddd0ca7",
+    "size": 275886
+  },
+  "images/catppuccin/shelters/omarchy-shelter-153-the-kitchen-at-four-2K.webp": {
+    "sha256": "e0169ea33ed9532cc0db8adf564e6d4a874ce1a038d4dbc9e8a97605a1931df5",
+    "size": 203038
+  },
+  "images/catppuccin/shelters/omarchy-shelter-154-fire-truck-kitchen-2K.webp": {
+    "sha256": "0abfd8e9bff6e4b5abaf08d30b6f4d3a5a37a65c5e021b1ee5f69a71d4cb7b33",
+    "size": 307056
+  },
+  "images/catppuccin/shelters/omarchy-shelter-156-bakery-before-dawn-2K.webp": {
+    "sha256": "e70eaa5ac92c04a4a45526c9f26e482b54af60cba72f50a6a9d37031f5004157",
+    "size": 225652
+  },
+  "images/catppuccin/shelters/omarchy-shelter-155-the-scaffold-shack-2K.webp": {
+    "sha256": "7e2b5bea4860a515f04f38be719ac671c40529411d526cb727666b990695d191",
+    "size": 322668
+  },
+  "images/catppuccin/shelters/omarchy-shelter-157-prosthetics-workshop-2K.webp": {
+    "sha256": "20a28f74be6703dc5854c2dfb8e7664450e0fc77afa5d3e965fd3813403772a3",
+    "size": 277832
+  },
+  "images/catppuccin/shelters/omarchy-shelter-158-the-ramen-alley-2K.webp": {
+    "sha256": "e8a89f28332d561148726e1252aa542e5bf767df771724353d685a11883af74e",
+    "size": 233686
+  },
+  "images/catppuccin/shelters/omarchy-shelter-159-dovecote-tower-2K.webp": {
+    "sha256": "72eee92bea4329159f9db11da17a8e620eb02f2bfae204bd255edcc159302573",
+    "size": 186990
+  },
+  "images/catppuccin/shelters/omarchy-shelter-160-pigeon-race-roof-2K.webp": {
+    "sha256": "6a805d86e5499b5164e001f1af8fb5dee1201726d3194d41eebdcf2c679694c9",
+    "size": 173574
+  },
+  "images/catppuccin/shelters/omarchy-shelter-161-the-kite-workshop-2K.webp": {
+    "sha256": "5e09c042c0861e2a78538bad40371fbdc2cc9b3243eb6ea9e7a8810c31bebdfd",
+    "size": 254516
+  },
+  "images/catppuccin/shelters/omarchy-shelter-162-signal-tower-cabin-2K.webp": {
+    "sha256": "5e94bb32730e4a01353ef358cdc45dbd0c3ddff37bfa9247147d18ed765a80c3",
+    "size": 229858
+  },
+  "images/catppuccin/shelters/omarchy-shelter-163-rooftop-tent-camp-2K.webp": {
+    "sha256": "de585743c3483cd04ac742ec09a4834d3083212b5cb7491451aec72951f9f8b4",
+    "size": 226520
+  },
+  "images/catppuccin/shelters/omarchy-shelter-164-cockpit-library-2K.webp": {
+    "sha256": "f4dc4e3aa42c204a22af9da7cca34a8a9461c03f45e06bae3f82279d3548726d",
+    "size": 386050
+  },
+  "images/catppuccin/shelters/omarchy-shelter-165-rooftop-vineyard-2K.webp": {
+    "sha256": "4f694059eabe9a88c6161a2490e931eff75597614a4981a5d3268bbcffa75283",
+    "size": 285866
+  },
+  "images/catppuccin/shelters/omarchy-shelter-167-the-guitar-luthier-2K.webp": {
+    "sha256": "daf3164a79b42d495eff6aa544da929c392740e106fe2fdba4ae62b30b03da3f",
+    "size": 269160
+  },
+  "images/catppuccin/shelters/omarchy-shelter-169-the-cinema-marquee-dark-2K.webp": {
+    "sha256": "46bcf7aca716eac6be28b5abc0e0ec3c417a5ca485c0e657dc6d7a3a32a81db4",
+    "size": 202288
+  },
+  "images/catppuccin/shelters/omarchy-shelter-166-the-glasshouse-library-2K.webp": {
+    "sha256": "5e348d0e5d30c73e812cba9f333cac924de2eaa2e4612a9a43b3b619a67e94e4",
+    "size": 338806
+  },
+  "images/catppuccin/shelters/omarchy-shelter-168-fishing-boat-galley-2K.webp": {
+    "sha256": "cd05df408c4b1095142428d749f2d8adaf22562babc2d4f319a42f0c9969202a",
+    "size": 267460
+  },
+  "images/catppuccin/shelters/omarchy-shelter-170-fire-escape-garden-2K.webp": {
+    "sha256": "b88d717e824747a13c0085e35bec9ee657b53ff71e5f48c9520a28f9902c3533",
+    "size": 278544
+  },
+  "images/catppuccin/shelters/omarchy-shelter-171-rooftop-chapel-2K.webp": {
+    "sha256": "3066a5fc587eacabc0e2ac8416ce300b063f3a994688cc236630218d2c06db65",
+    "size": 197984
+  },
+  "images/catppuccin/shelters/omarchy-shelter-172-the-watch-repair-bench-2K.webp": {
+    "sha256": "337fa58dbdf42d5128f498920358bfd6780c6f3d4a51bb11fa60f498e91f352d",
+    "size": 285982
+  },
+  "images/catppuccin/shelters/omarchy-shelter-174-the-quarry-hut-2K.webp": {
+    "sha256": "df4382b05cca9764f40ca7db0ab40bb6684c622513ef677a404555b07d3ef6b8",
+    "size": 237402
+  },
+  "images/catppuccin/shelters/omarchy-shelter-173-the-gatekeepers-lodge-2K.webp": {
+    "sha256": "a8c8ec33ca1008ef0b805c9df2dbeaaed7260c63889c5e924a10b5ff94437f23",
+    "size": 353640
+  },
+  "images/catppuccin/shelters/omarchy-shelter-175-newsstand-island-2K.webp": {
+    "sha256": "056d966a3e71a2bc57c41f2fc4ba423f0d2feb227ba979af26bbe0ab0c58d9d1",
+    "size": 255752
+  },
+  "images/catppuccin/shelters/omarchy-shelter-177-dumpling-window-2K.webp": {
+    "sha256": "64ceae02818393d43cbb97e22b6ded4286ac170ebbf812bb8ddcc443c703db70",
+    "size": 247056
+  },
+  "images/catppuccin/shelters/omarchy-shelter-176-the-taxi-garden-2K.webp": {
+    "sha256": "3a25993b97169fe415b8c3c28f713c749197112515995714c2f09fb727c36b21",
+    "size": 307622
+  },
+  "images/catppuccin/shelters/omarchy-shelter-178-stilt-house-over-water-2K.webp": {
+    "sha256": "0efd00c66abe2525f7ce588a30949dcc3457adbd81100894e207865a53e924f2",
+    "size": 193148
+  },
+  "images/catppuccin/shelters/omarchy-shelter-179-the-radio-pirate-2K.webp": {
+    "sha256": "c72a369b7021c9e016d7a72c144b8e1e34eefd257cc5083e7e4cd04a5e25ddc9",
+    "size": 215612
+  },
+  "images/catppuccin/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp": {
+    "sha256": "2ce0fcf43b30356c51e08c448bf4d1593a5f2db04ac519aa263b0fc25297d4e0",
+    "size": 312734
+  },
+  "images/catppuccin/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-2K.webp": {
+    "sha256": "ed90d9d61c4dffec314432a91550769d4d02936d1da9da0939e6f81f305af132",
+    "size": 220500
+  },
+  "images/catppuccin/shelters/omarchy-shelter-183-pigeon-post-office-2K.webp": {
+    "sha256": "be42e034eb1b8512c2353491cc483c0da37e7f3623c25b9a696c933c2056d49e",
+    "size": 193470
+  },
+  "images/catppuccin/shelters/omarchy-shelter-182-the-drone-port-shack-2K.webp": {
+    "sha256": "68db2fc96700ce65345ec5fdbea0ab9fac00fe7fb33a79f6bdc48ba4f21c9c44",
+    "size": 242744
+  },
+  "images/catppuccin/shelters/omarchy-shelter-184-the-piano-in-the-dark-2K.webp": {
+    "sha256": "97edc68156940e050cbf62e7fdc2950e838adb6116f2b26072c6e2b26c94c18b",
+    "size": 183704
+  },
+  "images/catppuccin/shelters/omarchy-shelter-185-sleeper-car-atelier-2K.webp": {
+    "sha256": "75c00d30fc29ee65d52e8fd70360a4e3119ab8ffff0c2c113d21ddade0da1311",
+    "size": 245990
+  },
+  "images/catppuccin/shelters/omarchy-shelter-186-seed-bank-room-2K.webp": {
+    "sha256": "0f8c88b3531a2c5d6e6927b93545c80e3e69ca4f36b320548d1b42f3d60a4f04",
+    "size": 326124
+  },
+  "images/catppuccin/shelters/omarchy-shelter-187-empty-pool-camp-2K.webp": {
+    "sha256": "90956585630cefd05df1253d6e0a622a0363b3021fdc2a599c4df406dadd6697",
+    "size": 237686
+  },
+  "images/catppuccin/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-2K.webp": {
+    "sha256": "b67da10666fda6d7f24e8a71b7c88d7de8b7662ff83cc3f7457d8f9ae43a3075",
+    "size": 210926
+  },
+  "images/catppuccin/shelters/omarchy-shelter-189-submarine-hatch-home-2K.webp": {
+    "sha256": "6edf46a3fe079602f51d40216e083364d4ebaa03cf1b90e51bd69333ffa72665",
+    "size": 178128
+  },
+  "images/catppuccin/shelters/omarchy-shelter-190-drawbridge-cabin-2K.webp": {
+    "sha256": "86acf4c49bd36b1166e4a39c1925325ea0fcb9adf4e28e1464974f7bf574486c",
+    "size": 200950
+  },
+  "images/catppuccin/shelters/omarchy-shelter-191-workshop-of-clocks-2K.webp": {
+    "sha256": "dbaa05bfdddb8034e8af37599bc04f48823b71e06936660990666d55b644c2fb",
+    "size": 311880
+  },
+  "images/catppuccin/shelters/omarchy-shelter-192-cargo-bike-coffee-2K.webp": {
+    "sha256": "8d6ec4d1c8a283e843236c6e040982d8ff90202ff6532d127f8b5d9221cfad2f",
+    "size": 257348
+  },
+  "images/catppuccin/shelters/omarchy-shelter-193-laundry-room-blue-2K.webp": {
+    "sha256": "7f04b539e05ff6b57736af5b671f522c06d7712f99dbfc468ec807e107fcb344",
+    "size": 163270
+  },
+  "images/catppuccin/shelters/omarchy-shelter-194-record-press-workshop-2K.webp": {
+    "sha256": "63a9211ccd4aa88ba9bcd6c705eae45954d6104b69d2d3643b56391ffb13f8b6",
+    "size": 207344
+  },
+  "images/catppuccin/shelters/omarchy-shelter-196-photo-lab-red-light-2K.webp": {
+    "sha256": "66b941a43ffcd9b1ed17300d4bb07e71d929021bcd075760b2e9d2c2ef5209ae",
+    "size": 174766
+  },
+  "images/catppuccin/shelters/omarchy-shelter-195-subway-carriage-home-2K.webp": {
+    "sha256": "33deee09e45a98ebae85074a93e50ea8851bbdac53d0be6fd5a9088fa5d3da27",
+    "size": 377548
+  },
+  "images/catppuccin/shelters/omarchy-shelter-197-chimney-side-hut-2K.webp": {
+    "sha256": "8500c5bcede26ab08adec5874217fb8cbfee8be960ff8988275fe3d10eb9491a",
+    "size": 242312
+  },
+  "images/catppuccin/shelters/omarchy-shelter-199-the-key-cutter-2K.webp": {
+    "sha256": "7420b6e2e310d946bd583aa1614d0bfb5944dd896e299bbb09c03353f7757950",
+    "size": 168814
+  },
+  "images/catppuccin/shelters/omarchy-shelter-201-the-rooftop-forge-2K.webp": {
+    "sha256": "02ac8bb94bbd9e10ad4e0ea7a6d973a96e04c934b2f71897fd6cbc16800ef59b",
+    "size": 209172
+  },
+  "images/catppuccin/shelters/omarchy-shelter-198-curtain-of-cables-2K.webp": {
+    "sha256": "7a6d7a29ec4ec12bde4ef3e50640d52aeaf26ec6aae167c99fe3b41699ac3370",
+    "size": 331738
+  },
+  "images/catppuccin/shelters/omarchy-shelter-202-whisky-bar-one-seat-2K.webp": {
+    "sha256": "c3f17b7f83d0b63a94677c42f1fa58ddbc1e6002f399df27bd1afc605dee31fc",
+    "size": 253874
+  },
+  "images/catppuccin/shelters/omarchy-shelter-203-the-telescope-window-2K.webp": {
+    "sha256": "82c6b012c8d28163c7cf10778acc0a9e52bab70e09fa2dc792776a631735c2ea",
+    "size": 258252
+  },
+  "images/catppuccin/shelters/omarchy-shelter-204-the-barge-garden-2K.webp": {
+    "sha256": "1345ff30a731d89caf1d85e9cfa720111b3543561c4a5da6321f7bcc17388183",
+    "size": 246004
+  },
+  "images/catppuccin/shelters/omarchy-shelter-205-coffee-roastery-night-2K.webp": {
+    "sha256": "9712f543a153d9652084d956557ea6f58886eda1c6c74335b4ef92b023258133",
+    "size": 217346
+  },
+  "images/catppuccin/shelters/omarchy-shelter-206-the-mail-train-caboose-2K.webp": {
+    "sha256": "609d7e1f5818d2334fa311ddc266d065b16164bdf8c3be7770ad8252027e4675",
+    "size": 189406
+  },
+  "images/catppuccin/shelters/omarchy-shelter-209-repair-bay-of-machines-2K.webp": {
+    "sha256": "3ce3789ddbf6367c45569dae5676fd9a345d1aff2112e2e731662b8b160f0cba",
+    "size": 263972
+  },
+  "images/catppuccin/shelters/omarchy-shelter-208-transformer-station-home-2K.webp": {
+    "sha256": "259375b8523c60925115349197971913469d9af0dfa2aca8961baa97443f9eb1",
+    "size": 223776
+  },
+  "images/catppuccin/shelters/omarchy-shelter-207-shoe-repair-and-solder-2K.webp": {
+    "sha256": "9f19a00fee6abd689beab723f35bc50afd6a4475762484e2b50ce3581eb8c775",
+    "size": 259096
+  },
+  "images/catppuccin/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp": {
+    "sha256": "667c82a17c41f07d6d3d3283d8befb9474cbfb7a6ac2b8aba91b0fe70a4e90e6",
+    "size": 248314
+  },
+  "images/catppuccin/shelters/omarchy-shelter-211-deconsecrated-chapel-2K.webp": {
+    "sha256": "3bd295b3f0ab6efb897f3c185fea18d1f8d18e71652e080bf4466c627ca089f1",
+    "size": 288618
+  },
+  "images/catppuccin/shelters/omarchy-shelter-213-monorail-capsule-2K.webp": {
+    "sha256": "1953b7f7ed9869e4539661e99a37527a024b1879d11a4944d0f090f3c71ad521",
+    "size": 254114
+  },
+  "images/catppuccin/shelters/omarchy-shelter-212-the-radio-parts-stall-2K.webp": {
+    "sha256": "9268c9b680ecd30f59462f62d16b8b3eb8566840c204b8eb7dc23ce3d64a460a",
+    "size": 342632
+  },
+  "images/catppuccin/shelters/omarchy-shelter-215-the-typewriter-hospital-2K.webp": {
+    "sha256": "6a7bd62ac230df9ac0ab79f8d58eac85748e3242b8a936d6126537ad8060805f",
+    "size": 286684
+  },
+  "images/catppuccin/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-2K.webp": {
+    "sha256": "39aed67ee045b0b4974b3f3b9fd5e535d146784a26e5228cb6b4eb894ea36230",
+    "size": 270074
+  },
+  "images/catppuccin/shelters/omarchy-shelter-217-lighthouse-lamp-room-2K.webp": {
+    "sha256": "05302c4d1ede452dc9bcf4b883daaa8a350c5c2557ac90709a799bc9dc60ae75",
+    "size": 293536
+  },
+  "images/catppuccin/shelters/omarchy-shelter-216-the-oyster-shed-2K.webp": {
+    "sha256": "29ffb15811d554e2612825c282eecada9f1aef854bd5ae33301ae5d25a2cfd32",
+    "size": 189674
+  },
+  "images/catppuccin/shelters/omarchy-shelter-218-the-chess-table-2K.webp": {
+    "sha256": "166f64aeed16ed05260e3f121c3609a48cb0d8dfa09f8cd9e9d86ec98df2fc56",
+    "size": 283828
+  },
+  "images/catppuccin/shelters/omarchy-shelter-219-the-barber-and-the-cat-2K.webp": {
+    "sha256": "287f941000f93143f4b7974936a133d6d34d6b7e31e80092477c6586951c9e97",
+    "size": 220546
+  },
+  "images/catppuccin/shelters/omarchy-shelter-221-hotel-room-forever-2K.webp": {
+    "sha256": "bde1a0bdf5555c9f745aac81dd80516306b6388e0944cedf0093bb76ee13f099",
+    "size": 337688
+  },
+  "images/catppuccin/shelters/omarchy-shelter-220-the-forklift-camp-2K.webp": {
+    "sha256": "421ac6c63844051c75eecb34458d3c51e817f972c5df3d18d74e19ea3eae1289",
+    "size": 257604
+  },
+  "images/catppuccin/shelters/omarchy-shelter-222-vertical-farm-corner-2K.webp": {
+    "sha256": "d391c2aa5453533c2e1d222341b7c7f4332648e6015027b71f236d1a79887681",
+    "size": 331212
+  },
+  "images/catppuccin/shelters/omarchy-shelter-224-tugboat-galley-2K.webp": {
+    "sha256": "133510c5c2a503d427629b61d859fbf5e1122675cccbd9e31867500bc909eafc",
+    "size": 202122
+  },
+  "images/catppuccin/shelters/omarchy-shelter-223-tractor-and-awning-2K.webp": {
+    "sha256": "08fb5a95256adfdf23704b55cd7db9a8d257264d46bb4e3208b6dc263b0e9be2",
+    "size": 249980
+  },
+  "images/catppuccin/shelters/omarchy-shelter-225-bus-shelter-alone-2K.webp": {
+    "sha256": "c6096ecc101c5dbbccecc4ef2adced6e28e46ad48455d4d731fdb4dea05cf626",
+    "size": 203298
+  },
+  "images/catppuccin/shelters/omarchy-shelter-226-bamboo-grove-hut-2K.webp": {
+    "sha256": "0b1c92673d876dd9f42d4f1caea366c511525612e4b828db89b73a046373df33",
+    "size": 285982
+  },
+  "images/catppuccin/shelters/omarchy-shelter-227-the-billboard-back-room-2K.webp": {
+    "sha256": "28ade7aded3462fe18d5b69a597cb3cf4cbfa500902b496ab8997d2f5ade2f99",
+    "size": 255902
+  },
+  "images/catppuccin/shelters/omarchy-shelter-229-signal-box-on-the-line-2K.webp": {
+    "sha256": "c747a87869c5309c53a76097fa9d8dcf1663e54b0c4c377966e257bde46e24c6",
+    "size": 235828
+  },
+  "images/catppuccin/shelters/omarchy-shelter-228-the-plant-and-cable-shop-2K.webp": {
+    "sha256": "daf03c5b1ff11d9d4bbf3b892e45db1c6c131b7c6c0ebd5cabd9ae8c41ecb3ba",
+    "size": 268706
+  },
+  "images/catppuccin/shelters/omarchy-shelter-230-the-last-phone-box-2K.webp": {
+    "sha256": "cb22dd1b0f4fca0bc4772d262f290da19d5afd4e0b175b3b488f9934be90749b",
+    "size": 203240
+  },
+  "images/catppuccin/shelters/omarchy-shelter-233-the-antenna-keeper-2K.webp": {
+    "sha256": "3a241ed43c16a926080920041eb2104afcb97cb074dfec77a0aa1b947ccd2696",
+    "size": 184030
+  },
+  "images/catppuccin/shelters/omarchy-shelter-231-the-antenna-farm-shack-2K.webp": {
+    "sha256": "81871cea7670f3b8e178d8e435a5f43b785b4abb803ac97a66dd41c9ac3caea7",
+    "size": 239560
+  },
+  "images/catppuccin/shelters/omarchy-shelter-232-sidecar-repair-shop-2K.webp": {
+    "sha256": "bbe83283df2e2775729d51b8bc82f75a3894cf6ccedebeb2a9a24bf508796275",
+    "size": 281356
+  },
+  "images/catppuccin/shelters/omarchy-shelter-234-the-terrarium-wall-2K.webp": {
+    "sha256": "88bb6a90229143ba912be8c560926b9a67ce6cc812dd612ac02630ffb2e0c19e",
+    "size": 253164
+  },
+  "images/catppuccin/shelters/omarchy-shelter-235-the-rickshaw-kitchen-2K.webp": {
+    "sha256": "ab0815c74c30e88ab558cf600f8c0a0020305603fc0658c6e780e25e50be5acc",
+    "size": 290250
+  },
+  "images/catppuccin/shelters/omarchy-shelter-236-the-drone-clinic-2K.webp": {
+    "sha256": "41a7d02e67242b761bddcb881eb871dad33a490e728cba59de8e82eadd4201b9",
+    "size": 260948
+  },
+  "images/catppuccin/shelters/omarchy-shelter-237-the-cable-car-room-2K.webp": {
+    "sha256": "11b03ec0feb4a1dc8536f75a64249800576992f2166cafbde92dc10d38b83a34",
+    "size": 200514
+  },
+  "images/catppuccin/shelters/omarchy-shelter-239-the-clinic-after-hours-2K.webp": {
+    "sha256": "5590ccf3349e27c55b4f5fc06f1b502172f16e6c9333a0616d1649e893c68d49",
+    "size": 228878
+  },
+  "images/catppuccin/shelters/omarchy-shelter-238-the-pawn-shop-window-2K.webp": {
+    "sha256": "3d566d2c413ff9dd342a5bdad92bb37f6b50faa6c892133bcacc9ba12a166750",
+    "size": 253116
+  },
+  "images/catppuccin/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-2K.webp": {
+    "sha256": "784f8c1d97e75326e9f827a0866082d634029689bf19aad80b0c2d1e66ad3ae6",
+    "size": 254056
+  },
+  "images/catppuccin/shelters/omarchy-shelter-242-comic-shop-back-issues-2K.webp": {
+    "sha256": "3e9a7d1edd489c0f65312913181df234e268c9e441f072186ed7ac0ad8c989fa",
+    "size": 264322
+  },
+  "images/catppuccin/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-2K.webp": {
+    "sha256": "73dcd73916b89f837222207cec27449b62733c931c52011e291789bc15fd4df3",
+    "size": 124332
+  },
+  "images/catppuccin/shelters/omarchy-shelter-241-the-fern-house-2K.webp": {
+    "sha256": "dfd2149944de44cbed8ef8e07b8ba8cee8099a8bb455b3a4eb47b378686dc7e3",
+    "size": 286248
+  },
+  "images/catppuccin/shelters/omarchy-shelter-244-water-tank-house-2K.webp": {
+    "sha256": "f27bf1be8ec381732010001be065a53bd521e926fad3f8d98e78ccfeb09c09b0",
+    "size": 196078
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-001-helicopter-on-the-roof-preview.webp": {
+    "sha256": "263298afe70c6a1ee626662a2d516065b31ce2576b80529c4cffcc762679112f",
+    "size": 19096
+  },
+  "images/catppuccin/shelters/omarchy-shelter-245-hovercraft-skirt-camp-2K.webp": {
+    "sha256": "7e59e287510e2c0305807999811868bef843da338dcc546e2e06183e7b2c38f6",
+    "size": 236528
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-002-the-instrument-rental-preview.webp": {
+    "sha256": "75b33c1aff80323f3e5b578da3df70c0dbc612397f1b47aef41c09aeaf55436c",
+    "size": 27264
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-003-the-old-windmill-preview.webp": {
+    "sha256": "7073891656b8fa7bd9ec8a6fb5c3e6e14d20d74a46e9b5b03b6d1cb2c2652de3",
+    "size": 21538
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-004-mahjong-parlour-window-preview.webp": {
+    "sha256": "d29f4d2196577a419e1179580707d230418248659273fe4b693faf85a2a2fa3e",
+    "size": 23922
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-006-moss-garden-teahouse-preview.webp": {
+    "sha256": "f55c33f0e41dbc41dc26a8f2e582cf134047824a6514005e71aef7d962b42823",
+    "size": 26342
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-007-the-map-room-preview.webp": {
+    "sha256": "1b0b879f5f8672ec379d9c328d46024949c82dce0b7506266e87410d885eb268",
+    "size": 26298
+  },
+  "images/catppuccin/shelters/omarchy-shelter-247-painters-studio-north-light-2K.webp": {
+    "sha256": "1f7d8fe62def518c30ffb628850ac0ea425e21255bfd52695311bd41cb3188f3",
+    "size": 264708
+  },
+  "images/catppuccin/shelters/omarchy-shelter-246-the-nursery-tunnel-2K.webp": {
+    "sha256": "8b891c8061634f54006a701dae622530cb66ce62f104837720ba8b76833292e8",
+    "size": 239940
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-008-pinball-repair-preview.webp": {
+    "sha256": "eb5e9394e98bb8becc6c57c6294d9c85ca49a5b1e5e6187dad52b71676fe10be",
+    "size": 26690
+  },
+  "images/catppuccin/shelters/omarchy-shelter-248-observatory-dome-inside-2K.webp": {
+    "sha256": "0845498382a30a2937daf797d579c0271cec65c3a60d446524f40ceb55f46314",
+    "size": 203474
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-009-fire-lookout-tower-preview.webp": {
+    "sha256": "4b23c8ef8e29903c0c5dc30b412b31a26929c1d52c7b07645b26143db24b8597",
+    "size": 16164
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-010-control-tower-abandoned-preview.webp": {
+    "sha256": "26d021e834ad1bad20c4dc3f133aa7d021f732c16649c63cfe5223a847eef35f",
+    "size": 21792
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-011-vending-machine-corner-preview.webp": {
+    "sha256": "a38e9f3fabee150bcfbbd7b4f74ab342c24fdb77eb85c4162d91f514f4aec773",
+    "size": 22922
+  },
+  "images/catppuccin/shelters/omarchy-shelter-249-tailor-with-a-terminal-2K.webp": {
+    "sha256": "0946ca70d96bbc81a1afe3ebcedebf2553857d5d1853111ce6262b76e0a37cc9",
+    "size": 243698
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-012-the-fish-tank-room-preview.webp": {
+    "sha256": "ac4d650b88b7a19ef9fe4aa96ef13b13a80fb47ddf4398e6208f02a3d61d2d67",
+    "size": 19256
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-013-the-vinyl-basement-preview.webp": {
+    "sha256": "b7720203fedc4be74269626d87314dc1b1bcb76964a7c9d25211a49fb448cbd9",
+    "size": 26288
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-014-pharmacy-green-light-preview.webp": {
+    "sha256": "3ac717ef6148701a10220704f2e42ee5939a9c64bdd4e3c1d5732ba89ede1158",
+    "size": 23762
+  },
+  "images/catppuccin/shelters/omarchy-shelter-250-rooftop-cinema-2K.webp": {
+    "sha256": "77049161bf72d15806ea94b937cfc20c070a398c337d341c8414def0ee9a2b5b",
+    "size": 228184
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-015-laundry-terrace-preview.webp": {
+    "sha256": "6b5d61cc904e549baf002e2160c33e6d40873ffe067bb4e4c2453cd985eace32",
+    "size": 20854
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-016-rooftop-noodle-cart-preview.webp": {
+    "sha256": "573edd9064bca50661f0384dd34e91fa7ce6f0e9cc87f809f1d8b79ad429ec82",
+    "size": 21588
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-017-the-tea-corner-preview.webp": {
+    "sha256": "67b7c629a817bf5c0e37a6872b4e63dbacf70c4b2b32148426571725f92dada3",
+    "size": 22144
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-018-the-treehouse-above-the-ring-road-preview.webp": {
+    "sha256": "2a34644411fa2019b41c2273635818e9fce725c2cb1d01584d8c506faeb4b336",
+    "size": 23978
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-019-the-guard-hut-preview.webp": {
+    "sha256": "87bbd532ba3f8ef3aaf7ef05f76f5aa58cd05ef436d2fa1e3f989ea9753b44a9",
+    "size": 17188
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-020-stadium-under-seats-preview.webp": {
+    "sha256": "6ca328ad127c67e8e53299ee1bbd3f05fa90f1d78e56c343f6ec07d0fc6cc6d7",
+    "size": 26676
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-021-airstream-under-the-overpass-preview.webp": {
+    "sha256": "63cca20beaf6668a61814e37a9a3a0718bc6a8650695d9c1c50f9cd91f131f0d",
+    "size": 25078
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-022-parking-garage-level-nine-preview.webp": {
+    "sha256": "67ced010185c68a3813074870692cfad35657a738b028ab95a6f6efa79556b10",
+    "size": 24170
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-023-the-satellite-dish-den-preview.webp": {
+    "sha256": "0f9b4057a9fe546166df649aef567a386647b7a1e1ebefad0d6590b687e03916",
+    "size": 24412
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-024-the-elevator-machine-room-preview.webp": {
+    "sha256": "f958ca5b6655c2f56984f4ee8194d0c181ab4ddd449b6172ee4973773795361a",
+    "size": 23154
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-025-aerial-walkway-hut-preview.webp": {
+    "sha256": "e9ab8c6b69c8c40793f9597bf592a83d25ecbf58d9d1b2e60490db0077ea74cc",
+    "size": 20958
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-026-rooftop-hammock-deck-preview.webp": {
+    "sha256": "9803226312666c17df46536100de5e050093cdacd766f6a2f2501235d18a211e",
+    "size": 30578
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-027-attic-of-maps-preview.webp": {
+    "sha256": "06a6fc7d5eccbf8924601c22dfb41afa383b633d1586e770a158655dc6fc6fc0",
+    "size": 22134
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-028-noodle-cart-under-the-bridge-preview.webp": {
+    "sha256": "87da30690c515590d410eec92af88c96cb22c429b6edf23ddf0ff48b9044090d",
+    "size": 22930
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-029-the-fishmonger-ice-preview.webp": {
+    "sha256": "6aeef3be25a1fea453969d6e903214a146547cb982838c61e596dacc2787cf47",
+    "size": 21674
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-030-crane-cabin-home-preview.webp": {
+    "sha256": "a2a1cbfaf735fa07f89afcfaeaa6436ffbe29b014626cc9fbeb2b99f55163be2",
+    "size": 21646
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-031-sewing-machine-row-preview.webp": {
+    "sha256": "932f7026f8f95a1c632a2085c821dd7de687e0afb0bb6602edb17459d71c1d29",
+    "size": 28152
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-032-rooftop-orchard-preview.webp": {
+    "sha256": "aafd7c2637ea3bda2fd739b9f279c3aae39f96e7308f4bb6bd55272b36b4b5a3",
+    "size": 25844
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-033-the-battery-yard-camp-preview.webp": {
+    "sha256": "22ec9b4177fb9303cb88b7c8f9e0de20c307cbde4aa6ff8a93245b0ad37e3c00",
+    "size": 18056
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-035-caravan-on-the-ledge-preview.webp": {
+    "sha256": "3fee2384711c6ddd6cec27d82be7e0e7b6b7b451d53cfb1aa800a70c2b622213",
+    "size": 21490
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-034-boat-on-a-trailer-preview.webp": {
+    "sha256": "a7a3bac97a4aed011c061c4028a3f8c8ed3d20e94ccd28b875b38cc7075f6f64",
+    "size": 22294
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-036-the-armoured-greenhouse-preview.webp": {
+    "sha256": "9ec1fc3491220cc6d4d2c9edfd56092d36ecc1243bf756a737d6accf75cfe9aa",
+    "size": 25348
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-037-capsule-hotel-pod-preview.webp": {
+    "sha256": "d3c344578a42a527cd0842d36311b726334adcd89efdbffbcc84c494689f9fcd",
+    "size": 20780
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-038-the-old-toll-bridge-preview.webp": {
+    "sha256": "6c2a25582f18b3a4c7adae04accccf12203f51a5d562365f37b27321d712ecf5",
+    "size": 16810
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-039-the-recording-booth-preview.webp": {
+    "sha256": "82496661207a58ce22e397b11de92cd2cabb9779e978c27d4e12d11b57e80ec8",
+    "size": 26756
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-040-bicycle-workshop-preview.webp": {
+    "sha256": "096e1d5d011269ad5d810b2a60eb24e3de5b4f5c18ddecb9abe18205ff4f1340",
+    "size": 23796
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-041-the-ferry-cabin-preview.webp": {
+    "sha256": "8477c6c7993af92c56cc1375070397b58b43ebe6301e86f6b1719e4e3138098b",
+    "size": 24060
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-042-the-aquarium-shop-preview.webp": {
+    "sha256": "10daac47c4628959f0b06c2f298c6edb18a1557087571e78392d18ca964a7bcf",
+    "size": 24752
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-043-the-map-shop-preview.webp": {
+    "sha256": "d5daac737acbbc2fb10f95a1f7f348632ab72ccbde1548a969f99a5f36d83669",
+    "size": 25814
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-044-nursery-of-seedlings-preview.webp": {
+    "sha256": "18927e15e2f2794f60fddba7dd27c656d1c899de9d692d9dca7fec35f6ddd755",
+    "size": 24520
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-045-tram-at-the-end-of-the-line-preview.webp": {
+    "sha256": "a407af9966a4f2f40ec161f658f92d9ba92be75d938b303ca164b9c3c34991f9",
+    "size": 38236
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-046-the-toy-hospital-preview.webp": {
+    "sha256": "13001b8e00863e295423643124ee27dfbcd68c90ea585878957c40954433863b",
+    "size": 27978
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-047-pedestrian-bridge-hut-preview.webp": {
+    "sha256": "2470ba204fe7906245a33c7b7cfb766fa58af3b1a1098eb9bc2250dca265fcc9",
+    "size": 22760
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-048-pontoon-greenhouse-preview.webp": {
+    "sha256": "8485e0f6b8d3ba8f20f86431118fc41914aa974b0da1079ecb34fcc6980c75cd",
+    "size": 21240
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-049-flooded-street-boat-preview.webp": {
+    "sha256": "e8f6c4954e244496bfc58e9b0b5e9a19ddaa2007284e25b0e74c6c0b483d9895",
+    "size": 16250
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-050-the-freight-depot-preview.webp": {
+    "sha256": "4cbe0e1475418fd71df5a0f764b1e9a1534a00ec2c145283a00a4c7c80803fe9",
+    "size": 18824
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-052-grounded-fuselage-preview.webp": {
+    "sha256": "42b3a761f4a2656f1f6c9c2f08c926f6991dbe68ad933774d9917d74c2753789",
+    "size": 16960
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-053-the-projection-booth-preview.webp": {
+    "sha256": "66b81b23877971335293e85493dff4cded91b976209cf5f58bbfd29f0f007f8a",
+    "size": 27004
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-054-the-midnight-bus-preview.webp": {
+    "sha256": "bb5003e293e7ae6b353c0d3d5ec3ca0a908283dc3afae52666c91a3525de3c0c",
+    "size": 20098
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-055-the-server-room-bed-preview.webp": {
+    "sha256": "7db687780b6197984e2282fd91cd0a2b646d9b5da4b02afd4f5bf8b0bc1c58be",
+    "size": 27140
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-056-the-bell-tower-preview.webp": {
+    "sha256": "e3917cc5663b0b180c384fbe1dbee67c620dc907f86ea79ff1760a256d9d0688",
+    "size": 19678
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-057-sampan-kitchen-preview.webp": {
+    "sha256": "1eeeb56541e550d4408fce79f29fa0811148ce9e73a8fa54586af8587756fb5a",
+    "size": 24810
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-058-armoured-van-archive-preview.webp": {
+    "sha256": "45fa41354d5b043b6c9513648cbfe51e99a4aafa770bf074a9dd843f546795db",
+    "size": 21608
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-060-rooftop-koi-pond-preview.webp": {
+    "sha256": "c1f815720bd82cac8945cc662a5c00d5c54a4aeddde17a7604a2c9b1f2accc83",
+    "size": 19624
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-059-the-sluice-house-preview.webp": {
+    "sha256": "c1a5eca5a4f0d2f0abec13f09e5bfbd23d72d351ad0738a8595a7da4a832f585",
+    "size": 24294
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-061-combine-harvester-house-preview.webp": {
+    "sha256": "aa08770e2d716ca559042beed6b80615bb4a426571d9463a1cad8016a85ee541",
+    "size": 18314
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-preview.webp": {
+    "sha256": "8e3cdfb0e41f4191aef7527d7f3d77990ad764b0326f64c3f25d5b7eaf18a832",
+    "size": 24126
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-063-the-camera-shop-preview.webp": {
+    "sha256": "473ced9870393faa3411496fedd7eab7a63085c1123858151ee7b2c6cd9b9275",
+    "size": 31844
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-065-the-ferry-waiting-room-preview.webp": {
+    "sha256": "a1a322c05eb4bc840d04d625bd2a6a513ad389ed53eb282983f63e1b2b3f089f",
+    "size": 18190
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-064-the-petrol-station-preview.webp": {
+    "sha256": "f6808a2ba4c25a6db608adc5192216490b0121376d40929b0d80703dc5ba00e1",
+    "size": 14862
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-066-the-rooftop-greenhouse-preview.webp": {
+    "sha256": "b6a02fafc644ed9a817f6bfd78904a9f5bdaedc437d21fac8c761381f81f8d03",
+    "size": 35444
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-067-the-one-room-with-a-view-preview.webp": {
+    "sha256": "a5f913fa7948fe4f2ecb26a4cade7d00dd2ddaa76329c6c3e947d468e5e3369e",
+    "size": 21368
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-068-electronics-repair-shop-preview.webp": {
+    "sha256": "d26fb08f51110aea6821ae23b391df787b1f051af4a3429ae322b22cb8b30547",
+    "size": 28020
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-069-the-underpass-room-preview.webp": {
+    "sha256": "d9231e4020471ca75185b711042d71fbfb413d330ceff796b40299e6620d456f",
+    "size": 21834
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-070-water-tower-lantern-preview.webp": {
+    "sha256": "c3923b91fff940be70c150a42ca48f70fa5c2614a3b35ec8e1f5e6db18f387d5",
+    "size": 18232
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-072-hacker-loft-of-monitors-preview.webp": {
+    "sha256": "78eb456460fcf6347faa48362e8fede090163e16dcdfab8dc3682f26e2f2ddc7",
+    "size": 26790
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-073-rooftop-onsen-preview.webp": {
+    "sha256": "049c3796acb1a367df3c0f40d88d5a7f98f3bf9c923b72f0f6a1c4ca8f3cd515",
+    "size": 21100
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-071-archive-of-tapes-preview.webp": {
+    "sha256": "682c3cb7664340f5d88cc43087d68bfc8bba36ceef75d2e1748cfd66805e0ccf",
+    "size": 34142
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-075-the-apiary-in-the-park-preview.webp": {
+    "sha256": "23d9ba3d6b8942b4776abe596e05da671e3bccbb3973afa8da1a94c727069f0c",
+    "size": 24688
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-074-postal-van-darkroom-preview.webp": {
+    "sha256": "52cf8ebf9c09fdb111e52a554c4b107b893ba202478d212034d562258d0a6536",
+    "size": 25266
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-076-the-cable-car-station-preview.webp": {
+    "sha256": "3f949e2d7597e17e7b59d6d030b377442e7b52ec1567625794fd20c5d1215884",
+    "size": 25778
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-077-the-clockmakers-window-preview.webp": {
+    "sha256": "99e509d7ff7456a942dbc90345d4a099a644ddef60e8473c8c42d1b3dc5f6a7c",
+    "size": 21136
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-078-dormer-window-desk-preview.webp": {
+    "sha256": "9d8e57ef8257cbc1cef27cfab6d0858188eca5cbe7fc2015fd51701621e51b3f",
+    "size": 29180
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-079-candle-and-circuit-preview.webp": {
+    "sha256": "7fe634da98b63e2bdbbb8b85f736a427b35b786c9906e53642383cae749e55b6",
+    "size": 23652
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-080-tunnel-mouth-camp-preview.webp": {
+    "sha256": "9004cefb034d3ca4a93a6c7e45df737720d0c06943a51c857ae0d9768e36460f",
+    "size": 25736
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-081-tuk-tuk-tea-stand-preview.webp": {
+    "sha256": "488566ed879cfcdffb2e2bfe0d881cb66b66e31f9b7485a7306e03cd5f5082cc",
+    "size": 28804
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-083-the-pier-shack-preview.webp": {
+    "sha256": "2480753b6df5740fb975d3e34e14a315f388f4bb26ff972b5cc4b78a99518cfe",
+    "size": 23170
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-preview.webp": {
+    "sha256": "9c7f933f48ed33ba141dfaceca5cdc7debba6682dbf7927f7e4432e1cfefdc10",
+    "size": 34180
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-084-tea-house-and-server-rack-preview.webp": {
+    "sha256": "f0f41a095522b70416c710dce852e494c81a1a42f6a92f61dedec92b46359255",
+    "size": 19152
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-085-the-beekeeper-terrace-preview.webp": {
+    "sha256": "156b2c51da6cfdd58f27a23748fa25ffcd88b7c859186a0e623386676bfe6e72",
+    "size": 20882
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-086-the-tea-and-modem-preview.webp": {
+    "sha256": "0022f2a9677f9ef07d7d7cc7164ec107c94b432aa5bba211e3f8779aa5909277",
+    "size": 23482
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-088-shack-above-the-neon-preview.webp": {
+    "sha256": "1692e5e58a54caf60ce00c0bbf9353851221ffc825dc8d41e4a8b21a7fc2ee88",
+    "size": 21606
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-087-zeppelin-gondola-preview.webp": {
+    "sha256": "72870dd5bd30e3d5125cc56859e5bd941a473d07f3381cd22248107b8882558b",
+    "size": 24222
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-089-server-farm-bedroom-preview.webp": {
+    "sha256": "9f54dafece8688dc049784064b1595cd57ec468e8394d2c1816b9f5f8509a304",
+    "size": 23304
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-091-water-tower-loft-preview.webp": {
+    "sha256": "d4463f95b02caf83eed6a32007a2eb7970278bb053a3e9cf2713eb17d424695f",
+    "size": 18134
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-090-solar-panel-garden-preview.webp": {
+    "sha256": "83538eebd55cdf6a8d1f28d559244a114ad60bacd9fee1fc811019103b77fd3a",
+    "size": 30216
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-092-the-weighbridge-office-preview.webp": {
+    "sha256": "0056fca0f1189d4cac9683e9035ef0a3deb8a13908526005705323e4c2866325",
+    "size": 21380
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-093-the-penthouse-shanty-preview.webp": {
+    "sha256": "63c2c641f4f668e946c045238c5508b6d62d8b6ff767398a4909abdef024080f",
+    "size": 22566
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-094-bathtub-with-a-skyline-preview.webp": {
+    "sha256": "3940ae28d05dcaa6999da7eedcfc4d43cae477756f46cf38c421c9cb881812a5",
+    "size": 24518
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-095-late-night-copy-shop-preview.webp": {
+    "sha256": "5643e9b78af780ffb8577f259e357cf9daa6917fa857f6be0c8240ef3918ba5e",
+    "size": 19852
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-096-the-lamp-shop-preview.webp": {
+    "sha256": "c356a4ff5e8941645a8be5c1a639bf7e7b9e66248a396b08402932f16ad486de",
+    "size": 28312
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-097-the-canal-lock-house-preview.webp": {
+    "sha256": "067c153b124857073f2865330e83fbadbc86e2cd1951bcb9304e7552dc71a1fc",
+    "size": 22568
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-098-billboard-scaffold-camp-preview.webp": {
+    "sha256": "2523e512113b809aa02c2c380cc42548fa5dc60231dcf012a531e0d66821be49",
+    "size": 25052
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-099-stairwell-landing-desk-preview.webp": {
+    "sha256": "ec2eac502db8a2a9b2a0d388b644ad87c008aca0c34ae235596048ea1f241416",
+    "size": 24118
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-102-the-bookbinder-preview.webp": {
+    "sha256": "f81d0bd95fbf8626d5cc6a6ab6da8a2d63918fc90906d9aa0d04aacd3b760949",
+    "size": 22066
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-101-the-allotment-shed-preview.webp": {
+    "sha256": "ef45043a9481d35c245136e0b792902527d3d437624319581a0c70a8aa708133",
+    "size": 25028
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-103-stairwell-hut-preview.webp": {
+    "sha256": "3d48223bf60a615fa3f5ba68d5fc8dba1e2ba4112295248ce9b6405e6376fcae",
+    "size": 21914
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-104-laundromat-at-3am-preview.webp": {
+    "sha256": "0aef8cd2f1fcdd82cf45d762c044eabd9cf83ebf815f6c477ada0b4a12ce3629",
+    "size": 20282
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-105-the-cable-junction-hut-preview.webp": {
+    "sha256": "96a8148b085f061545914941aa4d24ced44d44bcc2fa853cbda92c79aa2bbd5e",
+    "size": 22760
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-106-the-tattoo-parlour-preview.webp": {
+    "sha256": "b535d53e6b375ff01ddc570cb181474d2054b6af4eb1940da820cac30bab6e94",
+    "size": 22866
+  },
+  "previews/catppuccin/shelters/omarchy-shelter-107-rooftop-radio-station-preview.webp": {
+    "sha256": "cbd0c75f7f52336d1e50318faaaadee27d029ddf136d7ce952c0d2891f56ae2b",
+    "size": 24416
+  },
   "previews/catppuccin/shelters/omarchy-shelter-108-the-ruined-arch-preview.webp": {
-    "sha256": "7cc74b9b7f655a28105b74c775b3848613cf7804d4d77bf62b6ab3412cd786f4",
-    "size": 39456
+    "sha256": "f56210716a85f8e73ddc09e69309e60e9083b655c680006f0186f1fe227be157",
+    "size": 27636
   },
   "previews/catppuccin/shelters/omarchy-shelter-109-library-in-the-fog-preview.webp": {
-    "sha256": "cb47d8f403722632904a61828b5e51da060c94f08432723c729b0710deec02f3",
-    "size": 28160
+    "sha256": "22da9e78b84db2e7b07278501538768df2e771d92ade6bf1fb4ae04f34ca1853",
+    "size": 26616
   },
   "previews/catppuccin/shelters/omarchy-shelter-110-harbour-crane-cabin-preview.webp": {
-    "sha256": "9b4e70dffc215e95873815dc4bdf911ed292713bbc250c345f981668bc7f7ada",
-    "size": 24438
+    "sha256": "3e6cbd02f38b4b60129df803ca27ec1889678a36401cb471d833719605585723",
+    "size": 21596
   },
   "previews/catppuccin/shelters/omarchy-shelter-112-the-lighthouse-and-the-city-preview.webp": {
-    "sha256": "437b04725f4fb0a966534da3c6ef50c82b45f6560df2557652ff73c1d3f51887",
-    "size": 22230
+    "sha256": "8711a9758f84472749d47b74a2b87b385cc3f6fd88264c5db50a9dc1b3276f65",
+    "size": 15156
   },
   "previews/catppuccin/shelters/omarchy-shelter-111-the-sewing-room-preview.webp": {
-    "sha256": "3aae239d8cb1644b3e53dc8604a58134cda738831f9b5c7d6007018b1b21577d",
-    "size": 29008
+    "sha256": "d6c95cbbdcdcff3bb1df619afa14b7a37f8836f3095cad0d784dc0bb1a5b93eb",
+    "size": 29506
   },
   "previews/catppuccin/shelters/omarchy-shelter-113-canal-side-flower-barge-preview.webp": {
-    "sha256": "79b5edf8a387e1d55b3c291740a1a8ceb0cc8f9e432db0ca9fc94d56188662a6",
-    "size": 32298
+    "sha256": "c89d7410f3a1335e0a10ffbb20d6c05b83e78fafe2b4e64556f906100adda332",
+    "size": 24740
   },
   "previews/catppuccin/shelters/omarchy-shelter-115-the-empty-office-home-preview.webp": {
-    "sha256": "35ad75d3aaa5666c98505326a92fe7f06aff830cc7bbf529040617d5717c1007",
-    "size": 28512
+    "sha256": "45a3eef9a077129c0a966347d2e74231e3bca7ae3b4d364a1734315d1a0ce3ee",
+    "size": 28722
   },
   "previews/catppuccin/shelters/omarchy-shelter-114-the-ski-lift-shed-preview.webp": {
-    "sha256": "02589658ee2ac2dada0cdf86f4d2c81663c94d1b20aa6176bb58eb8ea24751d7",
-    "size": 29902
+    "sha256": "9acec71a0cda352897bee19e09c8c0a093312ef90d1ba36153aba5b017fec7fc",
+    "size": 22082
   },
   "previews/catppuccin/shelters/omarchy-shelter-116-datacenter-noodle-bar-preview.webp": {
-    "sha256": "b083e9587e2628d1322e287ef5feb4786eb6af40e4fd7644869402d7a2204fac",
-    "size": 27516
+    "sha256": "33afd4cc6a144c91d1f430fae5ffac42cbd2979cfd1ccdb7c41f1ed7b506134b",
+    "size": 25924
   },
   "previews/catppuccin/shelters/omarchy-shelter-117-loft-of-open-cases-preview.webp": {
-    "sha256": "10fa6f86dbbffcf64b0b4e2656ca28d3bdd4da0f818b7fbf706fb173b4f30f64",
-    "size": 36802
+    "sha256": "0389710eb2530358404460e816d455bd50a63999fd90a6efc4594e4b9a2be301",
+    "size": 27124
   },
   "previews/catppuccin/shelters/omarchy-shelter-118-the-rooftop-bar-preview.webp": {
-    "sha256": "d847d4ae83dc7424b35d0a71455169d3d8b5ac4f44fd1e6ed663cab8bc1a5206",
-    "size": 25688
+    "sha256": "51c1faf526e02ae82e7cadb3e142d1a25042a02abcf754bfb9b8f891b9e51b4b",
+    "size": 28512
   },
   "previews/catppuccin/shelters/omarchy-shelter-119-rooftop-bathhouse-preview.webp": {
-    "sha256": "721b247b56947cef90fcd09e8dca67a767d603587b84f1ee88a0ef22e4633ba5",
-    "size": 16042
+    "sha256": "abc498244a76e98a1a8a306bb59474c7d2971add20d120d70522db880426ccf7",
+    "size": 17576
   },
   "previews/catppuccin/shelters/omarchy-shelter-120-airfield-hangar-corner-preview.webp": {
-    "sha256": "bd24b371086ba09f9958d3e78888fe559fab8c66639eea677ff8d23fb1b720d5",
-    "size": 23940
+    "sha256": "eed22cc740faf5dd1d4539dcba0ae3d62784c9e4d7f01cd9097feedec2d029bc",
+    "size": 25446
   },
   "previews/catppuccin/shelters/omarchy-shelter-121-the-bonsai-workshop-preview.webp": {
-    "sha256": "6b15d471963330660b383b7a0a6a677117f63c2bedccebabde1d9714305c8ff3",
-    "size": 34416
+    "sha256": "261fc7bfaea63d13ab7532b7d262d6d4c5bda9760e58f5321fd057cce064e308",
+    "size": 27132
   },
   "previews/catppuccin/shelters/omarchy-shelter-122-mechanics-loft-preview.webp": {
-    "sha256": "8a3211aadc6537f6b6aed5e9ee4c0ba22c0949e1479a4b1bc2ac84798f231263",
-    "size": 26984
+    "sha256": "6f6af2392452a34b8ef278ce456b4df80de4d6b04f48d686cde2fecdcb5f0b00",
+    "size": 29232
   },
   "previews/catppuccin/shelters/omarchy-shelter-123-the-shipwreck-room-preview.webp": {
-    "sha256": "5a2c0508803ae9eabbd700c2b01349312b7baa1c1b0c9a32e1a24e3c10b5bc71",
-    "size": 29934
+    "sha256": "edf608c521d21de2b6edcfcae7b2ce58f6caed5414c6dffe4f9f83a11dd1087c",
+    "size": 23570
   },
   "previews/catppuccin/shelters/omarchy-shelter-124-grain-silo-home-preview.webp": {
-    "sha256": "85f8d2ccfb5c955b803e33c00f74edb1df67fb105061b273c663e0df9488c984",
-    "size": 31410
+    "sha256": "a9e08a61e57dedc20f10a197f453f06bd13718d422ff888a0fe2b0605375ba51",
+    "size": 17028
   },
   "previews/catppuccin/shelters/omarchy-shelter-125-study-with-two-chairs-preview.webp": {
-    "sha256": "e49d7cc805144577c357f0252a725608da69a04cf0d0b08b1898a0ea004e520e",
-    "size": 28848
+    "sha256": "7a7cbc1aa07250a10395c2785c0c5a6459e2ef264fa8482c35d2201ab66462d4",
+    "size": 29088
   },
   "previews/catppuccin/shelters/omarchy-shelter-126-ambulance-refuge-preview.webp": {
-    "sha256": "3eee347fe9cb76ce6985508b1f19d4b2bf8d3c34ece87452a415288772b7c008",
-    "size": 32190
+    "sha256": "86f8fa48d319a44eb02049413844c31abcb2bf4095fb20c25f80df5ff276bf6c",
+    "size": 25240
   },
   "previews/catppuccin/shelters/omarchy-shelter-127-floating-market-stall-preview.webp": {
-    "sha256": "b70758dc7616a58b90173123dddfd1ad20699f0e4acba8e01467bb28ef780514",
-    "size": 26648
+    "sha256": "b855105e3dcafc5f763a0fcfe3754f25104299227610bab1205d8b91ae6d680b",
+    "size": 23534
   },
   "previews/catppuccin/shelters/omarchy-shelter-128-checkpoint-of-no-border-preview.webp": {
-    "sha256": "c6eec06840aa27dd4b8f94234cc78cd9dcf49ec967d32451846d7a238d407107",
-    "size": 21586
+    "sha256": "f8fc5c0b19b7eea8051f2890399cb9d5f4c8a338cb74d52a3452871e1bf45476",
+    "size": 16910
   },
   "previews/catppuccin/shelters/omarchy-shelter-130-bulldozer-den-preview.webp": {
-    "sha256": "03d4f47afb09a38fdf91108373d294faca9fbf302deddfd8bf8f600b77fb0ad5",
-    "size": 27634
+    "sha256": "e29b1f81b82fbce013efd29612c13abc852ba9d17c180840cf2199464951fd8e",
+    "size": 18302
   },
   "previews/catppuccin/shelters/omarchy-shelter-129-the-milk-float-preview.webp": {
-    "sha256": "7070a4ed71bbc55da5feb5307c29acda6bbcc6d6743e0e62926e116af19e2105",
-    "size": 30564
+    "sha256": "33570ef74ff3df2abb1753d89d892b5001c7c7f7e51fa9197e6f3c17a49d2bba",
+    "size": 25446
   },
   "previews/catppuccin/shelters/omarchy-shelter-131-urban-vineyard-hut-preview.webp": {
-    "sha256": "30e4a13d6331560b0b54096b5f79b2c368b70a0a98a45fbc9b6cc91fe1f1bea5",
-    "size": 30492
+    "sha256": "0c802199774279ac57e9be64f3c1e12ffcc648cffe3dd9c23e49bd24d4fac2e1",
+    "size": 25826
   },
   "previews/catppuccin/shelters/omarchy-shelter-133-flower-stall-rain-preview.webp": {
-    "sha256": "363fcff1c0ee164844d82ea1ff53c8cfd8476d8a9c820cfe50f8232b022e4aea",
-    "size": 28974
+    "sha256": "43da329cc9f454daa897a27810c24e25ed1356179183228a6bef67adf8588d3e",
+    "size": 24936
   },
   "previews/catppuccin/shelters/omarchy-shelter-135-limousine-lounge-preview.webp": {
-    "sha256": "77f645c6afbec201e019f9a653f5d46af8e6f6958a3973f87c9dca7a5532794d",
-    "size": 19772
+    "sha256": "d07c9cc32cbbb44f4c9141be4d6bf0388a41b2b11cbab0cea31e4568757cacea",
+    "size": 23626
   },
   "previews/catppuccin/shelters/omarchy-shelter-132-the-freight-nest-preview.webp": {
-    "sha256": "9bd7e53eadfbe60a257727969c96cf37c91ec4e1bae7dbf8551af2b5403e6353",
-    "size": 32012
+    "sha256": "5965bf20b96ae43e7123bb382c0b1ee2dcdc11fac8e3abe73bca7eea2cf0b3db",
+    "size": 23200
   },
   "previews/catppuccin/shelters/omarchy-shelter-134-houseboat-of-lanterns-preview.webp": {
-    "sha256": "55f7a533519a2f7ff4c6b3e280e0a654dfe3f0dde6dcf7d6932c34468c6fa625",
-    "size": 30856
+    "sha256": "a634ecf6ca8a075a278e173b668aa19bc4ff3c7a7c4839d73e56ac23ae26ae81",
+    "size": 23906
   },
   "previews/catppuccin/shelters/omarchy-shelter-136-snowplough-shelter-preview.webp": {
-    "sha256": "a6a20b50876553f61e6b8b4f7c721a00e42a569c61dd00769a19c292b59ae8cb",
-    "size": 27302
+    "sha256": "23041a1fa9e37452c9f3e0136cc708244b0e57168270f5229e2c3bd255eed632",
+    "size": 22132
   },
   "previews/catppuccin/shelters/omarchy-shelter-137-crane-yard-office-preview.webp": {
-    "sha256": "4a6fcf08328009097d7e364e31ced1a0212b44327657ced8eb61960a7ff620aa",
-    "size": 28464
+    "sha256": "aab256c72cc1a1b02fcd59f5507c39d0384c4bdc0ea010076d09298f6267a654",
+    "size": 22992
   },
   "previews/catppuccin/shelters/omarchy-shelter-138-control-room-of-nothing-preview.webp": {
-    "sha256": "90b66a66622cc27988fc2ff07d63977964b9dbe6f3011074e5932605a75cb1ef",
-    "size": 34202
+    "sha256": "26aeec0850bd15280823b4086479549017a7060fff7518833c677d037b80302f",
+    "size": 25292
   },
   "previews/catppuccin/shelters/omarchy-shelter-139-the-last-terrace-preview.webp": {
-    "sha256": "e827fffd6b407c5100d9cc8458f349a428c0eb840b5409573ad502505676119d",
-    "size": 31436
+    "sha256": "2874c4a384a9c358e5a8ec759ae76ecc21c1b9c8db9c25f5f11a404d748885b5",
+    "size": 25350
   },
   "previews/catppuccin/shelters/omarchy-shelter-142-the-boiler-room-home-preview.webp": {
-    "sha256": "253d92ec27371dabf7cf69693b7da876ba1561fb677e5f4c594a930a2de1ac2e",
-    "size": 22116
+    "sha256": "dae673da1055ab357ac86cc819c3ff11b271bd2334698fd297727722ac6282cd",
+    "size": 27834
   },
   "previews/catppuccin/shelters/omarchy-shelter-141-subway-entrance-kiosk-preview.webp": {
-    "sha256": "85dc929a2366c360b0be9b9b4bb120968e96a68c7991e245770a7819c3edd229",
-    "size": 29282
+    "sha256": "651cbb6267f076b5071762cdff8f76cf20d3b1df2f2662e765771ec53dea3f2c",
+    "size": 24030
   },
   "previews/catppuccin/shelters/omarchy-shelter-143-the-observatory-shed-preview.webp": {
-    "sha256": "90843973d116543321a50a5d81651e4ac044f386302a3bcf875a20e881433cf7",
-    "size": 28182
+    "sha256": "9caf34e22a3f22fb6a64a0ac348a391a2bc862ec2b68808b46db6b1630d3ba12",
+    "size": 25120
   },
   "previews/catppuccin/shelters/omarchy-shelter-140-the-clocktower-room-preview.webp": {
-    "sha256": "77d3d75d0569822b870c61cd00da93bd7922cbfa4cedc929b5f9779810c2d636",
-    "size": 33602
+    "sha256": "0c732c0ced6cdccc72742d4503881a48fd4ff028d095e2183ddb589b8f3777a4",
+    "size": 29664
   },
   "previews/catppuccin/shelters/omarchy-shelter-144-dry-dock-home-preview.webp": {
-    "sha256": "5bf7e77655aacb44dd8b71cd91db26a191af03a39ebb01670fbaa0421f31e09f",
-    "size": 22868
+    "sha256": "630780113a322d92e21801f07e8253ce2e5fd0df9374695c47efc313d63f417e",
+    "size": 19312
   },
   "previews/catppuccin/shelters/omarchy-shelter-145-dam-keepers-house-preview.webp": {
-    "sha256": "7f8c1d83289b6a72389479d9e9b0c7e7d2c7df2452152bf91e828dc08be3eb54",
-    "size": 22062
+    "sha256": "3dd283899713146b9f007d3cdcc8b428f6b96cf0b56e3eff2b25ae46b502c8e7",
+    "size": 14092
   },
   "previews/catppuccin/shelters/omarchy-shelter-146-bakery-back-room-preview.webp": {
-    "sha256": "5b22b73306009a65df40f839ff64e2025481196e4e6f7d9805707a2b0f148890",
-    "size": 24906
+    "sha256": "db06cdc354a92096651378158e5f116b22be8206ba345b8a4861fff671b10b3b",
+    "size": 19596
   },
   "previews/catppuccin/shelters/omarchy-shelter-147-the-window-seat-preview.webp": {
-    "sha256": "638debb357903b9e6aa44ea1a1f0246ca4f844df8a218023d53d5d0ac3aada65",
-    "size": 23380
+    "sha256": "155e0e50ee83d20111c762a4b136a15e7cf407535fb57f26781eb2ac967a95d4",
+    "size": 21720
   },
   "previews/catppuccin/shelters/omarchy-shelter-148-pigeon-loft-lantern-preview.webp": {
-    "sha256": "eeefbe28ec9983ce4feedc781c19116b3ee517b16ae12ccb8b8af99138257dcd",
-    "size": 30090
+    "sha256": "acd00c2c26b07a93069546ad0b98e396235705faad901ad0da637a107c094ca5",
+    "size": 21492
   },
   "previews/catppuccin/shelters/omarchy-shelter-149-the-last-westfalia-preview.webp": {
-    "sha256": "c457c073e036447564db7f2e83272bf466254edc159baf52cf2af9bb282cc80a",
-    "size": 27240
+    "sha256": "eddb05f3b7788cd5ec74af88d96803b7656a93254e2cb3cbfedb2deda676768c",
+    "size": 20998
   },
   "previews/catppuccin/shelters/omarchy-shelter-151-the-terminal-at-the-end-preview.webp": {
-    "sha256": "f3f0220cdc6489fe22892be47ec565891dd6036b2c1cdd6b2a3aca34f387e31f",
-    "size": 28466
+    "sha256": "753a74c535b92806366988fa59cd62afbd153ec47dcb5e313cae482837577d47",
+    "size": 21922
   },
   "previews/catppuccin/shelters/omarchy-shelter-150-greenhouse-bedroom-preview.webp": {
-    "sha256": "c4ef01a9676226295380858f1433ba5a4003a2b33202ad940f10359d4b8daf89",
-    "size": 35786
+    "sha256": "5aea7b56aecdf9c002ac0ef0bb15e738b2f0135ec2d9e01925631f493e839f15",
+    "size": 39442
   },
   "previews/catppuccin/shelters/omarchy-shelter-153-the-kitchen-at-four-preview.webp": {
-    "sha256": "209dd848c7c5e2cd1e14c752b6fafda25f60f68603aace6ad66eebc2c3f7fce5",
-    "size": 20914
+    "sha256": "9364cad717250747cf765e8e18232ab7c483512fa964a20c4666fe01cee9874a",
+    "size": 19054
   },
   "previews/catppuccin/shelters/omarchy-shelter-154-fire-truck-kitchen-preview.webp": {
-    "sha256": "d838ca467462598e63986b6abcc19a215d33989e0ca52021667e265cddc77910",
-    "size": 28902
+    "sha256": "1836fec83da791c5828463df62f2bd68c9fddab73578d18cc5c6ab83d9e297a3",
+    "size": 29570
   },
   "previews/catppuccin/shelters/omarchy-shelter-155-the-scaffold-shack-preview.webp": {
-    "sha256": "796d27667bbbb7b00fc0caef5af9c3a1b34d1680149c8b112e015a36b10fbb51",
-    "size": 36598
+    "sha256": "38f60201cc54b1dbcccd432098eb7fdfd46594022e533af34c5f00329c714fd8",
+    "size": 28386
   },
   "previews/catppuccin/shelters/omarchy-shelter-156-bakery-before-dawn-preview.webp": {
-    "sha256": "8918db6bb622a6a33aea156fec51596770bea816daea890c1e7d5b86550ec465",
-    "size": 21830
+    "sha256": "f28fd4ff7c74b62f9ec41b8c87245fb95dd874c88b1e129b67f84feeecdb5d99",
+    "size": 23800
   },
   "previews/catppuccin/shelters/omarchy-shelter-157-prosthetics-workshop-preview.webp": {
-    "sha256": "36edffad260944df952298e6651e48ffe789a9280d8a65d5271920f933fcea7e",
-    "size": 26620
+    "sha256": "e06b36e64a098e9ea884db44264f1fb056242b2d463d4540ae9a494ec970b799",
+    "size": 25010
   },
   "previews/catppuccin/shelters/omarchy-shelter-158-the-ramen-alley-preview.webp": {
-    "sha256": "1d929d7d327e6c8f6405aec8f9d66828cdf30821f302bccc6eb49fd0da82a856",
-    "size": 24342
+    "sha256": "be20fa91b269e986615a527f953a8cf0d78be968f5a74003c6868eeb6806e14f",
+    "size": 23804
   },
   "previews/catppuccin/shelters/omarchy-shelter-159-dovecote-tower-preview.webp": {
-    "sha256": "9bb44ffcf30fa74ac8ca09f6670fcb39e03464130b8925eaea275d772a3b42c3",
-    "size": 24300
+    "sha256": "f87fbbddaeeb7d80bfcde23d2523b6317b892120cbd32e2bc03a904b0928bd32",
+    "size": 19016
   },
   "previews/catppuccin/shelters/omarchy-shelter-160-pigeon-race-roof-preview.webp": {
-    "sha256": "2d1c7515d412e686baa2394b13a73fa24ccb6c33e14016463c0d5aa041d01c2b",
-    "size": 28348
+    "sha256": "a6e4f36c5851ec8f72cc1203f9ca151bd35913297d6a14f2b1a97406f747cdaa",
+    "size": 18718
   },
   "previews/catppuccin/shelters/omarchy-shelter-161-the-kite-workshop-preview.webp": {
-    "sha256": "7bcd6cf8592c603d7bc2a088a67941456d030801ddc453b91f8ef4a5a8b0c99c",
-    "size": 32148
+    "sha256": "c396a4262558679b4b693f5d0a9b1d9aeafe79de8dfcc62785aa477f4a4804fc",
+    "size": 24994
   },
   "previews/catppuccin/shelters/omarchy-shelter-162-signal-tower-cabin-preview.webp": {
-    "sha256": "a3d96150c2b043c050ba48cc920c91f09951f010e1715852367be3710ff9eb8b",
-    "size": 25210
+    "sha256": "7cbcffbae32b89d290e0154989385ecc9e1afad3b8bab236d3d840382639a899",
+    "size": 21626
   },
   "previews/catppuccin/shelters/omarchy-shelter-163-rooftop-tent-camp-preview.webp": {
-    "sha256": "019595297ef0c9486d6c05670b45683470e514ddabaf29edf782764234797eaa",
-    "size": 26600
+    "sha256": "19732ae3460f6c7fe8b69a3b8ee045ec359220cd7120aed8e688f68e55642bf4",
+    "size": 24308
   },
   "previews/catppuccin/shelters/omarchy-shelter-164-cockpit-library-preview.webp": {
-    "sha256": "73854d6310e5e023582e24a833d8ec3bc2d3a3c1c58eb7ec1ff2ee0266744901",
-    "size": 32088
+    "sha256": "5769f320f54f3473481de39b138613134f2324600d7374e2d22b53b8bc5f1964",
+    "size": 34588
   },
   "previews/catppuccin/shelters/omarchy-shelter-165-rooftop-vineyard-preview.webp": {
-    "sha256": "0c4515aeddf20f3ad6f757a9fa61bf4b1293b58463b90ff06159e8c58f2ef457",
-    "size": 31500
+    "sha256": "85d42de983d1ccd5db4d195f97d4d0d6621acbd0c109e7de1aced5b42f4adc30",
+    "size": 26788
   },
   "previews/catppuccin/shelters/omarchy-shelter-167-the-guitar-luthier-preview.webp": {
-    "sha256": "a8e44dd993dff0ba50cc06f4fb767a89cb9fc0f5dc489ede6676b3d8060e9885",
-    "size": 29626
+    "sha256": "c462f3a8c1bc62e4e3a69152cea428a69c5b5cdbaf939ed12a840d389cb2b4d0",
+    "size": 27212
   },
   "previews/catppuccin/shelters/omarchy-shelter-166-the-glasshouse-library-preview.webp": {
-    "sha256": "e854f72057f6447b4f40e682b18d9fc025a64a11a8e927c92473935db4864da1",
-    "size": 41720
+    "sha256": "61540dd3afef52dda8dfc30ba180fecd22bc3605d6b4fd461b03c402355e9eb1",
+    "size": 34922
   },
   "previews/catppuccin/shelters/omarchy-shelter-168-fishing-boat-galley-preview.webp": {
-    "sha256": "10000b8bfc557aad5d39c0211ec580aa760829344cd0a5f77fad6b56bc65aa83",
-    "size": 26122
+    "sha256": "3566f3477b836c1cd35aa5154920c6f8fb4d75295ed48d816a97c11c88aad928",
+    "size": 25176
   },
   "previews/catppuccin/shelters/omarchy-shelter-169-the-cinema-marquee-dark-preview.webp": {
-    "sha256": "7763c1e21eb648351f2cc89637fdeeddbbd97ed6cbf3ed0d1b21183e9852270c",
-    "size": 23430
+    "sha256": "7922b5e9139fa9d7ce284b1192eafa20570e7fd170722d0d4af83546f24caac1",
+    "size": 22410
   },
   "previews/catppuccin/shelters/omarchy-shelter-170-fire-escape-garden-preview.webp": {
-    "sha256": "7ca5bd5c24a0480800381feb49088ffe39533465f1456495e034a5fc46cbee83",
-    "size": 25430
+    "sha256": "79bc9551dc62b4c006fa7abe54d464b7ca222f70b58bdbb106411fbab3ada8a9",
+    "size": 27416
   },
   "previews/catppuccin/shelters/omarchy-shelter-171-rooftop-chapel-preview.webp": {
-    "sha256": "a6e461376e8f71fe85be181a21010548b29e0bcc610701c14132a89e4830eacf",
-    "size": 29070
+    "sha256": "db2ee96dde517cd7ff47a5b0735763f9118307fc217bc026542318bcd91d0b69",
+    "size": 22500
   },
   "previews/catppuccin/shelters/omarchy-shelter-172-the-watch-repair-bench-preview.webp": {
-    "sha256": "a13449089da1556c68af8558ba794750d3dce94d085ceed266129fefd98e5005",
-    "size": 30436
+    "sha256": "ade563451720e1d23fdcb0a7f404983a11d529a8f7ed5161c1dd329d3d6e0dbb",
+    "size": 27332
   },
   "previews/catppuccin/shelters/omarchy-shelter-173-the-gatekeepers-lodge-preview.webp": {
-    "sha256": "35f07104ddd0aadd939b3d7f7a4e0a03cad6889b9864a3e4459bb83841efb0ab",
-    "size": 26294
+    "sha256": "9cee81b481b36fb863ca11a4aba2711c12c84a83cb0704ccdc070ea1cf58f55a",
+    "size": 24882
   },
   "previews/catppuccin/shelters/omarchy-shelter-174-the-quarry-hut-preview.webp": {
-    "sha256": "ce4af21bb46622e5d751edfc10f85e31033f38694b879c4daf817e2bd5450e1a",
-    "size": 27924
+    "sha256": "cc6639adb70d85865d83a001f6e4e9af1ffc4a0f63d55d787539a37348f6300d",
+    "size": 20866
   },
   "previews/catppuccin/shelters/omarchy-shelter-176-the-taxi-garden-preview.webp": {
-    "sha256": "d31a09538b944afcb405fdc85e9322b61dfe7302ff96c50adfed3db249ffd170",
-    "size": 28798
+    "sha256": "31ce0d4003183f2c1aa09686716dc653263c9eed6247d92dd12dfb2ab5d64960",
+    "size": 26356
   },
   "previews/catppuccin/shelters/omarchy-shelter-175-newsstand-island-preview.webp": {
-    "sha256": "1ad18469e1f9198415cccb3f351c3ee28e70a264d2fcd0efda3e171d91ceb34a",
-    "size": 32896
+    "sha256": "538ae0dfe88e9098f075732b9bb4950e819f060e89aad08957b68d873d649877",
+    "size": 27550
   },
   "previews/catppuccin/shelters/omarchy-shelter-177-dumpling-window-preview.webp": {
-    "sha256": "f962147ff43a6c3c82a4bf86e78b7cd14cf60a772fa8864ab904e122bbdaacc3",
-    "size": 18574
+    "sha256": "dcb7f16137ab717b5d76180f0e5b4d494597d17760bc2f5366c1e76ca7e0e161",
+    "size": 23870
   },
   "previews/catppuccin/shelters/omarchy-shelter-178-stilt-house-over-water-preview.webp": {
-    "sha256": "9b467d2faa6c0fffef75952c620ccc9fb9a4e59f3cb10de3a287c1af6f5b51df",
-    "size": 21946
+    "sha256": "d1cdae80497b7a4d03465216f2136df07766ef53618abec4616222e15457a9ae",
+    "size": 17928
   },
   "previews/catppuccin/shelters/omarchy-shelter-179-the-radio-pirate-preview.webp": {
-    "sha256": "8c25782d300f1d31653420465900e984d24087ac860a467aecfc141544f6e48f",
-    "size": 26548
+    "sha256": "46ae7f42daf534e2856dd3f2f5a368faeac0eef30fb595871e622481a916e548",
+    "size": 18908
   },
   "previews/catppuccin/shelters/omarchy-shelter-180-the-model-railway-room-preview.webp": {
-    "sha256": "32728ba4c4745103fffd9a4b2fa41b54af8a5f36816530ffaeffbd400d3e87a9",
-    "size": 36030
+    "sha256": "b8a92ae150feb37d6fe2b242876ebf30b9e49c2c706034a34bcefbf78f294a85",
+    "size": 27958
   },
   "previews/catppuccin/shelters/omarchy-shelter-181-arcade-of-forgotten-tokens-preview.webp": {
-    "sha256": "c0b150e7d43df06712610fc70097f76903a42f8e0aded391e56df61a46a03f4c",
-    "size": 27706
+    "sha256": "fa336fb7b25eac4777e731c78d82af9312409345f7f9d4faead86c1a4c6a12fd",
+    "size": 22660
   },
   "previews/catppuccin/shelters/omarchy-shelter-182-the-drone-port-shack-preview.webp": {
-    "sha256": "8c63d7829e60cb017e884275f4e9f23930c31d569f7a381b86965a168d9acdb9",
-    "size": 25738
+    "sha256": "a97ea82fc84d944200d1c25753c77042b36e243b9fa148beed9c8eadcaa23de1",
+    "size": 23934
   },
   "previews/catppuccin/shelters/omarchy-shelter-183-pigeon-post-office-preview.webp": {
-    "sha256": "9be8fa94fa6b9822b5dc57fec7c279f88149232107edcf6da268d3a002dd9dde",
-    "size": 21178
+    "sha256": "9258b0ba7cc7f5a8c99e373e5e1b6b48ad98d1c45cc0241787674021884d8ab8",
+    "size": 17820
   },
   "previews/catppuccin/shelters/omarchy-shelter-184-the-piano-in-the-dark-preview.webp": {
-    "sha256": "25c46ffc8cbf7f0953e5fc3625da4e68d9b4208511d719748772250cbbdbe2a0",
-    "size": 26478
+    "sha256": "25b6aa674a24389c91d8e2769a27e1308a28fa2db2b5cb1681963cb7759d38ac",
+    "size": 20544
   },
   "previews/catppuccin/shelters/omarchy-shelter-185-sleeper-car-atelier-preview.webp": {
-    "sha256": "c9428f400c4ab4a5c34be048b945a82c7fb2b3067fc953962e318dad81131ea4",
-    "size": 26210
+    "sha256": "262c6a2fa03f12eb08ba6e5d0f71ebabe37527b1c8fe6fade8003381516a2880",
+    "size": 23908
   },
   "previews/catppuccin/shelters/omarchy-shelter-186-seed-bank-room-preview.webp": {
-    "sha256": "e84f713091395a09c3fe745c7f9e9a265ed84f10837c6aaf3702b518b83cfd53",
-    "size": 30696
+    "sha256": "e9dde9b20281b7b38f06b03c3ed3b407b641a4600bac39a5debaa278ab517249",
+    "size": 28588
   },
   "previews/catppuccin/shelters/omarchy-shelter-187-empty-pool-camp-preview.webp": {
-    "sha256": "eaf8c4c4a34b5ec949a06796a65d567791ead59551b28888e4ddf1376cf6f55e",
-    "size": 27012
+    "sha256": "e28880afc4a52cc9fa8cdf4dfebe3611599b2e45cfbf41bf4d66610d1a6622ed",
+    "size": 22496
   },
   "previews/catppuccin/shelters/omarchy-shelter-188-cyber-cafe-hour-nineteen-preview.webp": {
-    "sha256": "1d773db30e746885c34def32a3a722bd9b727018aa1b6e7a36eb578a930b35f0",
-    "size": 26406
+    "sha256": "c177a31f434a71585e068c858fc70111633c6516089c9e7f10a3fe670b4a818c",
+    "size": 22426
   },
   "previews/catppuccin/shelters/omarchy-shelter-189-submarine-hatch-home-preview.webp": {
-    "sha256": "c7bbe19510c5b7b290fe57574371d22e1b63b21e77e450f026b8fb3a15413cca",
-    "size": 25364
+    "sha256": "8ae70abcaea6505420da17e65bc7c0323327dd7a07c11d3769788f73b917f604",
+    "size": 17708
   },
   "previews/catppuccin/shelters/omarchy-shelter-190-drawbridge-cabin-preview.webp": {
-    "sha256": "ba0b8cf25bf4656f7915520b6a5338cf3c510cbab22f12eb7846724d09e2e6e7",
-    "size": 30528
+    "sha256": "4a8a1d54c891b69ddd6cb1f33570546bf38e62934bf9074cbe094b5b97a210f8",
+    "size": 19068
   },
   "previews/catppuccin/shelters/omarchy-shelter-191-workshop-of-clocks-preview.webp": {
-    "sha256": "da80cd09bb5f91f7fb7d88657af1b1b8fc59e53146419671d3c9b074abd9bf35",
-    "size": 28490
+    "sha256": "145e13ad0ce05c5d4df1aaab409f4047da1d0c77ac6cb337799e7f5253c9b4fd",
+    "size": 31032
   },
   "previews/catppuccin/shelters/omarchy-shelter-192-cargo-bike-coffee-preview.webp": {
-    "sha256": "721eec112075dea83772223ac344a10f67ce0dc8ffced98d22d99e5357a104cd",
-    "size": 26292
+    "sha256": "54afce24f2ee306ff57613c8c0eaf1e85beb17309282a51d569a116ee48a7622",
+    "size": 25954
   },
   "previews/catppuccin/shelters/omarchy-shelter-193-laundry-room-blue-preview.webp": {
-    "sha256": "4b1f6a0e881544118e8e7f39ee40d8e5b476d26a54ec1642482cb965d08ad7f7",
-    "size": 18498
+    "sha256": "f1e5d63e4e6eb3c55d9f1a0b6e2a63b3bf030168255718c5f1d7afda5688ce4e",
+    "size": 15840
   },
   "previews/catppuccin/shelters/omarchy-shelter-194-record-press-workshop-preview.webp": {
-    "sha256": "d6225b46194225152dcae9b42216ab6418c97dcb944876e5cfd4c9b9e06f2739",
-    "size": 27906
+    "sha256": "9bcd49135d325abe52236428d22a376ffb2ad9396d1d0b8da6b85cdf2169bc4c",
+    "size": 22102
   },
   "previews/catppuccin/shelters/omarchy-shelter-195-subway-carriage-home-preview.webp": {
-    "sha256": "cda3e4e2ceb81d012563a51ba292720994dba6ac2b0bb2665417f806d9662bb0",
-    "size": 31324
+    "sha256": "b1263f0af95fe054f72e1aeb0dfef83d9459359d5e4ee5559702db30d80aa433",
+    "size": 31510
   },
   "previews/catppuccin/shelters/omarchy-shelter-196-photo-lab-red-light-preview.webp": {
-    "sha256": "2a16bf0ca3bc27d45c933a01b06750276992b462bdd658e051b586203e1c17d2",
-    "size": 24010
+    "sha256": "2510953a9b53864c3d12184dc966a86a77d08b0d14fd9d4e8f0167d96a661bb2",
+    "size": 16934
   },
   "previews/catppuccin/shelters/omarchy-shelter-197-chimney-side-hut-preview.webp": {
-    "sha256": "135bf63cf366dca2b2ca62dd1171957fda3fea2f7709082a5230afa1302bae32",
-    "size": 26888
+    "sha256": "a6814a6de2b33ea20b70350b2eb15dcb74f1b91a243589f8d53af23e45d26b12",
+    "size": 23906
   },
   "previews/catppuccin/shelters/omarchy-shelter-198-curtain-of-cables-preview.webp": {
-    "sha256": "39c91461315ff9d10f10dfb50f7c4c01ed132ae17365980d556b0b3f1abeb2ac",
-    "size": 37124
+    "sha256": "75752a6f7ca1ad46e2c7f7a43ec59d1be4d33636f86fcb29bd2f61a3e2e728af",
+    "size": 29018
   },
   "previews/catppuccin/shelters/omarchy-shelter-199-the-key-cutter-preview.webp": {
-    "sha256": "694ac42a6934565769e740e9b8e4cdaf23dd79939caee67368e59197f7b2322f",
-    "size": 23310
+    "sha256": "946310f8355ba79e4c54c7e9d7c133f338f0ea46929402ee84192e178f912f26",
+    "size": 18396
   },
   "previews/catppuccin/shelters/omarchy-shelter-200-rooftop-ramen-preview.webp": {
-    "sha256": "463189b19bcbd569e6bcd80a0b429a08441d2f94889702c69a29b8533f1d5cfa",
-    "size": 27610
+    "sha256": "6ae5905a519213392a5af497364a78e2b8e9fd8c1117e6404e2bfa9eed402bae",
+    "size": 24862
   },
   "previews/catppuccin/shelters/omarchy-shelter-202-whisky-bar-one-seat-preview.webp": {
-    "sha256": "e0a434a79598e0f669525f1fba1c0f38da4e4e13b245e4f6863ba943aa5c766d",
-    "size": 30596
+    "sha256": "a338c39c9c35326b9a63044e412c5ff977d4588762a54ae2a71f11c84267d023",
+    "size": 25056
   },
   "previews/catppuccin/shelters/omarchy-shelter-203-the-telescope-window-preview.webp": {
-    "sha256": "35ffc309d8cbb5066edcdc516f640c1341663c7b3f0fc5e906ace19d8b29ad8b",
-    "size": 27444
+    "sha256": "c2ae484a80ccfede1223f0b40f927617284885551678f1a4af81b8e65dfa6527",
+    "size": 26776
   },
   "previews/catppuccin/shelters/omarchy-shelter-204-the-barge-garden-preview.webp": {
-    "sha256": "393ba5f07fbddb27300f5579468a6bf6c8998c574ca2d2a5dc9bc03a1e85b37e",
-    "size": 24220
+    "sha256": "7fc4656781f1ec5147beb8ae88902b325cbc8380a44c7ef368c2cf2cd23efdbe",
+    "size": 20932
   },
   "previews/catppuccin/shelters/omarchy-shelter-205-coffee-roastery-night-preview.webp": {
-    "sha256": "916c1dc82b5284d86b4e6b771d45771fb947bdf4392e805099b5399cdc156acb",
-    "size": 23298
+    "sha256": "e4c637cb5b8d60cf3da95787cd37a856dd5a9167ddd0e0abd660c6360d0fa33b",
+    "size": 22706
   },
   "previews/catppuccin/shelters/omarchy-shelter-206-the-mail-train-caboose-preview.webp": {
-    "sha256": "ffc2c3cc618b8ba2179d3e9654b5dcff2f65ec15107c06e0aa113836ad877df7",
-    "size": 30178
+    "sha256": "0ae716d636ecc3f42106bd9487d7ac345118bdd4ee8dd748512f9a418f83b813",
+    "size": 18996
   },
   "previews/catppuccin/shelters/omarchy-shelter-207-shoe-repair-and-solder-preview.webp": {
-    "sha256": "e96e7aa44e96fe305732a1d429a36008f5e1349a1bb868cddd8f02b0bc9041a9",
-    "size": 30746
+    "sha256": "0c3cca3b8886e04850479bea9f27b1116be06bcdb388c22bd6240b2795fd0a1f",
+    "size": 22644
   },
   "previews/catppuccin/shelters/omarchy-shelter-208-transformer-station-home-preview.webp": {
-    "sha256": "e8a9d06da0d94e474abcff081dc861a9350d1d57efd9ac0c71ade5292dc72ab7",
-    "size": 31114
+    "sha256": "893d19915fee10a14bbe778e7ce5691924411952fbc3f828422ef5df0b59a31e",
+    "size": 23922
   },
   "previews/catppuccin/shelters/omarchy-shelter-209-repair-bay-of-machines-preview.webp": {
-    "sha256": "368ce32c23df3ca2f2a4ef273b3312a4416915d942812fed7b5d92f6a3df3757",
-    "size": 31304
+    "sha256": "e7b7eb93543632606359c07d8dc474bfb23e5dfb78bfba598205cf6e27e89705",
+    "size": 28218
   },
   "previews/catppuccin/shelters/omarchy-shelter-210-the-mushroom-cellar-preview.webp": {
-    "sha256": "d0d4226e3bcde09ff89f3e9e0af8d5b7f877c43a1d031c651322b9b1f7df59b2",
-    "size": 25544
+    "sha256": "6ec4577035ff3ef1a4471ca860152028880ed82f53762555e6c99fe6f89cda0c",
+    "size": 25328
   },
   "previews/catppuccin/shelters/omarchy-shelter-211-deconsecrated-chapel-preview.webp": {
-    "sha256": "d8e85313a937e47bec6a0791c88664d11cfd5c135ccc529c3a5baf21732ebe6d",
-    "size": 31118
+    "sha256": "821ff9a61698177611fc549473bb338d1dbef6921b17f00f19390df2be3b4303",
+    "size": 24216
   },
   "previews/catppuccin/shelters/omarchy-shelter-212-the-radio-parts-stall-preview.webp": {
-    "sha256": "386b6dbbacecaaf4a6c0bfc94a36abe08626cd7a3b461a932d365061c8811efc",
-    "size": 33194
+    "sha256": "967667e1fe2595c4f09bdbf878debf4fea9d2a9d2fa06f0a9669a11e2c19a492",
+    "size": 34586
   },
   "previews/catppuccin/shelters/omarchy-shelter-213-monorail-capsule-preview.webp": {
-    "sha256": "a8e30fcadf6fd0b9cce9d6c2f429d01d2617f94d680e8ad60da3a309c53072fc",
-    "size": 29904
+    "sha256": "b4a7fdd47847504e54753d9b5d8156f990738e234bf460c9a46d300b0de05951",
+    "size": 27416
   },
   "previews/catppuccin/shelters/omarchy-shelter-214-izakaya-of-wet-lanterns-preview.webp": {
-    "sha256": "ba7c3c43dc4390015ecaaa87f4cc566ae6584ee5194b76279d2b31de1ff46f6d",
-    "size": 30612
+    "sha256": "cc6dd125cc615e3eb9d27a361b17535111bff9148057d4a72160bd44552c6eb4",
+    "size": 27866
   },
   "previews/catppuccin/shelters/omarchy-shelter-215-the-typewriter-hospital-preview.webp": {
-    "sha256": "52ae5c0a2b755a41916ef0693b6918df386549bba2c7fc6141b5b77728535149",
-    "size": 25156
+    "sha256": "23cc3ba4f68e7d2e68c873631fff4d52196a5c70813dfee3bff069707ee9a782",
+    "size": 26672
   },
   "previews/catppuccin/shelters/omarchy-shelter-216-the-oyster-shed-preview.webp": {
-    "sha256": "0ec33c474843f98a5d2368e3b896c78cb96b7d40cc54ac056f4000e3f72a3b8c",
-    "size": 29202
+    "sha256": "0c70f166550d4e307a7e8f3d7375ab5d4b2774b80d0b08bd5ef9dd639ad19889",
+    "size": 16798
   },
   "previews/catppuccin/shelters/omarchy-shelter-217-lighthouse-lamp-room-preview.webp": {
-    "sha256": "afe28b81af58fa90ad719e07a047878914bf099dd6f8f503400b548a506ce9a8",
-    "size": 29750
+    "sha256": "db48caf945795b0bdd02405375f14fea45640c4728689acaf011745863f677a1",
+    "size": 28786
   },
   "previews/catppuccin/shelters/omarchy-shelter-218-the-chess-table-preview.webp": {
-    "sha256": "f650f1ffa131439d08f29795ad92fb3b386392b4cc94d6ea3b3062d6d3903a8e",
-    "size": 29362
+    "sha256": "7eb43c276aebc57dbbc2526499b021409f50fc9c5419f46894721dcf2bffd182",
+    "size": 29902
   },
   "previews/catppuccin/shelters/omarchy-shelter-219-the-barber-and-the-cat-preview.webp": {
-    "sha256": "4d4d3b6fda9e1ec0fcd1d3f427e883c837f2c5c8fc263ac069b5ce1f564ec5bb",
-    "size": 22084
+    "sha256": "37accbef5a4505d9f729b6d5aca63cc84da14252991a408c69234ee7c44ff251",
+    "size": 22050
   },
   "previews/catppuccin/shelters/omarchy-shelter-221-hotel-room-forever-preview.webp": {
-    "sha256": "4a21648544fa485ff996bc571322b88a84668272586a3145b80a103c8ab407c6",
-    "size": 24366
+    "sha256": "d84c5875bbedfb008ce63ef07fcfe4900836f6796264cd1894300e84c5cd5af3",
+    "size": 24560
   },
   "previews/catppuccin/shelters/omarchy-shelter-220-the-forklift-camp-preview.webp": {
-    "sha256": "5805f0ddf25ba74e064244cc437236e40cebac4696ead0840243741595c655bc",
-    "size": 31732
+    "sha256": "56657df98cc9fd6f1e2c48c891679bc36fe5d18019d02f6779890a581beb4d63",
+    "size": 24462
   },
   "previews/catppuccin/shelters/omarchy-shelter-222-vertical-farm-corner-preview.webp": {
-    "sha256": "500cded4ef7195bf65d1adc4e2de509d628b27467f6708bc010062e6c5bba7f5",
-    "size": 29520
+    "sha256": "aef91275915e2d63b658fc064575bd52d53a8995245e78828f22bf41a5268a9e",
+    "size": 30780
   },
   "previews/catppuccin/shelters/omarchy-shelter-224-tugboat-galley-preview.webp": {
-    "sha256": "3f695c3f4607e43613276ff5418898c87519d273450713af63654ecc6ce598db",
-    "size": 23876
+    "sha256": "69ac3f48a37487a1f94322c67147cc25b714a336137b7f23f2dd2e2bc9717184",
+    "size": 22360
   },
   "previews/catppuccin/shelters/omarchy-shelter-223-tractor-and-awning-preview.webp": {
-    "sha256": "038a017866613eab4fe4f179bc9c08e8e0cedf556b8999e13a37b243b1ccaa96",
-    "size": 31632
+    "sha256": "2e03defe46cd8a4e147e3c2c76113b7d03f7c17969c2f9a21d69e132284f69ef",
+    "size": 24296
   },
   "previews/catppuccin/shelters/omarchy-shelter-225-bus-shelter-alone-preview.webp": {
-    "sha256": "6c2dbc2dacb92388ec55879395cb74cb6b5947fc127ad650b68ee9fbb2a0349d",
-    "size": 30634
+    "sha256": "2a3fb05052559d3cb56fa75597d71c7518aa7ae8f15add542e1f0c43b4c3f214",
+    "size": 22220
   },
   "previews/catppuccin/shelters/omarchy-shelter-227-the-billboard-back-room-preview.webp": {
-    "sha256": "9d6b0fb8ef645baa55c3f9fc492a79943d99f33c48a047545d127671f4bd1d73",
-    "size": 29156
+    "sha256": "4429519e00aee749956c85787add1feeaffdaae6cfb85636defecb7aa7c534bc",
+    "size": 24866
   },
   "previews/catppuccin/shelters/omarchy-shelter-226-bamboo-grove-hut-preview.webp": {
-    "sha256": "ffe83c3866ce3c2bf56893f28e422c2cce043116b20687d1201e695b87c3f5fe",
-    "size": 39100
+    "sha256": "ad9ce3b51ffe081cc4645b408bd8e5471862fe58e69632daad1d497a54fc155a",
+    "size": 26872
   },
   "previews/catppuccin/shelters/omarchy-shelter-228-the-plant-and-cable-shop-preview.webp": {
-    "sha256": "f702ce3299aa43d3eb49e8f8abf727d9d4feaca85f4ae119ea292905b4db24ed",
-    "size": 30318
+    "sha256": "490dec212bf986da51e5cffaf140b141d0551f1bec04a30b463ad4b7e87a6239",
+    "size": 27890
   },
   "previews/catppuccin/shelters/omarchy-shelter-229-signal-box-on-the-line-preview.webp": {
-    "sha256": "eca591726ffbc8294ca3688293563f2f7de40fa4515d78662ea694f8d6557dfe",
-    "size": 26956
+    "sha256": "b3bbe51fa01e521873f7982b877138943a26814666f2ca3801303cc02df3f1c6",
+    "size": 23490
   },
   "previews/catppuccin/shelters/omarchy-shelter-231-the-antenna-farm-shack-preview.webp": {
-    "sha256": "805b34466193a9f1c1b31cc126d209498e51532907ddbe51e9ab5291e52c0a38",
-    "size": 29288
+    "sha256": "0c2147ff6af169222941419e5087ed035da7f0e4fc056948e3853b0d1c967c2f",
+    "size": 21636
   },
   "previews/catppuccin/shelters/omarchy-shelter-230-the-last-phone-box-preview.webp": {
-    "sha256": "e1eb57bdb14d133b8905d4c395babd5c241a83f9414865edb2304c964ddc0c03",
-    "size": 29076
+    "sha256": "be584d7eed517536a1d56a7df75e838613a3362abed2e554b320ddc49b647a00",
+    "size": 22844
   },
   "previews/catppuccin/shelters/omarchy-shelter-232-sidecar-repair-shop-preview.webp": {
-    "sha256": "f33d60912f5d37ae509fff6906b6fc08ac0987823be98b6b45b252e29ce0aa38",
-    "size": 29846
+    "sha256": "892d27cbbb1ddb9a491ede97ae75715105fe83dd10186e48889ea07ed5816a68",
+    "size": 27630
   },
   "previews/catppuccin/shelters/omarchy-shelter-233-the-antenna-keeper-preview.webp": {
-    "sha256": "659bfdee3c11a7e6f242224e0dff748051361d8be9c126e07213b5dfa23db264",
-    "size": 29262
+    "sha256": "abcb8a1a8e64844cb6f6eb2ec6f09d05c51aaf7ce03d7ea90c4cabd0d0b9efd6",
+    "size": 19220
   },
   "previews/catppuccin/shelters/omarchy-shelter-234-the-terrarium-wall-preview.webp": {
-    "sha256": "32d664b4c21d6b3adfb343c31d452848f0b9523a610cbcffa56e946887dd4f6b",
-    "size": 28904
+    "sha256": "350cf07ebe83671783cb364a5c8097f70747bf813369bbbd91eb09174a575538",
+    "size": 23634
   },
   "previews/catppuccin/shelters/omarchy-shelter-235-the-rickshaw-kitchen-preview.webp": {
-    "sha256": "35050f54f0a59e80e1fce007cecfeae145053cee6aa3c4da841c7e8a2108c1f8",
-    "size": 24610
+    "sha256": "6c64c30f797bd68911ff4952b4a3842c835c7d363c0ada3e7f7a9a4b45969d3a",
+    "size": 26042
   },
   "previews/catppuccin/shelters/omarchy-shelter-236-the-drone-clinic-preview.webp": {
-    "sha256": "81821ff3bc9f63542e9b567992ff8ff6612a6bfd4e4a24ff8f37fe83c7b00963",
-    "size": 27308
+    "sha256": "694459359adf206c14177f57bfb2974bb5694f778d6f896c6ec15ec7a76fff65",
+    "size": 22596
   },
   "previews/catppuccin/shelters/omarchy-shelter-237-the-cable-car-room-preview.webp": {
-    "sha256": "5a99915ef7ca66734f9ceb47b403404c26d7e2fd4c184501ef76c31f5dd1fb4c",
-    "size": 27516
+    "sha256": "e7c132bb5ea09595c77d4c14207940fda5ba4a93405f5f18e8e67d41c4d523f4",
+    "size": 17684
   },
   "previews/catppuccin/shelters/omarchy-shelter-239-the-clinic-after-hours-preview.webp": {
-    "sha256": "bd00d4ac7aad96ff3c96cce0a1bf4bde4fe519976a797c36df0b5913eee73f40",
-    "size": 24636
+    "sha256": "936ec925c5035aa5408947bf3b44902a2ddc7e55b0a6ed36245a2ebf2fbf7040",
+    "size": 20478
   },
   "previews/catppuccin/shelters/omarchy-shelter-238-the-pawn-shop-window-preview.webp": {
-    "sha256": "180f62bad6a92debff13f822737cb88b52302336835a44e943ead4db3e09b617",
-    "size": 30188
+    "sha256": "32e0f4513a1e54f200639b6d6f62787ea4247b83be49b617045f816d1f2e7a48",
+    "size": 25466
   },
   "previews/catppuccin/shelters/omarchy-shelter-240-vinyl-bar-two-glasses-preview.webp": {
-    "sha256": "ba859cf0ede75d3f4a01cbf2cd97d98fd0444bbee7b241617d313429a82c556d",
-    "size": 30692
+    "sha256": "a32a2b72d68e0eb8f54cac36c4e440b3e0e909db1255663bf1cdae2e3264ca32",
+    "size": 25388
   },
   "previews/catppuccin/shelters/omarchy-shelter-241-the-fern-house-preview.webp": {
-    "sha256": "0b3d126215d303c1711598360fdd7c51fa43526546c8cab76df4a02d38caaff7",
-    "size": 27052
+    "sha256": "4d51b9217c119656fae0eb2ffaf3f817ecc690d433905ba9fac9fa9ba8774aed",
+    "size": 24778
   },
   "previews/catppuccin/shelters/omarchy-shelter-243-tollbooth-of-the-last-road-preview.webp": {
-    "sha256": "aab232549607b5e0dd7e20680e742dca28d0694e555ed907ee824606bfd49251",
-    "size": 19780
+    "sha256": "fc49a86ee27c68715d6246d7f23f4d9dc3f833e46d0f90ac1283b99cca9e0e12",
+    "size": 13564
   },
   "previews/catppuccin/shelters/omarchy-shelter-242-comic-shop-back-issues-preview.webp": {
-    "sha256": "d4ddddd9f05479c6062b5ae74359ff789b88dc14cc2b5fae114672602ad85902",
-    "size": 31498
+    "sha256": "0da17439c64ccba6f1c58feb544733aecd17601b68e4f29cfcb0f3ed5e8c3934",
+    "size": 25754
   },
   "previews/catppuccin/shelters/omarchy-shelter-244-water-tank-house-preview.webp": {
-    "sha256": "98f0464caa5ad63db7367fd5455a8b95329e32d39de0fd332faea42d3808cf0c",
-    "size": 22622
+    "sha256": "48be370b2852668927325a7f70c42b9a93fe66147a2e951a9b75690e06fe4930",
+    "size": 21088
   },
   "previews/catppuccin/shelters/omarchy-shelter-245-hovercraft-skirt-camp-preview.webp": {
-    "sha256": "12dd5e97c1b2af9812a8f263d25cec73bb5fdda9a05980e6951a50de87fb50f1",
-    "size": 26170
+    "sha256": "dfde82815c60830d7c1e11f76533be1e19e731f329e8f456635ffbba77e1f852",
+    "size": 20182
   },
   "previews/catppuccin/shelters/omarchy-shelter-247-painters-studio-north-light-preview.webp": {
-    "sha256": "5042fd6aaafb0a2aa2c165f7077151a529fbf497f6b8a12672b6c6217b6be866",
-    "size": 27674
+    "sha256": "d8bcc27e43ce7998d61bde7293748b383690bb8debe219057860f3caefda5629",
+    "size": 27222
   },
   "previews/catppuccin/shelters/omarchy-shelter-246-the-nursery-tunnel-preview.webp": {
-    "sha256": "38b9dce51db3d919de32eb3d7a4837d47f1432478aad1f427924d8ec89ed5622",
-    "size": 37258
+    "sha256": "125772b872e1c393b239e3cae99ce4ed06ed9e5f5b58db84444381538caf3fca",
+    "size": 21482
   },
   "previews/catppuccin/shelters/omarchy-shelter-248-observatory-dome-inside-preview.webp": {
-    "sha256": "3bd8249e8de0cae5ca7bd69fb968a7bcfeecb1a8cba54a9c0fed0fa0e71ef0b3",
-    "size": 23556
+    "sha256": "f2d16b53165a0d8550b344c58741f42bd735fa6e1e00a0173546878e9c449096",
+    "size": 19762
   },
   "previews/catppuccin/shelters/omarchy-shelter-249-tailor-with-a-terminal-preview.webp": {
-    "sha256": "3fff2d49863aabb3c86ffcacdae39e57d2bce3359a6e2c9477af3f19db719d6e",
-    "size": 22862
+    "sha256": "ab3a8c2e77dc58e2e310b45da8406c965ab656a82002c56f2bc61a7cc8bb997c",
+    "size": 25648
   },
   "images/catppuccin/machines/omarchy-machine-048-water-cooled-overclock-pc-2K.webp": {
     "sha256": "ac6223f1cf384b9592e761ba53289de79c1fe2f9cccbb68d96f005b388abf71b",
