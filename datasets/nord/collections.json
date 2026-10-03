@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:26:57.641878+00:00",
+  "generated_at": "2026-10-03T23:20:07.048711+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/nord/countries/omarchy-country-BZ-Belize-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/nord/countries/omarchy-country-BZ-Belize-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/nord/countries/omarchy-country-CD-Congo-Democratic-Republic-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/nord/countries/omarchy-country-CD-Congo-Democratic-Republic-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/nord/machines/omarchy-machine-129-teleprinter-paper-tape-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/nord/machines/omarchy-machine-129-teleprinter-paper-tape-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/nord/machines/omarchy-machine-071-cheque-sorting-machine-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/nord/machines/omarchy-machine-071-cheque-sorting-machine-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/nord/shelters/omarchy-shelter-110-harbour-crane-cabin-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/nord/shelters/omarchy-shelter-110-harbour-crane-cabin-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/nord/shelters/omarchy-shelter-128-checkpoint-of-no-border-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/nord/shelters/omarchy-shelter-128-checkpoint-of-no-border-2K.webp"
     }
   ],
   "palette": [
