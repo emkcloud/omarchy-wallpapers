@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:20:07.180614+00:00",
+  "generated_at": "2026-10-03T23:39:46.676093+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "catppuccin",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 64918486,
       "directory": "images/catppuccin/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/countries/omarchy-country-TZ-Tanzania-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/countries/omarchy-country-TZ-Tanzania-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/countries/omarchy-country-DE-Germany-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/countries/omarchy-country-DE-Germany-2K.webp"
     },
     {
       "collection": "machines",
       "count": 250,
       "total_size_bytes": 90474084,
       "directory": "images/catppuccin/machines",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/machines",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,15 +42,15 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/machines/omarchy-machine-235-self-driving-car-trunk-computer-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/machines/omarchy-machine-235-self-driving-car-trunk-computer-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/machines/omarchy-machine-072-stock-exchange-terminals-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/machines/omarchy-machine-072-stock-exchange-terminals-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 60947612,
       "directory": "images/catppuccin/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.0/previews/catppuccin/shelters/omarchy-shelter-210-the-mushroom-cellar-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.0/images/catppuccin/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/shelters/omarchy-shelter-231-the-antenna-farm-shack-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/shelters/omarchy-shelter-231-the-antenna-farm-shack-2K.webp"
     }
   ],
   "palette": [

@@ -41,7 +41,7 @@ Since there can be many wallpapers, it is convenient to download only the ones f
 
 ```bash
 curl -fsSL -o wallpapers.py \
-    https://content.emkcloud.com/wallpapers/1.3.0/scripts/wallpapers.py
+    https://content.emkcloud.com/wallpapers/1.3.1/scripts/wallpapers.py
 ```
 
 Then run it: it downloads only the wallpapers of the requested theme, e.g. the `osaka-jade` ones (parallel downloads from `catalog.json`, files already up to date are skipped):
@@ -83,7 +83,7 @@ published to an **Amazon CloudFront** distribution, and every generated
 dataset points to it:
 
 ```text
-https://content.emkcloud.com/wallpapers/1.3.0/
+https://content.emkcloud.com/wallpapers/1.3.1/
 ```
 
 GitHub's terms do **not** allow its repositories to be used as a CDN or as a
@@ -184,7 +184,7 @@ The `wallpapers.py` script can list the available themes, or the wallpapers of a
 
 ```bash
 curl -fsSL -o wallpapers.py \
-    https://content.emkcloud.com/wallpapers/1.3.0/scripts/wallpapers.py
+    https://content.emkcloud.com/wallpapers/1.3.1/scripts/wallpapers.py
 ```
 
 List the available themes:
