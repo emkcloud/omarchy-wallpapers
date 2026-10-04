@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:39:46.707364+00:00",
+  "generated_at": "2026-10-04T23:33:43.051359+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/countries/omarchy-country-NC-New-Caledonia-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/countries/omarchy-country-NC-New-Caledonia-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/countries/omarchy-country-PY-Paraguay-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/countries/omarchy-country-PY-Paraguay-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/machines/omarchy-machine-134-zip-disk-drive-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/machines/omarchy-machine-134-zip-disk-drive-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/machines/omarchy-machine-154-woven-rope-memory-assembly-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/machines/omarchy-machine-154-woven-rope-memory-assembly-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/shelters/omarchy-shelter-041-the-ferry-cabin-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/shelters/omarchy-shelter-041-the-ferry-cabin-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/shelters/omarchy-shelter-176-the-taxi-garden-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/shelters/omarchy-shelter-176-the-taxi-garden-2K.webp"
     }
   ],
   "palette": [

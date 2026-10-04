@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:39:47.189764+00:00",
+  "generated_at": "2026-10-04T23:33:42.202441+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "matte-black",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/countries/omarchy-country-TO-Tonga-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/countries/omarchy-country-TO-Tonga-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/countries/omarchy-country-RU-Russia-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/countries/omarchy-country-RU-Russia-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/machines/omarchy-machine-220-mainframe-disk-farm-1970s-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/machines/omarchy-machine-220-mainframe-disk-farm-1970s-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/machines/omarchy-machine-109-beowulf-cluster-basement-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/machines/omarchy-machine-109-beowulf-cluster-basement-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/shelters/omarchy-shelter-062-the-last-tree-and-the-lamp-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/shelters/omarchy-shelter-043-the-map-shop-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/shelters/omarchy-shelter-043-the-map-shop-2K.webp"
     }
   ],
   "palette": [

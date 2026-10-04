@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:39:47.133060+00:00",
+  "generated_at": "2026-10-04T23:33:43.529083+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "solitude",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/solitude/countries/omarchy-country-CC-Cocos-Keeling-Islands-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/solitude/countries/omarchy-country-CC-Cocos-Keeling-Islands-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/solitude/countries/omarchy-country-GD-Grenada-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/solitude/countries/omarchy-country-GD-Grenada-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/solitude/machines/omarchy-machine-095-webcam-video-call-2008-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/solitude/machines/omarchy-machine-095-webcam-video-call-2008-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/solitude/machines/omarchy-machine-173-graphics-workstation-vfx-studio-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/solitude/machines/omarchy-machine-173-graphics-workstation-vfx-studio-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/solitude/shelters/omarchy-shelter-084-tea-house-and-server-rack-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/solitude/shelters/omarchy-shelter-084-tea-house-and-server-rack-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/solitude/shelters/omarchy-shelter-161-the-kite-workshop-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/solitude/shelters/omarchy-shelter-161-the-kite-workshop-2K.webp"
     }
   ],
   "palette": [
