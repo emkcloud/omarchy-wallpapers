@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:11:28.513046+00:00",
+  "generated_at": "2026-10-05T02:54:36.832118+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "catppuccin",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/countries/omarchy-country-UG-Uganda-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/countries/omarchy-country-UG-Uganda-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/countries/omarchy-country-ST-Sao-Tome-and-Principe-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/countries/omarchy-country-ST-Sao-Tome-and-Principe-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/machines/omarchy-machine-034-early-digital-camera-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/machines/omarchy-machine-034-early-digital-camera-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/machines/omarchy-machine-014-click-wheel-music-player-subway-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/machines/omarchy-machine-014-click-wheel-music-player-subway-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/shelters/omarchy-shelter-180-the-model-railway-room-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/catppuccin/shelters/omarchy-shelter-016-rooftop-noodle-cart-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/catppuccin/shelters/omarchy-shelter-016-rooftop-noodle-cart-2K.webp"
     }
   ],
   "palette": [
