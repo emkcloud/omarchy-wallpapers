@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:33:42.432911+00:00",
+  "generated_at": "2026-10-05T02:11:28.407571+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/countries/omarchy-country-GS-South-Georgia-and-the-South-Sandwich-Islands-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/countries/omarchy-country-BD-Bangladesh-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/countries/omarchy-country-BD-Bangladesh-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/machines/omarchy-machine-036-office-cubicle-1995-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/machines/omarchy-machine-036-office-cubicle-1995-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/machines/omarchy-machine-080-black-laptop-red-pointer-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/machines/omarchy-machine-080-black-laptop-red-pointer-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/shelters/omarchy-shelter-232-sidecar-repair-shop-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/shelters/omarchy-shelter-232-sidecar-repair-shop-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/shelters/omarchy-shelter-149-the-last-westfalia-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/shelters/omarchy-shelter-149-the-last-westfalia-2K.webp"
     }
   ],
   "palette": [

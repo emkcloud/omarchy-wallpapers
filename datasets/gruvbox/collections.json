@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:33:42.251626+00:00",
+  "generated_at": "2026-10-05T02:11:29.046384+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "gruvbox",
@@ -23,8 +23,8 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/gruvbox/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/gruvbox/countries/omarchy-country-SJ-Svalbard-and-Jan-Mayen-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/gruvbox/countries/omarchy-country-WF-Wallis-and-Futuna-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/gruvbox/countries/omarchy-country-WF-Wallis-and-Futuna-2K.webp"
     },
     {
       "collection": "machines",
@@ -42,8 +42,8 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/gruvbox/machines/omarchy-machine-236-ai-workstation-lab-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/gruvbox/machines/omarchy-machine-236-ai-workstation-lab-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/gruvbox/machines/omarchy-machine-243-cpu-die-8bit-macro-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/gruvbox/machines/omarchy-machine-243-cpu-die-8bit-macro-2K.webp"
     },
     {
       "collection": "shelters",
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/gruvbox/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/gruvbox/shelters/omarchy-shelter-082-the-herbalist-and-the-printer-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/gruvbox/shelters/omarchy-shelter-114-the-ski-lift-shed-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/gruvbox/shelters/omarchy-shelter-114-the-ski-lift-shed-2K.webp"
     }
   ],
   "palette": [
