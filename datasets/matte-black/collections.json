@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:54:37.328476+00:00",
+  "generated_at": "2026-10-05T03:05:42.086944+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "matte-black",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 206951684,
       "directory": "images/matte-black/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/matte-black/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/countries/omarchy-country-TR-Turkey-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/countries/omarchy-country-TR-Turkey-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/matte-black/countries/omarchy-country-ZA-South-Africa-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/matte-black/countries/omarchy-country-ZA-South-Africa-2K.webp"
     },
     {
       "collection": "machines",
       "count": 250,
       "total_size_bytes": 230792406,
       "directory": "images/matte-black/machines",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/matte-black/machines",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,15 +42,15 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/machines/omarchy-machine-012-usb-flash-drive-1999-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/machines/omarchy-machine-012-usb-flash-drive-1999-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/matte-black/machines/omarchy-machine-129-teleprinter-paper-tape-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/matte-black/machines/omarchy-machine-129-teleprinter-paper-tape-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 203568902,
       "directory": "images/matte-black/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/matte-black/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/matte-black/shelters/omarchy-shelter-210-the-mushroom-cellar-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/matte-black/shelters/omarchy-shelter-210-the-mushroom-cellar-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/matte-black/shelters/omarchy-shelter-040-bicycle-workshop-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/matte-black/shelters/omarchy-shelter-040-bicycle-workshop-2K.webp"
     }
   ],
   "palette": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:54:36.878266+00:00",
+  "generated_at": "2026-10-05T03:05:41.641207+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "osaka-jade",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 93573520,
       "directory": "images/osaka-jade/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/osaka-jade/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/countries/omarchy-country-HK-Hong-Kong-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/countries/omarchy-country-HK-Hong-Kong-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/osaka-jade/countries/omarchy-country-MQ-Martinique-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/osaka-jade/countries/omarchy-country-MQ-Martinique-2K.webp"
     },
     {
       "collection": "machines",
       "count": 250,
       "total_size_bytes": 91609050,
       "directory": "images/osaka-jade/machines",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/osaka-jade/machines",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,15 +42,15 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/machines/omarchy-machine-037-luggable-computer-train-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/machines/omarchy-machine-037-luggable-computer-train-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/osaka-jade/machines/omarchy-machine-220-mainframe-disk-farm-1970s-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/osaka-jade/machines/omarchy-machine-220-mainframe-disk-farm-1970s-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 75682528,
       "directory": "images/osaka-jade/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/osaka-jade/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/osaka-jade/shelters/omarchy-shelter-125-study-with-two-chairs-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/osaka-jade/shelters/omarchy-shelter-125-study-with-two-chairs-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/osaka-jade/shelters/omarchy-shelter-180-the-model-railway-room-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/osaka-jade/shelters/omarchy-shelter-180-the-model-railway-room-2K.webp"
     }
   ],
   "palette": [

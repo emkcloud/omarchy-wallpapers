@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:54:36.740980+00:00",
+  "generated_at": "2026-10-05T03:05:41.514482+00:00",
   "repo": "emkcloud/omarchy-wallpapers",
   "branch": "main",
   "theme": "nord",
@@ -12,7 +12,7 @@
       "count": 250,
       "total_size_bytes": 39389768,
       "directory": "images/nord/countries",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/countries",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/nord/countries",
       "variants": {
         "2K": {
           "count": 250,
@@ -23,15 +23,15 @@
       },
       "title": "Countries",
       "description": "Panoramas and iconic scenery inspired by individual countries.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/countries/omarchy-country-DM-Dominica-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/countries/omarchy-country-DM-Dominica-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/nord/countries/omarchy-country-JO-Jordan-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/nord/countries/omarchy-country-JO-Jordan-2K.webp"
     },
     {
       "collection": "machines",
       "count": 250,
       "total_size_bytes": 50966654,
       "directory": "images/nord/machines",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/machines",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/nord/machines",
       "variants": {
         "2K": {
           "count": 250,
@@ -42,15 +42,15 @@
       },
       "title": "Machines",
       "description": "Computing machines through the decades, from 1960s mainframes to today's AI.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/machines/omarchy-machine-071-cheque-sorting-machine-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/machines/omarchy-machine-071-cheque-sorting-machine-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/nord/machines/omarchy-machine-088-retro-handheld-emulator-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/nord/machines/omarchy-machine-088-retro-handheld-emulator-2K.webp"
     },
     {
       "collection": "shelters",
       "count": 250,
       "total_size_bytes": 33639656,
       "directory": "images/nord/shelters",
-      "url": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/shelters",
+      "url": "https://content.emkcloud.com/wallpapers/1.3.2/images/nord/shelters",
       "variants": {
         "2K": {
           "count": 250,
@@ -61,8 +61,8 @@
       },
       "title": "Shelters",
       "description": "Cozy improvised refuges tucked into the city: rooftop cabins, hidden workshops and warmly lit nooks after dark.",
-      "preview": "https://content.emkcloud.com/wallpapers/1.3.1/previews/nord/shelters/omarchy-shelter-036-the-armoured-greenhouse-preview.webp",
-      "image": "https://content.emkcloud.com/wallpapers/1.3.1/images/nord/shelters/omarchy-shelter-036-the-armoured-greenhouse-2K.webp"
+      "preview": "https://content.emkcloud.com/wallpapers/1.3.2/previews/nord/shelters/omarchy-shelter-076-the-cable-car-station-preview.webp",
+      "image": "https://content.emkcloud.com/wallpapers/1.3.2/images/nord/shelters/omarchy-shelter-076-the-cable-car-station-2K.webp"
     }
   ],
   "palette": [
